@@ -1,8 +1,8 @@
 **Role yang sesuai**
 
-- Admin eCorr
+- Admin P-Office
 
-Admin eCorr dapat mengelola kategori surat yang digunakan dalam penginputan form surat masuk dan fax masuk. Pengelolaan kategori surat yang dilakukan admin eCorr antara lain yaitu
+Admin P-Office dapat mengelola kategori surat yang digunakan dalam penginputan form surat masuk dan fax masuk. Pengelolaan kategori surat yang dilakukan admin P-Office antara lain yaitu
 
 - Mencari kategori surat
 - Menambah kategori surat

@@ -7,7 +7,7 @@
 
 - *Member User* (Pekerja)
 
-*Member User* dapat menambah fax keluar pada aplikasi eCorr. Langkah - langkah untuk menambah fax keluar adalah sebagai berikut
+*Member User* dapat menambah fax keluar pada aplikasi P-Office. Langkah - langkah untuk menambah fax keluar adalah sebagai berikut
 
 1. Klik menu **New Correspondence**
 

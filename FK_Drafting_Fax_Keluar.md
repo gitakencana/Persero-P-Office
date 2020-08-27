@@ -4,7 +4,7 @@
 - *Reviewer User*
 - *Member User* (Pekerja)
 
-*User* dapat melakukan *drafting* fax keluar pada aplikasi eCorr. *Drafting* fax keluar dilakukan jika *user* akan meneruskan dan melakukan perubahan pada fax keluar yang sudah disimpan pada menu **Draft**. Langkah - langkah untuk melakukan *drafting* fax keluar adalah sebagai berikut
+*User* dapat melakukan *drafting* fax keluar pada aplikasi P-Office. *Drafting* fax keluar dilakukan jika *user* akan meneruskan dan melakukan perubahan pada fax keluar yang sudah disimpan pada menu **Draft**. Langkah - langkah untuk melakukan *drafting* fax keluar adalah sebagai berikut
 
 1. Klik menu **Draft** dan pilih tab **Fax Keluar**
 

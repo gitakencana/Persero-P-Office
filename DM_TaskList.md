@@ -1,8 +1,8 @@
 **Role yang sesuai**
 
-- Admin eCorr
+- Admin P-Office
 
- Admin eCorr dapat mengelola _task list_ yang digunakan dalam penginputan form pengajuan SP3S. Pengelolaan _task list_ SP3S yang dilakukan admin eCorr antara lain yaitu
+ Admin P-Office dapat mengelola _task list_ yang digunakan dalam penginputan form pengajuan SP3S. Pengelolaan _task list_ SP3S yang dilakukan admin P-Office antara lain yaitu
 
 - Mencari _task list_ SP3S
 - Menambah _task list_ SP3S

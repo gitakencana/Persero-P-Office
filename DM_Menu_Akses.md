@@ -1,8 +1,8 @@
 **Role yang sesuai**
 
-- Admin eCorr
+- Admin P-Office
 
-Admin eCorr dapat mengelola akses menu yang digunakan dalam dalam pemberian hak akses pada setiap role-nya. Pengelolaan akses menu yang dilakukan admin eCorr antara lain yaitu
+Admin P-Office dapat mengelola akses menu yang digunakan dalam dalam pemberian hak akses pada setiap role-nya. Pengelolaan akses menu yang dilakukan admin P-Office antara lain yaitu
 
 - Mencari akses menu
 - Menambah akses menu

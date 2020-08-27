@@ -2,7 +2,7 @@
 
 - Sekretaris
 
-Sekretaris dapat melakukan _drafting_ fax masuk pada aplikasi eCorr. _Drafting_ fax masuk dilakukan jika sekretaris akan meneruskan dan melakukan perubahan pada fax masuk yang sudah disimpan pada menu **Draft.** Langkah-langkah untuk melakukan _drafting_ fax masuk adalah sebagai berikut.
+Sekretaris dapat melakukan _drafting_ fax masuk pada aplikasi P-Office. _Drafting_ fax masuk dilakukan jika sekretaris akan meneruskan dan melakukan perubahan pada fax masuk yang sudah disimpan pada menu **Draft.** Langkah-langkah untuk melakukan _drafting_ fax masuk adalah sebagai berikut.
 
 1.    Klik menu **Draft** dan pilih tab **Fax Masuk**
 

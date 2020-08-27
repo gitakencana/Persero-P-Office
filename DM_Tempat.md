@@ -1,6 +1,6 @@
-- Admin eCorr
+- Admin P-Office
 
-Admin eCorr dapat mengelola tempat/lokasi yang digunakan dalam penginputan form surat. Pengelolaan data master lokasi yang dilakukan admin eCorr antara lain yaitu:
+Admin P-Office dapat mengelola tempat/lokasi yang digunakan dalam penginputan form surat. Pengelolaan data master lokasi yang dilakukan admin P-Office antara lain yaitu:
 
 - Mencari data master tempat
 - Menambah data master tempat

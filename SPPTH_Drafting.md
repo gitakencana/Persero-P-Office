@@ -2,7 +2,7 @@
 
 - Sekretaris
 
-*User* dapat melakukan *drafting* SPPTH pada aplikasi eCorr. *Drafting* SPPTH dilakukan jika *user* akan meneruskan dan melakukan perubahan pada SPPTH yang sudah disimpan pada menu **Draft.** Langkah - langkah untuk melakukan *drafting* SPPTH adalah sebagai berikut
+*User* dapat melakukan *drafting* SPPTH pada aplikasi P-Office. *Drafting* SPPTH dilakukan jika *user* akan meneruskan dan melakukan perubahan pada SPPTH yang sudah disimpan pada menu **Draft.** Langkah - langkah untuk melakukan *drafting* SPPTH adalah sebagai berikut
 
 1. Klik menu **Draft** dan pilih tab **SPPTH**
 

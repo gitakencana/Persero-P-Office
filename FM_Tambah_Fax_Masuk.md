@@ -2,7 +2,7 @@
 
 - Sekretaris
 
-Sekretaris dapat menambah fax masuk pada aplikasi eCorr. Langkah - langkah untuk menambah fax masuk adalah sebagai berikut
+Sekretaris dapat menambah fax masuk pada aplikasi P-Office. Langkah - langkah untuk menambah fax masuk adalah sebagai berikut
 
 1. Klik menu **New Correspondence**
 

@@ -1,8 +1,8 @@
 **Role yang sesuai**
 
- - Admin eCorr
+ - Admin P-Office
 
-Admin eCorr dapat mengelola _template _surat yang digunakan dalam proses _generate_ surat. Pengelolaan template surat yang dilakukan oleh admin eCorr antara lain yaitu
+Admin P-Office dapat mengelola _template _surat yang digunakan dalam proses _generate_ surat. Pengelolaan template surat yang dilakukan oleh admin P-Office antara lain yaitu
 
 - Mencari _template_ surat
 - Menambah _template_ surat

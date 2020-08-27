@@ -1,8 +1,8 @@
 **Role yang sesuai**
 
-- Admin eCorr
+- Admin P-Office
 
-Admin eCorr dapat mengelola kode simpan yang digunakan dalam penginputan form surat. Pengelolaan kode simpan yang dilakukan admin eCorr antara lain yaitu
+Admin P-Office dapat mengelola kode simpan yang digunakan dalam penginputan form surat. Pengelolaan kode simpan yang dilakukan admin P-Office antara lain yaitu
 
 - Mencari kode simpan
 - Menambah kode simpan

@@ -1,8 +1,8 @@
 **Role yang sesuai**
 
-- Admin eCorr
+- Admin P-Office
 
-Admin eCorr dapat mengelola klasifikasi surat yang digunakan dalam penginputan form surat. Pengelolaan klasifikasi surat yang dilakukan admin eCorr antara lain yaitu
+Admin P-Office dapat mengelola klasifikasi surat yang digunakan dalam penginputan form surat. Pengelolaan klasifikasi surat yang dilakukan admin P-Office antara lain yaitu
 
 - Mencari klasifikasi surat
 - Menambah klasifikasi surat

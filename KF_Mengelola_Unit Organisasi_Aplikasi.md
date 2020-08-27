@@ -2,7 +2,7 @@
 
 - IT Admin
 
-IT Admin dapat mengelola unit organisasi pada aplikasi eCorr yang sudah didaftarkan di idProo. Informasi yang ditampilkan yaitu nama unit organisasi. Pengelolaan unit organisasi yang dilakukan oleh admin eCorr antara lain yaitu:
+IT Admin dapat mengelola unit organisasi pada aplikasi P-Office yang sudah didaftarkan di idProo. Informasi yang ditampilkan yaitu nama unit organisasi. Pengelolaan unit organisasi yang dilakukan oleh admin P-Office antara lain yaitu:
 
 - Melihat daftar unit organisasi pada aplikasi
 - Mencari daftar unit organisasi pada aplikasi
@@ -15,7 +15,7 @@ IT Admin dapat mengelola unit organisasi pada aplikasi eCorr yang sudah didaftar
 
 ![gambar](SC_Konfigurasi/KF07.png)
 
-2. Sistem menampilkan daftar user pada aplikasi eCorr. Admin eCorr juga dapat melihat daftar unit kerja dalam bentuk hirarki dengan klik pada icon **Tree**
+2. Sistem menampilkan daftar user pada aplikasi P-Office. Admin P-Office juga dapat melihat daftar unit kerja dalam bentuk hirarki dengan klik pada icon **Tree**
 
 ![gambar](SC_Konfigurasi/KF08.png)
 

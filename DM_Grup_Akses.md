@@ -1,8 +1,8 @@
 **Role yang sesuai**
 
-- Admin eCorr
+- Admin P-Office
 
-Admin eCorr dapat mengelola grup akses untuk pemberian kewenangan pada setiap role-nya. Akses menu ditambahkan kemudian admin eCorr akan melakukan _grouping_ untuk setiap grup akses. Pengelolaan grup akses yang dilakukan admin eCorr antara lain yaitu
+Admin P-Office dapat mengelola grup akses untuk pemberian kewenangan pada setiap role-nya. Akses menu ditambahkan kemudian admin P-Office akan melakukan _grouping_ untuk setiap grup akses. Pengelolaan grup akses yang dilakukan admin P-Office antara lain yaitu
 
 - Mencari grup akses
 - Menambah grup akses untuk setiap role

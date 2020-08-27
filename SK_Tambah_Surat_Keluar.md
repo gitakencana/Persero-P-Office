@@ -9,7 +9,7 @@
 
 - *Member User* (Pekerja)
 
-Konseptor dapat menambah surat keluar pada aplikasi eCorr. Langkah - langkah untuk menambah surat keluar adalah sebagai berikut
+Konseptor dapat menambah surat keluar pada aplikasi P-Office. Langkah - langkah untuk menambah surat keluar adalah sebagai berikut
 
 1. Klik menu **New Correspondence**
 

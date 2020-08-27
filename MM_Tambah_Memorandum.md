@@ -7,7 +7,7 @@
 
 - *Member User* (Pekerja)
 
-Konseptor dapat menambah memorandum pada aplikasi eCorr. Langkah - langkah untuk menambah memorandum adalah sebagai berikut
+Konseptor dapat menambah memorandum pada aplikasi P-Office. Langkah - langkah untuk menambah memorandum adalah sebagai berikut
 
 1. Klik menu New **Correspondence**
 

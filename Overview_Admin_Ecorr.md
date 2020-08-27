@@ -1,10 +1,10 @@
 ### **Data Master** 
 
-Pada modul ini mendukung pengelolaan data master yang dilakukan oleh seorang admin eCorr meliputi data master menu akses, grup 
+Pada modul ini mendukung pengelolaan data master yang dilakukan oleh seorang admin P-Office meliputi data master menu akses, grup 
 akses, kode simpan, klasifikasi surat, prioritas surat, kategori surat, _task list_ SP3S, lokasi, mengelola secretary mapping
 dan mendukung custom template surat. 
 
-Hal-hal yang dapat dilakukan oleh Admin eCorr dalam mengelola data master antara lain: 
+Hal-hal yang dapat dilakukan oleh Admin P-Office dalam mengelola data master antara lain: 
 
 - [Mengelola Akses Menu](https://docs.oficioo.id/Categories/2d9c11da-9ad0-4b75-8369-74049c55dac7/admin-ecorr#!/Posts/2d9c11da-9ad0-4b75-8369-74049c55dac7/data-master/4e8c2fadcd744c219a29ef6f094775a8)
 - [Mengelola Grup Akses](https://docs.oficioo.id/Categories/2d9c11da-9ad0-4b75-8369-74049c55dac7/admin-ecorr#!/Posts/2d9c11da-9ad0-4b75-8369-74049c55dac7/data-master/6fc823a1f9124724a2bb1c917193e039)

@@ -2,7 +2,7 @@
 
 - IT Admin
 
-IT Admin dapat mengelola user pada aplikasi eCorr yang sudah didaftarkan pada sistem manajemen user. Informasi yang ditampilkan yaitu nama, alamat email dan no telepon. Pengelolaan user yang dilakukan oleh admin eCorr antara lain yaitu:
+IT Admin dapat mengelola user pada aplikasi P-Office yang sudah didaftarkan pada sistem manajemen user. Informasi yang ditampilkan yaitu nama, alamat email dan no telepon. Pengelolaan user yang dilakukan oleh admin P-Office antara lain yaitu:
 
 - Melihat daftar user pada aplikasi
 - Mencari daftar user pada aplikasi
@@ -14,7 +14,7 @@ IT Admin dapat mengelola user pada aplikasi eCorr yang sudah didaftarkan pada si
 
 ![gambar](SC_Konfigurasi/KF05.png)
 
-2. Sistem menampilkan daftar user pada aplikasi eCorr
+2. Sistem menampilkan daftar user pada aplikasi P-Office
 
 
 #### **Mencari User pada Aplikasi**

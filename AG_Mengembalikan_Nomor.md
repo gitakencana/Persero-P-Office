@@ -24,6 +24,6 @@ Sekretaris dapat mengembalikan nomor offline yang sudah di-*request*. Langkah - 
 
 ![gambar](SC_AgendaKendali/AG35.png)
 
-5. Nomor yang dikembalikan akan berubah status menjadi **Nomor Dikembalikan** dan pengembalian nomor akan tersimpan di menu "**Document Control - List Returned Request**" pada role admin eCorr.
+5. Nomor yang dikembalikan akan berubah status menjadi **Nomor Dikembalikan** dan pengembalian nomor akan tersimpan di menu "**Document Control - List Returned Request**" pada role admin P-Office.
 
 ![gambar](SC_AgendaKendali/AG36.png)

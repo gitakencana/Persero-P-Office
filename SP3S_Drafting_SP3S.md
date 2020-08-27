@@ -3,7 +3,7 @@
 - Sekretaris
 - *Member User* (Pekerja)
 
-*User* dapat melakukan *drafting* SP3S pada aplikasi eCorr. *Drafting* SP3S dilakukan jika *user* akan meneruskan dan melakukan perubahan pada SP3S yang sudah disimpan pada menu **Draft.**
+*User* dapat melakukan *drafting* SP3S pada aplikasi P-Office. *Drafting* SP3S dilakukan jika *user* akan meneruskan dan melakukan perubahan pada SP3S yang sudah disimpan pada menu **Draft.**
 
 Langkah - langkah untuk melakukan *drafting* SP3S adalah sebagai berikut
 

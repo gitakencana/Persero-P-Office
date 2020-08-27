@@ -2,7 +2,7 @@
 
 - *Member User* (Pekerja)
 
-*Member User* dapat melakukan *drafting* memorandum pada aplikasi eCorr. *Drafting* memorandum dilakukan jika *user* akan meneruskan dan melakukan perubahan pada memorandum yang sudah disimpan pada menu **Draft**. Langkah - langkah untuk melakukan *drafting* memorandum adalah sebagai berikut
+*Member User* dapat melakukan *drafting* memorandum pada aplikasi P-Office. *Drafting* memorandum dilakukan jika *user* akan meneruskan dan melakukan perubahan pada memorandum yang sudah disimpan pada menu **Draft**. Langkah - langkah untuk melakukan *drafting* memorandum adalah sebagai berikut
 
 1. Klik menu **Draft** dan pilih tab **Memorandum**
 

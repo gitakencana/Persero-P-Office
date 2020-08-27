@@ -2,7 +2,7 @@
 
 - IT Admin
 
-IT Admin dapat mengelola jabatan pada aplikasi eCorr yang sudah didaftarkan pada manajemen user. Informasi yang ditampilkan yaitu nama jabatan dan unit organisasi. Pengelolaan jabatan yang dilakukan oleh admin eCorr antara lain yaitu:
+IT Admin dapat mengelola jabatan pada aplikasi P-Office yang sudah didaftarkan pada manajemen user. Informasi yang ditampilkan yaitu nama jabatan dan unit organisasi. Pengelolaan jabatan yang dilakukan oleh admin P-Office antara lain yaitu:
 
 - Melihat daftar jabatan pada aplikasi
 - Mencari daftar jabatan pada aplikasi
@@ -13,7 +13,7 @@ IT Admin dapat mengelola jabatan pada aplikasi eCorr yang sudah didaftarkan pada
 
 ![gambar](SC_Konfigurasi/KF11.png)
 
-2.    Sistem menampilkan daftar user pada aplikasi eCorr
+2.    Sistem menampilkan daftar user pada aplikasi P-Office
 
 
 #### **Mencari Jabatan pada Aplikasi**

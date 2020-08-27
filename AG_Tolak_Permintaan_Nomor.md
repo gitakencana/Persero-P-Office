@@ -12,4 +12,4 @@ Admin Approver Offline Number dapat melakukan tindak lanjut terhadap pengajuan n
 
 ![gambar](SC_AgendaKendali/AG26.png)
 
-3. Sistem berhasil menyimpan perubahan dan nomor offline yang ditolak akan tampil di menu "**Document Control - List Approval Request**" dengan status **Rejected** pada role admin eCorr. Sedangkan untuk role sekretaris tersimpan di menu "**Document Control - Request Offline Number**" dengan status **Rejected**
+3. Sistem berhasil menyimpan perubahan dan nomor offline yang ditolak akan tampil di menu "**Document Control - List Approval Request**" dengan status **Rejected** pada role admin P-Office. Sedangkan untuk role sekretaris tersimpan di menu "**Document Control - Request Offline Number**" dengan status **Rejected**

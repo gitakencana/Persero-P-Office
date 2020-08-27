@@ -4,7 +4,7 @@
 - *Reviewer User*
 - *Member User* (Pekerja)
 
-*User* dapat melakukan *drafting* surat keluar pada aplikasi eCorr. *Drafting* surat keluar dilakukan jika *user* akan meneruskan dan melakukan perubahan pada surat keluar yang sudah disimpan pada menu **Draft**.
+*User* dapat melakukan *drafting* surat keluar pada aplikasi P-Office. *Drafting* surat keluar dilakukan jika *user* akan meneruskan dan melakukan perubahan pada surat keluar yang sudah disimpan pada menu **Draft**.
 
 Langkah - langkah untuk melakukan *drafting* surat keluar adalah sebagai berikut
 
