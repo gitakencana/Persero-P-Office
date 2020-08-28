@@ -12,7 +12,7 @@ IT Admin dapat mengelola user pada aplikasi P-Office yang sudah didaftarkan pada
 
 1. Pilih menu **Configuration** dan pilih submenu **Syncronization - Users**
 
-![gambar](SC_Konfigurasi/KF05.png)
+![gambar](SC_Konfigurasi/KF02.png)
 
 2. Sistem menampilkan daftar user pada aplikasi P-Office
 
@@ -21,10 +21,10 @@ IT Admin dapat mengelola user pada aplikasi P-Office yang sudah didaftarkan pada
 
 1. Pilih menu **Configuration** dan pilih submenu **Syncronization - Users**
 
-![gambar](SC_Konfigurasi/KF05.png)
+![gambar](SC_Konfigurasi/KF03.png)
 
 2. Ketikkan kata kunci pada kolom pencarian kemudian klik **Enter**
 
-![gambar](SC_Konfigurasi/KF06.png)
+![gambar](SC_Konfigurasi/KF04.png)
 
 3. Sistem menampilkan hasil pencarian berdasarkan kata kunci

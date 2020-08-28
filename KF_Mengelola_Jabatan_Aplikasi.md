@@ -11,7 +11,7 @@ IT Admin dapat mengelola jabatan pada aplikasi P-Office yang sudah didaftarkan p
 
 1.    Pilih menu **Configuration** dan pilih submenu **Syncronization - Position**
 
-![gambar](SC_Konfigurasi/KF11.png)
+![gambar](SC_Konfigurasi/KF09.png)
 
 2.    Sistem menampilkan daftar user pada aplikasi P-Office
 
@@ -20,10 +20,10 @@ IT Admin dapat mengelola jabatan pada aplikasi P-Office yang sudah didaftarkan p
 
 1.    Pilih menu **Configuration** dan pilih submenu **Syncronization - Position**
 
-![gambar](SC_Konfigurasi/KF12.png)
+![gambar](SC_Konfigurasi/KF10.png)
 
 2.    Ketikkan kata kunci pada kolom pencarian kemudian klik **Enter**
 
-![gambar](SC_Konfigurasi/KF13.png)
+![gambar](SC_Konfigurasi/KF11.png)
 
 3.    Sistem menampilkan hasil pencarian berdasarkan kata kunci

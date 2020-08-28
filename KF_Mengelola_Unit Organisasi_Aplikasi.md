@@ -13,11 +13,11 @@ IT Admin dapat mengelola unit organisasi pada aplikasi P-Office yang sudah didaf
 
 1. Pilih menu **Configuration** dan pilih submenu **Syncronization - Organization**
 
-![gambar](SC_Konfigurasi/KF07.png)
+![gambar](SC_Konfigurasi/KF05.png)
 
 2. Sistem menampilkan daftar user pada aplikasi P-Office. Admin P-Office juga dapat melihat daftar unit kerja dalam bentuk hirarki dengan klik pada icon **Tree**
 
-![gambar](SC_Konfigurasi/KF08.png)
+![gambar](SC_Konfigurasi/KF06.png)
 
 3. Sistem menampilkan unit organisasi dalam bentuk hirarki
 
@@ -26,10 +26,10 @@ IT Admin dapat mengelola unit organisasi pada aplikasi P-Office yang sudah didaf
 
 1. Pilih menu **Configuration** dan pilih submenu **Syncronization - Organization**
 
-![gambar](SC_Konfigurasi/KF09.png)
+![gambar](SC_Konfigurasi/KF07.png)
 
 2. Ketikkan kata kunci pada kolom pencarian kemudian klik **Enter**
 
-![gambar](SC_Konfigurasi/KF10.png)
+![gambar](SC_Konfigurasi/KF08.png)
 
 3. Sistem menampilkan hasil pencarian berdasarkan kata kunci
