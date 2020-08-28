@@ -15,7 +15,7 @@ Langkah - langkah untuk pengelolaan _task list_ SP3S via Web adalah sebagai beri
 
 #### **Mencari Task List SP3S**
 
-1.    Pilih menu **Master **dan pilih submenu **_Task list_**
+1.    Pilih menu **Master** dan pilih submenu **_Task list_**
 
 ![gambar](DataMaster/SC_DataMaster/DM70.png)
 
@@ -40,7 +40,6 @@ Langkah - langkah untuk pengelolaan _task list_ SP3S via Web adalah sebagai beri
 4.    Sistem menyimpan perubahan dan data akan muncul di halaman daftar _task list_
 
 
-
 #### **Mengubah Task List SP3S**
 
 1.    Pilih menu **Master** dan pilih submenu **_Task list_**
@@ -61,8 +60,6 @@ Langkah - langkah untuk pengelolaan _task list_ SP3S via Web adalah sebagai beri
 
 5.    Sistem menyimpan perubahan dan data akan muncul di halaman daftar _task list_
 
-
-
 #### **Menghapus Task List SP3S**
 
 1.    Pilih menu **Master** dan pilih submenu **_Task list_**
@@ -80,3 +77,4 @@ Langkah - langkah untuk pengelolaan _task list_ SP3S via Web adalah sebagai beri
 4.    Klik tombol **Ya** untuk menghapus _task list. _Sistem menyimpan perubahan dan data akan terhapus dari daftar _task list_
 
 ![gambar](DataMaster/SC_DataMaster/DM82.png)
+

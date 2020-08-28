@@ -7,6 +7,9 @@ IT Admin dapat mengelola user pada aplikasi P-Office yang sudah didaftarkan pada
 - Melihat daftar user pada aplikasi
 - Mencari daftar user pada aplikasi
 
+## **P-Office Versi Web**
+
+Langkah - langkah untuk melihat daftar user pada aplikasi P-Office via Web adalah sebagai berikut:
 
 ####  **Melihat Daftar User pada Aplikasi**
 

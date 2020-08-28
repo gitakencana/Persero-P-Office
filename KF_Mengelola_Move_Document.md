@@ -9,6 +9,9 @@ IT Admin dapat mengelola pemindahan / move dokumen pada unit kerja satu ke unit 
 - Melihat Informasi Dokumen
 - Melakukan pemindahan dokumen ke unit kerja lain
 
+## **P-Office Versi Web**
+
+Langkah - langkah untuk mengelola perpindahan dokumen pada unit satu ke unit kerja lain pada aplikasi P-Office via Web adalah sebagai berikut:
 
 #### **Melihat Daftar Dokumen**
 

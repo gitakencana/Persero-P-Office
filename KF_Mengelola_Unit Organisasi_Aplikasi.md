@@ -7,6 +7,9 @@ IT Admin dapat mengelola unit organisasi pada aplikasi P-Office yang sudah didaf
 - Melihat daftar unit organisasi pada aplikasi
 - Mencari daftar unit organisasi pada aplikasi
 
+## **P-Office Versi Web**
+
+Langkah - langkah untuk melihat daftar unit organisasi pada aplikasi P-Office via Web adalah sebagai berikut:
 
 #### **Melihat Daftar Unit Organisasi pada Aplikasi**
 

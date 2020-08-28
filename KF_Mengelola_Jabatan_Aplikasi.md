@@ -7,6 +7,10 @@ IT Admin dapat mengelola jabatan pada aplikasi P-Office yang sudah didaftarkan p
 - Melihat daftar jabatan pada aplikasi
 - Mencari daftar jabatan pada aplikasi
 
+## **P-Office Versi Web**
+
+Langkah - langkah untuk melihat daftar jabatan pada aplikasi P-Office via Web adalah sebagai berikut:
+
 #### **Melihat Daftar Jabatan pada Aplikasi**
 
 1.    Pilih menu **Configuration** dan pilih submenu **Syncronization - Position**
