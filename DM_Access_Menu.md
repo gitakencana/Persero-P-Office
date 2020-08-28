@@ -9,7 +9,9 @@ Admin P-Office dapat mengelola akses menu yang digunakan dalam dalam pemberian h
 - Mengubah akses menu
 - Menghapus akses menu
 
-Langkah - langkah untuk pengelolaan akses menu adalah sebagai berikut:
+## 1. Platform Web
+
+Langkah - langkah untuk pengelolaan akses menu via Web yaitu:
 
 #### **Mencari Menu Akses**
 
@@ -75,3 +77,7 @@ Langkah - langkah untuk pengelolaan akses menu adalah sebagai berikut:
 4.	  Klik tombol **Ya** untuk menghapus menu akses. Sistem menyimpan perubahan dan data akan terhapus
 
 ![gambar](SC_DataMaster/DM13.png)
+
+## 2. Platform Teams
+
+Langkah - langkah untuk pengelolaan akses menu via Web yaitu:
