@@ -9,32 +9,34 @@ Admin P-Office dapat mengelola pemetaan sekretaris kepada pejabat pemilik KBO be
 - Mengubah _mapping_ sekretaris
 - Menghapus _mapping_ sekretaris
 
-Langkah - langkah untuk pengelolaan _mapping_ sekretaris adalah sebagai berikut:
+## **P-Office Versi Web**
+
+Langkah - langkah untuk pengelolaan _mapping_ sekretaris via Web adalah sebagai berikut:
 
 #### Mencari Daftar Sekretaris
 
 1. Pilih menu **Master** dan pilih submenu **Mapping Secretary**
 
-![gambar](SC_DataMaster/DM97.png)
+![gambar](DataMaster/SC_DataMaster/DM97.png)
 
 2. Pilih tombol **Search** dan masukkan pencarian berdasarkan kata kunci, kemudian klik **Enter**
 
-![gambar](SC_DataMaster/DM98.png)
+![gambar](DataMaster/SC_DataMaster/DM98.png)
 
 
 #### Menambah Secretary Mapping
 
 1. Pilih menu **Master** dan pilih submenu **Secretary Mapping**
 
-![gambar](SC_DataMaster/DM99.png)
+![gambar](DataMaster/SC_DataMaster/DM99.png)
 
 2. Pilih tombol **+ Add Mapping** untuk menambah _secretary mapping_
 
-![gambar](SC_DataMaster/DM100.png)
+![gambar](DataMaster/SC_DataMaster/DM100.png)
 
 3. Isikan informasi _secretary mapping_ meliputi nama sekretaris, jabatan (pemilik KBO), tanggal mulai dan tanggal selesai kemudian klik tombol **Submit.**
 
-![gambar](SC_DataMaster/DM101.png)
+![gambar](DataMaster/SC_DataMaster/DM101.png)
 
 4. Sistem menyimpan perubahan dan data akan muncul di halaman daftar kode simpan
 
@@ -43,19 +45,19 @@ Langkah - langkah untuk pengelolaan _mapping_ sekretaris adalah sebagai berikut:
 
 1. Pilih menu **Master** dan pilih submenu **Secretary Mapping**
 
-![gambar](SC_DataMaster/DM102.png)
+![gambar](DataMaster/SC_DataMaster/DM102.png)
 
 2. Klik checklist pada _secretary mapping_ yang akan diubah kemudian klik tombol **Edit Mapping**
 
-![gambar](SC_DataMaster/DM103.png)
+![gambar](DataMaster/SC_DataMaster/DM103.png)
 
 3. Lakukan perubahan pada _secretary mapping_, pilih **Cancel** untuk membatalkan proses
 
-![gambar](SC_DataMaster/DM104.png)
+![gambar](DataMaster/SC_DataMaster/DM104.png)
 
 4. Lakukan perubahan pada _secretary mapping_ kemudian klik tombol **Submit** untuk menyimpan perubahan
 
-![gambar](SC_DataMaster/DM105.png)
+![gambar](DataMaster/SC_DataMaster/DM105.png)
 
 5. Sistem menyimpan perubahan dan data akan muncul di halaman daftar _secretary mapping_
 
@@ -64,16 +66,16 @@ Langkah - langkah untuk pengelolaan _mapping_ sekretaris adalah sebagai berikut:
 
 1. Pilih menu **Master** dan pilih submenu **Secretary Mapping**
 
-![gambar](SC_DataMaster/DM106.png)
+![gambar](DataMaster/SC_DataMaster/DM106.png)
 
 2. Klik checklist pada _secretary mapping_ yang akan dihapus kemudian klik icon **Delete Mapping**
 
-![gambar](SC_DataMaster/DM107.png)
+![gambar](DataMaster/SC_DataMaster/DM107.png)
 
 3. Klik tombol **Tidak** untuk membatalkan proses
 
-![gambar](SC_DataMaster/DM108.png)
+![gambar](DataMaster/SC_DataMaster/DM108.png)
 
 4. Klik tombol **Ya** untuk menghapus _secretary mapping_ **.** Sistem menyimpan perubahan dan data akan terhapus dari daftar _secretary mapping_
 
-![gambar](SC_DataMaster/DM109.png)
+![gambar](DataMaster/SC_DataMaster/DM109.png)

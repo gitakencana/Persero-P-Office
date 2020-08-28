@@ -7,25 +7,27 @@ Admin P-Office dapat mengelola grup akses untuk pemberian kewenangan pada setiap
 - Mencari grup akses
 - Menambah grup akses untuk setiap role
 
-Langkah - langkah untuk pengelolaan grup akses adalah sebagai berikut:
+## **P-Office Versi Web**
+
+Langkah - langkah untuk melakukan pengelolaan grup akses via Web yaitu:
 
 #### **Mencari Menu Akses**
 
 1.    Pilih menu **Master** dan pilih submenu **Group Access**
 
-![gambar](SC_DataMaster/DM14.png)
+![gambar](DataMaster/SC_DataMaster/DM14.png)
 
 2.    Pilih tombol **Search** dan masukkan pencarian berdasarkan kata kunci, kemudian klik **Enter**
 
-![gambar](SC_DataMaster/DM15.png)
+![gambar](DataMaster/SC_DataMaster/DM15.png)
 
 
 #### **Menambah Grup Akses untuk Setiap Role**
 
 1.    Pilih menu **Master** dan pilih submenu **Access Menus**
 
-![gambar](SC_DataMaster/DM16.png)
+![gambar](DataMaster/SC_DataMaster/DM16.png)
 
 2.    Pilih role yang akan ditambahkan grup akses kemudian checklist grup menu yang akan diberikan akses dan klik **Submit**
 
-![gambar](SC_DataMaster/DM17.png)
+![gambar](DataMaster/SC_DataMaster/DM17.png)

@@ -9,8 +9,9 @@ Admin P-Office dapat mengelola data master untuk penginputan justifikasi pada fo
 - Mengubah data master justifikasi
 - Menghapus data master justifikasi
 
-Langkah – langkah untuk pengelolaan justifikasi adalah sebagai berikut:
+## **P-Office Versi Web**
 
+Langkah – langkah untuk melakukan pengelolaan justifikasi via Web adalah sebagai berikut:
 
 #### **Mencari Justifikasi**
 
