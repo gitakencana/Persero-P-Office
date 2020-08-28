@@ -11,23 +11,31 @@ Admin P-Office dapat mengelola data master untuk penginputan justifikasi pada fo
 
 ## **P-Office Versi Web**
 
-Langkah – langkah untuk melakukan pengelolaan justifikasi via Web adalah sebagai berikut:
+Langkah - langkah untuk melakukan pengelolaan justifikasi via Web adalah sebagai berikut:
 
 #### **Mencari Justifikasi**
 
 1.    Pilih menu **Master** dan pilih submenu **Justifications**
 
+![gambar](DataMaster/SC_DataMaster/DM123.png)
 
 2.    Pilih tombol **Search** dan masukkan pencarian berdasarkan kata kunci, kemudian klik **Enter**
 
+![gambar](DataMaster/SC_DataMaster/DM124.png)
 
 #### **Menambah Justifikasi**
 
 1.    Pilih menu **Master** dan pilih submenu **Justifications**
 
+![gambar](DataMaster/SC_DataMaster/DM125.png)
+
 2.    Pilih tombol **+ Add Justifications** untuk justifikasi
 
+![gambar](DataMaster/SC_DataMaster/DM126.png)
+
 3.    Isikan informasi justifikasi meliputi nama kemudian klik tombol **Submit.**
+
+![gambar](DataMaster/SC_DataMaster/DM127.png)
 
 4.    Sistem menyimpan perubahan dan data akan muncul di halaman daftar tempat
 
@@ -36,11 +44,19 @@ Langkah – langkah untuk melakukan pengelolaan justifikasi via Web adalah sebagai
 
 1.    Pilih menu **Master** dan pilih submenu **Justifications**
 
+![gambar](DataMaster/SC_DataMaster/DM128.png)
+
 2.    Klik checklist pada justifikasi yang akan diubah kemudian klik icon **Edit Justifications**
+
+![gambar](DataMaster/SC_DataMaster/DM129.png)
 
 3.    Lakukan perubahan pada justifikasi, pilih **Cancel** untuk membatalkan proses
 
+![gambar](DataMaster/SC_DataMaster/DM130.png)
+
 4.    Lakukan perubahan pada justifikasi kemudian klik tombol **Submit.**
+
+![gambar](DataMaster/SC_DataMaster/DM131.png)
 
 5.    Sistem menyimpan perubahan dan data akan muncul di halaman daftar tempat
 
@@ -49,8 +65,16 @@ Langkah – langkah untuk melakukan pengelolaan justifikasi via Web adalah sebagai
 
 1.    Pilih menu **Master** dan pilih submenu **Justifications**
 
+![gambar](DataMaster/SC_DataMaster/DM132.png)
+
 2.    Klik checklist pada justifikasi yang akan dihapus kemudian klik tombol **Delete Justifications**
+
+![gambar](DataMaster/SC_DataMaster/DM133.png)
 
 3.    Klik tombol **Cancel** untuk membatalkan proses
 
+![gambar](DataMaster/SC_DataMaster/DM134.png)
+
 4.    Klik tombol **Ya** untuk menghapus tempat. Sistem menyimpan perubahan dan data akan terhapus dari daftar tempat
+
+![gambar](DataMaster/SC_DataMaster/DM135.png)
