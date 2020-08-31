@@ -19,3 +19,5 @@ Sekretaris dapat mencetak dokumen agenda kendali berdasarkan filter yang dipilih
 4. Data akan tampil berdasarkan filter yang sudah dipilih kemudian klik tombol **Excel** untuk mencetak
 
 ![gambar](SC_AgendaKendali/AG18.png)
+
+sialan gita
