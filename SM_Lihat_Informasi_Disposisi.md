@@ -44,3 +44,8 @@ Pada tab **_Tracking_ Disposisi Surat Masuk**, ditampilkan informasi _tracking_ 
 Pada tab **_History_ Surat Masuk,** ditampilkan riwayat surat masuk yang terdapat informasi jabatan, tanggal, tindakan dan komentar.
 
 ![gambar](SC_SuratMasuk/SM43.png)
+
+
+## **P-Office Versi Teams**
+
+Langkah - langkah untuk melihat informasi disposisi via Teams yaitu :

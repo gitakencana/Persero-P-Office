@@ -11,3 +11,14 @@
 ![gambar](SC_Archive/AR02.png)
 
 2. Sistem menampilkan dokumen memorandum yang tersimpan di menu Archive
+
+
+
+## **P-Office Versi Teams**
+
+Langkah - langkah untuk melihat daftar dokumem memorandum via Teams yaitu :
+
+ 1. _Klik menu **Archive**_ dan pilih _submenu_ Memorandum
+![gambar](Archive/AR_Teams/AR02.png)
+
+ 2. Sistem menampilkan dokumen memorandum yang tersimpan di menu _Archive_

@@ -23,3 +23,8 @@
 ![gambar](SC_SuratMasuk/SM53.png)
 
 5.    Sistem menyimpan perubahan dan informasi tanggapan disposisi akan tersimpan di detail disposisi.
+
+
+## **P-Office Versi Teams**
+
+Langkah - langkah untuk kirim tanggapan via Teams yaitu :

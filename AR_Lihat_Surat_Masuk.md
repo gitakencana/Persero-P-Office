@@ -11,3 +11,15 @@
 ![gambar](SC_Archive/AR01.png)
 
 2. Sistem menampilkan dokumen surat masuk yang tersimpan di menu Archive
+
+
+
+## **P-Office Versi Teams**
+
+Langkah - langkah untuk melihat daftar dokumem Surat Masuk via Teams yaitu :
+
+
+1. _Klik menu **Archive** dan pilih _submenu_ Surat Masuk
+![gambar](Archive/AR_Teams/AR01.png)
+
+2.  Sistem menampilkan dokumen surat masuk yang tersimpan di menu _Archive_

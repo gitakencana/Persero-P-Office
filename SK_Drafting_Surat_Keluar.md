@@ -61,3 +61,10 @@ Langkah - langkah untuk mengubah isi surat keluar secara *online* adalah sebagai
 ![gambar](SC_Surat_Keluar/SK28.png)
 
 4. Surat yang sudah selesai diubah maka akan tersimpan di menu **"Draft - Surat Keluar"**
+
+
+## **P-Office Versi Teams**
+
+
+Langkah - langkah untuk drafting surat keluar via Teams yaitu :
+

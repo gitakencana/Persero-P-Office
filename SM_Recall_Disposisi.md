@@ -14,3 +14,8 @@ _User_ dapat melakukan _recall_ / tarik disposisi surat masuk yang sudah dikirim
 ![gambar](SC_SuratMasuk/SM45.png)
 
 3.    Surat masuk yang sudah di-_recall_ akan tersimpan di menu "**Draft - Disposisi**" penerima fax masuk / pendisposisi
+
+
+## **P-Office Versi Teams**
+
+Langkah - langkah untuk recall disposisi via Teams yaitu :

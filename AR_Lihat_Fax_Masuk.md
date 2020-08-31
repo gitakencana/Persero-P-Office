@@ -11,3 +11,22 @@
 ![gambar](SC_Archive/AR05.png)
 
 2. Sistem menampilkan dokumen fax keluar yang tersimpan di menu Archive
+
+
+## **P-Office Versi Teams**
+
+Langkah - langkah untuk melihat daftar dokumem fax keluar via Teams yaitu :
+
+
+ 1. _Klik menu **Archive**_ dan pilih _submenu_ **Fax Masuk**
+ ![gambar](Archive/AR_Teams/AR04.png)
+
+ 2.  Sistem menampilkan dokumen fax masuk yang tersimpan di menu _Archive_
+
+
+
+
+
+
+
+
