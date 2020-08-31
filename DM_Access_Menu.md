@@ -78,6 +78,11 @@ Langkah - langkah untuk melakukan pengelolaan akses menu via Web yaitu:
 
 ![gambar](DataMaster/SC_DataMaster/DM13.png)
 
+## **P-Office Versi Android**
+
+Langkah - langkah untuk melakukan pengelolaan akses menu via Android yaitu:
+
+
 ## **P-Office Versi Teams**
 
 Langkah - langkah untuk pengelolaan akses menu via Web yaitu:

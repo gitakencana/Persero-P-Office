@@ -20,4 +20,3 @@ Sekretaris dapat mencetak dokumen agenda kendali berdasarkan filter yang dipilih
 
 ![gambar](SC_AgendaKendali/AG18.png)
 
-sialan gita
