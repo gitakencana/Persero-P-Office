@@ -14,7 +14,7 @@
 
 Pada tab informasi *Preview* surat keluar, ditampilkan *preview* surat keluar yang sudah dibuat. *Preview* surat keluar disesuaikan dengan template berdasarkan jenis surat
 
-![gambar](SuratKeluar/SK_Web/CR01.png)
+![gambar](SuratKeluar/SK_Web/SK31.png)
 
 #### Detail Surat Keluar
 

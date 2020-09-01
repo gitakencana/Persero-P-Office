@@ -17,15 +17,15 @@
 
 ![gambar](SuratKeluar/SK_Web/SK15.png)
 
-3. Pilih tombol ***User* Template** untuk melanjutkan edit surat
+3. Pilih tombol **User* Template** untuk melanjutkan edit surat
 
 ![gambar](SuratKeluar/SK_Web/SK16.png)
 
-4. Sistem akan menampilkan form **Edit Correspondence**, klik **Simpan** untuk menyimpan perubahan
+4. Sistem akan menampilkan form **Edit Correspondence**, klik **Save** untuk menyimpan perubahan
 
 ![gambar](SuratKeluar/SK_Web/SK17.png)
 
-5. Lakukan perubahan pada surat, klik **Simpan** untuk menyimpan perubahan dan surat akan tersimpan di menu **"Draft - Surat Keluar"** sebagai draft atau klik **Send** untuk mengirimkan ke pejabat tujuan dan tersimpan di menu **"Outbox - Surat Keluar"**.
+5. Lakukan perubahan pada surat, klik **Save** untuk menyimpan perubahan dan surat akan tersimpan di menu **"Draft - Surat Keluar"** sebagai draft atau klik **Send** untuk mengirimkan ke pejabat tujuan dan tersimpan di menu **"Outbox - Surat Keluar"**.
 
 
 ## **P-Office Versi Teams**

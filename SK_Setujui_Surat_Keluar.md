@@ -13,7 +13,7 @@
 
 ![gambar](SuratKeluar/SK_Web/SK36.png)
 
-3. Klik tombol **Setujui** dan pilih **Send**. Isikan komentar jika diperlukan
+3. Klik tombol **Approve** dan pilih **Send**. Isikan komentar jika diperlukan
 
 ![gambar](SuratKeluar/SK_Web/SK37.png)
 
