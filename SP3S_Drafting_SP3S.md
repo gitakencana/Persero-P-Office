@@ -80,7 +80,7 @@ Langkah - langkah untuk Drafting SP3S via Teams yaitu :
 
  
   1.    Klik menu **Draft** dan pilih tab **SP3S**
-  ![gambar](SP3S/SP3S_Teams/SP3S14.png)
+    ![gambar](SP3S/SP3S_Teams/SP3S14.png)
 
   2.    Pilih SP3S yang akan diubah. Pilih tab **Detail** kemudian klik **Edit**
   ![gambar](SP3S/SP3S_Teams/SP3S15.png)
