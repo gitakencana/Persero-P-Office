@@ -13,7 +13,7 @@
 
 ![gambar](SuratKeluar/SK_Web/SK39.png)
 
-3. Klik tombol **Kembalikan ke Sebelumnya** dan pilih **Send**. Isikan komentar jika diperlukan
+3. Klik tombol **Revise Previous** dan pilih **Send**. Isikan komentar jika diperlukan
 
 ![gambar](SuratKeluar/SK_Web/SK40.png)
 

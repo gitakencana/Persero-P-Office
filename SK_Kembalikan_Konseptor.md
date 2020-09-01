@@ -5,7 +5,7 @@ Role yang sesuai
 
 *User* dapat mengembalikan surat keluar ke konseptor jika hasil review belum / tidak sesuai. Langkah - langkah untuk mengembalikan surat keluar ke konseptor adalah sebagai berikut
 
-1. Klik menu **Inbox** dan pilih tab **Surat keluar**
+1. Klik menu **Inbox** dan pilih tab **Surat Keluar**
 
 ![gambar](SuratKeluar/SK_Web/SK41.png)
 
@@ -13,7 +13,7 @@ Role yang sesuai
 
 ![gambar](SuratKeluar/SK_Web/SK42.png)
 
-3. Klik tombol **Kembalikan ke Konseptor** dan pilih **Send**. Isikan komentar jika diperlukan
+3. Klik tombol **Revise Conceptor** dan pilih **Send**. Isikan komentar jika diperlukan
 
 ![gambar](SuratKeluar/SK_Web/SK43.png)
 

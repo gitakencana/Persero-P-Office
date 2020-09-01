@@ -13,7 +13,7 @@
 
 ![gambar](SuratKeluar/SK_Web/SK53.png)
 
-3. Klik **Setujui** kemudian pilih **Send**
+3. Klik **Reject** kemudian pilih **Send**
 
 ![gambar](SuratKeluar/SK_Web/SK54.png)
 
