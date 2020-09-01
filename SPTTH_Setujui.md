@@ -18,3 +18,9 @@
 
 4. Sistem berhasil menyimpan perubahan. SPPTH yang sudah di kirim akan tersimpan di menu **Outbox - SPPTH**
 
+
+
+## **P-Office Versi Teams**
+
+
+Langkah - langkah untuk setujui SPPTH via Teams yaitu :

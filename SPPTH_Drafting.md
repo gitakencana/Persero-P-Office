@@ -67,3 +67,11 @@ Langkah - langkah untuk mengirim SPPTH adalah sebagai berikut.
 ![gambar](SC_SPPTH/CR07.png)
 
 2. Sistem menyimpan perubahan dan SPPTH akan tersimpan di menu "**Outbox - SPPTH**"
+
+
+
+
+## **P-Office Versi Teams**
+
+
+Langkah - langkah untuk drafting SPPTH via Teams yaitu :

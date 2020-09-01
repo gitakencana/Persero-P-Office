@@ -12,3 +12,15 @@
 ![gambar](SC_SP3S/SP50.png)
 
 2. Sistem menampilkan riwayat SP3S
+
+
+
+## **P-Office Versi Teams**
+
+
+Langkah - langkah untuk Riwayat SP3S via Teams yaitu :
+
+ 1.	Klik menu **History** dan pilih tab **SP3S**
+ ![gambar](SP3S/SP3S_Teams/SP3S51.png)
+
+ 2. Sistem menampilkan riwayat SP3S
