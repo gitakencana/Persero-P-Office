@@ -29,7 +29,7 @@ Langkah - langkah untuk melakukan pengelolaan akses menu via Android yaitu:
  
  1. Klik menu **Disposition** dan pilih tab **Surat Masuk**
 
-![gambar](SuratMasuk/SM_Android/Daftardisposisi\A01.jpg)
+![gambar](SuratMasuk/SM_Android/Daftardisposisi/A01.jpg)
 
 
 
