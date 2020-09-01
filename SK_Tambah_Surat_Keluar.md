@@ -23,7 +23,7 @@ Langkah-langkah untuk menambah surat keluar via Web adalah sebagai berikut:
 
 ![gambar](SuratKeluar/SK_Web/SK03.png)
 
-3. Isi *form* tambah surat keluar. Terdapat bebarapa aksi untuk menindaklanjuti surat keluar yang sudah diisi *form*nya yaitu **Send**, **Save** dan **Save as Template Surat Keluar**
+3. Isi *form* tambah surat keluar. Terdapat bebarapa aksi untuk menindaklanjuti surat keluar yang sudah diisi *form*nya yaitu **Send**, **Save** dan **Save as Template**
 
 ![gambar](SuratKeluar/SK_Web/SK04.png)
 
