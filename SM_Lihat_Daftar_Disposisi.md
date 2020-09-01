@@ -6,9 +6,9 @@
 
 User dapat melihat daftar disposisi surat masuk pada pada menu **Disposisi**. Langkah - langkah untuk melihat daftar disposisi surat masuk adalah sebagai berikut
 
-1.	Klik menu Disposisi dan pilih tab **Surat Masuk**
+1.	Klik menu **Disposition** dan pilih tab **Surat Masuk**
 
-![gambar](SC_SuratMasuk/SM23.png)
+![gambar](SuratMasuk/SM_Web/SM21.png)
 
 
 ## **P-Office Versi Teams**
@@ -16,4 +16,16 @@ User dapat melihat daftar disposisi surat masuk pada pada menu **Disposisi**. La
 Langkah - langkah untuk melihat daftar disposisi via Teams yaitu :
 
 1.	Klik menu **Disposition** dan pilih tab **Surat Masuk**
+
 ![gambar](SuratMasuk/SM_Teams/SM24.png)
+
+## **P-Office Versi Android**
+
+Langkah - langkah untuk melakukan pengelolaan akses menu via Android yaitu:
+ 
+ 1. Klik menu **Disposition** dan pilih tab **Surat Masuk**
+
+![gambar](SuratMasuk/SM_Android/Daftardisposisi\A01.jpg)
+
+
+
