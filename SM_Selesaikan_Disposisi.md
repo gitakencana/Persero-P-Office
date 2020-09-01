@@ -46,3 +46,21 @@ Langkah - langkah untuk selesaikan disposisi via Teams yaitu :
 ![gambar](SuratMasuk/SM_Teams/SM52.png)
 
  5.    Sistem menyimpan perubahan dan informasi selesai disposisi akan tersimpan di detail disposisi.
+
+## **P-Office Versi Android**
+
+Langkah - langkah untuk menyelesaikan disposisi surat masuk via Android yaitu:
+
+1. Klik menu **Disposisi** dan pilih tab **Surat Masuk **Pilih salah satu disposisi surat masuk yang akan dilihat informasinya
+
+![gambar](SuratMasuk/SM_Android/Selesaidisposisi\A01.jpg) ![gambar](SuratMasuk/SM_Android/Selesaidisposisi\A001.jpg) 
+
+2. Pilih disposisi yang akan diselesaikan kemudian pilih ikon **tombol button**
+
+![gambar](SuratMasuk/SM_Android/Selesaidisposisi\A02.jpg) ![gambar](SuratMasuk/SM_Android/Selesaidisposisi\A03.jpg) 
+
+3. Pilih tombol **Finish** kemudian sistem akan menampilkan pop up konfirmasi dan _user_ harus mengisi komentar disposisi kemudian klik **send**.
+
+![gambar](SuratMasuk/SM_Android/Selesaidisposisi\A04.jpg) ![gambar](SuratMasuk/SM_Android/Selesaidisposisi\A05.jpg)  
+
+4. Sistem menyimpan perubahan dan informasi selesai disposisi akan tersimpan di Outbox-disposisi.

@@ -38,7 +38,7 @@ Langkah - langkah untuk tambah surat masuk via Teams yaitu :
 
 ## **P-Office Versi Android**
 
-Langkah-langkah untuk menambah surat masuk adalah sebagai berikut.
+Langkah-langkah untuk tambah surat masuk adalah sebagai berikut.
 
 1. Klik Tanda **(+)** pada surat masuk
 
@@ -51,11 +51,7 @@ Langkah-langkah untuk menambah surat masuk adalah sebagai berikut.
 
 1. Isi form tambah surat masuk. Klik **Simpan** untuk menyimpan form surat dan surat akan tersimpan di menu “**Draft – Surat Masuk**”. Klik **Save Mail **untuk mengirim surat masuk dan surat masuk akan tersimpan di menu “**Outbox – Surat Masuk**”
    
-![gambar](SuratMasuk/SM_Android/TSM\A03.jpg)
-
-![gambar](SuratMasuk/SM_Android/TSM\A04.jpg)
-
-![gambar](SuratMasuk/SM_Android/TSM\A05.jpg)
+![gambar](SuratMasuk/SM_Android/TSM\A03.jpg) ![gambar](SuratMasuk/SM_Android/TSM\A04.jpg) ![gambar](SuratMasuk/SM_Android/TSM\A05.jpg)
 
 4. Sistem berhasil menyimpan perubahan
 

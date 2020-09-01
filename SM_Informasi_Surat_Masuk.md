@@ -70,7 +70,7 @@ Langkah - langkah untuk Informasi surat masuk via Teams yaitu :
 
 ## **P-Office Versi Android**
 
-Langkah - langkah untuk melakukan pengelolaan akses menu via Android yaitu:
+Langkah - langkah untuk melihat informasi surat masuk via Android yaitu:
 
 1. Klik menu **Inbox/Draft/Outbox** dan pilih tab **Surat Masuk** pilih salah satu surat masuk yang akan dilihat informasinya
 
@@ -88,9 +88,7 @@ Pada tab **Detail Surat Masuk**, terdapat informasi asal surat, perihal, file la
 
  Pada tab **Preview Surat Masuk**, ditampilkan _preview_ surat masuk yang merupakan hasil unggahan yang diinputkan oleh sekretaris/konseptor.
 
-![gambar](SuratMasuk/SM_Android/InfoSM\P01.jpg)
-
-![gambar](SuratMasuk/SM_Android/InfoSM\P02.jpg)
+![gambar](SuratMasuk/SM_Android/InfoSM\P01.jpg) ![gambar](SuratMasuk/SM_Android/InfoSM\P02.jpg)
 
 **Tracking Surat Masuk**
 
@@ -100,14 +98,10 @@ Pada tab **Tracking Surat Masuk**, ditampilkan informasi _tracking_ surat masuk 
 
 Pada tab **History Surat Masuk**, ditampilkan riwayat surat masuk yang terdapat informasi jabatan, tanggal, tindakan dan komentar
 
-![gambar](SuratMasuk/SM_Android/InfoSM\H01.jpg)
-
-![gambar](SuratMasuk/SM_Android/InfoSM\H01.jpg)
+![gambar](SuratMasuk/SM_Android/InfoSM\H01.jpg) ![gambar](SuratMasuk/SM_Android/InfoSM\H01.jpg)
 
  **Recall Surat Masuk**
 
  Pada tab **Recall Surat Masuk**, ditampilkan tindakan menarik surat masuk yaitu klik menu **recall** kemudian klik recall
 
-![gambar](SuratMasuk/SM_Android/InfoSM\R01.jpg)
-
-![gambar](SuratMasuk/SM_Android/InfoSM\R02.jpg)
+![gambar](SuratMasuk/SM_Android/InfoSM\R01.jpg) ![gambar](SuratMasuk/SM_Android/InfoSM\R02.jpg)

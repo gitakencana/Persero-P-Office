@@ -42,7 +42,7 @@ Langkah - langkah untuk drafting surat masuk via Teams yaitu :
 
 ## **P-Office Versi Android**
 
-Langkah-langkah untuk menambah surat masuk adalah sebagai berikut.
+Langkah-langkah untuk Drafting surat masuk adalah sebagai berikut.
 
 1. Klik menu **Draft** dan pilih tab **Surat Masuk**
 
