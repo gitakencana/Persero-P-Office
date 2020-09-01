@@ -6,8 +6,11 @@
 - *Reviewer User*
 - *Member User* (Pekerja) 
 
-_User_ dapat menyelesaikan disposisi surat masuk jika _user_ tidak akan melanjutkan untuk mendisposisikan surat masuk ke pejabat lain. Langkah-langkah untuk menyelesaikan surat masuk adalah sebagai berikut
+_User_ dapat menyelesaikan disposisi surat masuk jika _user_ tidak akan melanjutkan untuk mendisposisikan surat masuk ke pejabat lain
 
+## **P-Office Versi Web**
+
+Langkah - langkah untuk menyelesaikan disposisi via Web yaitu :
 
 1.    Klik menu **Disposition** dan pilih tab **Surat Masuk**
 

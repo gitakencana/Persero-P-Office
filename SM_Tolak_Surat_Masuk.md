@@ -4,7 +4,9 @@
 
 - *Approver User*
 
-Langkah-langkah untuk menolak surat masuk adalah sebagai berikut
+## **P-Office Versi Web**
+
+Langkah-langkah untuk menolak surat masuk via Web adalah sebagai berikut:
 
 1.    Klik menu **Inbox** dan pilih tab **Surat Masuk**
 

@@ -4,7 +4,11 @@
 - *Reviewer User*
 - *Member User* (Pekerja)
 
-_User_ dapat melihat informasi lengkap surat masuk termasuk _preview_ surat masuk, detail surat masuk, _tracking_ surat masuk dan _history_ surat masuk. Langkah-langkah untuk melihat informasi surat masuk adalah sebagai berikut.
+_User_ dapat melihat informasi lengkap surat masuk termasuk _preview_ surat masuk, detail surat masuk, _tracking_ surat masuk dan _history_ surat masuk. 
+
+## **P-Office Versi Web**
+
+Langkah-langkah untuk melihat informasi surat masuk via Web adalah sebagai berikut.
 
 1.    Klik menu **Inbox/Draft/Outbox** dan pilih tab **Surat Masuk.** Pilih salah satu surat masuk yang akan dilihat informasinya
 

@@ -7,14 +7,14 @@ Role yang sesuai
 
 1. Klik menu **Inbox** dan pilih tab **Surat keluar**
 
-![gambar](SC_Surat_Keluar/SK41.png)
+![gambar](SuratKeluar/SK_Web/SK41.png)
 
 2. Pilih surat keluar yang akan ditindak lanjuti kemudian pilih tab **Detail**
 
-![gambar](SC_Surat_Keluar/SK42.png)
+![gambar](SuratKeluar/SK_Web/SK42.png)
 
 3. Klik tombol **Kembalikan ke Konseptor** dan pilih **Send**. Isikan komentar jika diperlukan
 
-![gambar](SC_Surat_Keluar/SK43.png)
+![gambar](SuratKeluar/SK_Web/SK43.png)
 
 4. Sistem berhasil menyimpan perubahan. Surat keluar yang sudah di kirim akan tersimpan di menu **Outbox- Surat Keluar** dan konseptor akan menerima surat keluar di menu **Draft - Surat Keluar**
