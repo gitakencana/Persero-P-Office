@@ -6,16 +6,16 @@ Sekretaris dapat menambah surat masuk pada aplikasi P-Office. Langkah-langkah un
 
 1.	Klik menu **New Correspondence**
 
-![gambar](SC_SuratMasuk/SM02.png)
+![gambar](SuratMasuk/SM_Web/SM02.png)
 
 2.	Pilih jenis surat "**Surat Masuk**"
 
-![gambar](SC_SuratMasuk/SM03.png)
+![gambar](SuratMasuk/SM_Web/SM03.png)
 
-3.	Isi form tambah surat masuk. Klik **Simpan** untuk menyimpan form surat dan surat akan tersimpan di menu "**Draft - Surat Masuk**". Klik **Simpan** untuk mengirim surat masuk dan surat masuk akan tersimpan di menu "**Outbox - Surat Masuk**"
+3.	Isi form tambah surat masuk. Klik **Save** untuk menyimpan form surat dan surat akan tersimpan di menu "**Draft - Surat Masuk**". Klik **Save** untuk mengirim surat masuk dan surat masuk akan tersimpan di menu "**Outbox - Surat Masuk**"
 
-![gambar](SC_SuratMasuk/SM04.png)
-![gambar](SC_SuratMasuk/SM05.png)
+![gambar](SuratMasuk/SM_Web/SM04.png)
+![gambar](SuratMasuk/SM_Web/SM05.png)
 
 4.  Sistem berhasil menyimpan perubahan
 

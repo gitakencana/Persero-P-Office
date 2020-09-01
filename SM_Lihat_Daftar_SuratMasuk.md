@@ -10,7 +10,7 @@
 
  1.    Klik menu **Inbox** dan pilih tab **Surat Masuk**. Sistem akan menampilkan daftar surat masuk yang ditujukan pada suatu _user_
 
-![gambar](SC_SuratMasuk/SM01.png)
+![gambar](SuratMasuk/SM_Web/SM01.png)
 
 ## **P-Office Versi Teams**
 

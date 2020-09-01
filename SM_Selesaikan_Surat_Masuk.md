@@ -10,19 +10,19 @@ _User_ dapat menyelesaikan surat masuk jika _user_ tidak akan melanjutkan untuk 
 
 1.    Klik menu **Inbox** dan pilih tab **Surat masuk**
 
-![gambar](SC_SuratMasuk/SM19.png)
+![gambar](SuratMasuk/SM_Web/SM17.png)
 
 2.    Pilih surat masuk yang akan diselesaikan kemudian pilih tab **Detail**
 
-![gambar](SC_SuratMasuk/SM20.png)
+![gambar](SuratMasuk/SM_Web/SM18.png)
 
-3.    Pilih tombol **Selesai** kemudian klik **Send**
+3.    Pilih tombol **Finish** kemudian klik **Send**
 
-![gambar](SC_SuratMasuk/SM21.png)
+![gambar](SuratMasuk/SM_Web/SM19.png)
 
-4.    Sistem menampilkan _pop up_ konfirmasi dan _user_ harus mengisi keterangan selesaikan disposisi kemudian klik **Simpan**.
+4.    Sistem menampilkan _pop up_ konfirmasi dan _user_ harus mengisi keterangan selesaikan disposisi kemudian klik **Save**.
 
-![gambar](SC_SuratMasuk/SM22.png)
+![gambar](SuratMasuk/SM_Web/SM20.png)
 
 5.    Sistem menyimpan perubahan dan informasi selesai disposisi akan tersimpan di detail disposisi.
 
