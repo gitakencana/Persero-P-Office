@@ -29,3 +29,11 @@ Pada tab *History* SPPTH, ditampilkan riwayat SPPTH yang terdapat informasi jaba
 ![gambar](SC_SPPTH/TH28.png)
 
 
+
+
+## **P-Office Versi Teams**
+
+
+Langkah - langkah untuk lihat informasi SPPTH via Teams yaitu :
+
+

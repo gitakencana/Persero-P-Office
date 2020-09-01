@@ -71,3 +71,10 @@ Langkah - langkah untuk menyetujui SPPTH adalah sebagai berikut.
 ![gambar](SC_SPPTH/CR07.png)
 
 2. Sistem menyimpan perubahan dan SPPTH akan tersimpan di menu **"Outbox - SPPTH"**
+
+
+
+## **P-Office Versi Teams**
+
+
+Langkah - langkah untuk revisi SPPTH via Teams yaitu :

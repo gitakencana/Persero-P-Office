@@ -14,3 +14,9 @@ SPPTH yang masih berlaku akan non-aktif secara otomatis apabila sudah habis masa
 ![gambar](SC_SPPTH/TH49.png)
 
 3. SPPTH yang sudah tidak aktif akan tersimpan di menu **"Outbox - SPPTH"** *approver*. Untuk pejabat PTH dan pejabat yang meninggalkan tempat, surat akan tersimpan di menu **"Inbox - SPPTH"**
+
+
+## **P-Office Versi Teams**
+
+
+Langkah - langkah untuk menonaktifkan SPPTH via Teams yaitu :
