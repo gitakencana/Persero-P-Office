@@ -10,12 +10,12 @@ Admin Approver Offline Number dapat menyetujui pengembalian nomor offline yang d
 
 1. Klik menu **Document Control** dan pilih tab **List Returned Request**
 
-![gambar](SC_AgendaKendali/AG37.png)
+![gambar](DocumentControl/DC_Web/MM38.png)
 
 2. Pilih nomor offline yang akan disetujui dengan klik tombol **Approve**
 
-![gambar](SC_AgendaKendali/AG38.png)
+![gambar](DocumentControl/DC_Web/MM39.png)
 
 3. Sistem menampilkan berhasil menyimpan perubahan. Nomor yang sudah disetujui akan berubah status menjadi **Approved**, sedangkan pada role sekretaris nomor offline yang disetujui pengembaliannya akan berubah status menjadi **Pengembalian Disetujui**
 
-![gambar](SC_AgendaKendali/AG39.png)
+![gambar](DocumentControl/DC_Web/MM40.png)

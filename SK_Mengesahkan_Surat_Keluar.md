@@ -3,7 +3,11 @@
 - *Approver User*
 - *Reviewer User*
 
-*User* dapat mengesahkan surat keluar yang sudah dikirim dan direview oleh reviewer. Keluaran untuk tindak lanjut ini adalah untuk men-*generate* nomor surat keluar kemudian surat keluar dapat dikirimkan ke pejabat tujuan. Langkah - langkah untuk menambah reviewer surat keluar adalah sebagai berikut
+*User* dapat mengesahkan surat keluar yang sudah dikirim dan direview oleh reviewer. Keluaran untuk tindak lanjut ini adalah untuk men-*generate* nomor surat keluar kemudian surat keluar dapat dikirimkan ke pejabat tujuan. 
+
+## **P-Office Versi Web**
+
+Langkah - langkah untuk menambah reviewer surat keluar via Web adalah sebagai berikut:
 
 1. Klik menu **Inbox** dan pilih tab **Surat Keluar**
 
