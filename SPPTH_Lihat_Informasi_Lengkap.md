@@ -36,4 +36,31 @@ Pada tab *History* SPPTH, ditampilkan riwayat SPPTH yang terdapat informasi jaba
 
 Langkah - langkah untuk lihat informasi SPPTH via Teams yaitu :
 
+1.    Klik menu **Inbox/Draft/Outbox** dan pilih tab **SPPTH**. Pilih salah satu SPPTH yang akan dilihat informasinya
+
+![gambar](SPPTH/SPPTH_Teams/SPPTH25.png)
+
+#### **Preview SPPTH**
+
+
+Pada button **Preview** SPPTH, ditampilkan preview SPPTH yang sudah dibuat. Preview SPPTH disesuaikan dengan template berdasarkan jenis surat.
+
+![gambar](SPPTH/SPPTH_Teams/SPPTH26.png)
+
+![gambar](SPPTH/SPPTH_Teams/SPPTH27.png)
+
+#### **Detail SPPTH**
+
+
+Pada tab Detail SPPTH, terdapat informasi nomor SPPTH, jabatan PTH, Pejabat pengganti pertama, jangka waktu serta pejabat pengganti kedua (jika ada), jangka waktu pejabat pengganti kedua (jika ada)
+
+![gambar](SPPTH/SPPTH_Teams/SPPTH28.png)
+
+#### **History SPPTH**
+
+
+Pada tab **History** SPPTH, ditampilkan riwayat SPPTH yang terdapat informasi jabatan, tanggal, tindakan dan komentar
+
+![gambar](SPPTH/SPPTH_Teams/SPPTH29.png)
+
 

@@ -17,13 +17,6 @@
 
 Langkah - langkah untuk lihat daftar SPPTH via Teams yaitu :
 
+1. Klik menu **Inbox / Draft / Outbox** dan pilih tab **SPPTH**
 
-
-
-
-
-
-
-
-
-
+![gambar](SPPTH/SPPTH_Teams/SPPTH01.png)

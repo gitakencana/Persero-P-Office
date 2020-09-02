@@ -16,5 +16,6 @@
 
 Langkah - langkah untuk lihat daftar SP3S via Teams yaitu :
 
- 1.	Klik menu **Inbox / Draft / Outbox** dan pilih tab **SP3S**
- ![gambar](SP3S/SP3S_Teams/SP3S01.png)
+1.	Klik menu **Inbox / Draft / Outbox** dan pilih tab **SP3S**
+
+![gambar](SP3S/SP3S_Teams/SP3S01.png)

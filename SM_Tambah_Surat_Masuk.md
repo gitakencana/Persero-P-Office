@@ -42,7 +42,7 @@ Langkah - langkah untuk tambah surat masuk via Teams yaitu :
 
 ![gambar](SuratMasuk/SM_Teams/SM05.png)
 
- 4.  Sistem berhasil menyimpan perubahan
+4.  Sistem berhasil menyimpan perubahan
 
 ## **P-Office Versi Android**
 

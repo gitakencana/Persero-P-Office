@@ -6,10 +6,25 @@ Admin Approver Offline Number dapat melakukan tindak lanjut terhadap pengajuan n
 
 1. Klik menu **Document Control** dan pilih tab **Approval List**
 
-![gambar](SC_AgendaKendali/AG25.png)
+![gambar](DocumentControl/DC_Web/MM26.png)
 
 2. Pilih nomor offline yang akan ditolak kemudian pilih tombol **Reject**
 
-![gambar](SC_AgendaKendali/AG26.png)
+![gambar](DocumentControl/DC_Web/MM27.png)
+
+3. Sistem berhasil menyimpan perubahan dan nomor offline yang ditolak akan tampil di menu "**Document Control - List Approval Request**" dengan status **Rejected** pada role admin P-Office. Sedangkan untuk role sekretaris tersimpan di menu "**Document Control - Request Offline Number**" dengan status **Rejected**
+
+
+## **P-Office Versi Teams**
+
+Langkah - langkah untuk tolak pengajuan nomor via Teams adalah sebagai berikut:
+
+1. Klik menu **Document Control** dan pilih tab **Approval List**
+
+![gambar](DocumentControl/DC_Teams/DC27.png)
+
+2. Pilih nomor offline yang akan ditolak kemudian pilih tombol **Reject**
+
+![gambar](DocumentControl/DC_Teams/DC28.png)
 
 3. Sistem berhasil menyimpan perubahan dan nomor offline yang ditolak akan tampil di menu "**Document Control - List Approval Request**" dengan status **Rejected** pada role admin P-Office. Sedangkan untuk role sekretaris tersimpan di menu "**Document Control - Request Offline Number**" dengan status **Rejected**

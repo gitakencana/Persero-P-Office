@@ -37,24 +37,24 @@ Langkah-langkah untuk menyelesaikan surat masuk via Web adalah sebagai berikut:
 
 Langkah - langkah untuk selesaikan surat masuk via Teams yaitu :
 
-1.    Klik menu **Inbox** dan pilih tab **Surat masuk**
+1. Klik menu **Inbox** dan pilih tab **Surat masuk**
 
 ![gambar](SuratMasuk/SM_Teams/SM20.png)
 
-2.    Pilih surat masuk yang akan diselesaikan kemudian pilih tab **Detail**
+2. Pilih surat masuk yang akan diselesaikan kemudian pilih tab **Detail**
 
 ![gambar](SuratMasuk/SM_Teams/SM21.png)
 
 
-3.    Pilih tombol **Finish** kemudian klik **Send**
+3. Pilih tombol **Finish** kemudian klik **Send**
 
 ![gambar](SuratMasuk/SM_Teams/SM22.png)
 
-4.    Sistem menampilkan pop up konfirmasi dan user harus mengisi keterangan selesaikan disposisi kemudian klik **Save**
+4. Sistem menampilkan pop up konfirmasi dan user harus mengisi keterangan selesaikan disposisi kemudian klik **Save**
 
 ![gambar](SuratMasuk/SM_Teams/SM23.png)
 
-5.    Sistem menyimpan perubahan dan informasi selesai disposisi akan tersimpan di detail disposisi.
+5. Sistem menyimpan perubahan dan informasi selesai disposisi akan tersimpan di detail disposisi.
 
 
 ## **P-Office Versi Android**
