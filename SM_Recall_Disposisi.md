@@ -32,4 +32,18 @@ Langkah - langkah untuk recall disposisi via Teams yaitu :
 
 ![gambar](SuratMasuk/SM_Teams/SM48.png)
 
-3. Surat masuk yang sudah direcall akan tersimpan di menu “**Draft - Disposisi**” penerima fax masuk / pendisposisi
+
+## **P-Office Versi Android**
+
+Langkah - langkah untuk recall surat masuk via Android yaitu:
+
+1. Klik menu **Outbox** dan pilih tab **Disposisi**
+   
+![gambar](SuratMasuk/SM_Android/Recalldisposisi/A01.jpg) ![gambar](SuratMasuk/SM_Android/Recalldisposisi/A02.jpg)
+
+2. Pilih surat masuk yang akan di-_recall_ kemudian klik ikon **tombol button** kemudian klik **Recall**
+
+![gambar](SuratMasuk/SM_Android/Recalldisposisi/A03.jpg) ![gambar](SuratMasuk/SM_Android/Recalldisposisi/A04.jpg) ![gambar](SuratMasuk/SM_Android/Recalldisposisi/A05.jpg)
+
+3. Surat masuk yang sudah di-_recall_ akan tersimpan di menu “**Draft - Disposisi**” penerima surat masuk/ pendisposisi.
+   

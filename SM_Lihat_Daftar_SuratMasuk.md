@@ -24,4 +24,14 @@ Langkah - langkah untuk melihat surat masuk via Teams yaitu :
  
 ![gambar](SuratMasuk/SM_Teams/SM01.png)
 
+
+## **P-Office Versi Android**
+
+Langkah - langkah untuk melihat daftar surat masuk via Android yaitu:
+
+1. Klik menu **Inbox** dan pilih tab **Surat Masuk**. Sistem akan menampilkan daftar surat masuk yang ditujukan pada suatu _user ._
+
+![gambar](SuratMasuk/SM_Android/DraftSM/A01.jpg)
+
+![gambar](SuratMasuk/SM_Android/DraftSM/A02.jpg)
     

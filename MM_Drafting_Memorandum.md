@@ -68,3 +68,71 @@ Langkah - langkah untuk mengirim memorandum adalah sebagai berikut
 ![gambar](SC_Memorandum/CR08.png)
 
 2. Sistem menyimpan perubahan dan memorandum akan tersimpan di menu **"Outbox - Memorandum"**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## **P-Office Versi Android**
+
+Langkah-langkah untuk Drafting Memorandum adalah sebagai berikut :
+
+1. Klik menu **Draft** dan pilih tab **Memorandum**
+
+![gambar](Memorandum/MM_Android/Draftmemo/A01.jpg) ![gambar](Memorandum/MM_Android/Draftmemo/A02.jpg)
+
+2. Pilih memorandum yang akan diubah. Pilih ikon **tombol button** kemudian klik **Edit**
+
+![gambar](Memorandum/MM_Android/Draftmemo/A03.jpg) 
+
+3. Lakukan perubahan pada _form _lalu klik **Next** sampai **Save** kemudian pilih **Save Mail** untuk menyimpan perubahan pada _form_ memorandum. Surat yang disimpan akan tersimpan di menu “**Draft – Memorandum”**
+
+![gambar](Memorandum/MM_Android/Draftmemo/A04.jpg) ![gambar](Memorandum/MM_Android/Draftmemo/A05.jpg)
+
+3. Klik **Edit Content** untuk mengubah isi memorandum
+   
+![gambar](Memorandum/MM_Android/Draftmemo/A06.jpg)
+
+4. Sistem menampilkan tampilan _preview_ memorandum dalam bentuk Word yang dapat di edit. Untuk melakukan _editing_ terhadap isi surat klik **Edit/Send** kemudian sistem akan menampilkan _pop up_ konfirmasi **Word Online**
+
+**[Edit] Ubah Online**
+
+Langkah – langkah untuk mengubah isi memorandum secara _online_ adalah sebagai berikut.
+
+1. 	Klik **Edit Content** untuk mengubah isi surat secara _online_
+
+![gambar](Memorandum/MM_Android/Draftmemo/U01.jpg)
+
+2. Lakukan perubahan pada isi surat.sistem akan menampilkan pop up P-Office Editing Document pilih **Yes**
+
+![gambar](Memorandum/MM_Android/Draftmemo/U02.jpg) ![gambar](Memorandum/MM_Android/Draftmemo/U3.jpg)
+
+1. Isi surat akan otomatis tersimpan. Jika surat akan disimpan sebagai draft, maka klik **Close**.
+
+![gambar](Memorandum/MM_Android/Draftmemo/U4.jpg)
+
+4. Surat yang sudah selesai diubah maka akan tersimpan di menu “**Draft – Memorandum”**
+
+**Kirim Memorandum**
+
+Langkah – langkah untuk mengirim memorandum adalah sebagai berikut.
+
+1. Pada tampilan _preview_ memorandum, klik **Kirim** untuk mengirim surat ke pejabat tujuan
+
+![gambar](Memorandum/MM_Android/Draftmemo/K01.jpg)
+
+2. Sistem menyimpan perubahan dan memorandum akan tersimpan di menu “**Outbox - Memorandum**”

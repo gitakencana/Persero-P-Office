@@ -24,6 +24,27 @@ Langkah - langkah untuk menambah reviewer surat keluar via Web adalah sebagai be
 4. Sistem menyimpan perubahan dan nomor surat keluar akan ter-*generate* sesuai dengan nomor sementara pada detail. Surat keluar yang sudah diseyujui akan tersimpan di menu **"Outbox - Surat Keluar"** pengirim sedangkan surat keluar akan tersimpan di menu **"Inbox - Surat Keluar"** penerima
 
 
+
+
+
+
+
+
+
+
+## **P-Office Versi Android**
+
+Langkah-langkah untuk melihat informasi surat keluar adalah sebagai berikut :
+
+1. Klik menu **Inbox** dan pilih tab **Surat Keluar**
+
+![gambar](SuratKeluar/SK_Android/NomorSK/A01.jpg) ![gambar](SuratKeluar/SK_Android/NomorSK/A02.jpg)
+
+4. Pilih surat keluar yang akan ditindak lanjuti kemudian di bagian **Detail** terdapat informasi nomor surat yang akan ter-_generate _jika _user_ menyetujui surat keluar.
+
+![gambar](SuratKeluar/SK_Android/NomorSK/A03.jpg) ![gambar](SuratKeluar/SK_Android/NomorSK/A04.jpg)
+
+5. Surat keluar yang sudah disetujui akan tersimpan di menu “**Outbox - Surat Keluar**” pengirim sedangkan surat keluar akan tersimpan di menu “**Inbox - Surat Keluar**” penerima.
 ## **P-Office Versi Teams**
 
 

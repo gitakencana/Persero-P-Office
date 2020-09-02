@@ -19,3 +19,10 @@ Langkah - langkah untuk melihat daftar fax masuk via Teams adalah sebagai beriku
 ![gambar](FaxMasuk/FM_Teams/FM01.png)
 
 
+## **P-Office Versi Android**
+
+Langkah-langkah untuk melihat daftar fax masuk adalah sebagai berikut :
+
+1. Klik menu **Inbox/Draft/Outbox** dan pilih tab **Fax Masuk**.Sistem akan menampilkan daftar fax masuk yang ditujukan pada sekretaris
+
+![gambar](Faxmasuk/FM_Android/DaftarFM/A01.jpg) ![gambar](Faxmasuk/FM_Android/DaftarFM/A02.jpg) 

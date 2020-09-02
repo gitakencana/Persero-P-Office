@@ -39,5 +39,28 @@ Langkah - langkah untuk drafting fax masuk via Teams adalah sebagai berikut:
 ![gambar](FaxMasuk/FM_Teams/FM09.png)
 
 4.	  Lakukan perubahan pada _form_. Klik **Send** untuk mengirim fax masuk ke pejabat tujuan. Surat yang tersimpan akan ada di **“Draf – Fax Masuk”** dan surat yang terkirim akan tersimpan di menu **“Outbox – Fax masuk”** 
+![gambar](SC_FaxMasuk/FM09.png)
+
+
+## **P-Office Versi Android**
+
+Langkah-langkah untuk Drafting fax masuk adalah sebagai berikut :
+
+1. Klik menu **Draft** dan pilih tab **Fax Masuk**
+
+
+![gambar](Faxmasuk/FM_Android/DraftFM/A01.jpg) ![gambar](Faxmasuk/FM_Android/DraftFM/A02.jpg)
+ 
+
+2. Pilih fax masuk yang akan diubah. Pilih ikon **tombol button** kemudian klik **Edit**
+
+![gambar](Faxmasuk/FM_Android/DraftFM/A03.jpg) ![gambar](Faxmasuk/FM_Android/DraftFM/A04.jpg)
+
+
+3. Sistem akan menampilkan _form_ **Edit Correspondence**
+
+![gambar](Faxmasuk/FM_Android/DraftFM/A05.jpg)
+
+1. Lakukan perubahan pada _form_. Klik **Send **untuk mengirim fax masuk ke pejabat tujuan. Surat yang terkirim akan tersimpan di menu “**Outbox – Fax masuk”**
 
 

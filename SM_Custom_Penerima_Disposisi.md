@@ -58,6 +58,35 @@ Langkah - langkah untuk Custom penerima disposisi via Teams yaitu :
 
 ![gambar](SuratMasuk/SM_Teams/SM37.png)
 
+<<<<<<< HEAD
+ 6.    Isikan perintah dan keterangan pada masing-masing penerima disposisi. Tambahkan lampiran disposisi jika diperlukan. Fitur **Same All Comment Untuk Semua** dapat digunakan user untuk memberikan komentar yang sama untuk masing-masing pejabat penerima disposisi. Klik **Save** untuk menyimpan perubahan dan klik **Send** untuk mengirim disposisi
+![gambar](SuratMasuk/SM_Teams/SM38.png)
+=======
  6. Isikan perintah dan keterangan pada masing-masing penerima disposisi. Tambahkan lampiran disposisi jika diperlukan. Fitur **Same All Comment Untuk Semua** dapat digunakan user untuk memberikan komentar yang sama untuk masing-masing pejabat penerima disposisi. Klik **Save** untuk menyimpan perubahan dan klik **Send** untuk mengirim disposisi
+>>>>>>> 702bfc3385f02e937783e2b199c0cdb2ee586feb
+
+## **P-Office Versi Android**
+
+Langkah - langkah untuk melakukan custom disposisi surat masuk via Android yaitu:
+
+1. Klik menu **Inbox **dan pilih tab **Surat masuk**
+
+![gambar](SuratMasuk/SM_Android/Customdisposisi/A01.jpg) ![gambar](SuratMasuk/SM_Android/Customdisposisi/A02.jpg) 
+
+2. Pilih surat masuk yang akan didisposisikan kemudian pilih ikon **tombol button**
+
+![gambar](SuratMasuk/SM_Android/Customdisposisi/A03.jpg)
+
+3. Klik tombol **Disposisi** lalu Sistem akan menampilkan form disposisi. Klik icon “+” pada field **Diteruskan Kepada.** Isikan informasi disposisi dan perintah untuk masing-masing penerima disposisi.
+   
+![gambar](SuratMasuk/SM_Android/Customdisposisi/A04.jpg) ![gambar](SuratMasuk/SM_Android/Customdisposisi/A05.jpg) ![gambar](SuratMasuk/SM_Android/Customdisposisi/A06.jpg)
+
+4. Sistem menampilkan daftar pejabat yang dapat dipilih untuk didisposikan lalu pilih **Submit**
+   
+![gambar](SuratMasuk/SM_Android/Customdisposisi/A07.jpg)
+
+5. Isikan perintah dan keterangan pada masing-masing penerima disposisi. Tambahkan lampiran disposisi jika diperlukan. Fitur **Komentar Sama Untuk Semua** dapat digunakan _user_ untuk memberikan komentar yang sama untuk masing-masing pejabat penerima disposisi. Klik **Simpan** untuk menyimpan perubahan dan klik **Send** untuk mengirim disposisi.
+   
+![gambar](SuratMasuk/SM_Android/Customdisposisi/A08.jpg)
 
 ![gambar](SuratMasuk/SM_Teams/SM38.png)

@@ -44,3 +44,8 @@ Pada tab *History* fax masuk, ditampilkan riwayat fax masuk yang terdapat inform
 ## **P-Office Versi Teams**
 
 Langkah - langkah untuk melihat informasi disposisi fax masuk via Teams adalah sebagai berikut:
+
+
+## **P-Office Versi Android**
+
+Langkah-langkah untuk menolak fax masuk adalah sebagai berikut :

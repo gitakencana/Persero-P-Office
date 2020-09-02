@@ -102,6 +102,25 @@ Langkah - langkah untuk disposisi surat masuk via Teams yaitu :
 ![gambar](SuratMasuk/SM_Teams/SM32.png)
 
 
+Langkah - langkah untuk mendisposisikan surat masuk via Android yaitu:
+
+**Disposisi melalui Menu Inbox**
+
+1. Klik menu **Inbox** dan pilih tab **Surat Masuk**
+
+![gambar](SuratMasuk/SM_Android/DispoSM/D01.jpg) ![gambar](SuratMasuk/SM_Android/DispoSM/D02.jpg)
+
+2. Pilih surat masuk yang akan didisposisikan kemudian pilih ikon **tombol button**
+
+
+![gambar](SuratMasuk/SM_Android/DispoSM/D03.jpg)
+
+3. Klik tombol **Disposisi** maka Sistem menampilkan form disposisi. Isikan informasi disposisi dan perintah untuk masing-masing penerima disposisi.
+
+![gambar](SuratMasuk/SM_Android/DispoSM/D04.jpg) ![gambar](SuratMasuk/SM_Android/DispoSM/D05.jpg)
+
+4.Klik **Simpan** untuk menyimpan draft disposisi surat masuk dan surat masuk akan tersimpan di menu “**Draft – Surat masuk**”. Klik **Send** untuk mengirim disposisi ketujuan dan disposisi surat masuk akan tersimpan di menu “**Outbox – Disposisi**”.
+   
 5. Klik **Save** untuk menyimpan draft disposisi surat masuk dan surat masuk akan tersimpan di menu **“Draft – Surat masuk”**. Klik **Send** untuk mengirim disposisi ketujuan dan disposisi surat masuk akan tersimpan di menu **“Outbox – Disposisi”**
 
 

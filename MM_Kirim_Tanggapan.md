@@ -23,3 +23,44 @@
 ![gambar](SC_Memorandum/MM88.png)
 
 5. Sistem menyimpan perubahan dan informasi tanggapan disposisi akan tersimpan di detail disposisi.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## **P-Office Versi Android**
+
+Langkah-langkah untuk Mengirim tanggapan Memorandum adalah sebagai berikut :
+
+1. Klik menu **Disposisi** dan pilih tab **Memorandum**
+
+![gambar](Memorandum/MM_Android/Tanggapdisposisi/A01.jpg) ![gambar](Memorandum/MM_Android/Tanggapdisposisi/A02.jpg)
+
+2. Pilih memorandum yang akan diselesaikan kemudian pilih ikon **tombol button**
+
+![gambar](Memorandum/MM_Android/Tanggapdisposisi/A03.jpg) ![gambar](Memorandum/MM_Android/Tanggapdisposisi/A04.jpg)
+
+3. Pilih tombol **Send Response** kemudian Sistem menampilkan pop up konfirmasi dan _user_ harus mengisi keterangan kirim tanggapan disposisi kemudian klik **Send**.
+
+![gambar](Memorandum/MM_Android/Tanggapdisposisi/A05.jpg) ![gambar](Memorandum/MM_Android/Tanggapdisposisi/A06.jpg)
+
+4. Sistem menyimpan perubahan dan informasi tanggapan disposisi akan tersimpan di detail disposisi.
+
