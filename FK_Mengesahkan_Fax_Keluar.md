@@ -17,3 +17,22 @@
 ![gambar](SC_FaxKeluar/FK54.png)
 
 4. Sistem menyimpan perubahan dan nomor fax keluar akan ter-*generate* sesuai dengan nomor sementara pada detail. Fax keluar yang sudah diseyujui akan tersimpan di menu **"Outbox - Fax Keluar"** pengirim sedangkan fax keluar akan tersimpan di menu **"Inbox - Fax Keluar"** penerima.
+
+
+## **P-Office Versi Teams**
+
+Langkah - langkah untuk mengesahkan fax keluar via Teams adalah sebagai berikut:
+
+1. Klik menu **Inbox** dan pilih tab **Fax Keluar**
+
+![gambar](FaxKeluar/FK_Teams/FK40.png)
+
+2. Pilih fax keluar yang akan ditindak lanjuti kemudian pilih tab **Detail.** Pada tab **Detail** terdapat informasi nomor surat yang masih bersifat sementara. Nomor inilah yang akan ter-*generate* jika *user* menyetujui fax keluar.
+
+![gambar](FaxKeluar/FK_Teams/FK55.png)
+
+3. Klik **Setujui** kemudian pilih **Send**
+
+![gambar](FaxKeluar/FK_Teams/FK56.png)
+
+4. Sistem menyimpan perubahan dan nomor fax keluar akan ter-*generate* sesuai dengan nomor sementara pada detail. Fax keluar yang sudah diseyujui akan tersimpan di menu **"Outbox - Fax Keluar"** pengirim sedangkan fax keluar akan tersimpan di menu **"Inbox - Fax Keluar"** penerima.

@@ -20,3 +20,9 @@
 
 
 Langkah - langkah untuk riwayat SPPTH via Teams yaitu :
+
+1.	Klik menu **History** dan pilih tab **SPPTH**
+
+![gambar](SPPTH/SPPTH_Teams/SPPTH50.png)
+ 
+2.	Sistem menampilkan riwayat SP3S

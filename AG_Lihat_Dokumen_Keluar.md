@@ -6,7 +6,7 @@ Sekretaris dapat melihat daftar dokumen keluar (Outbox) yang mencatatkan seluruh
 
 ## **P-Office Versi Web**
 
-Langkah – langkah untuk melihat daftar dokumen (Outbox) via Web adalah sebagai berikut
+Langkah ï¿½ langkah untuk melihat daftar dokumen (Outbox) via Web adalah sebagai berikut
 
 1. Klik menu **Document Control** dan pilih submenu **Document View - Outbox**
 
@@ -14,3 +14,13 @@ Langkah – langkah untuk melihat daftar dokumen (Outbox) via Web adalah sebagai b
 
 2. Sistem menampilkan dokumen keluar yang informasinya meliputi no agenda, tanggal, nomor surat, perihal, dari/asal, status dan _secretary notes_
 
+
+## **P-Office Versi Teams**
+
+Langkah - langkah untuk melihat daftar dokumen keluat via Teams adalah sebagai berikut:
+
+1. Klik menu **Document Control** dan pilih submenu **Document View - Outbox**
+
+![gambar](DocumentControl/DC_Teams/DC03.png)
+
+2. Sistem menampilkan dokumen keluar yang informasinya meliputi no agenda, tanggal, nomor surat, perihal, dari/asal, status dan _secretary notes_

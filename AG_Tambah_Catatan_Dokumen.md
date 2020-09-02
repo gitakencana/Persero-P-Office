@@ -17,3 +17,22 @@ Sekretaris dapat menambahkan *notes*/catatan terkait dokumen yang di-*review*. L
 ![gambar](DocumentControl/DC_Web/MM15.png)
 
 4. Sistem berhasil menyimpan perubahan catatan dokumen
+
+
+## **P-Office Versi Teams**
+
+Langkah - langkah untuk mmenambahkan catatan dokumen via Teams adalah sebagai berikut:
+
+1. Klik menu **Document Control** dan pilih tab **Dokumen Masuk / Dokumen Keluar / Dokumen Disposisi**
+
+![gambar](DocumentControl/DC_Teams/DC14.png)
+
+2. Pilih dokumen/surat yang akan ditambahkan catatan dengan klik button **Notes**.
+
+![gambar](DocumentControl/DC_Teams/DC15.png)
+
+3. Sistem akan menapilkan pop up **Notes**. Isikan catatan dan klik tombol **Save**
+
+![gambar](DocumentControl/DC_Teams/DC16.png)
+
+4. Sistem berhasil menyimpan perubahan catatan dokumen

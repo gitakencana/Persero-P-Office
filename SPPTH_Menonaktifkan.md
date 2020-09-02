@@ -20,3 +20,14 @@ SPPTH yang masih berlaku akan non-aktif secara otomatis apabila sudah habis masa
 
 
 Langkah - langkah untuk menonaktifkan SPPTH via Teams yaitu :
+
+1.	Klik menu **Inbox** dan pilih tab **SPPTH**
+
+![gambar](SPPTH/SPPTH_Teams/SPPTH48.png)
+ 
+2.	Pilih SPPTH yang akan dinon-aktifkan kemudian pilih icon **Disable**.
+
+![gambar](SPPTH/SPPTH_Teams/SPPTH49.png)
+
+3.	SPPTH yang sudah tidak aktif akan tersimpan di menu **“Outbox – SPPTH”** approver. Untuk pejabat PTH dan pejabat yang meninggalkan tempat, surat akan tersimpan di menu **“Inbox – SPPTH”**
+
