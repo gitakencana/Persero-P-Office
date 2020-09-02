@@ -53,19 +53,19 @@ Langkah-langkah untuk menyimpan memorandum sebagai template adalah sebagai berik
 
 1. Isi _form_ memorandum dan Klik **Save as Template**
 
-![gambar](Memorandum/MM_Android/Tempmemo\A01.jpg) ![gambar](Memorandum/MM_Android/Tempmemo\A02.jpg) ![gambar](Memorandum/MM_Android/Tempmemo\A03.jpg) ![gambar](Memorandum/MM_Android/Tempmemo\A04.jpg)
+![gambar](Memorandum/MM_Android/Tempmemo/A01.jpg) ![gambar](Memorandum/MM_Android/Tempmemo/A02.jpg) ![gambar](Memorandum/MM_Android/Tempmemo/A03.jpg) ![gambar](Memorandum/MM_Android/Tempmemo/A04.jpg)
 
 2. Memorandum yang disimpan menjadi template akan tersimpan di menu “**Draft – Memorandum”. **Untuk melanjutkan _template_ yang sudah dibuat _user_ dapat memilih menu “**Draft – Memorandum**” kemudian pilih _template _yang akan digunakan
 
-![gambar](Memorandum/MM_Android/Tempmemo\A05.jpg) ![gambar](Memorandum/MM_Android/Tempmemo\A06.jpg)
+![gambar](Memorandum/MM_Android/Tempmemo/A05.jpg) ![gambar](Memorandum/MM_Android/Tempmemo/A06.jpg)
 
 3. Pilih tombol **_User_ Template** untuk melanjutkan edit memorandum
 
-![gambar](Memorandum/MM_Android/Tempmemo\A07.jpg)
+![gambar](Memorandum/MM_Android/Tempmemo/A07.jpg)
 
 4. Sistem akan menampilkan form **Edit Correspondence** klik **Save Mail** untuk menyimpan perubahan
 
-![gambar](Memorandum/MM_Android/Tempmemo\A08.jpg) ![gambar](Memorandum/MM_Android/Tempmemo\A09.jpg)
+![gambar](Memorandum/MM_Android/Tempmemo/A08.jpg) ![gambar](Memorandum/MM_Android/Tempmemo/A09.jpg)
 
 5. Lakukan perubahan pada surat, klik **Save Mail **untuk menyimpan perubahan dan memorandum akan tersimpan di menu **“Draft – Memorandum”** sebagai draft atau klik **Send** untuk mengirimkan ke pejabat tujuan dan tersimpan di menu **“Outbox – Memorandum”.**
 

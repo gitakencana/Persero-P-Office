@@ -35,7 +35,7 @@ Langkah - langkah untuk melihat daftar dokumem Surat Masuk via Android yaitu :
 
 1. Klik menu **Archive** pilih submenu **Surat Masuk**
    
-![gambar](Archive/AR_Android/SM\A01.jpg) ![gambar](Archive/AR_Android/SM\A02.jpg)
+![gambar](Archive/AR_Android/SM/A01.jpg) ![gambar](Archive/AR_Android/SM/A02.jpg)
 
 2. Sistem menampilkan dokumen surat masuk yang tersimpan di menu Archive
 2.  Sistem menampilkan dokumen surat masuk yang tersimpan di menu Archive

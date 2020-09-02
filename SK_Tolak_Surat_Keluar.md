@@ -32,15 +32,15 @@ Langkah-langkah untuk menolak surat keluar adalah sebagai berikut :
 
 1. Klik menu **Inbox** dan pilih tab **Surat Keluar**
 
-![gambar](SuratKeluar/SK_Android/TolakSK\A01.jpg) ![gambar](SuratKeluar/SK_Android/TolakSK\A02.jpg)
+![gambar](SuratKeluar/SK_Android/TolakSK/A01.jpg) ![gambar](SuratKeluar/SK_Android/TolakSK/A02.jpg)
 
 2. Pilih surat keluar yang akan ditindak lanjuti kemudian pilih ikon **tombol button**
    
-![gambar](SuratKeluar/SK_Android/TolakSK\A03.jpg) ![gambar](SuratKeluar/SK_Android/TolakSK\A04.jpg)
+![gambar](SuratKeluar/SK_Android/TolakSK/A03.jpg) ![gambar](SuratKeluar/SK_Android/TolakSK/A04.jpg)
 
 3. Klik tombol **Reject **dan pilih **Send** Isikan komentar jika diperlukan
 
-![gambar](SuratKeluar/SK_Android/TolakSK\A05.jpg) ![gambar](SuratKeluar/SK_Android/TolakSK\A06.jpg)
+![gambar](SuratKeluar/SK_Android/TolakSK/A05.jpg) ![gambar](SuratKeluar/SK_Android/TolakSK/A06.jpg)
 
 4. Sistem berhasil menyimpan perubahan Memorandum yang sudah di tolak akan tersimpan dimenu “**Rejected- Memorandum”** user penolak pada label “**Rejected**”
 ## **P-Office Versi Teams**

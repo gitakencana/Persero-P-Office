@@ -36,19 +36,19 @@ Langkah-langkah untuk menambahkan Reviewer baru surat keluar adalah sebagai beri
 
 1. Klik menu **Inbox** dan pilih tab **Surat Keluar**
 
-![gambar](SuratKeluar/SK_Android/ReviewerSK\A01.jpg) ![gambar](SuratKeluar/SK_Android/ReviewerSK\A02.jpg)
+![gambar](SuratKeluar/SK_Android/ReviewerSK/A01.jpg) ![gambar](SuratKeluar/SK_Android/ReviewerSK/A02.jpg)
 
 2. Pilih surat keluar yang akan ditindak lanjuti kemudian pilih ikon **tombol button**
    
-![gambar](SuratKeluar/SK_Android/ReviewerSK\A03.jpg) ![gambar](SuratKeluar/SK_Android/ReviewerSK\A04.jpg)
+![gambar](SuratKeluar/SK_Android/ReviewerSK/A03.jpg) ![gambar](SuratKeluar/SK_Android/ReviewerSK/A04.jpg)
 
 3. Klik tombol **Add Reviewer **dan pilih pejabat yang akan melakukan review dengan meng-klik tombol **Add Reviewer**
    
-![gambar](SuratKeluar/SK_Android/ReviewerSK\A05.jpg) ![gambar](SuratKeluar/SK_Android/ReviewerSK\A06.jpg)
+![gambar](SuratKeluar/SK_Android/ReviewerSK/A05.jpg) ![gambar](SuratKeluar/SK_Android/ReviewerSK/A06.jpg)
 
 4. Sistem akan menampilkan pejabat untuk dijadikn reviewer baru
 
-![gambar](SuratKeluar/SK_Android/ReviewerSK\A07.jpg) ![gambar](SuratKeluar/SK_Android/ReviewerSK\A08.jpg)
+![gambar](SuratKeluar/SK_Android/ReviewerSK/A07.jpg) ![gambar](SuratKeluar/SK_Android/ReviewerSK/A08.jpg)
 
 5. Pilih **Send** untuk mengirimkan kepada pejabat/reviewer yang dituju dan surat keluar akan tersimpan di menu “**Outbox - Surat Keluar**”. Untuk pejabat/reviewer baru akan menerima surat keluar di menu “**Inbox – Surat Keluar**”
 ![gambar](SuratKeluar/SK_Web/SK51.png)

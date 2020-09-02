@@ -63,15 +63,15 @@ Langkah - langkah untuk menyelesaikan surat masuk menu via Android yaitu:
 
 1. 	Klik menu **Inbox** dan pilih tab **Surat masuk**
 
-![gambar](SuratMasuk/SM_Android/SelesaiSM\A01.jpg)
+![gambar](SuratMasuk/SM_Android/SelesaiSM/A01.jpg)
 
 2. 	Pilih surat masuk yang akan diselesaikan kemudian pilih ikon **tombol button**
 
-![gambar](SuratMasuk/SM_Android/SelesaiSM\A02.jpg)
+![gambar](SuratMasuk/SM_Android/SelesaiSM/A02.jpg)
 
 3.  Pilih **Finish** maka Sistem menampilkan _pop up_ konfirmasi dan _user_ harus mengisi keterangan selesaikan disposisi kemudian klik **Send** kemudian klik **Send**
 
-![gambar](SuratMasuk/SM_Android/SelesaiSM\A03.jpg) ![gambar](SuratMasuk/SM_Android/SelesaiSM\A04.jpg)
+![gambar](SuratMasuk/SM_Android/SelesaiSM/A03.jpg) ![gambar](SuratMasuk/SM_Android/SelesaiSM/A04.jpg)
 
 4. Sistem menyimpan perubahan dan informasi selesai akan tersimpan di **Outbox-Surat Masuk**.
    

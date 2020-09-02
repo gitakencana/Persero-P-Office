@@ -98,26 +98,26 @@ Langkah - langkah untuk melihat informasi disposisi surat masuk via Android yait
 
 1. Klik menu **Disposisi** dan pilih tab **Surat Masuk** pilih salah satu disposisi surat masuk yang akan dilihat informasinya
 
-![gambar](SuratMasuk/SM_Android/Informasidisposisi\A01.jpg) ![gambar](SuratMasuk/SM_Android/Informasidisposisi\A02.jpg)
+![gambar](SuratMasuk/SM_Android/Informasidisposisi/A01.jpg) ![gambar](SuratMasuk/SM_Android/Informasidisposisi/A02.jpg)
 
 **Preview Disposisi Surat Masuk**
 
 Pada tab **Surat**, ditampilkan detail surat masuk yang sudah diunggah oleh sekretaris / konseptor.
 
-![gambar](SuratMasuk/SM_Android/Informasidisposisi\P01.jpg) ![gambar](SuratMasuk/SM_Android/Informasidisposisi\P02.jpg)
+![gambar](SuratMasuk/SM_Android/Informasidisposisi/P01.jpg) ![gambar](SuratMasuk/SM_Android/Informasidisposisi/P02.jpg)
 
 **Detail Disposisi Surat Masuk**
 
 Pada tab **Detail**, terdapat informasi asal surat, perihal, file lampiran, kategori surat, resume, rekomendasi serta informasi disposisi yang mencakup lampiran disposisi, tujuan, tindak lanjut dan disposisi permasing-masing pejabat penerima disposisi
 
-![gambar](SuratMasuk/SM_Android/Informasidisposisi\D01.jpg) ![gambar](SuratMasuk/SM_Android/Informasidisposisi\A02.jpg)
+![gambar](SuratMasuk/SM_Android/Informasidisposisi/D01.jpg) ![gambar](SuratMasuk/SM_Android/Informasidisposisi/A02.jpg)
 
 **Preview Lembar Penerus**
 
 Pada tab **Preview**, ditampilkan informasi lembar penerus disposisi yang berisi informasi daftar nama pejabat dan perintah disposisi yang harus dilakukan oleh
 pejabat penerima disposisi
 
-![gambar](SuratMasuk/SM_Android/Informasidisposisi\PL01.jpg) ![gambar](SuratMasuk/SM_Android/Informasidisposisi\PL02.jpg)
+![gambar](SuratMasuk/SM_Android/Informasidisposisi/PL01.jpg) ![gambar](SuratMasuk/SM_Android/Informasidisposisi/PL02.jpg)
 
 **Tracking Disposisi Surat Masuk**
 
@@ -127,5 +127,5 @@ Pada tab **Tracking**, ditampilkan informasi _tracking_ disposisi surat masuk da
 
 Pada tab **Informasi disposisi**, ditampilkan  surat masuk yang terdapat lampiran, tujuan, tindakan dan disposisi.
 
-![gambar](SuratMasuk/SM_Android/Informasidisposisi\ID01.jpg) ![gambar](SuratMasuk/SM_Android/Informasidisposisi\A02.jpg)W
+![gambar](SuratMasuk/SM_Android/Informasidisposisi/ID01.jpg) ![gambar](SuratMasuk/SM_Android/Informasidisposisi/A02.jpg)W
 ![gambar](SuratMasuk/SM_Teams/SM46.png)

@@ -52,14 +52,14 @@ Langkah-langkah untuk menyetujui Memorandum adalah sebagai berikut :
 
 1. Klik menu **Inbox** dan pilih tab **Memorandum**
 
-![gambar](Memorandum/MM_Android/Setujumemo\A01.jpg) ![gambar](Memorandum/MM_Android/Setujumemo\A02.jpg)
+![gambar](Memorandum/MM_Android/Setujumemo/A01.jpg) ![gambar](Memorandum/MM_Android/Setujumemo/A02.jpg)
 
 2. Pilih memorandum yang akan ditindak lanjuti kemudian pilih ikon **tombol button**
 
-![gambar](Memorandum/MM_Android/Setujumemo\A03.jpg) ![gambar](Memorandum/MM_Android/Setujumemo\A04.jpg)
+![gambar](Memorandum/MM_Android/Setujumemo/A03.jpg) ![gambar](Memorandum/MM_Android/Setujumemo/A04.jpg)
 
 3. Klik tombol **Approve** dan pilih **Send**. Isikan komentar jika diperlukan
 
-![gambar](Memorandum/MM_Android/Setujumemo\A05.jpg) ![gambar](Memorandum/MM_Android/Setujumemo\A06.jpg)
+![gambar](Memorandum/MM_Android/Setujumemo/A05.jpg) ![gambar](Memorandum/MM_Android/Setujumemo/A06.jpg)
 
 4. Sistem berhasil menyimpan perubahan. Memorandum yang sudah di kirim akan tersimpan di menu **Outbox- Memorandum**

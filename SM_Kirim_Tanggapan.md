@@ -56,15 +56,15 @@ Langkah - langkah untuk mengirim tanggapan via Android yaitu:
 
 1. Klik menu **Disposisi** dan pilih tab **Surat Masuk**
    
-![gambar](SuratMasuk/SM_Android/Tanggapdisposisi\A01.jpg) ![gambar](SuratMasuk/SM_Android/Tanggapdisposisi\A02.jpg) 
+![gambar](SuratMasuk/SM_Android/Tanggapdisposisi/A01.jpg) ![gambar](SuratMasuk/SM_Android/Tanggapdisposisi/A02.jpg) 
 
 2. Pilih disposisi yang akan dikirim tanggapan kemudian pilih ikon tombol button
 
-![gambar](SuratMasuk/SM_Android/Tanggapdisposisi\A03.jpg) ![gambar](SuratMasuk/SM_Android/Tanggapdisposisi\A04.jpg) 
+![gambar](SuratMasuk/SM_Android/Tanggapdisposisi/A03.jpg) ![gambar](SuratMasuk/SM_Android/Tanggapdisposisi/A04.jpg) 
 
 3. Pilih tombol Send Response kemudian Sistem akan menampilkan pop up konfirmasi dan user harus mengisi komentar send response disposisi kemudian klik Send.
 
-![gambar](SuratMasuk/SM_Android/Tanggapdisposisi\A05.jpg) ![gambar](SuratMasuk/SM_Android/Tanggapdisposisi\A06.jpg) 
+![gambar](SuratMasuk/SM_Android/Tanggapdisposisi/A05.jpg) ![gambar](SuratMasuk/SM_Android/Tanggapdisposisi/A06.jpg) 
 
 4. Sistem menyimpan perubahan dan informasi tanggapan disposisi akan tersimpan di detail disposisi.
 5. Sistem menyimpan perubahan dan informasi tanggapan disposisi akan tersimpan di detail disposisi.

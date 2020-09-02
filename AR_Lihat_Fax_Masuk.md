@@ -32,7 +32,7 @@ Langkah - langkah untuk melihat daftar dokumem Fax Masuk via Android yaitu :
 
 1. Klik menu **Archive** pilih submenu **Fax Masuk**
    
-![gambar](Archive/AR_Android/FM\A01.jpg) ![gambar](Archive/AR_Android/FM\A02.jpg)
+![gambar](Archive/AR_Android/FM/A01.jpg) ![gambar](Archive/AR_Android/FM/A02.jpg)
 
 1. Sistem menampilkan dokumen Fax Masuk yang tersimpan di menu **Archive**
 

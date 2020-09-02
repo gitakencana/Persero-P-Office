@@ -53,23 +53,23 @@ Langkah-langkah untuk melihat informasi fax masuk adalah sebagai berikut :
 
 1. Klik menu **Inbox/Draft/Outbox** dan pilih tab **Fax masuk**
 
-![gambar](Faxmasuk/FM_Android/InfoFM\A01.jpg) ![gambar](Faxmasuk/FM_Android/InfoFM\A02.jpg)
+![gambar](Faxmasuk/FM_Android/InfoFM/A01.jpg) ![gambar](Faxmasuk/FM_Android/InfoFM/A02.jpg)
 
 2. Pilih salah satu fax masuk yang akan dilihat informasinya
 
-![gambar](Faxmasuk/FM_Android/InfoFM\A01.jpg)
+![gambar](Faxmasuk/FM_Android/InfoFM/A01.jpg)
 
 **Detail Fax Masuk**
 
 Pada tab **Detail Fax Masuk**, terdapat informasi asal surat, perihal, file lampiran, kategori surat, resume, rekomendasi, nomor surat, klasifikasi surat, tanggal surat dan tujuan.
 
-![gambar](Faxmasuk/FM_Android/InfoFM\D01.jpg)
+![gambar](Faxmasuk/FM_Android/InfoFM/D01.jpg)
 
 **Preview Fax Masuk**
 
 Pada tab **Preview Fax Masuk**, ditampilkan _preview_ fax masuk yang merupakan hasil unggahan yang diinputkan oleh sekretaris/konseptor.
 
-![gambar](Faxmasuk/FM_Android/InfoFM\P01.jpg) ![gambar](Faxmasuk/FM_Android/InfoFM\P02.jpg)
+![gambar](Faxmasuk/FM_Android/InfoFM/P01.jpg) ![gambar](Faxmasuk/FM_Android/InfoFM/P02.jpg)
 
 **Tracking Fax Masuk**
 

@@ -63,25 +63,25 @@ Langkah-langkah untuk melihat informasi disposisi Memorandum adalah sebagai beri
 
 1. Klik menu **Disposisi** dan pilih tab **Memorandum**. Pilih salah satu disposisi memorandum yang akan dilihat informasinya
 
-![gambar](Memorandum/MM_Android/Infodisposisi\A01.jpg) ![gambar](Memorandum/MM_Android/Infodisposisi\A02.jpg)
+![gambar](Memorandum/MM_Android/Infodisposisi/A01.jpg) ![gambar](Memorandum/MM_Android/Infodisposisi/A02.jpg)
 
 **Detail Memorandum**
 
 Pada tab **Detail Memorandum**, terdapat informasi asal surat, perihal, file lampiran, nomor surat, klasifikasi surat, tanggal surat dan tujuan surat serta informasi disposisi yang mencakup lampiran disposisi, tujuan, tindak lanjut dan disposisi permasing-masing pejabat penerima disposisi
 
-![gambar](Memorandum/MM_Android/Infodisposisi\D01.jpg)
+![gambar](Memorandum/MM_Android/Infodisposisi/D01.jpg)
 
 **Preview Memorandum**
 
 Pada tab **Preview Surat** memorandum, ditampilkan preview memorandum yang sudah dibuat. Preview memorandum disesuaikan dengan template berdasarkan jenis surat
 
-![gambar](Memorandum/MM_Android/Infodisposisi\P01.jpg)
+![gambar](Memorandum/MM_Android/Infodisposisi/P01.jpg)
 
 **Preview Lembar Penerus**
 
 Pada tab **Preview Lembar Penerus,** ditampilkan informasi lembar penerus disposisi yang berisi informasi daftar nama pejabat dan perintah disposisi yang harus dilakukan oleh pejabat penerima disposisi
 
-![gambar](Memorandum/MM_Android/Infodisposisi\PL01.jpg) ![gambar](Memorandum/MM_Android/Infodisposisi\PL02.jpg)
+![gambar](Memorandum/MM_Android/Infodisposisi/PL01.jpg) ![gambar](Memorandum/MM_Android/Infodisposisi/PL02.jpg)
 
 **Tracking Memorandum**
 
@@ -91,4 +91,4 @@ Pada tab _Tracking_ memorandum, ditampilkan informasi _tracking_ memorandum dala
 
 Pada tab _History_ memorandum, ditampilkan riwayat memorandum yang terdapat informasi jabatan, tanggal, tindakan dan komentar
 
-![gambar](Memorandum/MM_Android/Infodisposisi\H01.jpg) ![gambar](Memorandum/MM_Android/Infodisposisi\H02.jpg)
+![gambar](Memorandum/MM_Android/Infodisposisi/H01.jpg) ![gambar](Memorandum/MM_Android/Infodisposisi/H02.jpg)
