@@ -6,7 +6,12 @@
 - *Reviewer User*
 - *Member User* (Pekerja) 
 
-_User_ dapat menyelesaikan surat masuk jika _user_ tidak akan melanjutkan untuk mendisposisikan surat masuk ke pejabat lain atau surat masuk selesai pada _user_ tersebut. Langkah-langkah untuk menyelesaikan surat masuk adalah sebagai berikut:
+_User_ dapat menyelesaikan surat masuk jika _user_ tidak akan melanjutkan untuk mendisposisikan surat masuk ke pejabat lain atau surat masuk selesai pada _user_ tersebut. 
+
+## **P-Office Versi Web**
+
+
+Langkah-langkah untuk menyelesaikan surat masuk via Web adalah sebagai berikut:
 
 1.    Klik menu **Inbox** dan pilih tab **Surat masuk**
 

@@ -5,6 +5,9 @@
 
  _User_ dapat mengirim tanggapan disposisi surat masuk yang ditujukan untuk pejabat pengirim disposisi. Langkah-langkah untuk mengirim tanggapan disposisi surat masuk adalah sebagai berikut
 
+## **P-Office Versi Web**
+
+Langkah - langkah untuk mengirim tanggapan via Web yaitu :
 
 1.    Klik menu **Disposition** dan pilih tab **Surat Masuk**
 

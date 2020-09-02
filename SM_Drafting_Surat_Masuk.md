@@ -2,7 +2,12 @@
 
 - Sekretaris
 
-Sekretaris dapat melakukan _drafting_ surat masuk pada aplikasi P-Office. _Drafting_ surat masuk dilakukan jika _user_ akan meneruskan dan melakukan perubahan pada surat masuk yang sudah disimpan pada menu **Draft.** Langkah-langkah untuk melakukan _drafting_ surat masuk adalah sebagai berikut.
+Sekretaris dapat melakukan _drafting_ surat masuk pada aplikasi P-Office. _Drafting_ surat masuk dilakukan jika _user_ akan meneruskan dan melakukan perubahan pada surat masuk yang sudah disimpan pada menu **Draft.**
+
+
+## **P-Office Versi Web**
+
+Langkah - langkah untuk drafting surat masuk via Web yaitu:
 
 1.    Klik menu **Draft** dan pilih tab **Surat Masuk**
 

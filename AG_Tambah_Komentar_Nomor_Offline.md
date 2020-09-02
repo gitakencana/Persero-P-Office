@@ -7,14 +7,14 @@
 
 1. Klik menu **Document Control** dan pilih tab **Request Nomor Offline**
 
-![gambar](SC_AgendaKendali/AG40.png)
+![gambar](DocumentControl/DC_Web/MM41.png)
 
 2. Pilih nomor offline yang akan ditambahkan komentar dan halaman detail nomor offline akan muncul
 
-![gambar](SC_AgendaKendali/AG41.png)
+![gambar](DocumentControl/DC_Web/MM42.png)
 
 3. Isikan komentar kemudian klik tombol **Send**
 
-![gambar](SC_AgendaKendali/AG42.png)
+![gambar](DocumentControl/DC_Web/MM43.png)
 
 4. Sistem menyimpan perubahan dan *user* dapat saling berkomentar pada detail nomor offline
