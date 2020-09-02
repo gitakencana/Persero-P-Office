@@ -45,3 +45,50 @@
 
 5. Klik Simpan untuk menyimpan draft disposisi fax masuk dan fax masuk akan tersimpan di menu "Draft - Surat masuk". Klik Send untuk mengirim disposisi ketujuan dan disposisi surat masuk akan tersimpan di menu "Outbox - Disposisi".
 
+
+## **P-Office Versi Teams**
+
+
+
+Langkah - langkah untuk disposisi fax masuk via Teams adalah sebagai berikut:
+
+#### **Disposisi melalui Menu Inbox**
+
+1. Klik menu **Disposisi** dan pilih tab **Fax Masuk**
+
+![gambar](FaxMasuk/FM_Teams/FM24.png)
+
+2. Pilih fax masuk yang akan didisposisikan kemudian pilih tab **Detail**
+
+![gambar](FaxMasuk/FM_Teams/FM25.png)
+
+3. Klik tombol **Disposition** dan pilih **Send**
+
+![gambar](FaxMasuk/FM_Teams/FM26.png)
+
+4. Sistem menampilkan form disposisi. Isikan informasi disposisi dan perintah untuk masing - masing penerima disposisi.
+
+![gambar](FaxMasuk/FM_Teams/FM31.png)
+
+5. Klik **Save** untuk menyimpan draft disposisi fax masuk dan fax masuk akan tersimpan di menu **"Draft - Surat masuk"**. Klik **Send** untuk mengirim disposisi ketujuan dan disposisi surat masuk akan tersimpan di menu **"Outbox - Disposisi"**.
+
+#### **Disposisi melalui Menu Disposisi**
+
+1. Klik menu **Disposisi** dan pilih tab **Fax Masuk**
+
+![gambar](FaxMasuk/FM_Teams/FM32.png)
+
+2. Pilih fax masuk yang akan didisposisikan kemudian pilih tab **Detail**
+
+![gambar](FaxMasuk/FM_Teams/FM33.png)
+
+3. Klik tombol **Disposition** dan pilih **Send**
+
+![gambar](FaxMasuk/FM_Teams/FM34.png)
+
+4. Sistem menampilkan form disposisi. Isikan informasi disposisi dan perintah untuk masing - masing penerima disposisi.
+
+![gambar](FaxMasuk/FM_Teams/FM35.png)
+
+5. Klik **Save** untuk menyimpan draft disposisi fax masuk dan fax masuk akan tersimpan di menu **"Draft - Surat masuk"**. Klik **Send** untuk mengirim disposisi ketujuan dan disposisi surat masuk akan tersimpan di menu **"Outbox - Disposisi"**.
+

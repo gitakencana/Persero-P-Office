@@ -39,3 +39,8 @@ Pada tab *Tracking* fax masuk, ditampilkan informasi *tracking* fax masuk dalam 
 Pada tab *History* fax masuk, ditampilkan riwayat fax masuk yang terdapat informasi jabatan, tanggal, tindakan dan komentar
 
 ![gambar](SC_FaxMasuk/FM43.png)
+
+
+## **P-Office Versi Teams**
+
+Langkah - langkah untuk melihat informasi disposisi fax masuk via Teams adalah sebagai berikut:

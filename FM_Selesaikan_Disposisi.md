@@ -23,3 +23,7 @@
 ![gambar](SC_FaxMasuk/FM49.png)
 
 5. Sistem menyimpan perubahan dan informasi selesai disposisi akan tersimpan di detail disposisi.
+
+## **P-Office Versi Teams**
+
+Langkah - langkah untuk selesaikan disposisi fax masuk via Teams adalah sebagai berikut:

@@ -15,3 +15,7 @@
 
 Fax masuk yang sudah di-*recall* akan tersimpan di menu "**Draft - Disposisi**" penerima fax masuk / pendisposisi
 
+## **P-Office Versi Teams**
+
+Langkah - langkah untuk recall disposisi fax masuk via Teams adalah sebagai berikut:
+

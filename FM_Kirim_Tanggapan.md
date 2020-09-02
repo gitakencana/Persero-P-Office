@@ -23,3 +23,7 @@
 ![gambar](SC_FaxMasuk/FM53.png)
 
 5. Sistem menyimpan perubahan dan informasi tanggapan disposisi akan tersimpan di detail disposisi.
+
+## **P-Office Versi Teams**
+
+Langkah - langkah untuk kirim tanggapan fax masuk via Teams adalah sebagai berikut:
