@@ -7,15 +7,15 @@
 
 1. Klik menu **Inbox** dan pilih tab **Surat Keluar**
 
-![gambar](SC_Surat_Keluar/SK38.png)
+![gambar](SuratKeluar/SK_Web/SK38.png)
 
 2. Pilih surat keluar yang akan ditindak lanjuti kemudian pilih tab **Detail**
 
-![gambar](SC_Surat_Keluar/SK39.png)
+![gambar](SuratKeluar/SK_Web/SK39.png)
 
-3. Klik tombol **Kembalikan ke Sebelumnya** dan pilih **Send**. Isikan komentar jika diperlukan
+3. Klik tombol **Revise Previous** dan pilih **Send**. Isikan komentar jika diperlukan
 
-![gambar](SC_Surat_Keluar/SK40.png)
+![gambar](SuratKeluar/SK_Web/SK40.png)
 
 4. Sistem berhasil menyimpan perubahan. Surat keluar yang sudah di kirim akan tersimpan di menu **Outbox- Surat keluar** dan penerima pengembalian surat keluar akan menerima surat keluar di menu **Draft - Surat keluar**
 

@@ -2,7 +2,11 @@
 
 - Sekretaris
 
-Sekretaris dapat menambah surat masuk pada aplikasi P-Office. Langkah-langkah untuk menambah surat masuk adalah sebagai berikut.
+Sekretaris dapat menambah surat masuk pada aplikasi P-Office. 
+
+## **P-Office Versi Web**
+
+Langkah-langkah untuk menambah surat masuk via Web adalah sebagai berikut.
 
 1.	Klik menu **New Correspondence**
 

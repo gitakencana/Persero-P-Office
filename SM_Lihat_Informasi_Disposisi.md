@@ -4,7 +4,11 @@
 - *Reviewer User*
 - *Member User* (Pekerja) 
 
-_User_ dapat melihat informasi lengkap disposisi surat masuk pada detail disposisi. Langkah-langkah untuk melihat informasi disposisi surat masuk adalah sebagai berikut.
+_User_ dapat melihat informasi lengkap disposisi surat masuk pada detail disposisi
+
+## **P-Office Versi Web**
+
+Langkah - langkah untuk melihat informasi lengkap via Web yaitu :
 
 1. Klik menu **Disposisi** dan pilih tab **Surat Masuk.** Pilih salah satu disposisi surat masuk yang akan dilihat informasinya
 

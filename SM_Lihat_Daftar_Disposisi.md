@@ -4,7 +4,11 @@
 - *Reviewer User*
 - *Member User* (Pekerja) 
 
-User dapat melihat daftar disposisi surat masuk pada pada menu **Disposisi**. Langkah - langkah untuk melihat daftar disposisi surat masuk adalah sebagai berikut
+User dapat melihat daftar disposisi surat masuk pada pada menu **Disposisi**. 
+
+## **P-Office Versi Web**
+
+Langkah - langkah untuk melihat daftar disposisi surat masuk via Web adalah sebagai berikut
 
 1.	Klik menu **Disposition** dan pilih tab **Surat Masuk**
 
