@@ -9,3 +9,10 @@
 1. Klik menu **Inbox / Draft / Outbox** dan pilih tab **SPPTH**
 
 ![gambar](SC_SPPTH/TH01.png)
+
+
+
+## **P-Office Versi Teams**
+
+
+Langkah - langkah untuk lihat daftar SPPTH via Teams yaitu :

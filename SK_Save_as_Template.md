@@ -11,19 +11,19 @@
 
 1. Isi *form* surat keluar dan klik **Save as Template**
 
-![gambar](SC_Surat_Keluar/SK14.png)
+![gambar](SuratKeluar/SK_Web/SK14.png)
 
 2. Surat keluar yang disimpan menjadi *template* akan tersimpan di menu **"Draft - Surat Keluar"**. Untuk melanjutkan *template* yang sudah dibuat *user* dapat memilih menu **"Draft - Surat Keluar"** kemudian pilih *template* yang akan digunakan
 
-![gambar](SC_Surat_Keluar/SK15.png)
+![gambar](SuratKeluar/SK_Web/SK15.png)
 
 3. Pilih tombol ***User* Template** untuk melanjutkan edit surat
 
-![gambar](SC_Surat_Keluar/SK16.png)
+![gambar](SuratKeluar/SK_Web/SK16.png)
 
 4. Sistem akan menampilkan form **Edit Correspondence**, klik **Simpan** untuk menyimpan perubahan
 
-![gambar](SC_Surat_Keluar/SK17.png)
+![gambar](SuratKeluar/SK_Web/SK17.png)
 
 5. Lakukan perubahan pada surat, klik **Simpan** untuk menyimpan perubahan dan surat akan tersimpan di menu **"Draft - Surat Keluar"** sebagai draft atau klik **Send** untuk mengirimkan ke pejabat tujuan dan tersimpan di menu **"Outbox - Surat Keluar"**.
 
@@ -57,3 +57,21 @@ Langkah – langkah untuk mengirim surat keluar adalah sebagai berikut:
 ![gambar](SuratKeluar/SK_Android/TempSK\A09.jpg) ![gambar](SuratKeluar/SK_Android/TempSK\A10.jpg)
 
 5. Lakukan perubahan pada surat, klik **Simpan** untuk menyimpan perubahan dan surat akan tersimpan di menu **“Draft – Surat Keluar”** sebagai draft atau klik **Send** untuk mengirimkan ke pejabat tujuan dan tersimpan di menu **“Outbox – Surat Keluar”.**
+## **P-Office Versi Teams**
+
+
+Langkah - langkah untuk save as template via Teams yaitu :
+
+ 1.	Isi form surat keluar dan klik **Save Template**
+ ![gambar](SuratKeluar/SK_Teams/SK15.png)
+
+ 2.	Surat keluar yang disimpan menjadi template akan tersimpan di menu **“Draft – Surat Keluar”**. Untuk melanjutkan template yang sudah dibuat user dapat memilih menu **“Draft – Surat Keluar”** kemudian pilih template yang akan digunakan
+ ![gambar](SuratKeluar/SK_Teams/SK16.png)
+
+ 3.	Pilih tombol **Use Template** untuk melanjutkan edit surat
+ ![gambar](SuratKeluar/SK_Teams/SK17.png)
+
+ 4.	Sistem akan menampilkan form Edit Correspondence, klik **Save** untuk menyimpan perubahan
+ ![gambar](SuratKeluar/SK_Teams/SK18.png)
+
+ 5.	Lakukan perubahan pada surat, klik **Save** untuk menyimpan perubahan dan surat akan tersimpan di menu **“Draft – Surat Keluar”** sebagai draft atau klik **Send** untuk mengirimkan ke pejabat tujuan dan tersimpan di menu **“Outbox – Surat Keluar”**.

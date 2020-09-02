@@ -6,19 +6,19 @@
 
 1. Klik menu **Inbox** dan pilih tab **Surat Keluar**
 
-![gambar](SC_Surat_Keluar/SK47.png)
+![gambar](SuratKeluar/SK_Web/SK47.png)
 
 2. Pilih surat keluar yang akan ditindak lanjuti kemudian pilih tab **Detail**
 
-![gambar](SC_Surat_Keluar/SK48.png)
+![gambar](SuratKeluar/SK_Web/SK48.png)
 
 3. Klik tombol **Add Reviewer** dan pilih pejabat yang akan melakukan review dengan meng-klik tombol "+" pada field **Add Reviewer**
 
-![gambar](SC_Surat_Keluar/SK49.png)
+![gambar](SuratKeluar/SK_Web/SK49.png)
 
 4. Sistem akan menampilkan pejabat untuk dijadikan reviewer baru
 
-![gambar](SC_Surat_Keluar/SK50.png)
+![gambar](SuratKeluar/SK_Web/SK50.png)
 
 5. Pilih **Send** untuk mengirimkan kepada pejabat/reviewer yang dituju dan surat keluar akan tersimpan di menu **"Outbox - Surat Keluar"**. Untuk pejabat/reviewer baru akan menerima surat keluar di menu **"Inbox - Surat Keluar"**
 
@@ -51,3 +51,26 @@ Langkah-langkah untuk menambahkan Reviewer baru surat keluar adalah sebagai beri
 ![gambar](SuratKeluar/SK_Android/ReviewerSK\A07.jpg) ![gambar](SuratKeluar/SK_Android/ReviewerSK\A08.jpg)
 
 5. Pilih **Send** untuk mengirimkan kepada pejabat/reviewer yang dituju dan surat keluar akan tersimpan di menu “**Outbox - Surat Keluar**”. Untuk pejabat/reviewer baru akan menerima surat keluar di menu “**Inbox – Surat Keluar**”
+![gambar](SuratKeluar/SK_Web/SK51.png)
+
+
+
+## **P-Office Versi Teams**
+
+
+Langkah - langkah untuk tambah reviwer baru via Teams yaitu :
+
+ 1. Klik menu **Inbox** dan pilih tab **Surat Keluar**
+ ![gambar](SuratKeluar/SK_Teams/SK49.png)
+
+ 2.    Pilih surat keluar yang akan ditindak lanjuti kemudian pilih tab **Detail**
+ ![gambar](SuratKeluar/SK_Teams/SK50.png)
+ 
+ 3. Klik tombol **Add Reviewer** dan pilih pejabat yang akan melakukan review dengan meng-klik tombol �+� pada field **Add Reviewer**
+ ![gambar](SuratKeluar/SK_Teams/SK51.png)
+
+ 4.  Sistem akan menampilkan pejabat untuk dijadikan reviewer baru**
+ ![gambar](SuratKeluar/SK_Teams/SK52.png)
+
+ 5.  Pilih **Send** untuk mengirimkan kepada pejabat/reviewer yang dituju dan surat keluar akan tersimpan di menu **�Outbox - Surat Keluar�**. Untuk pejabat/reviewer baru akan menerima surat keluar di menu **�Inbox � Surat Keluar�**
+ ![gambar](SuratKeluar/SK_Teams/SK53.png)

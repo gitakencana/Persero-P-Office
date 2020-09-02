@@ -4,36 +4,40 @@
 - *Reviewer User*
 - *Member User* (Pekerja)
 
-_User_ dapat melihat informasi lengkap surat masuk termasuk _preview_ surat masuk, detail surat masuk, _tracking_ surat masuk dan _history_ surat masuk. Langkah-langkah untuk melihat informasi surat masuk adalah sebagai berikut.
+_User_ dapat melihat informasi lengkap surat masuk termasuk _preview_ surat masuk, detail surat masuk, _tracking_ surat masuk dan _history_ surat masuk. 
+
+## **P-Office Versi Web**
+
+Langkah-langkah untuk melihat informasi surat masuk via Web adalah sebagai berikut.
 
 1.    Klik menu **Inbox/Draft/Outbox** dan pilih tab **Surat Masuk.** Pilih salah satu surat masuk yang akan dilihat informasinya
 
-![gambar](SC_SuratMasuk/SM10.png)
+![gambar](SuratMasuk/SM_Web/SM08.png)
 
 
 ####   **Preview Surat Masuk**
 
 Pada tab **Preview Surat Masuk**, ditampilkan _preview_ surat masuk yang merupakan hasil unggahan yang diinputkan oleh sekretaris/konseptor.
 
-![gambar](SC_SuratMasuk/SM11.png)
+![gambar](SuratMasuk/SM_Web/SM09.png)
 
 ####   **Detail Surat Masuk**
 
 Pada tab **Detail Surat Masuk**, terdapat informasi asal surat, perihal, file lampiran, kategori surat, resume, rekomendasi, nomor surat, klasifikasi surat, tanggal surat dan tujuan.
 
-![gambar](SC_SuratMasuk/SM12.png)
+![gambar](SuratMasuk/SM_Web/SM10.png)
 
 ####   **Tracking Surat Masuk**
 
 Pada tab **Tracking Surat Masuk**, ditampilkan informasi _tracking_ surat masuk dalam bentuk _chart_
 
-![gambar](SC_SuratMasuk/SM13.png)
+![gambar](SuratMasuk/SM_Web/SM11.png)
 
 ####   **History Surat Masuk**
 
 Pada tab **History Surat Masuk**, ditampilkan riwayat surat masuk yang terdapat informasi jabatan, tanggal, tindakan dan komentar
 
-![gambar](SC_SuratMasuk/SM14.png)
+![gambar](SuratMasuk/SM_Web/SM12.png)
 
 
 ## **P-Office Versi Teams**
@@ -41,32 +45,34 @@ Pada tab **History Surat Masuk**, ditampilkan riwayat surat masuk yang terdapat 
 Langkah - langkah untuk Informasi surat masuk via Teams yaitu :
 
 1. Klik menu **Inbox/Draft/Outbox** dan pilih tab **Surat Masuk**. Pilih salah satu surat masuk yang akan dilihat informasinya
+
 ![gambar](SuratMasuk/SM_Teams/SM10.png)
 
-    - **Preview Surat Masuk**
+**Preview Surat Masuk**
 
-        Pada button **Preview Surat Masuk**, ditampilkan preview surat masuk yang merupakan hasil unggahan yang diinputkan oleh sekretaris/konseptor.
+Pada button **Preview Surat Masuk**, ditampilkan preview surat masuk yang merupakan hasil unggahan yang diinputkan oleh sekretaris/konseptor.
 
-        ![gambar](SuratMasuk/SM_Teams/SM11.png)
-        ![gambar](SuratMasuk/SM_Teams/SM12.png)
+![gambar](SuratMasuk/SM_Teams/SM11.png)
 
-    - **Detail Surat Masuk**
+![gambar](SuratMasuk/SM_Teams/SM12.png)
 
-        Pada tab **Detail Surat Masuk**, terdapat informasi asal surat, perihal, file lampiran, kategori surat, resume, rekomendasi, nomor surat, klasifikasi surat, tanggal surat dan tujuan.
+**Detail Surat Masuk**
 
-        ![gambar](SuratMasuk/SM_Teams/SM13.png)
+Pada tab **Detail Surat Masuk**, terdapat informasi asal surat, perihal, file lampiran, kategori surat, resume, rekomendasi, nomor surat, klasifikasi surat, tanggal surat dan tujuan.
 
-    - **Tracking Surat Masuk**
+![gambar](SuratMasuk/SM_Teams/SM13.png)
 
-        Pada tab **Tracking Surat Masuk**, ditampilkan informasi tracking surat masuk dalam bentuk chart
+**Tracking Surat Masuk**
 
-        ![gambar](SuratMasuk/SM_Teams/SM14.png)
+Pada tab **Tracking Surat Masuk**, ditampilkan informasi tracking surat masuk dalam bentuk chart
 
-    - **History Surat Masuk**
+![gambar](SuratMasuk/SM_Teams/SM14.png)
 
-        Pada tab **History Surat Masuk**, ditampilkan riwayat surat masuk yang terdapat informasi jabatan, tanggal, tindakan dan komentar
+ - **History Surat Masuk**
 
-        ![gambar](SuratMasuk/SM_Teams/SM15.png)
+ Pada tab **History Surat Masuk**, ditampilkan riwayat surat masuk yang terdapat informasi jabatan, tanggal, tindakan dan komentar
+
+![gambar](SuratMasuk/SM_Teams/SM15.png)
 
 ## **P-Office Versi Android**
 

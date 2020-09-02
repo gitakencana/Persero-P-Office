@@ -17,3 +17,10 @@
 ![gambar](SC_SPPTH/TH34.png)
 
 4. Sistem berhasil menyimpan perubahan. SPPTH yang sudah di tolak akan tersimpan di menu **Rejected - SPPTH**
+
+
+
+## **P-Office Versi Teams**
+
+
+Langkah - langkah untuk tolak SPPTH via Teams yaitu :

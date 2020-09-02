@@ -12,3 +12,11 @@
 ![gambar](SC_SPPTH/TH50.png)
 
 2. Sistem menampilkan riwayat SPPTH
+
+
+
+
+## **P-Office Versi Teams**
+
+
+Langkah - langkah untuk riwayat SPPTH via Teams yaitu :

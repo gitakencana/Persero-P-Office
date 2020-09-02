@@ -7,15 +7,15 @@
 
 1. Klik menu **Inbox** dan pilih tab **Surat Keluar**
 
-![gambar](SC_Surat_Keluar/SK52.png)
+![gambar](SuratKeluar/SK_Web/SK52.png)
 
 2. Pilih surat keluar yang akan ditindak lanjuti kemudian pilih tab **Detail**. Pada tab **Detail** terdapat informasi nomor surat yang masih bersifat sementara. Nomor inilah yang akan ter-*generate* jika user menyetujui surat keluar
 
-![gambar](SC_Surat_Keluar/SK53.png)
+![gambar](SuratKeluar/SK_Web/SK53.png)
 
 3. Klik **Setujui** kemudian pilih **Send**
 
-![gambar](SC_Surat_Keluar/SK54.png)
+![gambar](SuratKeluar/SK_Web/SK54.png)
 
 4. Sistem menyimpan perubahan dan nomor surat keluar akan ter-*generate* sesuai dengan nomor sementara pada detail. Surat keluar yang sudah diseyujui akan tersimpan di menu **"Outbox - Surat Keluar"** pengirim sedangkan surat keluar akan tersimpan di menu **"Inbox - Surat Keluar"** penerima
 
@@ -41,3 +41,18 @@ Langkah-langkah untuk melihat informasi surat keluar adalah sebagai berikut :
 ![gambar](SuratKeluar/SK_Android/NomorSK\A03.jpg) ![gambar](SuratKeluar/SK_Android/NomorSK\A04.jpg)
 
 5. Surat keluar yang sudah disetujui akan tersimpan di menu “**Outbox - Surat Keluar**” pengirim sedangkan surat keluar akan tersimpan di menu “**Inbox - Surat Keluar**” penerima.
+## **P-Office Versi Teams**
+
+
+Langkah - langkah untuk mengesahkan surat keluar via Teams yaitu :
+
+ 1. Klik menu **Inbox** dan pilih tab **Surat Keluar**
+ ![gambar](SuratKeluar/SK_Teams/SK54.png)
+
+ 2.    Pilih surat keluar yang akan ditindak lanjuti kemudian pilih tab **Detail**. Pada tab **Detail** terdapat informasi nomor surat yang masih bersifat sementara. Nomor inilah yang akan tergenerate jika user menyetujui surat keluar
+ ![gambar](SuratKeluar/SK_Teams/SK55.png)
+
+ 3.    Klik **Approve** kemudian pilih **Send**
+ ![gambar](SuratKeluar/SK_Teams/SK56.png)
+
+ 4.  Sistem menyimpan perubahan dan nomor surat keluar akan tergenerate sesuai dengan nomor sementara pada detail. Surat keluar yang sudah diseyujui akan tersimpan di menu **“Outbox - Surat Keluar”** pengirim sedangkan surat keluar akan tersimpan di menu **“Inbox - Surat Keluar”** penerima

@@ -7,18 +7,17 @@ Role yang sesuai
 
 1. Klik menu **Inbox** dan pilih tab **Surat keluar**
 
-![gambar](SC_Surat_Keluar/SK41.png)
+![gambar](SuratKeluar/SK_Web/SK41.png)
 
 2. Pilih surat keluar yang akan ditindak lanjuti kemudian pilih tab **Detail**
 
-![gambar](SC_Surat_Keluar/SK42.png)
+![gambar](SuratKeluar/SK_Web/SK42.png)
 
 3. Klik tombol **Kembalikan ke Konseptor** dan pilih **Send**. Isikan komentar jika diperlukan
 
-![gambar](SC_Surat_Keluar/SK43.png)
+![gambar](SuratKeluar/SK_Web/SK43.png)
 
 4. Sistem berhasil menyimpan perubahan. Surat keluar yang sudah di kirim akan tersimpan di menu **Outbox- Surat Keluar** dan konseptor akan menerima surat keluar di menu **Draft - Surat Keluar**
-
 
 
 
@@ -43,3 +42,17 @@ Langkah-langkah untuk melihat informasi surat keluar adalah sebagai berikut :
 ![gambar](SuratKeluar/SK_Android/KonsepSK\A05.jpg)
 
 4. Sistem berhasil menyimpan perubahan. Surat keluar yang sudah di kirim akan tersimpan di menu **Outbox- Surat Keluar**dan konseptor akan menerima surat keluar di menu **Draft – Surat Keluar**
+## **P-Office Versi Teams**
+
+Langkah - langkah untuk kembalikan konseptor via Teams yaitu :
+
+ 1.    Klik menu **Inbox** dan pilih tab **Surat Keluar**
+ ![gambar](SuratKeluar/SK_Teams/SK43.png)
+
+ 2.    Pilih surat keluar yang akan ditindak lanjuti kemudian pilih tab **Detail**
+ ![gambar](SuratKeluar/SK_Teams/SK44.png)
+
+ 3.    Klik tombol **Return Conceptor** dan pilih **Send**. Isikan komentar jika diperlukan
+ ![gambar](SuratKeluar/SK_Teams/SK45.png)
+
+ 4.    Sistem berhasil menyimpan perubahan. Surat keluar yang sudah di kirim akan tersimpan di menu **Outbox - Surat keluar** dan penerima pengembalian surat keluar akan menerima surat keluar di menu **Draft - Surat keluar**
