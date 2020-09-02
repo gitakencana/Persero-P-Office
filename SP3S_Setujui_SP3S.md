@@ -24,13 +24,16 @@
 
 Langkah - langkah untuk setujui SP3S via Teams yaitu :
 
- 1.    Klik menu **Inbox** dan pilih tab **SP3S**
- ![gambar](SP3S/SP3S_Teams/SP3S31.png)
+1. Klik menu **Inbox** dan pilih tab **SP3S**
 
- 2.    Pilih SP3S yang akan disetujui kemudian pilih tab **Detail**
- ![gambar](SP3S/SP3S_Teams/SP3S32.png)
+![gambar](SP3S/SP3S_Teams/SP3S31.png)
 
- 3.    Klik tombol **Appove** dan pilih **Send**. Isikan komentar jika diperlukan
- ![gambar](SP3S/SP3S_Teams/SP3S33.png)
+2. Pilih SP3S yang akan disetujui kemudian pilih tab **Detail**
 
- 4. Sistem berhasil menyimpan perubahan. SP3S yang sudah di kirim akan tersimpan di menu **Outbox – SP3S**
+![gambar](SP3S/SP3S_Teams/SP3S32.png)
+
+3. Klik tombol **Appove** dan pilih **Send**. Isikan komentar jika diperlukan
+
+![gambar](SP3S/SP3S_Teams/SP3S33.png)
+
+4. Sistem berhasil menyimpan perubahan. SP3S yang sudah di kirim akan tersimpan di menu **Outbox – SP3S**

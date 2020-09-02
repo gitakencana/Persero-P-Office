@@ -44,7 +44,7 @@ Langkah - langkah untuk Informasi surat masuk via Teams yaitu :
 
 ![gambar](SuratMasuk/SM_Teams/SM10.png)
 
-**Preview Surat Masuk**
+####   **Preview Surat Masuk**
 
 Pada button **Preview Surat Masuk**, ditampilkan preview surat masuk yang merupakan hasil unggahan yang diinputkan oleh sekretaris/konseptor.
 
@@ -52,21 +52,21 @@ Pada button **Preview Surat Masuk**, ditampilkan preview surat masuk yang merupa
 
 ![gambar](SuratMasuk/SM_Teams/SM12.png)
 
-**Detail Surat Masuk**
+####   **Detail Surat Masuk**
 
 Pada tab **Detail Surat Masuk**, terdapat informasi asal surat, perihal, file lampiran, kategori surat, resume, rekomendasi, nomor surat, klasifikasi surat, tanggal surat dan tujuan.
 
 ![gambar](SuratMasuk/SM_Teams/SM13.png)
 
-**Tracking Surat Masuk**
+####   **Tracking Surat Masuk**
 
 Pada tab **Tracking Surat Masuk**, ditampilkan informasi tracking surat masuk dalam bentuk chart
 
 ![gambar](SuratMasuk/SM_Teams/SM14.png)
 
- - **History Surat Masuk**
+- **History Surat Masuk**
 
- Pada tab **History Surat Masuk**, ditampilkan riwayat surat masuk yang terdapat informasi jabatan, tanggal, tindakan dan komentar
+Pada tab **History Surat Masuk**, ditampilkan riwayat surat masuk yang terdapat informasi jabatan, tanggal, tindakan dan komentar
 
 ![gambar](SuratMasuk/SM_Teams/SM15.png)
 

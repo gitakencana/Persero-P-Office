@@ -34,22 +34,26 @@ Pada tab *History* SP3S, ditampilkan riwayat SP3S yang terdapat informasi jabata
 
 Langkah - langkah untuk informasi lengkap SP3S via Teams yaitu :
 
-1.    Klik menu **Inbox/Draft/Outbox** dan pilih tab **SP3S**. Pilih salah satu SP3S yang akan dilihat informasinya
+1. Klik menu **Inbox/Draft/Outbox** dan pilih tab **SP3S**. Pilih salah satu SP3S yang akan dilihat informasinya
 ![gambar](SP3S/SP3S_Teams/SP3S26.png)
 
-       -  **Preview SP3S**
+#### **Preview SP3S**
 
-          Pada button **Preview SP3S**, ditampilkan preview SP3S yang sudah dibuat. Preview SP3S disesuaikan dengan template berdasarkan jenis surat
-          ![gambar](SP3S/SP3S_Teams/SP3S27.png)
-          ![gambar](SP3S/SP3S_Teams/SP3S28.png)
+Pada button **Preview SP3S**, ditampilkan preview SP3S yang sudah dibuat. Preview SP3S disesuaikan dengan template berdasarkan jenis surat
 
-      -  **Detail SP3S**
+![gambar](SP3S/SP3S_Teams/SP3S27.png)
 
-         Pada tab Detail SP3S, terdapat informasi nomor SP3S, jabatan PJS, Pejabat pengganti pertama, jangka waktu, pejabat pengganti kedua (jika ada), jangka waktu pejabat pengganti kedua (jika ada), task yang diizinkan dan task pengecualian
-         ![gambar](SP3S/SP3S_Teams/SP3S29.png)
+![gambar](SP3S/SP3S_Teams/SP3S28.png)
 
-      -  **History SP3S**
+#### **Detail SP3S**
 
-         Pada tab History SP3S, ditampilkan riwayat SP3S yang terdapat informasi jabatan, tanggal, tindakan dan komentar
-         ![gambar](SP3S/SP3S_Teams/SP3S30.png)
+Pada tab Detail SP3S, terdapat informasi nomor SP3S, jabatan PJS, Pejabat pengganti pertama, jangka waktu, pejabat pengganti kedua (jika ada), jangka waktu pejabat pengganti kedua (jika ada), task yang diizinkan dan task pengecualian
+
+![gambar](SP3S/SP3S_Teams/SP3S29.png)
+
+#### **History SP3S**
+
+Pada tab History SP3S, ditampilkan riwayat SP3S yang terdapat informasi jabatan, tanggal, tindakan dan komentar
+
+![gambar](SP3S/SP3S_Teams/SP3S30.png)
 

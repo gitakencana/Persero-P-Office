@@ -20,12 +20,12 @@ _User_ dapat melakukan _recall_ / tarik disposisi surat masuk yang sudah dikirim
 
 Langkah - langkah untuk recall disposisi via Teams yaitu :
 
-1.    Klik menu **Outbox** dan pilih tab **Disposisi**
+1. Klik menu **Outbox** dan pilih tab **Disposisi**
 
 ![gambar](SuratMasuk/SM_Teams/SM47.png)
 
-2.    Pilih surat masuk yang akan direcall kemudian klik tab **Detail** kemudian klik **Recall**
+2. Pilih surat masuk yang akan direcall kemudian klik tab **Detail** kemudian klik **Recall**
 
 ![gambar](SuratMasuk/SM_Teams/SM48.png)
 
-3.    Surat masuk yang sudah direcall akan tersimpan di menu “**Draft - Disposisi**” penerima fax masuk / pendisposisi
+3. Surat masuk yang sudah direcall akan tersimpan di menu “**Draft - Disposisi**” penerima fax masuk / pendisposisi

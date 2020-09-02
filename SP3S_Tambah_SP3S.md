@@ -80,65 +80,77 @@ Langkah - langkah untuk mengirim SP3S adalah sebagai berikut.
 Langkah - langkah untuk tambah SP3S via Teams yaitu :
 
 
- 1.    Klik menu **New Correspondence**
- ![gambar](SP3S/SP3S_Teams/SP3S02.png)
+1. Klik menu **New Correspondence**
+
+![gambar](SP3S/SP3S_Teams/SP3S02.png)
 
 
- 2.    Pilih jenis surat **“SP3S”**
- ![gambar](SP3S/SP3S_Teams/SP3S03.png)
+2. Pilih jenis surat **“SP3S”**
 
-3.    Isi form tambah SP3S. Terdapat beberapa aksi untuk menindaklanjuti SP3S yang sudah diisi formnya yaitu **Cancel SP3S** dan **Send SP3S.**
- ![gambar](SP3S/SP3S_Teams/SP3S04.png)
+![gambar](SP3S/SP3S_Teams/SP3S03.png)
 
+3. Isi form tambah SP3S. Terdapat beberapa aksi untuk menindaklanjuti SP3S yang sudah diisi formnya yaitu **Cancel SP3S** dan **Send SP3S.**
 
-        - **Simpan SP3S**
-
-          Langkah – langkah untuk menyimpan SP3S adalah sebagai berikut
+![gambar](SP3S/SP3S_Teams/SP3S04.png)
 
 
-         1.	Isi form SP3S kemudian klik **Save**
-         ![gambar](SP3S/SP3S_Teams/SP3S05.png)
-         ![gambar](SP3S/SP3S_Teams/SP3S06.png)
+#### **Simpan SP3S**
+
+ Langkah – langkah untuk menyimpan SP3S adalah sebagai berikut
 
 
-         2.	Sistem akan menampilkan tampilan preview SP3S dalam bentuk Word yang dapat di edit. Untuk melakukan editing terhadap isi surat klik **Edit Content** kemudian sistem akan menampilkan pop up konfirmasi Ubah Word Desktop atau Ubah Online
-         ![gambar](SP3S/SP3S_Teams/SP3S07.png)
+1.	Isi form SP3S kemudian klik **Save**
 
-         #### **[Edit] Word Desktop**
+![gambar](SP3S/SP3S_Teams/SP3S05.png)
 
-
-         Langkah – langkah untuk mengubah isi surat keluar melalui Word Desktop adalah sebagai berikut :
+![gambar](SP3S/SP3S_Teams/SP3S06.png)
 
 
-         1.	Klik **Open In Desktop App** untuk mengubah melalui aplikasi Microsoft Word
-         ![gambar](SP3S/SP3S_Teams/SP3S08.png)
+2.	Sistem akan menampilkan tampilan preview SP3S dalam bentuk Word yang dapat di edit. Untuk melakukan editing terhadap isi surat klik **Edit Content** kemudian sistem akan menampilkan pop up konfirmasi Ubah Word Desktop atau Ubah Online
 
-         2.	Lakukan perubahan pada isi surat. Klik **Close** pada aplikasi Isi surat akan otomatis tersimpan
-         ![gambar](SP3S/SP3S_Teams/SP3S09.png)
+![gambar](SP3S/SP3S_Teams/SP3S07.png)
 
-         #### **[Edit] Ubah Online**
-
-         Langkah – langkah untuk mengubah isi surat keluar secara online adalah sebagai berikut :
-
-         1.    Ketika Klik button **Edit Content** maka secara otomatis akan membuka dokumen dan bisa mengubah isi surat secara online
-         ![gambar](SP3S/SP3S_Teams/SP3S10.png)
+#### **[Edit] Word Desktop**
 
 
-         2.    Lakukan perubahan pada isi surat
-         ![gambar](SP3S/SP3S_Teams/SP3S11.png)
+Langkah – langkah untuk mengubah isi surat keluar melalui Word Desktop adalah sebagai berikut :
 
 
-         3.    Isi surat akan otomatis tersimpan. Jika surat akan disimpan sebagai draft, maka klik **Close**
-         ![gambar](SP3S/SP3S_Teams/SP3S12.png)
+1.	Klik **Open In Desktop App** untuk mengubah melalui aplikasi Microsoft Word
 
-         4.    Surat yang sudah selesai diubah maka akan tersimpan di menu **“Draft – Surat SP3S”**
+![gambar](SP3S/SP3S_Teams/SP3S08.png)
 
-        - **Kirim SP3S**
+2.	Lakukan perubahan pada isi surat. Klik **Close** pada aplikasi Isi surat akan otomatis tersimpan
 
-          Langkah – langkah untuk mengirim SP3S adalah sebagai berikut.
+![gambar](SP3S/SP3S_Teams/SP3S09.png)
+
+#### **[Edit] Ubah Online**
+
+Langkah – langkah untuk mengubah isi surat keluar secara online adalah sebagai berikut :
+
+1. Ketika Klik button **Edit Content** maka secara otomatis akan membuka dokumen dan bisa mengubah isi surat secara online
+
+![gambar](SP3S/SP3S_Teams/SP3S10.png)
 
 
-            1.	Pada tampilan preview SP3S, klik **Send** untuk mengirim surat ke pejabat tujuan
-            ![gambar](SP3S/SP3S_Teams/SP3S13.png)
+2. Lakukan perubahan pada isi surat
 
-            2.	Sistem menyimpan perubahan dan SP3S akan tersimpan di menu **“Outbox - SP3S”**
+![gambar](SP3S/SP3S_Teams/SP3S11.png)
+
+
+3. Isi surat akan otomatis tersimpan. Jika surat akan disimpan sebagai draft, maka klik **Close**
+
+![gambar](SP3S/SP3S_Teams/SP3S12.png)
+
+4. Surat yang sudah selesai diubah maka akan tersimpan di menu **“Draft – Surat SP3S”**
+
+#### **Kirim SP3S**
+
+ Langkah – langkah untuk mengirim SP3S adalah sebagai berikut.
+
+
+1.	Pada tampilan preview SP3S, klik **Send** untuk mengirim surat ke pejabat tujuan
+
+![gambar](SP3S/SP3S_Teams/SP3S13.png)
+
+2.	Sistem menyimpan perubahan dan SP3S akan tersimpan di menu **“Outbox - SP3S”**

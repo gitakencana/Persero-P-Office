@@ -22,10 +22,12 @@ SP3S yang masih berlaku akan non-aktif secara otomatis apabila sudah habis masa 
 
 Langkah - langkah untuk menonaktifkan SP3S via Teams yaitu :
 
- 1.    Klik menu **Inbox** dan pilih tab **SP3S**
+ 1. Klik menu **Inbox** dan pilih tab **SP3S**
+
  ![gambar](SP3S/SP3S_Teams/SP3S49.png)
 
- 2.    Pilih SP3S yang akan dinon-aktifkan kemudian pilih icon **Disable.**
+ 2. Pilih SP3S yang akan dinon-aktifkan kemudian pilih icon **Disable.**
+ 
  ![gambar](SP3S/SP3S_Teams/SP3S50.png)
 
  3. SP3S yang sudah tidak aktif akan tersimpan di menu “**Outbox – SP3S**” approver. Untuk pejabat PJS dan pejabat yang meninggalkan tempat, surat akan tersimpan di menu **“Inbox – SP3S”**

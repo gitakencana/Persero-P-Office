@@ -28,7 +28,7 @@ Langkah - langkah untuk drafting surat masuk via Teams yaitu:
 
 ![gambar](SuratMasuk/SM_Teams/SM06.png)
 
-2. Pilih surat masuk yang akan diubah. Pilih tab **Detail** kemudian klik _**Edit**_
+2. Pilih surat masuk yang akan diubah. Pilih tab **Detail** kemudian klik **Edit**
 
 ![gambar](SuratMasuk/SM_Teams/SM07.png)
 

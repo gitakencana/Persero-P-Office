@@ -29,24 +29,24 @@ Langkah-langkah untuk menolak surat masuk adalah sebagai berikut
 
 Langkah - langkah untuk tolak surat masuk via Teams yaitu :
 
-1.    Klik menu **Inbox** dan pilih tab **Surat Masuk**
+1. Klik menu **Inbox** dan pilih tab **Surat Masuk**
 
 ![gambar](SuratMasuk/SM_Teams/SM16.png)
 
-2.    Pilih surat masuk yang akan ditolak kemudian pilih tab **Detail**
+2. Pilih surat masuk yang akan ditolak kemudian pilih tab **Detail**
 
 ![gambar](SuratMasuk/SM_Teams/SM17.png)
 
-3.    Klik tombol **Reject** dan pilih **Send**. Isikan komentar jika diperlukan
+3. Klik tombol **Reject** dan pilih **Send**. Isikan komentar jika diperlukan
 
 ![gambar](SuratMasuk/SM_Teams/SM18.png)
 
 
-4.    Sistem menampilkan pop up konfirmasi dan user harus mengisi keterangan tolak disposisi surat masuk kemudian klik **Save**
+4. Sistem menampilkan pop up konfirmasi dan user harus mengisi keterangan tolak disposisi surat masuk kemudian klik **Save**
 
 ![gambar](SuratMasuk/SM_Teams/SM19.png)
 
-5.    Sistem menyimpan perubahan dan informasi tolak surat masuk. Surat masuk yang sudah ditolak akan tersimpan di menu “**Rejected – Surat Masuk”** user penolak dengan label **Rejected**
+5. Sistem menyimpan perubahan dan informasi tolak surat masuk. Surat masuk yang sudah ditolak akan tersimpan di menu “**Rejected – Surat Masuk”** user penolak dengan label **Rejected**
 
 ## **P-Office Versi Android**
 
