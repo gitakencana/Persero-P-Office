@@ -39,3 +39,13 @@ Pada tab *Tracking* fax masuk, ditampilkan informasi *tracking* fax masuk dalam 
 Pada tab *History* fax masuk, ditampilkan riwayat fax masuk yang terdapat informasi jabatan, tanggal, tindakan dan komentar
 
 ![gambar](SC_FaxMasuk/FM43.png)
+
+
+
+
+
+
+
+## **P-Office Versi Android**
+
+Langkah-langkah untuk menolak fax masuk adalah sebagai berikut :

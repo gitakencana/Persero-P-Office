@@ -26,3 +26,14 @@ _User_ dapat melihat dokumen surat keluar pada menu _Archive_. Langkah – langk
 ![gambar](Archive/AR_Teams/AR03.png)
 
  2.  Sistem menampilkan dokumen surat keluar yang tersimpan di menu _Archive_
+
+## **P-Office Versi Android**
+
+Langkah - langkah untuk melihat daftar dokumem Memorandum via Android yaitu :
+
+
+1. Klik menu **Archive** pilih submenu **Surat Keluar**
+   
+![gambar](Archive/AR_Android/MM\A01.jpg) ![gambar](Archive/AR_Android/M\A02.jpg)
+
+2. Sistem menampilkan dokumen surat keluar yang tersimpan di menu **Archive**

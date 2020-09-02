@@ -44,3 +44,47 @@
 ![gambar](SC_Memorandum/MM62.png)
 
 5. Klik **Simpan** untuk menyimpan draft disposisi memorandum dan memorandum akan tersimpan di menu **"Draft - Memorandum"**. Klik **Send** untuk mengirim disposisi ketujuan dan disposisi memorandum akan tersimpan di menu **"Outbox - Disposisi"**.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## **P-Office Versi Android**
+
+Langkah-langkah untuk mendisposisikan Memorandum adalah sebagai berikut :
+
+**Disposisi melalui Menu Inbox**
+
+1. Klik menu **Inbox** dan pilih tab **Memorandum**
+
+![gambar](Memorandum/MM_Android/Disposisimemo\A01.jpg) ![gambar](Memorandum/MM_Android/Disposisimemo\A02.jpg)
+
+2. Pilih memorandum yang akan didisposisikan kemudian pilih ikon **tombol button**
+
+![gambar](Memorandum/MM_Android/Disposisimemo\A03.jpg) ![gambar](Memorandum/MM_Android/Disposisimemo\A04.jpg)
+
+3. Klik tombol **Disposisi** kemudian sistem akan menampilkan form disposisi. Isikan informasi disposisi dan perintah untuk masing-masing penerima disposisi.
+
+![gambar](Memorandum/MM_Android/Disposisimemo\A05.jpg) ![gambar](Memorandum/MM_Android/Disposisimemo\A06.jpg)
+
+4. Klik **Simpan** untuk menyimpan draft disposisi memorandum dan memorandum akan tersimpan di menu “**Draft – Memorandum**”. Klik **Send** untuk mengirim disposisi ketujuan dan disposisi memorandum akan tersimpan di menu “**Outbox – Disposisi**”.
+
+![gambar](Memorandum/MM_Android/Disposisimemo\A07.jpg)

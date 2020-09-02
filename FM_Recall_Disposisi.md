@@ -15,3 +15,44 @@
 
 Fax masuk yang sudah di-*recall* akan tersimpan di menu "**Draft - Disposisi**" penerima fax masuk / pendisposisi
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## **P-Office Versi Android**
+
+Langkah-langkah untuk Recaall Fax masuk adalah sebagai berikut :
+
+1. Klik menu **Outbox** dan pilih tab **Disposisi**
+
+![gambar](Faxmasuk/FM_Android/Recalldisposisi\A01.jpg) ![gambar](Faxmasuk/FM_Android/Recalldisposisi\A02.jpg)
+
+2. Pilih fax masuk yang akan di-_recall_ ,pada tab **Detail** pilih ikon **tombol button** kemudian **_Recall_.**
+
+![gambar](Faxmasuk/FM_Android/Recalldisposisi\A03.jpg) ![gambar](Faxmasuk/FM_Android/Recalldisposisi\A04.jpg)
+
+3. Sistem menampilkan pop up **Recall** lalu klik **Recall** Fax masuk yang sudah di-_recall_ akan tersimpan di menu “**Draft - Disposisi**” penerima fax masuk / pendisposisi
+
+![gambar](Faxmasuk/FM_Android/Recalldisposisi\A05.jpg)

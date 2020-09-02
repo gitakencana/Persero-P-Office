@@ -22,3 +22,16 @@ Langkah - langkah untuk melihat daftar dokumem memorandum via Teams yaitu :
 ![gambar](Archive/AR_Teams/AR02.png)
 
  2. Sistem menampilkan dokumen memorandum yang tersimpan di menu _Archive_
+
+
+
+## **P-Office Versi Android**
+
+Langkah - langkah untuk melihat daftar dokumem Memorandum via Android yaitu :
+
+
+1. Klik menu **Archive** pilih submenu **Memorandum**
+   
+![gambar](Archive/AR_Android/MM\A01.jpg) ![gambar](Archive/AR_Android/MM\A02.jpg)
+
+1. Sistem menampilkan dokumen memorandum yang tersimpan di menu **Archive**
