@@ -52,23 +52,23 @@ Langkah-langkah untuk Drafting surat masuk adalah sebagai berikut.
 
 1. Klik menu **Draft** dan pilih tab **Surat Masuk**
 
-![gambar](SuratMasuk/SM_Android/1.Melakukan drafting surat masuk\A01.jpg
+![gambar](SuratMasuk/SM_Android/DraftSM\A01.jpg
   
-![gambar](SuratMasuk/SM_Android/1.Melakukan drafting surat masuk\A02.jpg)
+![gambar](SuratMasuk/SM_Android/DraftSM\A02.jpg)
 
 2. Pilih surat masuk yang akan diubah. Pilih **ikon tombol button ** kemudian klik **Edit**
 
-![gambar](SuratMasuk/SM_Android/1.Melakukan drafting surat masuk\A03.jpg)
+![gambar](SuratMasuk/SM_Android/DraftSM\A03.jpg)
 
-![gambar](SuratMasuk/SM_Android/1.Melakukan drafting surat masuk\A04.jpg)
+![gambar](SuratMasuk/SM_Android/DraftSM\A04.jpg)
 
-![gambar](SuratMasuk/SM_Android/1.Melakukan drafting surat masuk\A05.jpg)
+![gambar](SuratMasuk/SM_Android/DraftSM\A05.jpg)
 
 3. Sistem akan menampilkan _form_ **Edit**
 
-![gambar](SuratMasuk/SM_Android/1.Melakukan drafting surat masuk\A06.jpg)
+![gambar](SuratMasuk/SM_Android/DraftSM\A06.jpg)
 
-![gambar](SuratMasuk/SM_Android/1.Melakukan drafting surat masuk\A07.jpg)
+![gambar](SuratMasuk/SM_Android/DraftSM\A07.jpg)
 
 
 4. Lakukan perubahan pada _form_. Klik **Send Mail **untuk mengirim surat masuk ke pejabat tujuan. Surat yang terkirim akan tersimpan di menu “**Outbox – Surat Masuk”**
