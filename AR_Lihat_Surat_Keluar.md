@@ -35,7 +35,7 @@ Langkah - langkah untuk melihat daftar dokumem Memorandum via Android yaitu :
 
 1. Klik menu **Archive** pilih submenu **Surat Keluar**
    
-![gambar](Archive/AR_Android/MM/A01.jpg) ![gambar](Archive/AR_Android/M/A02.jpg)
+![gambar](Archive/AR_Android/MM/A01.jpg) ![gambar](Archive/AR_Android/MM/A02.jpg)
 
 2. Sistem menampilkan dokumen surat keluar yang tersimpan di menu **Archive**
 2.  Sistem menampilkan dokumen surat keluar yang tersimpan di menu Archive
