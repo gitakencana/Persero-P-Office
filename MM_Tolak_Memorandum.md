@@ -21,21 +21,23 @@
 
 4. Sistem berhasil menyimpan perubahan. Memorandum yang sudah di tolak akan terhapus dari aplikasi secara *soft delete*.
 
+## **P-Office Versi Teams**
 
+Langkah-langkah untuk melihat menolak Memorandum via Teams adalah sebagai berikut :
 
+1. Klik menu **Inbox** dan pilih tab **Memorandum**
 
+![gambar](Memorandum/MM_Teams/MM45.png)
 
+2. Pilih memorandum yang akan ditindak lanjuti kemudian pilih tab **Detail**
 
+![gambar](Memorandum/MM_Teams/MM46.png)
 
+3. Klik tombol **Reject** dan pilih **Send**. Isikan komentar jika diperlukan
 
+![gambar](Memorandum/MM_Teams/MM47.png)
 
-
-
-
-
-
-
-
+4.	Sistem berhasil menyimpan perubahan. Memorandum yang sudah di tolak akan terhapus dari aplikasi akan tersimpan di menu **“Rejected – Memorandum”** user penolak dengan label **Rejected**.
 
 ## **P-Office Versi Android**
 

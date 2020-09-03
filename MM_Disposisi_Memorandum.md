@@ -27,7 +27,7 @@
 
 ####	Disposisi melalui Menu Inbox
 
-1. Klik menu **Disposisi** dan pilih tab **Memorandum**
+1. Klik menu **Disposition** dan pilih tab **Memorandum**
 
 ![gambar](SC_Memorandum/MM59.png)
 
@@ -35,7 +35,7 @@
 
 ![gambar](SC_Memorandum/MM60.png)
 
-3. Klik tombol **Disposisi** dan pilih **Send**
+3. Klik tombol **Disposition** dan pilih **Send**
 
 ![gambar](SC_Memorandum/MM61.png)
 
@@ -45,27 +45,49 @@
 
 5. Klik **Simpan** untuk menyimpan draft disposisi memorandum dan memorandum akan tersimpan di menu **"Draft - Memorandum"**. Klik **Send** untuk mengirim disposisi ketujuan dan disposisi memorandum akan tersimpan di menu **"Outbox - Disposisi"**.
 
+## **P-Office Versi Teams**
 
+Langkah-langkah untuk mendisposisi Memorandum via Teams adalah sebagai berikut :
 
+####	**Disposisi melalui Menu Inbox**
 
+1. Klik menu **Inbox** dan pilih tab **Memorandum**
 
+![gambar](Memorandum/MM_Teams/MM56.png)
 
+2. Pilih memorandum yang akan didisposisikan kemudian pilih tab **Detail**
 
+![gambar](Memorandum/MM_Teams/MM57.png)
 
+3. Klik tombol **Disposition** dan pilih **Send**
 
+![gambar](Memorandum/MM_Teams/MM58.png)
 
+4. Sistem menampilkan form disposisi. Isikan informasi disposisi dan perintah untuk masing-masing penerima disposisi.
 
+![gambar](Memorandum/MM_Teams/MM59.png)
 
+5. Klik **Save** untuk menyimpan draft disposisi memorandum dan memorandum akan tersimpan di menu **"Draft - Memorandum"**. Klik **Send** untuk mengirim disposisi ketujuan dan disposisi memorandum akan tersimpan di menu **"Outbox - Disposisi"**.
 
+####	**Disposisi melalui Menu Inbox**
 
+1. Klik menu **Disposition** dan pilih tab **Memorandum**
 
+![gambar](Memorandum/MM_Teams/MM60.png)
 
+2. Pilih memorandum yang akan didisposisikan kemudian pilih tab **Detail**
 
+![gambar](Memorandum/MM_Teams/MM61.png)
 
+3. Klik tombol **Disposition** dan pilih **Send**
 
+![gambar](Memorandum/MM_Teams/MM62.png)
 
+4. Sistem menampilkan form disposisi. Isikan informasi disposisi dan perintah untuk masing-masing penerima disposisi.
 
+![gambar](Memorandum/MM_Teams/MM63.png)
 
+5. Klik **Save** untuk menyimpan draft disposisi memorandum dan memorandum akan tersimpan di menu **"Draft - Memorandum"**. Klik **Send** untuk mengirim disposisi ketujuan dan disposisi memorandum akan tersimpan di menu **"Outbox - Disposisi"**.
 
 ## **P-Office Versi Android**
 

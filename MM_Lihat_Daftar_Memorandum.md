@@ -12,20 +12,13 @@
 
 
 
+## **P-Office Versi Teams**
 
+Langkah-langkah untuk melihat informasi Memorandum ke konseptor via Teams adalah sebagai berikut :
 
+1. Klik menu **Inbox / Draft / Outbox** dan pilih tab **Memorandum**
 
-
-
-
-
-
-
-
-
-
-
-
+![gambar](Memorandum/MM_Teams/MM01.png)
 
 ## **P-Office Versi Android**
 

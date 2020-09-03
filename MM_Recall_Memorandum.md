@@ -13,29 +13,17 @@
 
 ![gambar](SC_Memorandum/MM80.png)
 
+## **P-Office Versi Teams**
 
+Langkah-langkah untuk recall Memorandum via Teams adalah sebagai berikut :
 
+1. Klik menu **Outbox** dan pilih tab **Disposisi**
 
+![gambar](Memorandum/MM_Teams/MM80.png)
 
+2. Pilih memorandum yang akan di-recall kemudian klik tab **Detail** kemudian klik ***Recall***. Memorandum yang sudah di-*recall* akan tersimpan di menu **"Draft - Disposisi"**
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![gambar](Memorandum/MM_Teams/MM81.png)
 
 ## **P-Office Versi Android**
 
