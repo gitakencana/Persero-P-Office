@@ -10,19 +10,14 @@
 
 ![gambar](SC_Surat_Keluar/SK01.png)
 
+### **P-Office Versi Teams**
 
+Langkah - langkah untuk daftar surat keluar via Teams yaitu :
 
+1.	Klik menu **Inbox / Draft / Outbox** dan pilih tab **Surat Keluar**
 
-
-
-
-
-
-
-
-
-
-
+ ![gambar](SuratKeluar/SK_Teams/SK01.png)
+ 
 
 ## **P-Office Versi Android**
 
@@ -35,10 +30,4 @@ Langkah - langkah untuk melihat daftar surat keluar via Android yaitu:
 ![gambar](SuratKeluar/SK_Web/SK01.png)
 
 
-### **P-Office Versi Teams**
 
-Langkah - langkah untuk daftar surat keluar via Teams yaitu :
-
-1.	Klik menu **Inbox / Draft / Outbox** dan pilih tab **Surat Keluar**
-
- ![gambar](SuratKeluar/SK_Teams/SK01.png)
