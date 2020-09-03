@@ -7,19 +7,21 @@ Langkah - langkah untuk menolak memorandum adalah sebagai berikut
 
 1. Klik menu **Inbox** dan pilih tab **Memorandum**
 
-![gambar](SC_Memorandum/MM75.png)
+![gambar](Memorandum/MM_Web/MM-80.png)
 
 2. Pilih memorandum yang akan ditolak kemudian pilih tab **Detail**
 
-![gambar](SC_Memorandum/MM76.png)
+![gambar](Memorandum/MM_Web/MM-81.png)
 
 3. Klik tombol **Reject** dan pilih **Send**. Isikan komentar jika diperlukan
 
-![gambar](SC_Memorandum/MM77.png)
+![gambar](Memorandum/MM_Web/MM-85.png)
+
+![gambar](Memorandum/MM_Web/MM-87.png)
 
 4. Sistem menampilkan pop up konfirmasi dan user harus mengisi keterangan tolak disposisi memorandum kemudian klik **Save**.
 
-![gambar](SC_Memorandum/MM78.png)
+![gambar](Memorandum/MM_Web/MM-83.png)
 
 5.	Sistem menyimpan perubahan dan disposisi memorandum yang sudah ditolak akan otomatis terhapus akan tersimpan di menu **“Rejected – Memorandum”** user penolak dengan label **Rejected**.
 

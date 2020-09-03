@@ -7,7 +7,7 @@
 
 1. Klik menu **Inbox** dan pilih tab **Fax Keluar**
 
-![gambar](SC_FaxKeluar/FK44.png)
+![gambar](FaxKeluar/FK_Web/FK_44.png)
 
 2. Pilih fax keluar yang akan ditindak lanjuti kemudian pilih tab **Detail**
 

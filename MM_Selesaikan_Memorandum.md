@@ -8,19 +8,21 @@
 
 1. Klik menu **Inbox** dan pilih tab **Memorandum**
 
-![gambar](SC_Memorandum/MM81.png)
+![gambar](Memorandum/MM_Web/MM-84.png)
 
 2. Pilih memorandum yang akan diselesaikan kemudian pilih tab **Detail**
 
-![gambar](SC_Memorandum/MM82.png)
+![gambar](Memorandum/MM_Web/MM-85.png)
 
 3. Pilih tombol **Finish** kemudian klik **Send**
 
-![gambar](SC_Memorandum/MM83.png)
+![gambar](Memorandum/MM_Web/MM-85.png)
+
+![gambar](Memorandum/MM_Web/MM-87.png)
 
 4. Sistem menampilkan pop up konfirmasi dan user harus mengisi keterangan selesaikan disposisi kemudian klik **Save**.
 
-![gambar](SC_Memorandum/MM84.png)
+![gambar](Memorandum/MM_Web/MM-88.png)
 
 5. Sistem menyimpan perubahan dan informasi selesai disposisi akan tersimpan di detail disposisi.
 

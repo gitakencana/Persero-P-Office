@@ -8,8 +8,7 @@
 
 1. Klik menu **Inbox / Draft / Outbox** dan pilih tab **Memorandum**
 
-![gambar](SC_Memorandum/MM01.png)
-
+![gambar](Memorandum/MM_Web/MM-1.png)
 
 
 ## **P-Office Versi Teams**

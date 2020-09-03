@@ -11,56 +11,57 @@ Konseptor dapat menambah memorandum pada aplikasi P-Office. Langkah - langkah un
 
 1. Klik menu New **Correspondence**
 
-![gambar](SC_Memorandum/MM02.png)
+![gambar](Memorandum/MM_Web/MM-2.png)
 
 2. Pilih jenis surat **"Memorandum"**
 
-![gambar](SC_Memorandum/MM03.png)
+![gambar](Memorandum/MM_Web/MM-3.png)
 
 3. Isi *form* tambah memorandum. Terdapat bebarapa aksi untuk menindaklanjuti memorandum yang sudah diisi *form*nya yaitu **Simpan Memorandum**, **Kirim Memorandum** dan **Save as Template Memorandum**.
 
-![gambar](SC_Memorandum/MM04.png)
-![gambar](SC_Memorandum/MM05.png)
+![gambar](Memorandum/MM_Web/MM-4.png)
+
+![gambar](Memorandum/MM_Web/MM-5.png)
 
 #### Simpan Memorandum
 
 Langkah - langkah untuk menyimpan memorandum adalah sebagai berikut
 
-1. Isi *form* memorandum kemudian klik **Simpan**
+1. Isi *form* memorandum kemudian klik **Save**
 
-![gambar](SC_Memorandum/MM06.png)
+![gambar](Memorandum/MM_Web/MM-6.png)
 
 2. Sistem akan menampilkan tampilan *preview* memorandum dalam bentuk Word yang dapat di edit. Untuk melakukan *editing* terhadap isi surat klik **Ubah Isi** kemudian sistem akan menampilkan *pop up* konfirmasi **Ubah Word** Desktop atau **Ubah Online**
 
-![gambar](SC_Memorandum/CR02.png)
+![gambar](Memorandum/MM_Web/MM-7.png)
 
 ##### [Edit] Word Desktop
 
 Langkah - langkah untuk mengubah isi memorandum melalui Word Desktop adalah sebagai berikut
 
-1. Klik **Ubah di Word** untuk mengubah melalui aplikasi Microsoft Word
+1. Klik **Edit di Word** untuk mengubah melalui aplikasi Microsoft Word
 
-![gambar](SC_Memorandum/CR03.png)
+![gambar](Memorandum/MM_Web/MM-8.png)
 
 2. Lakukan perubahan pada isi surat. Klik Close pada aplikasi dan isi surat akan otomatis tersimpan
 
-![gambar](SC_Memorandum/CR04.png)
+![gambar](Memorandum/MM_Web/MM-9.png)
 
 ##### [Edit] Ubah Online
 
 Langkah - langkah untuk mengubah isi memorandum secara online adalah sebagai berikut
 
-1. Klik **Ubah Online** untuk mengubah isi surat secara online
+1. Klik **Edit Online** untuk mengubah isi surat secara online
 
-![gambar](SC_Memorandum/CR05.png)
+![gambar](Memorandum/MM_Web/MM-10.png)
 
 2. Lakukan perubahan pada isi surat. Klik **Close** pada aplikasi
 
-![gambar](SC_Memorandum/CR06.png)
+![gambar](Memorandum/MM_Web/MM-11.png)
 
-3. Isi surat akan otomatis tersimpan. Jika surat akan disimpan sebagai draft, maka klik **Tutup**  
+3. Isi surat akan otomatis tersimpan. Jika surat akan disimpan sebagai draft, maka klik **Close**  
 
-![gambar](SC_Memorandum/CR07.png)
+![gambar](Memorandum/MM_Web/MM-12.png)
 
 4. Surat yang sudah selesai diubah maka akan tersimpan di menu **"Draft - Memorandum"**
 
@@ -70,7 +71,7 @@ Langkah - langkah untuk mengirim memorandum adalah sebagai berikut
 
 1. Pada tampilan *preview* memorandum, klik **Kirim** untuk mengirim surat ke pejabat tujuan
 
-![gambar](SC_Memorandum/CR08.png)
+![gambar](Memorandum/MM_Web/MM-13.png)
 
 2. Sistem menyimpan perubahan dan memorandum akan tersimpan di menu **"Outbox - Memorandum"**
 

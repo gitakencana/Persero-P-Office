@@ -8,19 +8,21 @@
 
 1. Klik menu **Disposition** dan pilih tab **Memorandum**
 
-![gambar](SC_Memorandum/MM85.png)
+![gambar](Memorandum/MM_Web/MM-84.png)
 
 2. Pilih memorandum yang akan diselesaikan kemudian pilih tab **Detail**
 
-![gambar](SC_Memorandum/MM86.png)
+![gambar](Memorandum/MM_Web/MM-85.png)
 
 3. Pilih tombol **Send Response** kemudian klik **Send**
 
-![gambar](SC_Memorandum/MM87.png)
+![gambar](Memorandum/MM_Web/MM-86.png)
+
+![gambar](Memorandum/MM_Web/MM-87.png)
 
 4. Sistem menampilkan pop up konfirmasi dan user harus mengisi keterangan kirim tanggapan disposisi kemudian klik **Save**.
 
-![gambar](SC_Memorandum/MM88.png)
+![gambar](Memorandum/MM_Web/MM-88.png)
 
 5. Sistem menyimpan perubahan dan informasi tanggapan disposisi akan tersimpan di detail disposisi.
 

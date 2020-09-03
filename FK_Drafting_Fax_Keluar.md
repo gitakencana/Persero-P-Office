@@ -8,11 +8,12 @@
 
 1. Klik menu **Draft** dan pilih tab **Fax Keluar**
 
-![gambar](FaxKeluar/FK_Web/FK1.png)
+![gambar](FaxKeluar/FK_Web/FK13.jpg)
+
 
 2. Pilih fax keluar yang akan diubah. Pilih tab **Detail** kemudian klik **Edit**
 
-![gambar](SC_FaxKeluar/FK19.png)
+![gambar](FaxKeluar/FK_Web/FK1.jpg)
 
 3. Sistem akan menampilkan *form* **Edit Correspondence**
 

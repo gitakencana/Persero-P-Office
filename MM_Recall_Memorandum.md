@@ -7,11 +7,11 @@
 
 1. Klik menu **Outbox** dan pilih tab **Disposisi**
 
-![gambar](SC_Memorandum/MM79.png)
+![gambar](Memorandum/MM_Web/MM-78.png)
 
 2. Pilih memorandum yang akan di-recall kemudian klik tab **Detail** kemudian klik ***Recall***. Memorandum yang sudah di-*recall* akan tersimpan di menu **"Draft - Disposisi"**
 
-![gambar](SC_Memorandum/MM80.png)
+![gambar](Memorandum/MM_Web/MM-79.png)
 
 ## **P-Office Versi Teams**
 

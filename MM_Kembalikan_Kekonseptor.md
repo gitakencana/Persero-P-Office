@@ -7,15 +7,15 @@
 
 1. Klik menu **Inbox** dan pilih tab **Memorandum**
 
-![gambar](SC_Memorandum/MM41.png)
+![gambar](Memorandum/MM_Web/MM-43.png)
 
 2. Pilih memorandum yang akan ditindak lanjuti kemudian pilih tab **Detail**
 
-![gambar](SC_Memorandum/MM42.png)
+![gambar](Memorandum/MM_Web/MM-44.png)
 
-3. Klik tombol **Kembalikan ke Konseptor** dan pilih **Send**. Isikan komentar jika diperlukan
+3. Klik tombol **Return Conceptor** dan pilih **Send**. Isikan komentar jika diperlukan
 
-![gambar](SC_Memorandum/MM43.png)
+![gambar](Memorandum/MM_Web/MM-45.png)
 
 4. Sistem berhasil menyimpan perubahan. Memorandum yang sudah di kirim akan tersimpan di menu **Outbox- Memorandum** dan konseptor akan menerima memorandum di menu **Rejected - Memorandum**
 
