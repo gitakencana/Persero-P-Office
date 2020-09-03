@@ -11,21 +11,21 @@
 
 1. Isi *form* fax keluar dan Klik **Save as Template**
 
-![gambar](SC_FaxKeluar/FK14.png)
+![gambar](FaxKeluar/FK_Web/FK11.jpg)
 
 2. Fax keluar yang disimpan menjadi *template* akan tersimpan di menu **"Draft - Fax Keluar"**. Untuk melanjutkan *template* yang sudah dibuat *user* dapat memilih menu **"Draft - Keluar"** kemudian pilih *template* yang akan digunakan
 
-![gambar](SC_FaxKeluar/FK15.png)
+![gambar](FaxKeluar/FK_Web/FK12.jpg)
 
 3. Pilih tombol ***User*** **Template** untuk melanjutkan edit fax keluar
 
-![gambar](SC_FaxKeluar/FK16.png)
+![gambar](FaxKeluar/FK_Web/FK14.jpg)
 
-4. Sistem akan menampilkan form **Edit Correspondence,** klik **Simpan** untuk menyimpan perubahan
+4. Sistem akan menampilkan form **Edit Correspondence,** klik **Save** untuk menyimpan perubahan
 
-![gambar](SC_FaxKeluar/FK17.png)
+![gambar](FaxKeluar/FK_Web/FK15.jpg)
 
-5. Lakukan perubahan pada fax, klik **Simpan** untuk menyimpan perubahan dan fax keluar akan tersimpan di menu **"Draft - Fax Keluar"** sebagai draft atau klik **Send** untuk mengirimkan ke pejabat tujuan dan tersimpan di menu **"Outbox - Fax Keluar"**.
+5. Lakukan perubahan pada fax, klik **Save** untuk menyimpan perubahan dan fax keluar akan tersimpan di menu **"Draft - Fax Keluar"** sebagai draft atau klik **Send** untuk mengirimkan ke pejabat tujuan dan tersimpan di menu **"Outbox - Fax Keluar"**.
 
 
 ## **P-Office Versi Teams**

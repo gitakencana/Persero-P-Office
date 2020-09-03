@@ -7,15 +7,15 @@
 
 1. Klik menu **Inbox** dan pilih tab **Fax Keluar**
 
-![gambar](SC_FaxKeluar/FK35.png)
+![gambar](FaxKeluar/FK_Web/FK33.jpg)
 
 2. Pilih fax keluar yang akan ditindak lanjuti kemudian pilih tab **Detail**
 
-![gambar](SC_FaxKeluar/FK36.png)
+![gambar](FaxKeluar/FK_Web/FK34.jpg)
 
-3. Klik tombol **Setujui** dan pilih **Send.** Isikan komentar jika diperlukan
+3. Klik tombol **Approve** dan pilih **Send.** Isikan komentar jika diperlukan
 
-![gambar](SC_FaxKeluar/FK37.png)
+![gambar](FaxKeluar/FK_Web/FK35.jpg)
 
 4. Sistem berhasil menyimpan perubahan. Fax keluar yang sudah di kirim akan tersimpan di menu **Outbox - Fax Keluar**
 

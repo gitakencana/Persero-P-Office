@@ -6,15 +6,15 @@
 
 1. Klik menu **Inbox** dan pilih tab **Fax Keluar**
 
-![gambar](SC_FaxKeluar/FK52.png)
+![gambar](FaxKeluar/FK_Web/FK50.jpg)
 
 2. Pilih fax keluar yang akan ditindak lanjuti kemudian pilih tab **Detail.** Pada tab **Detail** terdapat informasi nomor surat yang masih bersifat sementara. Nomor inilah yang akan ter-*generate* jika *user* menyetujui fax keluar.
 
-![gambar](SC_FaxKeluar/FK53.png)
+![gambar](FaxKeluar/FK_Web/FK51.jpg)
 
-3. Klik **Setujui** kemudian pilih **Send**
+3. Klik **Approve** kemudian pilih **Send**
 
-![gambar](SC_FaxKeluar/FK54.png)
+![gambar](FaxKeluar/FK_Web/FK52.jpg)
 
 4. Sistem menyimpan perubahan dan nomor fax keluar akan ter-*generate* sesuai dengan nomor sementara pada detail. Fax keluar yang sudah diseyujui akan tersimpan di menu **"Outbox - Fax Keluar"** pengirim sedangkan fax keluar akan tersimpan di menu **"Inbox - Fax Keluar"** penerima.
 
