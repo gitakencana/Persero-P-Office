@@ -8,7 +8,7 @@
 
 1. Klik menu **Inbox/Draft/Outbox** dan pilih tab **Fax Masuk**. Sistem akan menampilkan daftar fax masuk yang ditujukan pada sekretaris
 
-![gambar](SC_FaxMasuk/FM01.png)
+![gambar](FaxMasuk/FM_WEB/DaftarFM01.png) 
 
 ## **P-Office Versi Teams**
 

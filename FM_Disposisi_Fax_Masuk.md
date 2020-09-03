@@ -9,19 +9,19 @@
 
 1. Klik menu **Inbox** dan pilih tab **Fax Masuk**
 
-![gambar](SC_FaxMasuk/FM24.png)
+![gambar](FaxMasuk/FM_WEB/Disposisi01.png) 
 
 2. Pilih fax masuk yang akan didisposisikan kemudian pilih tab **Detail**
 
-![gambar](SC_FaxMasuk/FM25.png)
+![gambar](FaxMasuk/FM_WEB/Disposisi02.png) 
 
 3. Klik tombol **Disposisi** dan pilih **Send**
-
-![gambar](SC_FaxMasuk/FM26.png)
+4. 
+![gambar](FaxMasuk/FM_WEB/Disposisi03.png)
 
 4. Sistem menampilkan form disposisi. Isikan informasi disposisi dan perintah untuk masing - masing penerima disposisi.
 
-![gambar](SC_FaxMasuk/FM27.png)
+![gambar](FaxMasuk/FM_WEB/Disposisi04.png) 
 
 5. Klik **Simpan** untuk menyimpan draft disposisi surat masuk dan surat masuk akan tersimpan di menu **"Draft - Surat masuk"**. Klik **Send** untuk mengirim disposisi ketujuan dan disposisi surat masuk akan tersimpan di menu **"Outbox - Disposisi"**.
 
@@ -29,19 +29,19 @@
 
 1. Klik menu **Disposisi** dan pilih tab **Fax Masuk**
 
-![gambar](SC_FaxMasuk/FM28.png)
+![gambar](FaxMasuk/FM_WEB/Disposisi05.png) 
 
 2. Pilih fax masuk yang akan didisposisikan kemudian pilih tab **Detail**
 
-![gambar](SC_FaxMasuk/FM29.png)
+![gambar](FaxMasuk/FM_WEB/Disposisi06.png) 
 
 3. Klik tombol **Disposisi** dan pilih **Send**
 
-![gambar](SC_FaxMasuk/FM30.png)
+![gambar](FaxMasuk/FM_WEB/Disposisi07.png) 
 
 4. Sistem menampilkan form disposisi. Isikan informasi disposisi dan perintah untuk masing - masing penerima disposisi.
 
-![gambar](SC_FaxMasuk/FM31.png)
+![gambar](FaxMasuk/FM_WEB/Disposisi08.png) 
 
 5. Klik Simpan untuk menyimpan draft disposisi fax masuk dan fax masuk akan tersimpan di menu "Draft - Surat masuk". Klik Send untuk mengirim disposisi ketujuan dan disposisi surat masuk akan tersimpan di menu "Outbox - Disposisi".
 
