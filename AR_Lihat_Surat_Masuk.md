@@ -8,7 +8,7 @@
 
 1. lik menu **Archive** dan pilih submenu **Surat Masuk**
 
-![gambar](SC_Archive/AR01.png)
+![gambar](Archive/AR_Web/AR01.png)
 
 2. Sistem menampilkan dokumen surat masuk yang tersimpan di menu Archive
 

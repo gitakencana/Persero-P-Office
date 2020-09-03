@@ -8,7 +8,7 @@
 
 1. Klik menu **Archive** dan pilih submenu **Surat Keluar**
 
-![gambar](SC_Archive/AR03.png)
+![gambar](Archive/AR_Web/AR03.png)
 
 2. Sistem menampilkan dokumen surat keluar yang tersimpan di menu Archive
 

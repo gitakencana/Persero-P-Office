@@ -9,7 +9,7 @@
 
 1. Klik menu **History** dan pilih tab **SPPTH**
 
-![gambar](SC_SPPTH/TH50.png)
+![gambar](SPPTH/SPPTH_Web/TH49.png)
 
 2. Sistem menampilkan riwayat SPPTH
 

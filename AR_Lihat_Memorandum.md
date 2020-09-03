@@ -8,7 +8,7 @@
 
 1. Klik menu **Archive** dan pilih submenu **Memorandum**
 
-![gambar](SC_Archive/AR02.png)
+![gambar](Archive/AR_Web/AR02.png)
 
 2. Sistem menampilkan dokumen memorandum yang tersimpan di menu Archive
 

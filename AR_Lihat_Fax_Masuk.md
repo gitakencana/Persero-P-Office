@@ -8,7 +8,7 @@
 
 1. Klik menu **Archive** dan pilih submenu **Fax Keluar**
 
-![gambar](SC_Archive/AR05.png)
+![gambar](Archive/AR_Web/AR05.png)
 
 2. Sistem menampilkan dokumen fax keluar yang tersimpan di menu Archive
 

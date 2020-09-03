@@ -6,15 +6,15 @@
 
 1. Klik menu **Inbox** dan pilih tab **SP3S**
 
-![gambar](SC_SP3S/SP29.png)
+![gambar](SP3S/SP3S_Web/SP30.png)
 
 2. Pilih SP3S yang akan disetujui kemudian pilih tab **Detail**
 
-![gambar](SC_SP3S/SP30.png)
+![gambar](SP3S/SP3S_Web/SP31.png)
 
-3. Klik tombol **Setujui** dan pilih **Send.** Isikan komentar jika diperlukan
+3. Klik tombol **Approve** dan pilih **Send.** Isikan komentar jika diperlukan
 
-![gambar](SC_SP3S/SP31.png)
+![gambar](SP3S/SP3S_Web/SP32.png)
 
 4. Sistem berhasil menyimpan perubahan. SP3S yang sudah di kirim akan tersimpan di menu **Outbox - SP3S**
 

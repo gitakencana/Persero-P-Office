@@ -6,17 +6,17 @@
 
 1. Klik menu **Inbox** dan pilih tab **SPPTH**
 
-![gambar](SC_SPPTH/TH32.png)
+![gambar](SPPTH/SPPTH_Web/TH32.png)
 
 2. Pilih SPPTH yang akan disetujui kemudian pilih tab **Detail**
 
-![gambar](SC_SPPTH/TH33.png)
+![gambar](SPPTH/SPPTH_Web/TH33.png)
 
 3. Klik tombol **Reject** dan pilih **Send.** Isikan komentar jika diperlukan
 
-![gambar](SC_SPPTH/TH34.png)
+![gambar](SPPTH/SPPTH_Web/TH34.png)
 
-4. Sistem berhasil menyimpan perubahan. SPPTH yang sudah di tolak akan tersimpan di menu **Rejected - SPPTH**
+4.	Sistem berhasil menyimpan perubahan. SPPTH yang sudah di kirim akan akan akan terhapus dari aplikasi akan tersimpan di menu **“Rejected – Memorandum”** user penolak dengan label **Rejected**
 
 
 

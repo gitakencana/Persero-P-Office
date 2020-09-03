@@ -6,15 +6,15 @@
 
 1. Klik menu **Inbox** dan pilih tab **SPPTH**
 
-![gambar](SC_SPPTH/TH29.png)
+![gambar](SPPTH/SPPTH_Web/TH29.png)
 
 2. Pilih SPPTH yang akan disetujui kemudian pilih tab **Detail**
 
-![gambar](SC_SPPTH/TH30.png)
+![gambar](SPPTH/SPPTH_Web/TH30.png)
 
-3. Klik tombol **Setujui** dan pilih **Send.** Isikan komentar jika diperlukan
+3. Klik tombol **Approve** dan pilih **Send.** Isikan komentar jika diperlukan
 
-![gambar](SC_SPPTH/TH31.png)
+![gambar](SPPTH/SPPTH_Web/TH31.png)
 
 4. Sistem berhasil menyimpan perubahan. SPPTH yang sudah di kirim akan tersimpan di menu **Outbox - SPPTH**
 
