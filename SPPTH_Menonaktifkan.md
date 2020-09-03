@@ -31,3 +31,16 @@ Langkah - langkah untuk menonaktifkan SPPTH via Teams yaitu :
 
 3.	SPPTH yang sudah tidak aktif akan tersimpan di menu **“Outbox – SPPTH”** approver. Untuk pejabat PTH dan pejabat yang meninggalkan tempat, surat akan tersimpan di menu **“Inbox – SPPTH”**
 
+## **P-Office Versi Android**
+
+Langkah - langkah untuk menonaktifkan SPPTH via Android yaitu :
+
+1. Klik menu **Inbox** dan pilih tab **SPPTH**
+
+![gambar](SPPTH/SPPTH_Android/NonaktifSPPTH/A01.jpg) ![gambar](SPPTH/SPPTH_Android/NonaktifSPPTH/A02.jpg)
+
+2. Pilih SPPTH yang akan dinon-aktifkan kemudian pilih icon **Disable** pada tombol **button**
+
+![gambar](SPPTH/SPPTH_Android/NonaktifSPPTH/A03.jpg) ![gambar](SPPTH/SPPTH_Android/NonaktifSPPTH/A04.jpg)
+
+3. SPPTH yang sudah tidak aktif akan tersimpan di menu “**Outbox – SPPTH**” _approver_. Untuk pejabat PTH dan pejabat yang meninggalkan tempat, surat akan tersimpan di menu “**Inbox – SPPTH**”

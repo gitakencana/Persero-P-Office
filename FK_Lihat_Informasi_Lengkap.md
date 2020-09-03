@@ -67,3 +67,34 @@ Pada tab *tracking* fax keluar, ditampilkan informasi *tracking* fax keluar dala
 Pada tab *History* fax keluar, ditampilkan riwayat fax keluar yang terdapat informasi jabatan, tanggal, tindakan dan komentar
 
 ![gambar](FaxKeluar/FK_Teams/FK35.png)
+
+
+## **P-Office Versi Android**
+
+Langkah - langkah untuk melihat informasi via Android adalah sebagai berikut:
+
+1. Klik menu **Inbox/Draft/Outbox** dan pilih tab **Fax Keluar** Pilih salah satu fax keluar yang akan dilihat informasinya
+
+![gambar](FaxKeluar/FK_Android/InfoFK/A01.jpg) ![gambar](FaxKeluar/FK_Android/InfoFK/A02.jpg)
+
+**Detail Fax Keluar**
+
+Pada tab Detail fax keluar, terdapat informasi asal surat, perihal, file lampiran, nomor surat, klasifikasi surat, tanggal surat, tujuan surat dan _reviewer_
+
+![gambar](FaxKeluar/FK_Android/InfoFK/D01.jpg)
+
+**Preview Fax Keluar**
+
+Pada tab informasi _Preview_ fax keluar, ditampilkan _preview_ fax keluar yang sudah dibuat. _Preview_ fax keluar disesuaikan dengan template berdasarkan jenis surat.
+
+![gambar](FaxKeluar/FK_Android/InfoFK/P01.jpg)
+
+**Tracking Fax Keluar**
+
+Pada tab _tracking_ fax keluar, ditampilkan informasi _tracking_ fax keluar dalam bentuk _chart_
+
+**History Fax Keluar**
+
+Pada tab _History_ fax keluar, ditampilkan riwayat fax keluar yang terdapat informasi jabatan, tanggal, tindakan dan komentar
+
+![gambar](FaxKeluar/FK_Android/InfoFK/H01.jpg) ![gambar](FaxKeluar/FK_Android/InfoFK/H02.jpg)

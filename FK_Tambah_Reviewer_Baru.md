@@ -47,4 +47,27 @@ Langkah - langkah untuk tambah reviewer via Teams adalah sebagai berikut:
 
 5. Pilih **Send** untuk mengirimkan kepada pejabat/reviewer yang dituju dan fax keluar akan tersimpan di menu **"Outbox - Fax Keluar"**. Untuk pejabat/reviewer baru akan menerima fax keluar di menu **"Inbox - Fax Keluar"**
 
-![gambar](FaxKeluar/FK_Teams/FK53.png)
+![gambar](FaxKeluar/FK_Teams/FK53.png) 
+
+
+## **P-Office Versi Android**
+
+Langkah - langkah untuk tambah reviewer via Android adalah sebagai berikut:
+
+1. Klik menu **Inbox** dan pilih tab **Fax Keluar**
+
+![gambar](FaxKeluar/FK_Android/ReviewerFK/A01.jpg) ![gambar](FaxKeluar/FK_Android/ReviewerFK/A02.jpg)
+
+2. Pilih fax keluar yang akan ditindak lanjuti kemudian pada **Detail** Klik tombol button lalu **Add Reviewer**
+
+![gambar](FaxKeluar/FK_Android/ReviewerFK/A03.jpg) ![gambar](FaxKeluar/FK_Android/ReviewerFK/A04.jpg)
+
+3. Klik tombol **Add Reviewer** dan pilih pejabat yang akan melakukan review dengan meng-klik pada field **Add Reviewer**
+   
+![gambar](FaxKeluar/FK_Android/ReviewerFK/A05.jpg)
+
+4. Sistem akan menampilkan pejabat untuk dijadikan reviewer baru
+
+![gambar](FaxKeluar/FK_Android/ReviewerFK/A06.jpg)
+
+5. Pilih **Send** untuk mengirimkan kepada pejabat/reviewer yang dituju dan fax keluar akan tersimpan di menu “**Outbox - Fax Keluar**”. Untuk pejabat/reviewer baru akan menerima fax keluar di menu “**Inbox – Fax Keluar**”

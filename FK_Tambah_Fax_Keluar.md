@@ -145,3 +145,29 @@ Langkah - langkah untuk mengirim fax keluar adalah sebagai berikut
 ![gambar](FaxKeluar/FK_Teams/FK13.png)
 
 2. Sistem menyimpan perubahan dan fax keluar akan tersimpan di menu **"Outbox - Fax keluar"**
+
+
+## **P-Office Versi Android**
+
+Langkah - langkah untuk tambah fax keluar via Teams Android adalah sebagai berikut:
+
+1. Klik ikon **(+)** pada fax keluar
+
+![gambar](FaxKeluar/FK_Android/TambahFK/A01.jpg)
+
+2. Pilih jenis surat “**Fax Keluar**” lalu pilih **Next**
+
+![gambar](FaxKeluar/FK_Android/TambahFK/A02.jpg)
+
+3. Isi _form_ tambah fax keluar. Terdapat bebarapa aksi untuk menindaklanjuti fax keluar yang sudah diisi _form_ nya yaitu **Save as template** dan **Save Mail**
+
+![gambar](FaxKeluar/FK_Android/TambahFK/A03.jpg) ![gambar](FaxKeluar/FK_Android/TambahFK/A04.jpg) ![gambar](FaxKeluar/FK_Android/TambahFK/A05.jpg)
+
+
+**Simpan Fax Keluar**
+
+Langkah – langkah untuk menyimpan fax keluar adalah sebagai berikut.
+
+1. Isi _form_ fax keluar kemudian klik **Save mail** maka fax keluar tesimpan di menu **draft – fax keluar**
+
+![gambar](FaxKeluar/FK_Android/TambahFK/S01.jpg) ![gambar](FaxKeluar/FK_Android/TambahFK/S02.jpg) ![gambar](FaxKeluar/FK_Android/TambahFK/S03.jpg)

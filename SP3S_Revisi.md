@@ -141,3 +141,48 @@ Langkah – langkah untuk mengubah isi surat keluar secara online adalah sebagai
 ![gambar](SP3S/SP3S_Teams/SP3S48.png)
 
 4. Surat yang sudah selesai diubah maka akan tersimpan di menu **“Inbox – Surat SP3S”**
+
+
+## **P-Office Versi Android**
+
+Langkah - langkah untuk Revisi SP3S via Android yaitu :
+
+1. Klik menu **Inbox** dan pilih tab **SP3S**
+
+  ![gambar](SP3S/SP3S_Android/RevisiSP3S/A01.jpg) ![gambar](SP3S/SP3S_Android/RevisiSP3S/A02.jpg) 
+
+2. Pilih SP3S yang akan disetujui kemudian pilih ikon **tombol button**
+
+![gambar](SP3S/SP3S_Android/RevisiSP3S/A03.jpg)  ![gambar](SP3S/SP3S_Android/RevisiSP3S/A04.jpg) 
+
+3. Klik tombol **Revise** pada SP3S
+
+![gambar](SP3S/SP3S_Android/RevisiSP3S/A05.jpg) 
+
+4. Lakukan perubahan pada _form_. Klik **Save Mail** untuk menyimpan perubahan pada _form_ SP3S. Surat yang disimpan akan tersimpan di menu “**Inbox – SP3S”**
+
+![gambar](SP3S/SP3S_Android/RevisiSP3S/A06.jpg)  ![gambar](SP3S/SP3S_Android/RevisiSP3S/A07.jpg) 
+
+5. Klik **Edit Content** untuk mengubah isi SP3S
+
+![gambar](SP3S/SP3S_Android/RevisiSP3S/A08.jpg)  ![gambar](SP3S/SP3S_Android/RevisiSP3S/A09.jpg) 
+
+6. Sistem menampilkan tampilan _preview_ SP3S dalam bentuk Word yang dapat di edit. Untuk melakukan _editing_ terhadap isi surat klik **Ubah Isi** kemudian sistem akan menampilkan _pop up_ konfirmasi **Ubah Online**
+
+**[Edit] Ubah Online**
+
+Langkah – langkah untuk mengubah isi SP3S secara _online_ adalah sebagai berikut.
+
+1. 	Klik **Edit Content** untuk mengubah isi surat secara _online_
+   
+![gambar](SP3S/SP3S_Android/RevisiSP3S/U01.jpg) 
+
+2. Lakukan perubahan pada isi surat. Klik **Close** pada aplikasi
+
+![gambar](SP3S/SP3S_Android/RevisiSP3S/U02.jpg) ![gambar](SP3S/SP3S_Android/RevisiSP3S/U03.jpg)  
+
+3. Isi surat akan otomatis tersimpan. Jika surat akan disimpan sebagai draft, maka klik **Close**
+
+![gambar](SP3S/SP3S_Android/RevisiSP3S/U04.jpg) ![gambar](SP3S/SP3S_Android/RevisiSP3S/U05.jpg)
+
+4. Surat yang sudah selesai diubah maka akan tersimpan di menu “**Inbox – SP3S”**
