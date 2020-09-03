@@ -11,29 +11,29 @@
 
 1. Klik menu **New Correspondence**
 
-![gambar](SC_FaxKeluar/FK02.png)
+![gambar](FaxKeluar/FK_Web/FK1.jpg)
 
 2. Pilih jenis surat **"Fax Keluar"**
 
-![gambar](SC_FaxKeluar/FK03.png)
+![gambar](FaxKeluar/FK_Web/FK2.jpg)
 
-3. Isi *form* tambah fax keluar. Terdapat bebarapa aksi untuk menindaklanjuti fax keluar yang sudah diisi *form*nya yaitu **Simpan Fax Keluar**, **Kirim Fax Keluar** dan **Save as Template Fax Keluar.**
+3. Isi *form* tambah fax keluar. Terdapat bebarapa aksi untuk menindaklanjuti fax keluar yang sudah diisi *form*nya yaitu **Save Fax Keluar**, **Send Fax Keluar** dan **Save as Template Fax Keluar.**
 
-![gambar](SC_FaxKeluar/FK04.png)
+![gambar](FaxKeluar/FK_Web/FK3.jpg)
 
-![gambar](SC_FaxKeluar/FK05.png)
+![gambar](FaxKeluar/FK_Web/FK4.jpg)
 
 #### **Simpan Fax Keluar**
 
 Langkah - langkah untuk menyimpan fax keluar adalah sebagai berikut
 
-1. Isi *form* fax keluar kemudian klik **Simpan**
+1. Isi *form* fax keluar kemudian klik **Save**
 
-![gambar](SC_FaxKeluar/FK06.png)
+![gambar](FaxKeluar/FK_Web/FK5.jpg)
 
-2. Sistem akan menampilkan tampilan *preview* fax keluar dalam bentuk Word yang dapat di edit. Untuk melakukan *editing* terhadap isi surat klik **Ubah Isi** kemudian sistem akan menampilkan *pop up* konfirmasi **Ubah Word Desktop** atau **Ubah Online**
+2. Sistem akan menampilkan tampilan *preview* fax keluar dalam bentuk Word yang dapat di edit. Untuk melakukan *editing* terhadap isi surat klik **Edit** kemudian sistem akan menampilkan *pop up* konfirmasi **Ubah Word Desktop** atau **Ubah Online**
 
-![gambar](SC_FaxKeluar/CR01.png)
+![gambar](FaxKeluar/FK_Web/FK6.jpg)
 
 #### **[Edit] Word Desktop**
 
@@ -41,11 +41,11 @@ Langkah - langkah untuk mengubah isi fax keluar melalui Word Desktop adalah seba
 
 1. Klik **Ubah di Word** untuk mengubah melalui aplikasi Microsoft Word
 
-![gambar](SC_FaxKeluar/CR02.png)
+![gambar](FaxKeluar/FK_Web/FK7.jpg)
 
 2. Lakukan perubahan pada isi surat. Klik **Close** pada aplikasi dan isi surat akan otomatis tersimpan
 
-![gambar](SC_FaxKeluar/CR03.png)
+![gambar](FaxKeluar/FK_Web/FK7.jpg)
 
 #### **[Edit] Ubah Online**
   
@@ -53,15 +53,15 @@ Langkah - langkah untuk mengubah isi fax keluar secara *online* adalah sebagai b
 
 1. Klik **Ubah Online** untuk mengubah isi surat secara *online*
 
-![gambar](SC_FaxKeluar/CR04.png)
+![gambar](FaxKeluar/FK_Web/FK9.jpg)
 
 2. Lakukan perubahan pada isi surat. Klik **Close** pada aplikasi
 
-![gambar](SC_FaxKeluar/CR05.png)
+![gambar](FaxKeluar/FK_Web/FK9.jpg)
 
-3. Isi surat akan otomatis tersimpan. Jika surat akan disimpan sebagai draft, maka klik **Tutup.** 
+3. Isi surat akan otomatis tersimpan. Jika surat akan disimpan sebagai draft, maka klik **Close.** 
 
-![gambar](SC_FaxKeluar/CR06.png)
+![gambar](FaxKeluar/FK_Web/FK10.jpg)
 
 4. Surat yang sudah selesai diubah maka akan tersimpan di menu **"Draft - Fax Keluar"**
 
@@ -71,7 +71,7 @@ Langkah - langkah untuk mengirim fax keluar adalah sebagai berikut
 
 1. Pada tampilan *preview* fax keluar, klik **Kirim** untuk mengirim surat ke pejabat tujuan
 
-![gambar](SC_FaxKeluar/CR07.png)
+![gambar](FaxKeluar/FK_Web/FK11.jpg)
 
 2. Sistem menyimpan perubahan dan fax keluar akan tersimpan di menu **"Outbox - Fax keluar"**
 

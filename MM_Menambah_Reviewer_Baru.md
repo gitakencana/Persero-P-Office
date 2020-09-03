@@ -8,23 +8,23 @@
 
 1. Klik menu **Inbox** dan pilih tab **Memorandum**
 
-![gambar](SC_Memorandum/MM47.png)
+![gambar](Memorandum/MM_Web/MM-49.png)
 
 2. Pilih memorandum yang akan ditindak lanjuti kemudian pilih tab **Detail**
 
-![gambar](SC_Memorandum/MM48.png)
+![gambar](Memorandum/MM_Web/MM-50.png)
 
 3. Klik tombol **Add Reviewer** dan pilih pejabat yang akan melakukan review dengan meng-klik tombol "+" pada field **Add Reviewer**
 
-![gambar](SC_Memorandum/MM49.png)
+![gambar](Memorandum/MM_Web/MM-51.png)
 
 4. Sistem akan menampilkan pejabat untuk dijadikan reviewer baru
 
-![gambar](SC_Memorandum/MM50.png)
+![gambar](Memorandum/MM_Web/MM-52.png)
 
 5. Pilih **Send** untuk mengirimkan kepada pejabat/reviewer yang dituju dan memorandum akan tersimpan di menu **"Outbox - Memorandum"**. Untuk pejabat/reviewer baru akan menerima memorandum di menu **"Inbox - Memorandum"**
 
-![gambar](SC_Memorandum/MM51.png)
+![gambar](Memorandum/MM_Web/MM-53.png)
 
 
 ## **P-Office Versi Teams**

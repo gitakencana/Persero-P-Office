@@ -8,27 +8,25 @@
 
 1. Klik menu **Inbox/Draft/Outbox** dan pilih tab **SPPTH.** Pilih salah satu SPPTH yang akan dilihat informasinya
 
-![gambar](SC_SPPTH/TH25.png)
+![gambar](SPPTH/SPPTH_Web/TH25.png)
 
 #### **Preview SPPTH**
 
 Pada tab informasi *Preview* SPPTH, ditampilkan *preview* SPPTH yang sudah dibuat. *Preview* SPPTH disesuaikan dengan template berdasarkan jenis surat.
 
-![gambar](SC_SPPTH/CR08.png)
+![gambar](SPPTH/SPPTH_Web/TH26.png)
 
 #### **Detail SPPTH**
 
-![gambar](SC_SPPTH/TH27.png)
-
 Pada tab Detail SPPTH, terdapat informasi nomor SPPTH, jabatan PTH, Pejabat pengganti pertama, jangka waktu serta pejabat pengganti kedua (jika ada), jangka waktu pejabat pengganti kedua (jika ada)
+
+![gambar](SPPTH/SPPTH_Web/TH27.png)
 
 #### **History SPPTH**
 
 Pada tab *History* SPPTH, ditampilkan riwayat SPPTH yang terdapat informasi jabatan, tanggal, tindakan dan komentar
 
-![gambar](SC_SPPTH/TH28.png)
-
-
+![gambar](SPPTH/SPPTH_Web/TH28.png)
 
 
 ## **P-Office Versi Teams**

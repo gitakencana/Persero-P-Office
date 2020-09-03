@@ -8,7 +8,7 @@
 
 1. Klik menu **Inbox / Draft / Outbox** dan pilih tab **SP3S**
 
-![gambar](SC_SP3S/SP01.png)
+![gambar](SP3S/SP3S_Web/SP01.png)
 
 
 ## **P-Office Versi Teams**

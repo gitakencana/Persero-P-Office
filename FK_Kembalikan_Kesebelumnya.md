@@ -7,15 +7,15 @@
 
 1. Klik menu **Inbox** dan pilih tab **Fax Keluar**
 
-![gambar](SC_FaxKeluar/FK38.png)
+![gambar](FaxKeluar/FK_Web/FK39.jpg)
 
 2. Pilih fax keluar yang akan ditindak lanjuti kemudian pilih tab **Detail**
 
-![gambar](SC_FaxKeluar/FK39.png)
+![gambar](FaxKeluar/FK_Web/FK40.jpg)
 
-3. Klik tombol **Kembalikan ke Sebelumnya** dan pilih **Send**. Isikan komentar jika diperlukan
+3. Klik tombol **Return Previus** dan pilih **Send**. Isikan komentar jika diperlukan
 
-![gambar](SC_FaxKeluar/FK40.png)
+![gambar](FaxKeluar/FK_Web/FK40.jpg)
 
 4. Sistem berhasil menyimpan perubahan. Fax keluar yang sudah di kirim akan tersimpan di menu **Outbox - Fax Keluar** dan penerima pengembalian fax keluar akan menerima fax keluar di menu **Draft - Fax Keluar**
 

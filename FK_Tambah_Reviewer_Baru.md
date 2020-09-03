@@ -6,23 +6,23 @@
 
 1. Klik menu **Inbox** dan pilih tab **Fax Keluar**
 
-![gambar](SC_FaxKeluar/FK47.png)
+![gambar](FaxKeluar/FK_Web/FK45.jpg)
 
 2. Pilih fax keluar yang akan ditindak lanjuti kemudian pilih tab **Detail**
 
-![gambar](SC_FaxKeluar/FK48.png)
+![gambar](FaxKeluar/FK_Web/FK46.jpg)
 
 3. Klik tombol **Add Reviewer** dan pilih pejabat yang akan melakukan review dengan meng-klik tombol "+" pada field **Add Reviewer**
 
-![gambar](SC_FaxKeluar/FK49.png)
+![gambar](FaxKeluar/FK_Web/FK47.jpg)
 
 4. Sistem akan menampilkan pejabat untuk dijadikan reviewer baru
 
-![gambar](SC_FaxKeluar/FK50.png)
+![gambar](FaxKeluar/FK_Web/FK48.jpg)
 
 5. Pilih **Send** untuk mengirimkan kepada pejabat/reviewer yang dituju dan fax keluar akan tersimpan di menu **"Outbox - Fax Keluar"**. Untuk pejabat/reviewer baru akan menerima fax keluar di menu **"Inbox - Fax Keluar"**
 
-![gambar](SC_FaxKeluar/FK51.png)
+![gambar](FaxKeluar/FK_Web/FK49.jpg)
 
 
 ## **P-Office Versi Teams**

@@ -8,19 +8,19 @@
 
 1. Klik menu **Disposisi** dan pilih tab **Fax Masuk**
 
-![gambar](SC_FaxMasuk/FM50.png)
+![gambar](FaxMasuk/FM_Web/FM_1.jpg)
 
 2. Pilih disposisi yang akan dikirim tanggapan kemudian pilih tab **Detail**
 
-![gambar](SC_FaxMasuk/FM51.png)
+![gambar](FaxMasuk/FM_Web/FM51.png)
 
-3. Pilih tombol **Kirim Tanggapan** kemudian klik **Send**
+3. Pilih tombol **Send Response** kemudian klik **Send**
 
-![gambar](SC_FaxMasuk/FM52.png)
+![gambar](FaxMasuk/FM_Web/FM52.png)
 
-4. Sistem menampilkan pop up konfirmasi dan *user* harus mengisi keterangan kirim tanggapan disposisi kemudian klik **Simpan**.
+4. Sistem menampilkan pop up konfirmasi dan *user* harus mengisi keterangan kirim tanggapan disposisi kemudian klik **Save**.
 
-![gambar](SC_FaxMasuk/FM53.png)
+![gambar](FaxMasuk/FM_Web/FM53.png)
 
 5. Sistem menyimpan perubahan dan informasi tanggapan disposisi akan tersimpan di detail disposisi.
 

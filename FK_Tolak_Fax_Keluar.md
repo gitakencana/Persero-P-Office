@@ -7,17 +7,17 @@
 
 1. Klik menu **Inbox** dan pilih tab **Fax Keluar**
 
-![gambar](SC_FaxKeluar/FK44.png)
+![gambar](FaxKeluar/FK_Web/FK42.jpg)
 
 2. Pilih fax keluar yang akan ditindak lanjuti kemudian pilih tab **Detail**
 
-![gambar](SC_FaxKeluar/FK45.png)
+![gambar](FaxKeluar/FK_Web/FK43.jpg)
 
-3. Klik tombol **Tolak** dan pilih **Send**. Isikan komentar jika diperlukan
+3. Klik tombol **Reject** dan pilih **Send**. Isikan komentar jika diperlukan
 
-![gambar](SC_FaxKeluar/FK46.png)
+![gambar](FaxKeluar/FK_Web/FK44.jpg)
 
-4. Sistem berhasil menyimpan perubahan. Fax keluar yang sudah di tolak akan tersimpan di menu **Rejected - Fax Keluar**
+4.	Sistem berhasil menyimpan perubahan. Fax keluar yang sudah di tolak akan akan akan terhapus dari aplikasi akan tersimpan di menu **“Rejected – Memorandum”** user penolak dengan label **Rejected**.
 
 ## **P-Office Versi Teams**
 

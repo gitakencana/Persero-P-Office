@@ -8,7 +8,7 @@
 
 1. Klik menu **Inbox / Draft / Outbox** dan pilih tab **SPPTH**
 
-![gambar](SC_SPPTH/TH01.png)
+![gambar](SPPTH/SPPTH_Web/TH01.png)
 
 
 

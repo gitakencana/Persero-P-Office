@@ -9,21 +9,21 @@
 
 1. Klik menu **Inbox** dan pilih tab **Memorandum**
 
-![gambar](SC_Memorandum/MM55.png)
+![gambar](Memorandum/MM_Web/MM-57.png)
 
 2. Pilih memorandum yang akan didisposisikan kemudian pilih tab **Detail**
 
-![gambar](SC_Memorandum/MM56.png)
+![gambar](Memorandum/MM_Web/MM-58.png)
 
-3. Klik tombol **Disposisi** dan pilih **Send**
+3. Klik tombol **Disposition** dan pilih **Send**
 
-![gambar](SC_Memorandum/MM57.png)
+![gambar](Memorandum/MM_Web/MM-59.png)
 
 4. Sistem menampilkan form disposisi. Isikan informasi disposisi dan perintah untuk masing-masing penerima disposisi.
 
-![gambar](SC_Memorandum/MM58.png)
+![gambar](Memorandum/MM_Web/MM-60.png)
 
-5. Klik **Simpan** untuk menyimpan draft disposisi memorandum dan memorandum akan tersimpan di menu **"Draft - Memorandum"**. Klik **Send** untuk mengirim disposisi ketujuan dan disposisi memorandum akan tersimpan di menu **"Outbox - Disposisi"**.
+5. Klik **Save** untuk menyimpan draft disposisi memorandum dan memorandum akan tersimpan di menu **"Draft - Memorandum"**. Klik **Send** untuk mengirim disposisi ketujuan dan disposisi memorandum akan tersimpan di menu **"Outbox - Disposisi"**.
 
 ####	Disposisi melalui Menu Inbox
 

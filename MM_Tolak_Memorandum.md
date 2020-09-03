@@ -9,15 +9,15 @@
 
 1. Klik menu **Inbox** dan pilih tab **Memorandum**
 
-![gambar](SC_Memorandum/MM44.png)
+![gambar](Memorandum/MM_Web/MM-46.png)
 
 2. Pilih memorandum yang akan ditindak lanjuti kemudian pilih tab **Detail**
 
-![gambar](SC_Memorandum/MM45.png)
+![gambar](Memorandum/MM_Web/MM-47.png)
 
-3. Klik tombol **Tolak** dan pilih **Send**. Isikan komentar jika diperlukan
+3. Klik tombol **Reject** dan pilih **Send**. Isikan komentar jika diperlukan
 
-![gambar](SC_Memorandum/MM46.png)
+![gambar](Memorandum/MM_Web/MM-48.png)
 
 4. Sistem berhasil menyimpan perubahan. Memorandum yang sudah di tolak akan terhapus dari aplikasi secara *soft delete*.
 

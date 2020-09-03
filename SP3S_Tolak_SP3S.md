@@ -6,18 +6,17 @@
 
 1. Klik menu **Inbox** dan pilih tab **SP3S**
 
-![gambar](SC_SP3S/SP32.png)
+![gambar](SP3S/SP3S_Web/SP33.png)
 
 2. Pilih SP3S yang akan disetujui kemudian pilih tab **Detail**
 
-![gambar](SC_SP3S/SP33.png)
+![gambar](SP3S/SP3S_Web/SP34.png)
 
 3. Klik tombol **Reject** dan pilih **Send.** Isikan komentar jika diperlukan
 
-![gambar](SC_SP3S/SP34.png)
+![gambar](SP3S/SP3S_Web/SP35.png)
 
-4. Sistem berhasil menyimpan perubahan. SP3S yang sudah di tolak akan masuk di menu **Rejected - SP3S**
-
+4. Sistem berhasil menyimpan perubahan. SP3S yang sudah di kirim akan akan akan terhapus dari aplikasi akan tersimpan di menu **“Rejected – Memorandum”** user penolak dengan label **Rejected**
 
 
 ## **P-Office Versi Teams**

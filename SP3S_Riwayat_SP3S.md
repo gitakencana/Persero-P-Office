@@ -9,7 +9,7 @@
 
 1. Klik menu **History** dan pilih tab **SP3S**
 
-![gambar](SC_SP3S/SP50.png)
+![gambar](SP3S/SP3S_Web/SP50.png)
 
 2. Sistem menampilkan riwayat SP3S
 

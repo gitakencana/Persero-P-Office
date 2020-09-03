@@ -8,15 +8,15 @@ Role yang sesuai
 
 1. Klik menu **Inbox** dan pilih tab **Memorandum**
 
-![gambar](SC_Memorandum/MM35.png)
+![gambar](Memorandum/MM_Web/MM-36.png)
 
 2. Pilih memorandum yang akan ditindak lanjuti kemudian pilih tab **Detail**
 
-![gambar](SC_Memorandum/MM36.png)
+![gambar](Memorandum/MM_Web/MM-37.png)
 
-3. Klik tombol **Setujui** dan pilih **Send**. Isikan komentar jika diperlukan
+3. Klik tombol **Approve** dan pilih **Send**. Isikan komentar jika diperlukan
 
-![gambar](SC_Memorandum/MM37.png)
+![gambar](Memorandum/MM_Web/MM-38.png)
 
 4. Sistem berhasil menyimpan perubahan. Memorandum yang sudah di kirim akan tersimpan di menu **Outbox - Memorandum**
 
