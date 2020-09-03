@@ -68,7 +68,7 @@ Langkah - langkah untuk disposisi fax masuk via Teams adalah sebagai berikut:
 
 4. Sistem menampilkan form disposisi. Isikan informasi disposisi dan perintah untuk masing - masing penerima disposisi.
 
-![gambar](FaxMasuk/FM_Teams/FM31.png)
+![gambar](FaxMasuk/FM_Teams/FM27.png)
 
 5. Klik **Save** untuk menyimpan draft disposisi fax masuk dan fax masuk akan tersimpan di menu **"Draft - Surat masuk"**. Klik **Send** untuk mengirim disposisi ketujuan dan disposisi surat masuk akan tersimpan di menu **"Outbox - Disposisi"**.
 
@@ -76,19 +76,21 @@ Langkah - langkah untuk disposisi fax masuk via Teams adalah sebagai berikut:
 
 1. Klik menu **Disposisi** dan pilih tab **Fax Masuk**
 
-![gambar](FaxMasuk/FM_Teams/FM32.png)
+![gambar](FaxMasuk/FM_Teams/FM28.png)
 
 2. Pilih fax masuk yang akan didisposisikan kemudian pilih tab **Detail**
 
-![gambar](FaxMasuk/FM_Teams/FM33.png)
+![gambar](FaxMasuk/FM_Teams/FM29.png)
 
 3. Klik tombol **Disposition** dan pilih **Send**
 
-![gambar](FaxMasuk/FM_Teams/FM34.png)
+![gambar](FaxMasuk/FM_Teams/FM30.png)
+
+![gambar](FaxMasuk/FM_Teams/FM31.png)
 
 4. Sistem menampilkan form disposisi. Isikan informasi disposisi dan perintah untuk masing - masing penerima disposisi.
 
-![gambar](FaxMasuk/FM_Teams/FM35.png)
+![gambar](FaxMasuk/FM_Teams/FM32.png)
 
 5. Klik **Save** untuk menyimpan draft disposisi fax masuk dan fax masuk akan tersimpan di menu **"Draft - Surat masuk"**. Klik **Send** untuk mengirim disposisi ketujuan dan disposisi surat masuk akan tersimpan di menu **"Outbox - Disposisi"**.
 

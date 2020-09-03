@@ -68,11 +68,12 @@ Pada tab **Tracking Surat Masuk**, ditampilkan informasi tracking surat masuk da
 
 ![gambar](SuratMasuk/SM_Teams/SM14.png)
 
-- **History Surat Masuk**
+####   **History Surat Masuk**
 
 Pada tab **History Surat Masuk**, ditampilkan riwayat surat masuk yang terdapat informasi jabatan, tanggal, tindakan dan komentar
 
 ![gambar](SuratMasuk/SM_Teams/SM15.png)
+
 
 ## **P-Office Versi Android**
 

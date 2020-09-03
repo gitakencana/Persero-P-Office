@@ -15,8 +15,19 @@
 
 Fax masuk yang sudah di-*recall* akan tersimpan di menu "**Draft - Disposisi**" penerima fax masuk / pendisposisi
 
+## **P-Office Versi Teams**
 
 Langkah - langkah untuk recall disposisi fax masuk via Teams adalah sebagai berikut: 
+
+1. Klik menu **Outbox** dan pilih tab **Disposisi**
+
+![gambar](FaxMasuk/FM_Teams/FM47.png)
+
+2. Pilih fax masuk yang akan di-*recall* kemudian klik tab **Detail** kemudian klik **Recall**.
+
+![gambar](FaxMasuk/FM_Teams/FM49.png)
+
+3. Fax masuk yang sudah di-*recall* akan tersimpan di menu "**Draft - Disposisi**" penerima fax masuk / pendisposisi
 
 
 ## **P-Office Versi Android**
