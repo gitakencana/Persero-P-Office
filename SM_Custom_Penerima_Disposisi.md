@@ -62,6 +62,7 @@ Langkah - langkah untuk Custom penerima disposisi via Teams yaitu :
 
 ![gambar](SuratMasuk/SM_Teams/SM38.png)
 
+
 ## **P-Office Versi Android**
 
 Langkah - langkah untuk melakukan custom disposisi surat masuk via Android yaitu:

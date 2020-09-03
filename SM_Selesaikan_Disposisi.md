@@ -54,6 +54,7 @@ Langkah - langkah untuk selesaikan disposisi via Teams yaitu :
 
  5.    Sistem menyimpan perubahan dan informasi selesai disposisi akan tersimpan di detail disposisi.
 
+
 ## **P-Office Versi Android**
 
 Langkah - langkah untuk menyelesaikan disposisi surat masuk via Android yaitu:

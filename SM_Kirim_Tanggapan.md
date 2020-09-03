@@ -50,6 +50,7 @@ Langkah - langkah untuk kirim tanggapan via Teams yaitu :
 
 5.    Sistem menyimpan perubahan dan informasi tanggapan disposisi akan tersimpan di detail disposisi.
 
+
 ## **P-Office Versi Android**
 
 Langkah - langkah untuk mengirim tanggapan via Android yaitu:

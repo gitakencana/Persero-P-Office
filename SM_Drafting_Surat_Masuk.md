@@ -43,7 +43,7 @@ Langkah - langkah untuk drafting surat masuk via Teams yaitu:
 
 ![gambar](SuratMasuk/SM_Teams/SM09.png)
 
-4. Lakukan perubahan pada _form_. Klik _**Send**_ untuk mengirim surat masuk ke pejabat tujuan. Surat yang terkirim akan tersimpan di menu “**_Outbox_ – Surat Masuk”**
+4. Lakukan perubahan pada _form_. Klik **Send** untuk mengirim surat masuk ke pejabat tujuan. Surat yang terkirim akan tersimpan di menu “**_Outbox_ – Surat Masuk”**
 
 
 ## **P-Office Versi Android**

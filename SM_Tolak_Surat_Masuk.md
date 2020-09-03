@@ -50,6 +50,7 @@ Langkah - langkah untuk tolak surat masuk via Teams yaitu :
 
 5. Sistem menyimpan perubahan dan informasi tolak surat masuk. Surat masuk yang sudah ditolak akan tersimpan di menu “**Rejected – Surat Masuk”** user penolak dengan label **Rejected**
 
+
 ## **P-Office Versi Android**
 
 Langkah-langkah untuk menolak surat masuk adalah sebagai berikut.

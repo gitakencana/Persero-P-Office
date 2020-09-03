@@ -23,6 +23,7 @@ Langkah - langkah untuk melihat daftar disposisi via Teams yaitu :
 
 ![gambar](SuratMasuk/SM_Teams/SM24.png)
 
+
 ## **P-Office Versi Android**
 
 Langkah - langkah untuk melihat daftar disposisi via Android yaitu:

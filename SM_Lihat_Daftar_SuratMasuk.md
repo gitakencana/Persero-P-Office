@@ -16,6 +16,7 @@ Langkah-langkah untuk melihat daftar surat masuk via Web adalah sebagai berikut:
 
 ![gambar](SuratMasuk/SM_Web/SM01.png)
 
+
 ## **P-Office Versi Teams**
 
 Langkah - langkah untuk melihat surat masuk via Teams yaitu :

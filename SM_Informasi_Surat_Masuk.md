@@ -40,6 +40,7 @@ Pada tab **History Surat Masuk**, ditampilkan riwayat surat masuk yang terdapat 
 ![gambar](SuratMasuk/SM_Web/SM12.png)
 
 
+
 ## **P-Office Versi Teams**
 
 Langkah - langkah untuk Informasi surat masuk via Teams yaitu :

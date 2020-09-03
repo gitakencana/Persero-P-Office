@@ -32,7 +32,6 @@ Langkah-langkah untuk menyelesaikan surat masuk via Web adalah sebagai berikut:
 5.    Sistem menyimpan perubahan dan informasi selesai disposisi akan tersimpan di detail disposisi.
 
 
-
 ## **P-Office Versi Teams**
 
 Langkah - langkah untuk selesaikan surat masuk via Teams yaitu :

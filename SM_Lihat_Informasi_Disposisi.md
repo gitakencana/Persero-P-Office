@@ -25,7 +25,7 @@ Pada tab **Mail,** ditampilkan surat masuk fisik yang sudah diunggah oleh sekret
 #### **Preview Lembar Penerus**
 
 
-Pada tab **Preview,** ditampilkan informasi lembar penerus disposisi yang berisi informasi daftar nama pejabat dan perintah disposisi yang harus dilakukan oleh pejabat penerima disposisi
+Pada tab **Preview** ditampilkan informasi lembar penerus disposisi yang berisi informasi daftar nama pejabat dan perintah disposisi yang harus dilakukan oleh pejabat penerima disposisi
 
 ![gambar](SuratMasuk/SM_Web/SM38.png)
 
@@ -89,8 +89,8 @@ Pada tab **Tracking**, ditampilkan informasi tracking disposisi surat masuk dala
 
 Pada tab **History**, ditampilkan riwayat surat masuk yang terdapat informasi jabatan, tanggal, tindakan dan komentar.
 
-            Pada tab **History**, ditampilkan riwayat surat masuk yang terdapat informasi jabatan, tanggal, tindakan dan komentar.
-            ![gambar](SuratMasuk/SM_Teams/SM46.png)
+
+![gambar](SuratMasuk/SM_Teams/SM46.png)
 
 ## **P-Office Versi Android**
 
@@ -128,4 +128,4 @@ Pada tab **Tracking**, ditampilkan informasi _tracking_ disposisi surat masuk da
 Pada tab **Informasi disposisi**, ditampilkan  surat masuk yang terdapat lampiran, tujuan, tindakan dan disposisi.
 
 ![gambar](SuratMasuk/SM_Android/Informasidisposisi/ID01.jpg) ![gambar](SuratMasuk/SM_Android/Informasidisposisi/A02.jpg)W
-![gambar](SuratMasuk/SM_Teams/SM46.png)
+
