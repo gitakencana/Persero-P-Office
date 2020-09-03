@@ -59,3 +59,8 @@ Langkah - langkah untuk setujui SPPTH via Android yaitu :
 ![gambar](SPPTH/SPPTH_Android/SetujuiSPPTH/A04.jpg) ![gambar](SPPTH/SPPTH_Android/SetujuiSPPTH/A05.jpg)
 
 4. Sistem berhasil menyimpan perubahan. SPPTH yang sudah di kirim akan tersimpan di menu **Outbox – SPPTH**
+
+
+## **P-Office Versi IOS**
+
+Langkah - langkah untuk setujui SPPTH via IOS yaitu :
