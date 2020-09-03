@@ -56,3 +56,29 @@ Pada tab History SP3S, ditampilkan riwayat SP3S yang terdapat informasi jabatan,
 
 ![gambar](SP3S/SP3S_Teams/SP3S30.png)
 
+
+## **P-Office Versi Teams**
+
+Langkah - langkah untuk informasi lengkap SP3S via Teams yaitu :
+
+1. Klik menu **Inbox/Draft/Outbox** dan pilih tab **SP3S.** Pilih salah satu SP3S yang akan dilihat informasinya
+
+![gambar](SP3S/SP3S_Android/InfoSP3S/A01.jpg) ![gambar](SP3S/SP3S_Android/InfoSP3S/A02.jpg)
+
+**Detail SP3S**
+
+Pada tab Detail SP3S, terdapat informasi nomor SP3S, jabatan PJS, Pejabat pengganti pertama, jangka waktu, pejabat pengganti kedua (jika ada), jangka waktu pejabat pengganti kedua (jika ada), task yang diizinkan dan task pengecualian.
+
+![gambar](SP3S/SP3S_Android/InfoSP3S/D01.jpg)
+
+**Preview SP3S**
+
+Pada tab informasi _Preview_ SP3S, ditampilkan _preview_ SP3S yang sudah dibuat. _Preview_ SP3S disesuaikan dengan template berdasarkan jenis surat.
+
+![gambar](SP3S/SP3S_Android/InfoSP3S/P01.jpg) 
+
+**History SP3S**
+
+Pada tab _History_ SP3S, ditampilkan riwayat SP3S yang terdapat informasi jabatan, tanggal, tindakan dan komentar
+
+![gambar](SP3S/SP3S_Android/InfoSP3S/H01.jpg) ![gambar](SP3S/SP3S_Android/InfoSP3S/H02.jpg)

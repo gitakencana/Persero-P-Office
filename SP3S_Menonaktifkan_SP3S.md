@@ -31,3 +31,19 @@ Langkah - langkah untuk menonaktifkan SP3S via Teams yaitu :
  ![gambar](SP3S/SP3S_Teams/SP3S50.png)
 
  3. SP3S yang sudah tidak aktif akan tersimpan di menu “**Outbox – SP3S**” approver. Untuk pejabat PJS dan pejabat yang meninggalkan tempat, surat akan tersimpan di menu **“Inbox – SP3S”**
+
+
+
+## **P-Office Versi Android**
+
+Langkah - langkah untuk menonaktifkan SP3S via Android yaitu : 
+
+1. Klik menu **Inbox** dan pilih tab **SP3S**
+
+![gambar](SP3S/SP3S_Android/NonaktifSP3S/A01.jpg) ![gambar](SP3S/SP3S_Android/NonaktifSP3S/A02.jpg) 
+
+2. Pilih SP3S yang akan dinon-aktifkan kemudian pilih tombol button klik **Disable** 
+
+![gambar](SP3S/SP3S_Android/NonaktifSP3S/A01.jpg) ![gambar](SP3S/SP3S_Android/NonaktifSP3S/A02.jpg)![gambar](SP3S/SP3S_Android/NonaktifSP3S/A03.jpg) ![gambar](SP3S/SP3S_Android/NonaktifSP3S/A05.jpg) 
+
+3. SP3S yang sudah tidak aktif akan tersimpan di menu “**Outbox – SP3S**” approver. Untuk pejabat PJS dan pejabat yang meninggalkan tempat, surat akan tersimpan di menu “**Inbox – SP3S**”

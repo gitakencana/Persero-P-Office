@@ -156,3 +156,58 @@ Langkah – langkah untuk mengubah isi surat keluar secara online adalah sebagai
 ![gambar](SP3S/SP3S_Teams/SP3S13.png)
 
 2.	Sistem menyimpan perubahan dan SP3S akan tersimpan di menu **“Outbox - SP3S”**
+
+
+## **P-Office Versi Android**
+
+Langkah - langkah untuk tambah SP3S via Android yaitu : 
+
+1. Klik ikon **(+)** pada SP3S
+
+![gambar](SP3S/SP3S_Android/TambahSP3S/A01.jpg) 
+
+2. Pilih jenis surat “**SP3S**” lalu **Next**
+
+![gambar](SP3S/SP3S_Android/TambahSP3S/A02.jpg)
+
+3. Isi _form_ tambah SP3S. Terdapat beberapa aksi untuk menindaklanjuti SP3S yang sudah diisi _form_ nya yaitu **Close** dan **Save**
+
+**Simpan SP3S**
+
+Langkah – langkah untuk menyimpan SP3S adalah sebagai berikut.
+
+1. Isi _form_ SP3S kemudian klik **Save**
+
+![gambar](SP3S/SP3S_Android/TambahSP3S/S01.jpg) ![gambar](SP3S/SP3S_Android/TambahSP3S/S02.jpg)
+
+2. Sistem akan menyimpan perubahan dan SP3S akan otomatis tersimpan “**Draft-SP3S**
+
+
+###### **[Edit] Ubah Online**
+
+Langkah – langkah untuk mengubah isi SP3S secara online adalah sebagai berikut.
+
+1. Klik **Edit Content** untuk mengubah isi surat secara online
+
+![gambar](SP3S/SP3S_Android/TambahSP3S/U01.jpg)
+
+2. Lakukan perubahan pada isi surat. Klik **Close** pada aplikasi
+
+![gambar](SP3S/SP3S_Android/TambahSP3S/U02.jpg)
+
+3. Isi surat akan otomatis tersimpan. Jika surat akan disimpan sebagai draft, maka klik **Close.** 
+
+![gambar](SP3S/SP3S_Android/TambahSP3S/U03.jpg) ![gambar](SP3S/SP3S_Android/TambahSP3S/U04.jpg) ![gambar](SP3S/SP3S_Android/TambahSP3S/U05.jpg)
+
+4. Surat yang sudah selesai diubah maka akan tersimpan di menu “**Draft – SP3S”**
+
+**Kirim SP3S**
+
+Langkah – langkah untuk mengirim SP3S adalah sebagai berikut.
+
+1. Pada tampilan _preview_ SP3S, klik **Send** untuk mengirim surat ke pejabat tujuan
+
+![gambar](SP3S/SP3S_Android/TambahSP3S/K011.jpg)
+
+2. Sistem menyimpan perubahan dan SP3S akan tersimpan di menu “**Outbox - SP3S**”
+

@@ -39,3 +39,23 @@ Langkah - langkah untuk setujui SPPTH via Teams yaitu :
 
 4.	Sistem berhasil menyimpan perubahan. SPPTH yang sudah di kirim akan tersimpan di menu Outbox – SPPTH
 
+
+
+## **P-Office Versi Android**
+
+Langkah - langkah untuk setujui SPPTH via Android yaitu :
+
+1. Klik menu **Inbox** dan pilih tab **SPPTH**
+   
+![gambar](SPPTH/SPPTH_Android/SetujuiSPPTH/A01.jpg) ![gambar](SPPTH/SPPTH_Android/SetujuiSPPTH/A02.jpg)
+
+1. Pilih SPPTH yang akan disetujui kemudian pada tab **Detail** pilih ikon **button**
+
+![gambar](SPPTH/SPPTH_Android/SetujuiSPPTH/A03.jpg)
+
+
+3. Klik tombol **Approve** kemudian sistem menampilkan pop up dan isikan komentar jika di perlukan lalu pilih **Send.**
+
+![gambar](SPPTH/SPPTH_Android/SetujuiSPPTH/A04.jpg) ![gambar](SPPTH/SPPTH_Android/SetujuiSPPTH/A05.jpg)
+
+4. Sistem berhasil menyimpan perubahan. SPPTH yang sudah di kirim akan tersimpan di menu **Outbox – SPPTH**

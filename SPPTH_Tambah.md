@@ -151,3 +151,62 @@ Langkah – langkah untuk mengirim SPPTH adalah sebagai berikut.
 ![gambar](SPPTH/SPPTH_Teams/SPPTH12.png)
 
 2. Sistem menyimpan perubahan dan SPPTH akan tersimpan di menu **“Outbox - SPPTH”**
+
+
+
+## **P-Office Versi Android**
+
+Langkah - langkah untuk tambah SPPTH via Android yaitu :
+
+1. Klik ikon **(+)** pada SPPTH
+
+![gambar](SPPTH/SPPTH_Android/TambahSPPTH/A01.jpg)
+
+2. Pilih jenis surat “**SPPTH**”
+
+![gambar](SPPTH/SPPTH_Android/TambahSPPTH/A02.jpg)
+
+3. Isi _form_ tambah SPPTH. pilih **Save** terdapat aksi untuk menindaklanjuti SPPTH yang sudah diisi _form_ nya yaitu **Edit Content** dan **Send.**
+
+![gambar](SPPTH/SPPTH_Android/TambahSPPTH/A03.jpg) ![gambar](SPPTH/SPPTH_Android/TambahSPPTH/A04.jpg)
+
+**Simpan SPPTH**
+
+Langkah – langkah untuk menyimpan SPPTH adalah sebagai berikut.
+
+1. Isi _form_ SPPTH kemudian klik **Save**
+
+![gambar](SPPTH/SPPTH_Android/TambahSPPTH/S01.jpg) ![gambar](SPPTH/SPPTH_Android/TambahSPPTH/S02.jpg)
+
+2. Sistem akan menampilkan tampilan _preview_ SPPTH dalam bentuk Word yang dapat di edit. Untuk melakukan _editing_ terhadap isi surat klik **Edit Content** kemudian sistem akan menampilkan **Word Online**
+
+
+**[Edit] Ubah Online**
+
+Langkah – langkah untuk mengubah isi SPPTH secara online adalah sebagai berikut.
+
+1. Klik **Edit Content** untuk mengubah isi surat secara online
+
+![gambar](SPPTH/SPPTH_Android/TambahSPPTH/U01.jpg) 
+
+2. Lakukan perubahan pada isi surat lalu sistem akan menampilkan pop up P-Office Editing Document pilih **Yes**
+
+![gambar](SPPTH/SPPTH_Android/TambahSPPTH/U02.jpg) ![gambar](SPPTH/SPPTH_Android/TambahSPPTH/U03.jpg)
+
+3. Isi surat akan otomatis tersimpan. Jika surat akan disimpan sebagai draft, maka klik **Close.**
+    
+ ![gambar](SPPTH/SPPTH_Android/TambahSPPTH/U04.jpg)
+
+4. Surat yang sudah selesai diubah maka akan tersimpan di menu “**Draft – SPPTH”**
+
+**Kirim SPPTH**
+
+Langkah – langkah untuk mengirim SPPTH adalah sebagai berikut.
+
+1. Pada tampilan _preview_ SPPTH, klik **Kirim** untuk mengirim SPPTH ke _approver_
+
+![gambar](SPPTH/SPPTH_Android/TambahSPPTH/K01.jpg)
+
+2. Sistem menyimpan perubahan dan SPPTH akan tersimpan di menu “**Outbox - SPPTH**”
+
+

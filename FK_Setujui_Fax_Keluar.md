@@ -37,3 +37,22 @@ Langkah - langkah untuk menyetujui fax keluar via Teams adalah sebagai berikut:
 ![gambar](FaxKeluar/FK_Teams/FK38.png)
 
 4. Sistem berhasil menyimpan perubahan. Fax keluar yang sudah di kirim akan tersimpan di menu **Outbox - Fax Keluar**
+
+
+## **P-Office Versi Android**
+
+Langkah - langkah untuk menyetujui fax keluar via Android adalah sebagai berikut:
+
+1. Klik menu **Inbox** dan pilih tab **Fax Keluar**
+
+![gambar](FaxKeluar/FK_Android/SetujuFK/A01.jpg) ![gambar](FaxKeluar/FK_Android/SetujuFK/A02.jpg)
+
+2. Pilih fax keluar yang akan ditindak lanjuti kemudian pilih ikon **tombol button**
+   
+![gambar](FaxKeluar/FK_Android/SetujuFK/A3.jpg) ![gambar](FaxKeluar/FK_Android/SetujuFK/A03.jpg)
+
+3. Klik tombol **Approve** kemudian Sistem akan menampilkan pop up konfirmasi dan _user_ harus mengisi komentar lalu pilih **Send.**
+   
+![gambar](FaxKeluar/FK_Android/SetujuFK/A04.jpg) ![gambar](FaxKeluar/FK_Android/SetujuFK/A05.jpg)
+
+4. Sistem berhasil menyimpan perubahan. Fax keluar yang sudah di kirim akan tersimpan di menu **Outbox- Fax Keluar**

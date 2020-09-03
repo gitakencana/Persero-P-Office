@@ -133,3 +133,48 @@ Langkah – langkah untuk mengubah isi SPPTH secara online adalah sebagai beriku
 4.    Surat yang sudah selesai diubah maka akan tersimpan di menu **“Inbox – SPPTH”**
 
 
+## **P-Office Versi Android**
+
+Langkah - langkah untuk tambah SPPTH via Android yaitu :
+
+
+1. Klik menu **Inbox** dan pilih tab **SPPTH**
+
+![gambar](SPPTH/SPPTH_Android/RevisiSPPTH/A01.jpg) ![gambar](SPPTH/SPPTH_Android/RevisiSPPTH/A02.jpg)
+
+2. Pilih SPPTH yang akan disetujui kemudian pilih tombol **button**
+
+![gambar](SPPTH/SPPTH_Android/RevisiSPPTH/A03.jpg)
+
+3. Pilih button **Revise** kemudian lakukan perubahan pada form. Klik **Save Mail** untuk menyimpan perubahan pada _form_ SPPTH. Surat yang disimpan akan tersimpan di menu “**Inbox – SPPTH”**
+
+![gambar](SPPTH/SPPTH_Android/RevisiSPPTH/A04.jpg)  ![gambar](SPPTH/SPPTH_Android/RevisiSPPTH/A05.jpg)
+
+4. Lakukan perubahan pada _form_. Klik **Save Mail** untuk menyimpan perubahan pada _form_ SPPTH. Surat yang disimpan akan tersimpan di menu “**Draft – SPPTH”**
+
+![gambar](SPPTH/SPPTH_Android/RevisiSPPTH/A06.jpg)
+
+5. Klik **Edit Content** untuk mengubah isi SPPTH
+
+![gambar](SPPTH/SPPTH_Android/RevisiSPPTH/A07.jpg)
+
+6. Sistem menampilkan tampilan _preview_ SPPTH dalam bentuk Word yang dapat di edit. Untuk melakukan _editing_ terhadap isi surat klik **Edit Content** kemudian sistem akan menampilkan _pop up_ konfirmasi atau **Ubah Online**
+
+**[Edit] Ubah Online**
+
+Langkah – langkah untuk mengubah isi SPPTH secara _online_ adalah sebagai berikut.
+
+1. Klik **Edit Content** untuk mengubah isi surat secara online
+   
+![gambar](SPPTH/SPPTH_Android/RevisiSPPTH/U01.jpg)
+
+2. Lakukan perubahan pada isi surat lalu sistem akan menampilkan pop up P-Office Editing Document pilij **Yes**
+
+![gambar](SPPTH/SPPTH_Android/RevisiSPPTH/U02.jpg) ![gambar](SPPTH/SPPTH_Android/RevisiSPPTH/U03.jpg)
+
+3. Isi surat akan otomatis tersimpan. Jika surat akan disimpan sebagai draft, maka klik **Close.**
+   
+![gambar](SPPTH/SPPTH_Android/RevisiSPPTH/U04.jpg)
+
+
+4. Surat yang sudah selesai diubah maka akan tersimpan di menu “**Draft – SPPTH”**

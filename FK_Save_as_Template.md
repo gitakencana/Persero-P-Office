@@ -49,3 +49,21 @@ Langkah - langkah untuk save as template fax keluar via Teams adalah sebagai ber
 ![gambar](FaxKeluar/FK_Teams/FK17.png)
 
 5. Lakukan perubahan pada fax, klik **Simpan** untuk menyimpan perubahan dan fax keluar akan tersimpan di menu **"Draft - Fax Keluar"** sebagai draft atau klik **Send** untuk mengirimkan ke pejabat tujuan dan tersimpan di menu **"Outbox - Fax Keluar"**.
+
+## **P-Office Versi Android**
+
+Langkah - langkah untuk save as template fax keluar via Android adalah sebagai berikut:
+
+1. Isi _form_ fax keluar dan Klik **Save as Template**
+
+
+
+2. Fax keluar yang disimpan menjadi _template_ akan tersimpan di menu “**Draft – Fax Keluar”.** Untuk melanjutkan _template_ yang sudah dibuat _user_ dapat memilih menu “**Draft – Keluar**” kemudian pilih _template_ yang akan digunakan
+
+
+
+3. Pilih tombol **_User_ Template** untuk melanjutkan edit fax keluar
+
+
+4. Sistem akan menampilkan form **Edit Correspondence,** klik **Simpan** untuk menyimpan perubahan
+5. Lakukan perubahan pada fax, klik **Simpan** untuk menyimpan perubahan dan fax keluar akan tersimpan di menu **“Draft – Fax Keluar”** sebagai draft atau klik **Send** untuk mengirimkan ke pejabat tujuan dan tersimpan di menu **“Outbox – Fax Keluar”.**
