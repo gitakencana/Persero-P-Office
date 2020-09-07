@@ -6,19 +6,22 @@ Berikut adalah role approver dalam aplikasi P-Office antara lain yaitu:
 Pada modul ini mendukung proses input surat masuk oleh sekretaris berdasarkan berkas fisik yang diterima dan kemudian dikirimkan ke pejabat penerima surat. Pejabat tersebut dapat meneruskan surat dengan mendisposisikan surat kepada pejabat tujuan lainnya ataupun pejabat yang ada di bawahnya.
 Hal-hal yang dapat dilakukan oleh *approver* dalam mengelola surat masuk antara lain:
 
-- [Melihat Daftar Surat Masuk]()
-- [Menambah Surat Masuk]()
-- [Melakukan Drafting Surat Masuk]()
-- [Melihat Informasi lengkap Surat Masuk]()
-- [Menolak Surat Masuk]()
-- [Menyelesaikan Surat Masuk]()
-- [Melihat Daftar Disposisi Surat Masuk]()
-- [Mendisposisikan Surat Masuk]()
-- [Melakukan Custom Disposisi]()
-- [Melihat Informasi Lengkap Disposisi Surat Masuk]()
-- [Melakukan Recall Disposisi Surat Masuk]()
-- [Menyelesaikan Disposisi Surat Masuk]()
-- [Mengirim Tanggapan Disposisi Surat Masuk]()
+
+- [Melihat Informasi Lengkap Disposisi Surat Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver-suratmasuk/bbe52f3a684b47fabcf15e4266689600)
+- [Melihat Daftar Surat Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver-suratmasuk/135d71654b6d43d5b4217cbb69ae74a7)
+- [Menambah Surat Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver-suratmasuk/f79d1215019140e995e3976590d3aa40)
+- [Melakukan Drafting Surat Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver-suratmasuk/dff5fd9dd63248c18f8e18b7c9fbc59e)
+- [Melihat Informasi lengkap Surat Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver-suratmasuk/59c8f5d18c214cb49ddf54071ce12cbe)
+- [Menyelesaikan Surat Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver-suratmasuk/e60da80b510e4038b124ac8954498bae)
+- [Menolak Surat Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver-suratmasuk/08e806ac612f48e58529b3c5f09fdeaf)
+- [Melihat Daftar Disposisi Surat Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver-suratmasuk/a3f402d9357841618fcbc2668a78aed1)
+- [Mendisposisikan Surat Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver-suratmasuk/f97440e003bd4f5fa3f626475a6dfa03)
+- [Melakukan Custom Disposisi](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver-suratmasuk/d3634dd1f3de40d3b652c45410fccf08)
+- [Melakukan Recall Disposisi Surat Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver-suratmasuk/c0df8ac81af54ceb96b96c359b9fd954)
+- [Menyelesaikan Disposisi Surat Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver-suratmasuk/1d3f1c9a3ba9406da3302e7133efc3b2)
+- [Mengirim Tanggapan Disposisi Surat Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver-suratmasuk/1d3f1c9a3ba9406da3302e7133efc3b2)
+
+
 
 ### **Surat Keluar**
 
