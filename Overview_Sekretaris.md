@@ -1,6 +1,7 @@
 Pada bagian ini akan dijelaskan mengenai role sebagai sekretaris dalam aplikasi P-Office yang mengelola menu surat masuk, fax masuk dan agenda kendali. Sekretaris adalah pekerja yang diberikan wewenang untuk melakukan pekerjaan misalnya pencatatan surat masuk, mengelola agenda kendali, mengelola dokumen yang masuk pada atasan pejabatnya dan lain-lain. 
 Berikut adalah role sekretaris dalam aplikasi P-Office antara lain yaitu:
 
+
 ### **Surat Masuk**
 
 Pada modul ini mendukung proses input surat masuk oleh sekretaris berdasarkan berkas fisik yang diterima dan kemudian dikirimkan ke pejabat penerima surat. Pejabat tersebut dapat meneruskan surat dengan mendisposisikan surat kepada pejabat tujuan lainnya ataupun pejabat yang ada di bawahnya.
