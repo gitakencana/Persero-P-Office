@@ -45,7 +45,7 @@ Langkah - langkah untuk Kembalikan kesebelumnya via Teams yaitu :
 
 Langkah-langkah untuk mengembalikan surat keluar ke sebelumnya adalah sebagai berikut :
 
-1. Klik menu **Inbox **dan pilih tab **Surat Keluar**
+1. Klik menu **Inbox** dan pilih tab **Surat Keluar**
 
 ![gambar](SuratKeluar/SK_Android/KembaliSK/A01.jpg) ![gambar](SuratKeluar/SK_Android/KembaliSK/A02.jpg)
 
@@ -57,7 +57,7 @@ Langkah-langkah untuk mengembalikan surat keluar ke sebelumnya adalah sebagai be
 
 ![gambar](SuratKeluar/SK_Android/KembaliSK/A04.jpg) ![gambar](SuratKeluar/SK_Android/KembaliSK/A05.jpg)
 
-4. Sistem berhasil menyimpan perubahan. Surat keluar yang sudah di kirim akan tersimpan di menu **Outbox- Surat keluar **dan penerima pengembalian surat keluar akan menerima surat keluar di menu **Draft - Surat keluar**
+4. Sistem berhasil menyimpan perubahan. Surat keluar yang sudah di kirim akan tersimpan di menu **Outbox- Surat keluar** dan penerima pengembalian surat keluar akan menerima surat keluar di menu **Draft - Surat keluar**
 
 
 

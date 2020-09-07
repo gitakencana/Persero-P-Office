@@ -8,19 +8,19 @@
 
 1. Klik menu **Inbox** dan pilih tab **Fax Masuk**
 
-![gambar](SC_FaxMasuk/FM19.png)
+![gambar](FaxMasuk/FM_WEB/SelesaiFM01.png) 
 
 2. Pilih fax masuk yang akan diselesaikan kemudian pilih tab **Detail**
 
-![gambar](SC_FaxMasuk/FM20.png)
+![gambar](FaxMasuk/FM_WEB/SelesaiFM02.png) 
 
 3. Pilih tombol **Selesai** kemudian klik **Send**
 
-![gambar](SC_FaxMasuk/FM21.png)
+![gambar](FaxMasuk/FM_WEB/SelesaiFM03.png) 
 
-4. Sistem menampilkan *pop up* konfirmasi dan *user* harus mengisi keterangan selesaikan disposisi kemudian klik **Simpan**.
+4. Sistem menampilkan *pop up* konfirmasi dan *user* harus mengisi keterangan selesaikan disposisi kemudian klik **Save**.
 
-![gambar](SC_FaxMasuk/FM22.png)
+![gambar](FaxMasuk/FM_WEB/SelesaiFM04.png)
 
 5. Sistem menyimpan perubahan dan informasi selesai disposisi akan tersimpan di detail disposisi.
 
