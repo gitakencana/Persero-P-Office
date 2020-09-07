@@ -59,7 +59,7 @@ Langkah-langkah untuk melihat informasi fax masuk adalah sebagai berikut :
 
 Pada tab Preview Fax Masuk, ditampilkan informasi fax masuk fisik yang sudah di _scan_ dan kemudian diunggah oleh sekretaris / konseptor
 
-![gambar](Faxmasuk/FM_Android/Infodisposisi/P01.jpg) ![gambar](Faxmasuk/FM_Android/Infodisposisi/P02.jpg) 
+![gambar](Faxmasuk/FM_Android/Infodisposisi/P01.jpg) ![gambar](Faxmasuk/FM_Android/Infodisposisi/P02.jpg)
 
 **Detail Fax Masuk**
 

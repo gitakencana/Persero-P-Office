@@ -42,7 +42,7 @@ Langkah - langkah untuk recall surat masuk via Android yaitu:
    
 ![gambar](SuratMasuk/SM_Android/Recalldisposisi/A01.jpg) ![gambar](SuratMasuk/SM_Android/Recalldisposisi/A02.jpg)
 
-2. Pilih surat masuk yang akan di-_recall_ kemudian klik ikon **tombol button** kemudian klik **Recall**
+1. Pilih surat masuk yang akan di-_recall_ kemudian klik **button** kemudian klik **Recall**
 
 ![gambar](SuratMasuk/SM_Android/Recalldisposisi/A03.jpg) ![gambar](SuratMasuk/SM_Android/Recalldisposisi/A04.jpg) ![gambar](SuratMasuk/SM_Android/Recalldisposisi/A05.jpg)
 

@@ -49,7 +49,7 @@ Langkah-langkah untuk mengembalikan surat keluar ke sebelumnya adalah sebagai be
 
 ![gambar](SuratKeluar/SK_Android/KembaliSK/A01.jpg) ![gambar](SuratKeluar/SK_Android/KembaliSK/A02.jpg)
 
-2. Pilih surat keluar yang akan ditindak lanjuti kemudian pilih ikon **tombol button**
+2. Pilih surat keluar yang akan ditindak lanjuti kemudian pilih tombol **button**
 
 ![gambar](SuratKeluar/SK_Android/KembaliSK/A003.jpg) ![gambar](SuratKeluar/SK_Android/KembaliSK/A03.jpg)
 

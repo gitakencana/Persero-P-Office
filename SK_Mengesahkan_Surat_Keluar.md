@@ -50,7 +50,7 @@ Langkah-langkah untuk melihat informasi surat keluar adalah sebagai berikut :
 
 ![gambar](SuratKeluar/SK_Android/NomorSK/A01.jpg) ![gambar](SuratKeluar/SK_Android/NomorSK/A02.jpg)
 
-4. Pilih surat keluar yang akan ditindak lanjuti kemudian di bagian **Detail** terdapat informasi nomor surat yang akan ter-_generate _jika _user_ menyetujui surat keluar.
+4. Pilih surat keluar yang akan ditindak lanjuti kemudian di bagian **Detail** terdapat informasi nomor surat yang akan ter-_generate_ jika _user_ menyetujui surat keluar.
 
 ![gambar](SuratKeluar/SK_Android/NomorSK/A03.jpg) ![gambar](SuratKeluar/SK_Android/NomorSK/A04.jpg)
 

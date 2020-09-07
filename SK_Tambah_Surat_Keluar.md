@@ -174,7 +174,7 @@ Langkah - langkah untuk menambah surat keluar via Android yaitu:
 
 ![gambar](SuratKeluar/SK_Android/TambahSK/A02.jpg) 
 
-3. Isi _form_ tambah surat keluar. Terdapat bebarapa aksi untuk menindaklanjuti surat keluar yang sudah diisi _form_nya yaitu **Simpan Surat Keluar**, **Kirim Surat Keluar **dan **Save as Template Surat Keluar
+3. Isi _form_ tambah surat keluar. Terdapat bebarapa aksi untuk menindaklanjuti surat keluar yang sudah diisi _form_nya yaitu **Simpan Surat Keluar**, **Kirim Surat Keluar**dan **Save as Template** Surat Keluar
 
 ![gambar](SuratKeluar/SK_Android/TambahSK/A03.jpg) ![gambar](SuratKeluar/SK_Android/TambahSK/A04.jpg) ![gambar](SuratKeluar/SK_Android/TambahSK/A05.jpg)![gambar](SuratKeluar/SK_Android/TambahSK/A06.jpg)
 
@@ -185,7 +185,7 @@ Langkah - langkah untuk menambah surat keluar via Android yaitu:
 
 ![gambar](SuratKeluar/SK_Android/TambahSK/S01.jpg) ![gambar](SuratKeluar/SK_Android/TambahSK/S02.jpg)
 
-2. Surat keluar akan tersimpan di menu **Draft - Surat Keluar ** 
+2. Surat keluar akan tersimpan di menu **Draft - Surat Keluar** 
 
 ![gambar](SuratKeluar/SK_Android/TambahSK/S03.jpg) ![gambar](SuratKeluar/SK_Android/TambahSK/S04.jpg) ![gambar](SuratKeluar/SK_Android/TambahSK/S05.jpg)
 
