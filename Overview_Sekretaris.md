@@ -4,22 +4,31 @@ Berikut adalah role sekretaris dalam aplikasi P-Office antara lain yaitu:
 ### **Surat Masuk**
 
 Pada modul ini mendukung proses input surat masuk oleh sekretaris berdasarkan berkas fisik yang diterima dan kemudian dikirimkan ke pejabat penerima surat. Pejabat tersebut dapat meneruskan surat dengan mendisposisikan surat kepada pejabat tujuan lainnya ataupun pejabat yang ada di bawahnya.
-Hal-hal yang dapat dilakukan oleh Sekretaris dalam mengelola surat masuk antara lain:
+
+Hal-hal yang dapat dilakukan oleh Sekretaris dalam mengelola surat masuk antara lain: 
 
 - [Melihat Daftar Surat Masuk]()
 - [Menambah Surat Masuk]()
 - [Melakukan Drafting Surat Masuk]()
 - [Melihat Informasi lengkap Surat Masuk]()
-- [Menyelesaikan Surat Masuk]()
 - [Melihat Daftar Disposisi Surat Masuk]()
-- [Melihat Informasi Lengkap Disposisi Surat Masuk]()
-- [Melakukan Recall Disposisi Surat Masuk]()
-- [Menyelesaikan Disposisi Surat Masuk]()
-- [Mengirim Tanggapan Disposisi Surat Masuk]()
+- [Workflow Surat Masuk]()
+
+
+### **Memorandum**
+
+Pada modul ini mendukung proses pembuatan konsep memorandum yang akan disetujui oleh reviewer/approver. Setelah memorandum disetujui maka akan diberikan nomor memorandum secara otomatis dan dikirimkan ke pejabat pemilik Kode Bagian Organisasi (KBO). Pemilik KBO tersebut akan mendapatkan memorandum masuk pada menu “Inbox” dan dapat mendisposisikan memorandum kepada pejabat yang dipilih atau pejabat yang ada di bawahnya sampai dengan level staf. 
+
+Hal-hal yang dapat dilakukan oleh Sekretaris dalam mengelola Memorandum antara lain: 
+
+- [Melihat Informasi Lengkap Disposisi Memorandum]()
+- [Menyelesaikan Disposisi Memorandum]()
+- [Mengirim Tanggapan Disposisi Memorandum]()
 
 ### **Fax Masuk**
 
 Pada modul ini mendukung proses penambahan fax masuk oleh sekretaris atau pekerja yang ditunjuk dari pejabat yang bersangkutan. Fax masuk yang sudah diinputkan akan dikirimkan kepada pejabat pemilik KBO dan dapat dilakukan disposisi kepada pejabat yang ada di bawahnya.
+
 Hal-hal yang dapat dilakukan oleh Sekretaris dalam mengelola fax masuk antara lain:
 
 - [Melihat Daftar Fax Masuk]()
@@ -27,20 +36,46 @@ Hal-hal yang dapat dilakukan oleh Sekretaris dalam mengelola fax masuk antara la
 - [Melakukan Drafting Fax Masuk]()
 - [Melihat Informasi lengkap Fax Masuk]()
 - [Menyelesaikan Fax Masuk]()
-- [Melihat Daftar Disposisi Fax Masuk]()
 - [Melihat Informasi Lengkap Disposisi Fax Masuk]()
-- [Melakukan Recall Disposisi Fax Masuk]()
+- [Menyelesaikan Disposisi Fax Masuk]()
 - [Mengirim Tanggapan Disposisi Fax Masuk]()
 
+### **SP3S**
+
+Pada modul ini mendukung proses input Surat Penunjukan Pejabat Pengganti Sementara (SP3S) dan akan dikirimkan ke pejabat terkait. Pengguna yang dapat melakukan input SP3S adalah sekretaris, pekerja yang diperintahkan atau pejabat yang akan meninggalkan tempat (dinas, cuti).
+
+Hal-hal yang dapat dilakukan oleh Sekretaris dalam mengelola SP3S antara lain:
+
+- [Melihat Daftar SP3S]()
+- [Melihat Riwayat SP3S]()
+
+### **SPPTH**
+
+Pada modul ini mendukung proses input Surat Penunjukan Pelaksana Tugas Harian (SPPTH) dan akan dikirimkan ke pejabat terkait. Pengguna yang dapat melakukan input SPPTH adalah sekretaris, pekerja yang diperintahkan atau pejabat yang akan meninggalkan tempat (dinas, cuti). Pejabat yang dapat mengajukan SPPTH hanya berlaku untuk direksi. Pengajuann SPPTH akan disetujui oleh direktur utama atau Pejabat Sementara (Pjs) direktur utama.
+
+Hal-hal yang dapat dilakukan oleh Sekretaris dalam mengelola SPPTH antara lain:
+
+- [Menambah Pengajuan SPPTH]()
+- [Melakukan Drafting SPPTH]()
+
+### **Archive**
+
+Pada modul ini mendukung tempat penyimpanan dokumen yang melebihi masa retensi. Dokumen yang disimpan pada menu Archive meliputi dokumen surat masuk, memorandum, surat keluar, fax masuk dan fax keluar.
+
+Hal-hal yang dapat dilakukan oleh Sekretaris dalam mengelola Archive antara lain:
+- [Melihat Dokumen Surat Keluar]()
+- [Melihat Dokumen Fax Masuk]()
+- [Melihat Dokumen Fax Keluar]()
 
 ### **Document Control** 
 
 Pada modul ini mendukung pengelolaan dokumen masuk, dokumen keluar dan disposisi oleh sekretaris sesuai dengan pejabat pemilik KBO. Pada modul agenda kendali juga terdapat fitur untuk meminta nomor offline (request offline number) oleh sekretaris dan akan ditindaklanjuti oleh admin P-Office.
+
 Hal-hal yang dapat dilakukan oleh Sekretaris dalam mengelola document control antara lain:
 
 - [Melihat Daftar Dokumen Masuk]()
-- [Melihat Daftar Dokumen Keluar]()
 - [Melihat Daftar Dokumen Draft]()
+- [Melihat Daftar Dokumen Keluar]()
 - [Melihat Daftar Dokumen Disposisi]()
 - [Melihat Daftar Dokumen Rejected]()
 - [Melihat Daftar Dokumen Archive]()
@@ -48,8 +83,5 @@ Hal-hal yang dapat dilakukan oleh Sekretaris dalam mengelola document control an
 - [Menambah Catatan Dokumen]()
 - [Mencetak Dokumen Document Control]()
 - [Melakukan Request Nomor Offline]()
-- [Menyetujui Pengajuan Nomor Offline]()
-- [Menolak Pengajuan Nomor Offline]()
 - [Mengunggah Dokumen Nomor Offline]()
-- [Menyetujui Pengembalian Nomor Offline]()
-- [Menambah Komentar Request Nomor Offline]()
+- [Mengembalikan Nomor Offline]()
