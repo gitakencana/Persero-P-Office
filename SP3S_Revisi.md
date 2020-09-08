@@ -2,7 +2,11 @@
 
 - *Approver User*
 
-*User* dapat merevisi SP3S yang sudah dikirimkan oleh konseptor. Langkah - langkah untuk melakukan revisi SP3S adalah sebagai berikut
+*User* dapat merevisi SP3S yang sudah dikirimkan oleh konseptor. 
+
+## **P-Office Versi Web**
+
+Langkah - langkah untuk Revisi SP3S via Web adalah sebagai berikut :
 
 1. Klik menu **Inbox** dan pilih tab **SP3S**
 
@@ -62,9 +66,7 @@ Langkah - langkah untuk mengubah isi SP3S secara *online* adalah sebagai berikut
 
 4. Surat yang sudah selesai diubah maka akan tersimpan di menu **"Draft - SP3S"**
 
-
 ## **P-Office Versi Teams**
-
 
 Langkah - langkah untuk Revisi SP3S via Teams adalah sebagai berikut :
 
@@ -130,14 +132,13 @@ Langkah – langkah untuk mengubah isi surat keluar secara online adalah sebagai
 
 4. Surat yang sudah selesai diubah maka akan tersimpan di menu **“Inbox – Surat SP3S”**
 
-
 ## **P-Office Versi Android**
 
 Langkah - langkah untuk Revisi SP3S via Android adalah sebagai berikut :
 
 1. Klik menu **Inbox** dan pilih tab **SP3S**
 
-  ![gambar](SP3S/SP3S_Android/RevisiSP3S/A01.jpg) ![gambar](SP3S/SP3S_Android/RevisiSP3S/A02.jpg) 
+![gambar](SP3S/SP3S_Android/RevisiSP3S/A01.jpg) ![gambar](SP3S/SP3S_Android/RevisiSP3S/A02.jpg) 
 
 2. Pilih SP3S yang akan disetujui kemudian pilih ikon **tombol button**
 
@@ -157,7 +158,7 @@ Langkah - langkah untuk Revisi SP3S via Android adalah sebagai berikut :
 
 6. Sistem menampilkan tampilan _preview_ SP3S dalam bentuk Word yang dapat di edit. Untuk melakukan _editing_ terhadap isi surat klik **Ubah Isi** kemudian sistem akan menampilkan _pop up_ konfirmasi **Ubah Online**
 
-**[Edit] Ubah Online**
+#### **[Edit] Ubah Online**
 
 Langkah – langkah untuk mengubah isi SP3S secara _online_ adalah sebagai berikut.
 
@@ -174,3 +175,35 @@ Langkah – langkah untuk mengubah isi SP3S secara _online_ adalah sebagai berik
 ![gambar](SP3S/SP3S_Android/RevisiSP3S/U04.jpg) ![gambar](SP3S/SP3S_Android/RevisiSP3S/U05.jpg)
 
 4. Surat yang sudah selesai diubah maka akan tersimpan di menu “**Inbox – SP3S”**
+
+## **P-Office Versi IOS**
+
+Langkah - langkah untuk Revisi SP3S via IOS adalah sebagai berikut :
+
+1.	Klik menu **Inbox** dan pilih tab **SP3S**
+
+![gambar](SP3S/SP3S_IOS/SP3S-25.1.png) ![gambar](SP3S/SP3S_IOS/SP3S-25.2.png)
+
+2.	Pilih SP3S yang akan disetujui kemudian pilih icon **Option** dan pilih **Revise**
+
+![gambar](SP3S/SP3S_IOS/SP3S-26.1.png) ![gambar](SP3S/SP3S_IOS/SP3S-26.2.png)
+
+3.	Sistem akan menampilkan form Edit **SP3S**
+
+![gambar](SP3S/SP3S_IOS/SP3S-27.1.png) ![gambar](SP3S/SP3S_IOS/SP3S-27.2.png)
+
+4.	Lakukan perubahan pada form. Klik **Save Mai** untuk menyimpan perubahan pada form SP3S. Surat yang disimpan akan tersimpan di menu **“Draft – SP3S”**
+
+![gambar](SP3S/SP3S_IOS/SP3S-28.png)
+
+5.	Klik **Edit Content** untuk mengubah isi **SP3S**
+
+6.	Sistem akan menampilkan tampilan preview SP3S dalam bentuk Word yang dapat di edit. Untuk melakukan editing terhadap isi surat klik **Edit/Send**
+
+![gambar](SP3S/SP3S_IOS/SP3S-29.png)
+
+7.	Pilih **Edit Content** untuk melakukan perubahan isi konten, kemudian pada pop up notifikasi Editing Document pilih **Yes** untuk menyelesaikan perubahan
+
+![gambar](SP3S/SP3S_IOS/SP3S-30.png) ![gambar](SP3S/SP3S_IOS/SP3S-31.1.png) ![gambar](SP3S/SP3S_IOS/SP3S-31.2.png)
+
+8.	Klik **Close** untuk menutup editing SP3S, SP3S yang disimpan akan tersimpan di menu **“Inbox – SP3S”**
