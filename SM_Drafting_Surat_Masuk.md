@@ -11,15 +11,15 @@ Langkah - langkah untuk drafting surat masuk via Web adalah sebagai berikut :
 
 1.    Klik menu **Draft** dan pilih tab **Surat Masuk**
 
-![gambar](SuratMasuk/SM_Web/SM06.png)
+![gambar](SuratMasuk/SM_Web/SM05.png)
 
 2.    Pilih surat masuk yang akan diubah. Pilih tab **Detail** kemudian klik **Edit**
 
-![gambar](SuratMasuk/SM_Web/SM07.png)
+![gambar](SuratMasuk/SM_Web/SM06.png)
 
 3.    Sistem akan menampilkan _form_ **Edit Correspondence**
 
-![gambar](SuratMasuk/SM_Web/SM08.png)
+![gambar](SuratMasuk/SM_Web/SM07.png)
 
 4.	  Lakukan perubahan pada _form_. Klik **Send** untuk mengirim surat masuk ke pejabat tujuan. Surat yang terkirim akan tersimpan di menu "**Outbox - Surat Masuk"**
 
@@ -29,7 +29,7 @@ Langkah - langkah untuk drafting surat masuk via Web adalah sebagai berikut :
 Langkah - langkah untuk drafting surat masuk via Teams adalah sebagai berikut :
 
 
-1. Klik menu _**Draft**_ dan pilih tab **Surat Masuk**
+1. Klik menu **Draft** dan pilih tab **Surat Masuk**
 
 ![gambar](SuratMasuk/SM_Teams/SM06.png)
 
@@ -37,13 +37,13 @@ Langkah - langkah untuk drafting surat masuk via Teams adalah sebagai berikut :
 
 ![gambar](SuratMasuk/SM_Teams/SM07.png)
 
-3. Sistem akan menampilkan _form_ **Edit Correspondence**_
+3. Sistem akan menampilkan _form_ **Edit Correspondence**
 
 ![gambar](SuratMasuk/SM_Teams/SM08.png)
 
 ![gambar](SuratMasuk/SM_Teams/SM09.png)
 
-4. Lakukan perubahan pada _form_. Klik **Send** untuk mengirim surat masuk ke pejabat tujuan. Surat yang terkirim akan tersimpan di menu “**_Outbox_ – Surat Masuk”**
+4. Lakukan perubahan pada _form_. Klik **Send** untuk mengirim surat masuk ke pejabat tujuan. Surat yang terkirim akan tersimpan di menu “**Outbox – Surat Masuk”**
 
 
 ## **P-Office Versi Android**
@@ -62,7 +62,7 @@ Langkah-langkah untuk Drafting surat masuk adalah sebagai berikut.
 
 ![gambar](SuratMasuk/SM_Android/DraftSM/A06.jpg) ![gambar](SuratMasuk/SM_Android/DraftSM/A07.jpg)
 
-4. Lakukan perubahan pada _form_. Klik **Send Mail** untuk mengirim surat masuk ke pejabat tujuan. Surat yang terkirim akan tersimpan di menu “**Outbox – Surat Masuk”**
+4. Lakukan perubahan pada _form_. Klik **Send a Mail** untuk mengirim surat masuk ke pejabat tujuan. Surat yang terkirim akan tersimpan di menu “**Outbox – Surat Masuk”**
 
 ## **P-Office Versi IOS**
 
@@ -70,13 +70,15 @@ Langkah-langkah untuk Drafting surat masuk adalah sebagai berikut.
 
 1. Klik menu **Draft** dan pilih tab **Surat Masuk**
    
-2. ![gambar](SuratMasuk/SM_IOS/SM-8.png) ![gambar](SuratMasuk/SM_IOS/SM-9.png)
+![gambar](SuratMasuk/SM_IOS/SM-8.png) ![gambar](SuratMasuk/SM_IOS/SM-9.png)
 
 2.	Pilih surat masuk yang akan diubah. Pilih icon **Option** kemudian klik **Edit**
+
 ![gambar](SuratMasuk/SM_IOS/SM-10.png)
 
 3.	Sistem akan menampilkan _form_ **Edit Surat Masuk**
-![gambar](SuratMasuk/SM_IOS/SM-11.png) ![gambar](SuratMasuk/SM_IOS/SM-12.png)
 
-4.	Lakukan perubahan pada _form_. Klik **Save** untuk mengirim surat masuk ke pejabat tujuan. Surat yang terkirim akan tersimpan di menu “**Outbox – Surat Masuk”**
+![gambar](SuratMasuk/SM_IOS/SM-11.png) ![gambar](SuratMasuk/SM_IOS/CR-SM1.png)
+
+4.	Lakukan perubahan pada _form_. Klik **Send a Mail** untuk mengirim surat masuk ke pejabat tujuan. Surat yang terkirim akan tersimpan di menu “**Outbox – Surat Masuk”**
 

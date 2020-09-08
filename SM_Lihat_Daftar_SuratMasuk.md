@@ -41,4 +41,4 @@ Langkah-langkah untuk melihat daftar surat masuk via IOS adalah sebagai berikut 
 
 1.	Klik menu **Inbox** dan pilih tab **Surat Masuk**. Sistem akan menampilkan daftar surat masuk yang ditujukan pada suatu _user_
 
-![gambar](SuratMasuk/SM_IOS/SM-1.png)
+![gambar](SuratMasuk/SM_IOS/SM-1.png) ![gambar](SuratMasuk/SM_IOS/SM-2.png)

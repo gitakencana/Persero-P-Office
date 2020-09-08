@@ -115,7 +115,6 @@ Langkah-langkah untuk melihat informasi lengkap surat masuk via IOS adalah sebag
 
 ![gambar](SuratMasuk/SM_IOS/SM-13.png) ![gambar](SuratMasuk/SM_IOS/SM-14.png)
 
-
 **Preview Surat Masuk**
 
 Pada tab **Preview Surat Masuk**, ditampilkan _preview_ surat masuk yang merupakan hasil unggahan yang diinputkan oleh sekretaris/konseptor.
