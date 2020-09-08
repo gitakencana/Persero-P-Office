@@ -4,7 +4,11 @@
 
 - *Approver User*
 
-*Approver User* dapat menambahkan reviewer kemudian memorandum akan diteruskan ke reviewer baru. Langkah - langkah untuk menambah reviewer memorandum adalah sebagai berikut
+*Approver User* dapat menambahkan reviewer kemudian memorandum akan diteruskan ke reviewer baru.
+
+## **P-Office Versi Web**
+
+Langkah - langkah untuk menambah reviewer memorandum vvia Web adalah sebagai berikut :
 
 1. Klik menu **Inbox** dan pilih tab **Memorandum**
 
@@ -25,7 +29,6 @@
 5. Pilih **Send** untuk mengirimkan kepada pejabat/reviewer yang dituju dan memorandum akan tersimpan di menu **"Outbox - Memorandum"**. Untuk pejabat/reviewer baru akan menerima memorandum di menu **"Inbox - Memorandum"**
 
 ![gambar](Memorandum/MM_Web/MM-53.png)
-
 
 ## **P-Office Versi Teams**
 
@@ -73,3 +76,22 @@ Langkah-langkah untuk menambah reviewer Memorandum adalah sebagai berikut :
 ![gambar](Memorandum/MM_Android/Reviewermemo/A07.jpg) ![gambar](Memorandum/MM_Android/Reviewermemo/A08.jpg)
 
 4. Pilih **Send** untuk mengirimkan kepada pejabat/reviewer yang dituju dan memorandum akan tersimpan di menu “**Outbox - Memorandum**”. Untuk pejabat/reviewer baru akan menerima memorandum di menu “**Inbox – Memorandum**”
+
+## **P-Office Versi IOS**
+
+Langkah-langkah untuk menambah reviewer memorandum via IOS adalah sebagai berikut :
+
+1. Klik menu **Inbox** dan pilih tab **Memorandum**
+
+![gambar](Memorandum/MM_IOS/Memo/R01.png) ![gambar](Memorandum/MM_IOS/Memo/R02.png)
+
+2. Pilih memorandum yang akan ditindak lanjuti kemudian pilih icon **Option** dan pilih **Add Reviewer**
+   
+![gambar](Memorandum/MM_IOS/Memo/R03.png) ![gambar](Memorandum/MM_IOS/Memo/R04.png)
+
+3. Klik **Add Reviewer** untuk menampilkan daftar pejabat yang akan dipilih sebagai reviewer baru
+
+![gambar](Memorandum/MM_IOS/Memo/R05.png)
+
+4. Klik Submit untuk mengirimkan kepada pejabat/reviewer yang dituju dan surat keluar akan tersimpan di menu “**Outbox - Memorandum**”. Untuk pejabat/reviewer baru akan menerima surat keluar di menu “**Inbox – Memorandum**”
+

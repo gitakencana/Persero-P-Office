@@ -4,7 +4,11 @@
 - *Reviewer User*
 
 
-*User* dapat melakukan *custom* penerima disposisi terhadap pejabat penerima yang akan menerima perintah disposisi. Secara *default* pejabat yang akan menerima disposisi adalah pejabat yang ada dibawahnya. Tetapi terdapat *case* jika *user* membutuhkan *custom* penerima disposisi sehingga disediakan fitur untuk memilih pejabat selain pejabat yang ada dibawahnya. Langkah-langkah untuk melakukan *custom* disposisi memorandum adalah sebagai berikut
+*User* dapat melakukan *custom* penerima disposisi terhadap pejabat penerima yang akan menerima perintah disposisi. Secara *default* pejabat yang akan menerima disposisi adalah pejabat yang ada dibawahnya. Tetapi terdapat *case* jika *user* membutuhkan *custom* penerima disposisi sehingga disediakan fitur untuk memilih pejabat selain pejabat yang ada dibawahnya.
+
+## **P-Office Versi Web**
+
+Langkah-langkah untuk melakukan Custom disposisi memorandum via Web adalah sebagai berikut
 
 1. Klik menu **Inbox** dan pilih tab **Memorandum**
 
@@ -60,7 +64,7 @@ Langkah-langkah untuk Custom disposisi Memorandum via Teams adalah sebagai berik
 
 ## **P-Office Versi Android**
 
-Langkah-langkah untuk Custom disposisi Memorandum adalah sebagai berikut :
+Langkah-langkah untuk Custom disposisi Memorandum via Android adalah sebagai berikut :
 
 1. Klik menu **Inbox** dan pilih tab **Memorandum**
 
@@ -86,13 +90,9 @@ Langkah-langkah untuk Custom disposisi Memorandum adalah sebagai berikut :
 
 ![gambar](Memorandum/MM_Android/Customdisposisi/A09.jpg)
 
-
-
 ## **P-Office Versi IOS**
 
-**Melakukan Custom Disposisi Memorandum**
-
-Langkah-langkah untuk melakukan _custom_ disposisi memorandum adalah sebagai berikut
+Langkah-langkah untuk melakukan Custom disposisi memorandum via IOS adalah sebagai berikut :
 
 1. Klik menu **Inbox **dan pilih tab **Memorandum**
 
@@ -112,6 +112,6 @@ Langkah-langkah untuk melakukan _custom_ disposisi memorandum adalah sebagai ber
    
 ![gambar](Memorandum/MM_IOS/MM-88.png)
 
-5. Isikan perintah dan keterangan pada masing-masing penerima disposisi. Tambahkan lampiran disposisi jika diperlukan. Fitur **Same Comment For All **dapat digunakan _user_ untuk memberikan komentar yang sama untuk masing-masing pejabat penerima disposisi. Klik **Save **untuk menyimpan perubahan dan klik **Send **untuk mengirim disposisi.
+5. Isikan perintah dan keterangan pada masing-masing penerima disposisi. Tambahkan lampiran disposisi jika diperlukan. Fitur **Same Comment For All** dapat digunakan _user_ untuk memberikan komentar yang sama untuk masing-masing pejabat penerima disposisi. Klik **Save** untuk menyimpan perubahan dan klik **Send** untuk mengirim disposisi.
 
 ![gambar](Memorandum/MM_IOS/MM-89.png)

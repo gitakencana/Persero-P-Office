@@ -6,7 +6,7 @@
 
 ## **P-Office Versi Web**
 
-Langkah - langkah untuk menyetujui SP3S via Web adalah sebagai berikut
+Langkah - langkah untuk menyetujui SP3S via Web adalah sebagai berikut :
 
 1. Klik menu **Inbox** dan pilih tab **SP3S**
 
