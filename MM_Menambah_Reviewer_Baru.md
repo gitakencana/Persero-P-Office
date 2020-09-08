@@ -51,7 +51,6 @@ Langkah-langkah untuk menambah reviewer Memorandum via Teams adalah sebagai beri
 
 ![gambar](Memorandum/MM_Teams/MM52.png)
 
-
 ## **P-Office Versi Android**
 
 Langkah-langkah untuk menambah reviewer Memorandum adalah sebagai berikut :

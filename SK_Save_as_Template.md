@@ -77,17 +77,17 @@ Langkah – langkah untuk save as template via Android adalah sebagai berikut :
 
 ## **P-Office Versi IOS**
 
-Langkah – langkah untuk Save as Template via IOS adalah sebagai berikut.
+Langkah – langkah untuk Save as Template via IOS adalah sebagai berikut :
 
 1.	Isi _form_ surat keluar dan klik **Save as Template**
 
 ![gambar](SuratKeluar/SK_IOS/SK-14.png) ![gambar](SuratKeluar/SK_IOS/SK-15.png)
 
-2.	Surat keluar yang disimpan menjadi _template_ akan tersimpan di menu “**Draft – Surat Keluar”. **Untuk melanjutkan _template_ yang sudah dibuat _user_ dapat memilih menu “**Draft – Surat Keluar**” kemudian pilih _template _yang akan digunakan
+2.	Surat keluar yang disimpan menjadi _template_ akan tersimpan di menu “**Draft – Surat Keluar”.** Untuk melanjutkan _template_ yang sudah dibuat _user_ dapat memilih menu “**Draft – Surat Keluar**” kemudian pilih _template _yang akan digunakan
 
 ![gambar](SuratKeluar/SK_IOS/SK-16.png) ![gambar](SuratKeluar/SK_IOS/SK-17.png)
 
-3.	Pilih icon **Option **kemudian pilih **_Use_ Template** untuk melanjutkan edit surat
+3.	Pilih icon **Option** kemudian pilih **_Use_ Template** untuk melanjutkan edit surat
 
 ![gambar](SuratKeluar/SK_IOS/SK-18.png) ![gambar](SuratKeluar/SK_IOS/SK-19.png)
 

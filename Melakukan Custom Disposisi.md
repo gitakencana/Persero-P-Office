@@ -430,7 +430,7 @@ Langkah – langkah untuk menyimpan memorandum adalah sebagai berikut.
 
 5.	Memorandum yang sudah di ubah akan tersimpan dimenu “**Draft –  Memorandum**”
 
-**Kirim Memorandum**
+### Kirim Memorandum
 
 Langkah – langkah untuk mengirim memorandum adalah sebagai berikut.
 
@@ -493,7 +493,7 @@ Langkah-langkah untuk melakukan _drafting_ memorandum adalah sebagai berikut:
 
 7.	Surat keluar yang sudah di ubah akan tersimpan dimenu “**Draft – Surat Keluar**”
 
-**Kirim Memorandum**
+### Kirim Memorandum
 
 Langkah – langkah untuk mengirim memorandum adalah sebagai berikut.
 
@@ -517,19 +517,19 @@ Langkah-langkah untuk melihat informasi memorandum adalah sebagai berikut.
 
 1.	Klik menu **Inbox/Draft/Outbox **dan pilih tab **Memorandum. **Pilih salah satu memorandum yang akan dilihat informasinya
 
-**Preview Memorandum**
+### Preview Memorandum
 
 Pada tab Informasi _Preview_ memorandum, ditampilkan _preview_ memorandum yang sudah dibuat. _Preview_ memorandum disesuaikan dengan template berdasarkan jenis surat
 
-**Detail Memorandum**
+### Detail Memorandum
 
 Pada tab Detail memorandum, terdapat informasi asal surat, perihal, file lampiran, nomor surat, klasifikasi surat, tanggal surat, tujuan surat dan _reviewer_
 
-**Tracking Memorandum**
+### Tracking Memorandum
 
 Pada tab _tracking_ memorandum, ditampilkan informasi _tracking_ memorandum dalam bentuk _chart_
 
-**History Memorandum**
+### History Memorandum
 
 Pada tab _History_ memorandum, ditampilkan riwayat memorandum yang terdapat informasi jabatan, tanggal, tindakan dan komentar
 
@@ -708,7 +708,7 @@ _User_ dapat melihat informasi lengkap disposisi memorandum pada detail disposis
 1.	Klik menu **Disposisi **dan pilih tab **Memorandum. **Pilih salah satu disposisi memorandum yang akan dilihat informasinya
 
 
-**Preview Memorandum**
+### Preview Memorandum
 
 Pada tab **Preview Surat **memorandum, ditampilkan preview memorandum yang sudah dibuat. Preview memorandum disesuaikan dengan template berdasarkan jenis surat
 
@@ -716,14 +716,14 @@ Pada tab **Preview Surat **memorandum, ditampilkan preview memorandum yang sudah
 
 Pada tab **Preview Lembar Penerus, **ditampilkan informasi lembar penerus disposisi yang berisi informasi daftar nama pejabat dan perintah disposisi yang harus dilakukan oleh pejabat penerima disposisi
 
-**Detail Memorandum**
+### Detail Memorandum
 
-Pada tab **Detail Memorandum**, terdapat informasi asal surat, perihal, file lampiran, nomor surat, klasifikasi surat, tanggal surat dan tujuan surat serta informasi disposisi yang mencakup lampiran disposisi, tujuan, tindak lanjut dan disposisi permasing-masing pejabat penerima disposisi
+Pada tab ### Detail Memorandum, terdapat informasi asal surat, perihal, file lampiran, nomor surat, klasifikasi surat, tanggal surat dan tujuan surat serta informasi disposisi yang mencakup lampiran disposisi, tujuan, tindak lanjut dan disposisi permasing-masing pejabat penerima disposisi
 
-**Tracking Memorandum**
+### Tracking Memorandum
 
 Pada tab _Tracking_ memorandum, ditampilkan informasi _tracking_ memorandum dalam bentuk _chart_
 
-**History Memorandum**
+### History Memorandum
 
 Pada tab _History_ memorandum, ditampilkan riwayat memorandum yang terdapat informasi jabatan, tanggal, tindakan dan komentar

@@ -10,7 +10,7 @@
 
 ![gambar](Memorandum/MM_Web/MM-72.png)
 
-####	**Preview Memorandum**
+####	### Preview Memorandum
 
 Pada tab **Preview Surat** memorandum, ditampilkan preview memorandum yang sudah dibuat. Preview memorandum disesuaikan dengan template berdasarkan jenis surat
 
@@ -22,19 +22,19 @@ Pada tab Preview Lembar Penerus, ditampilkan informasi lembar penerus disposisi 
 
 ![gambar](Memorandum/MM_Web/MM-74.png)
 
-####	**Detail Memorandum**
+####	### Detail Memorandum
 
-Pada tab **Detail Memorandum**, terdapat informasi asal surat, perihal, file lampiran, nomor surat, klasifikasi surat, tanggal surat dan tujuan surat serta informasi disposisi yang mencakup lampiran disposisi, tujuan, tindak lanjut dan disposisi permasing - masing pejabat penerima disposisi
+Pada tab ### Detail Memorandum, terdapat informasi asal surat, perihal, file lampiran, nomor surat, klasifikasi surat, tanggal surat dan tujuan surat serta informasi disposisi yang mencakup lampiran disposisi, tujuan, tindak lanjut dan disposisi permasing - masing pejabat penerima disposisi
 
 ![gambar](Memorandum/MM_Web/MM-75.png)
 
-####	**Tracking Memorandum**
+####	### Tracking Memorandum
 
 Pada tab *Tracking* memorandum, ditampilkan informasi *tracking* memorandum dalam bentuk *chart*
 
 ![gambar](Memorandum/MM_Web/MM-76.png)
 
-####	**History Memorandum**
+####	### History Memorandum
 
 Pada tab *History* memorandum, ditampilkan riwayat memorandum yang terdapat informasi jabatan, tanggal, tindakan dan komentar
 
@@ -49,7 +49,7 @@ Langkah-langkah untuk melihat informasi disposisi memorandum via Teams adalah se
 
 ![gambar](Memorandum/MM_Teams/MM70.png)
 
-####	**Preview Memorandum**
+####	### Preview Memorandum
 
 Pada tab **Preview Surat** memorandum, ditampilkan preview memorandum yang sudah dibuat. Preview memorandum disesuaikan dengan template berdasarkan jenis surat
 
@@ -61,19 +61,19 @@ Pada tab Preview Lembar Penerus, ditampilkan informasi lembar penerus disposisi 
 
 ![gambar](Memorandum/MM_Teams/MM72.png)
 
-####	**Detail Memorandum**
+####	### Detail Memorandum
 
-Pada tab **Detail Memorandum**, terdapat informasi asal surat, perihal, file lampiran, nomor surat, klasifikasi surat, tanggal surat dan tujuan surat serta informasi disposisi yang mencakup lampiran disposisi, tujuan, tindak lanjut dan disposisi permasing - masing pejabat penerima disposisi
+Pada tab ### Detail Memorandum, terdapat informasi asal surat, perihal, file lampiran, nomor surat, klasifikasi surat, tanggal surat dan tujuan surat serta informasi disposisi yang mencakup lampiran disposisi, tujuan, tindak lanjut dan disposisi permasing - masing pejabat penerima disposisi
 
 ![gambar](Memorandum/MM_Teams/MM73.png)
 
-####	**Tracking Memorandum**
+####	### Tracking Memorandum
 
 Pada tab *Tracking* memorandum, ditampilkan informasi *tracking* memorandum dalam bentuk *chart*
 
 ![gambar](Memorandum/MM_Teams/MM74.png)
 
-####	**History Memorandum**
+####	### History Memorandum
 
 Pada tab *History* memorandum, ditampilkan riwayat memorandum yang terdapat informasi jabatan, tanggal, tindakan dan komentar
 
@@ -88,13 +88,13 @@ Langkah-langkah untuk melihat informasi disposisi Memorandum adalah sebagai beri
 
 ![gambar](Memorandum/MM_Android/Infodisposisi/A01.jpg) ![gambar](Memorandum/MM_Android/Infodisposisi/A02.jpg)
 
-**Detail Memorandum**
+### Detail Memorandum
 
-Pada tab **Detail Memorandum**, terdapat informasi asal surat, perihal, file lampiran, nomor surat, klasifikasi surat, tanggal surat dan tujuan surat serta informasi disposisi yang mencakup lampiran disposisi, tujuan, tindak lanjut dan disposisi permasing-masing pejabat penerima disposisi
+Pada tab ### Detail Memorandum, terdapat informasi asal surat, perihal, file lampiran, nomor surat, klasifikasi surat, tanggal surat dan tujuan surat serta informasi disposisi yang mencakup lampiran disposisi, tujuan, tindak lanjut dan disposisi permasing-masing pejabat penerima disposisi
 
 ![gambar](Memorandum/MM_Android/Infodisposisi/D01.jpg)
 
-**Preview Memorandum**
+### Preview Memorandum
 
 Pada tab **Preview Surat** memorandum, ditampilkan preview memorandum yang sudah dibuat. Preview memorandum disesuaikan dengan template berdasarkan jenis surat
 
@@ -106,11 +106,11 @@ Pada tab **Preview Lembar Penerus,** ditampilkan informasi lembar penerus dispos
 
 ![gambar](Memorandum/MM_Android/Infodisposisi/PL01.jpg) ![gambar](Memorandum/MM_Android/Infodisposisi/PL02.jpg)
 
-**Tracking Memorandum**
+### Tracking Memorandum
 
 Pada tab _Tracking_ memorandum, ditampilkan informasi _tracking_ memorandum dalam bentuk _chart_
 
-**History Memorandum**
+### History Memorandum
 
 Pada tab _History_ memorandum, ditampilkan riwayat memorandum yang terdapat informasi jabatan, tanggal, tindakan dan komentar
 

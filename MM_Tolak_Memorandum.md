@@ -5,7 +5,11 @@
 - *Reviewer User*
 - *Approver User*
 
-*User* dapat menolak memorandum yang akan dikembalikan ke konseptor jika hasil review memorandum belum / tidak sesuai. Langkah - langkah untuk menolak memorandum adalah sebagai berikut
+*User* dapat menolak memorandum yang akan dikembalikan ke konseptor jika hasil review memorandum belum / tidak sesuai.
+
+## **P-Office Versi Web**
+
+Langkah - langkah untuk menolak memorandum via Web adalah sebagai berikut
 
 1. Klik menu **Inbox** dan pilih tab **Memorandum**
 
@@ -41,7 +45,7 @@ Langkah-langkah untuk melihat menolak Memorandum via Teams adalah sebagai beriku
 
 ## **P-Office Versi Android**
 
-Langkah-langkah untuk menolak Memorandum adalah sebagai berikut :
+Langkah-langkah untuk menolak Memorandum via Android dalah sebagaia berikut :
 
 1. Klik menu **Inbox** dan pilih tab **Memorandum**
 

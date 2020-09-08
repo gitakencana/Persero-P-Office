@@ -178,7 +178,7 @@ Langkah – langkah untuk mengubah isi memorandum secara _online_ adalah sebagai
 
 4. Surat yang sudah selesai diubah maka akan tersimpan di menu “**Draft – Memorandum”**
 
-**Kirim Memorandum**
+### Kirim Memorandum
 
 Langkah – langkah untuk mengirim memorandum adalah sebagai berikut.
 
@@ -225,7 +225,7 @@ Langkah-langkah untuk melakukan _drafting_ memorandum adalah sebagai berikut:
 
 7.	Surat keluar yang sudah di ubah akan tersimpan dimenu “**Draft – Surat Keluar**”
 
-**Kirim Memorandum**
+### Kirim Memorandum
 
 Langkah – langkah untuk mengirim memorandum adalah sebagai berikut.
 
