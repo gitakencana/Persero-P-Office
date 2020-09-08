@@ -59,15 +59,15 @@ Hal-hal yang dapat dilakukan oleh *reviewer* dalam mengelola memorandum antara l
 Pada modul ini mendukung proses penambahan fax masuk oleh sekretaris atau pekerja yang ditunjuk dari pejabat yang bersangkutan. Fax masuk yang sudah diinputkan akan dikirimkan kepada pejabat pemilik KBO dan dapat dilakukan disposisi kepada pejabat yang ada di bawahnya. 
 Hal-hal yang dapat dilakukan oleh *reviewer* dalam mengelola fax masuk antara lain:
 
-- [Melihat Daftar Fax Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer-faxmasuk/f1c7f68a0cc44f9087947e42426edff1)
-- [Melihat Informasi lengkap Fax Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer-faxmasuk/ca29cb08efa74d55b5979f8848d986c6)
-- [Menyelesaikan Fax Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer-faxmasuk/3ab30534b1954a69a95378f54d95b0ff)
-- [Mendisposisikan Fax Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer-faxmasuk/58c86a5d6650409d8a68388f97fd5318)
-- [Melakukan Custom Disposisi Fax Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer-faxmasuk/890f05431b90405fbde1ca2a0089d6f9)
-- [Melihat Informasi Lengkap Disposisi Fax Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer-faxmasuk/b94057c51dbe43dc812ec7ee095f8f6a)
-- [Melakukan Recall Disposisi Fax Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer-faxmasuk/d269d2cdd2ca4d5e8e7e57017479af48)
-- [Menyelesaikan Disposisi Fax Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer-faxmasuk/58f816ad44ec493aaadc7dd7f72fc6be)
-- [Mengirim Tanggapan Disposisi Fax Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer-faxmasuk/e4a5b32e72fc4637a92431f1876298c9)
+- [Melihat Daftar Fax Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer-FaxMasuk/f1c7f68a0cc44f9087947e42426edff1)
+- [Melihat Informasi lengkap Fax Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer-FaxMasuk/ca29cb08efa74d55b5979f8848d986c6)
+- [Menyelesaikan Fax Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer-FaxMasuk/3ab30534b1954a69a95378f54d95b0ff)
+- [Mendisposisikan Fax Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer-FaxMasuk/58c86a5d6650409d8a68388f97fd5318)
+- [Melakukan Custom Disposisi Fax Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer-FaxMasuk/890f05431b90405fbde1ca2a0089d6f9)
+- [Melihat Informasi Lengkap Disposisi Fax Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer-FaxMasuk/b94057c51dbe43dc812ec7ee095f8f6a)
+- [Melakukan Recall Disposisi Fax Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer-FaxMasuk/d269d2cdd2ca4d5e8e7e57017479af48)
+- [Menyelesaikan Disposisi Fax Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer-FaxMasuk/58f816ad44ec493aaadc7dd7f72fc6be)
+- [Mengirim Tanggapan Disposisi Fax Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer-FaxMasuk/e4a5b32e72fc4637a92431f1876298c9)
 
 ### **Fax Keluar**
 
