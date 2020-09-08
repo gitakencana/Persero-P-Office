@@ -132,18 +132,15 @@ Pada tab **Informasi disposisi**, ditampilkan  surat masuk yang terdapat lampira
 
 ## **P-Office Versi IOS**
 
-**Melihat Informasi Lengkap Disposisi Surat Masuk**
-
-Langkah-langkah untuk melihat informasi disposisi surat masuk adalah sebagai berikut.
+Langkah-langkah untuk melihat informasi disposisi surat masuk via IOS adalah sebagai berikut.
 
 1.	Klik menu **Disposisi** dan pilih tab **Surat Masuk** Pilih salah satu disposisi surat masuk yang akan dilihat informasinya
 
-![gambar](SuratMasuk/SM_IOS/SM-25.png)
-![gambar](SuratMasuk/SM_IOS/SM-26.png)
+![gambar](SuratMasuk/SM_IOS/SM-25.png) ![gambar](SuratMasuk/SM_IOS/SM-26.png)
 
 **Preview Disposisi Surat Masuk**
 
-Pada tab **Surat, **ditampilkan surat masuk fisik yang sudah diunggah oleh sekretaris / konseptor.
+Pada tab **Surat,** ditampilkan surat masuk fisik yang sudah diunggah oleh sekretaris / konseptor.
 
 ![gambar](SuratMasuk/SM_IOS/SM-60.png)
 
@@ -151,19 +148,16 @@ Pada tab **Surat, **ditampilkan surat masuk fisik yang sudah diunggah oleh sekre
 
 Pada tab **Preview, **ditampilkan informasi lembar penerus disposisi yang berisi informasi daftar nama pejabat dan perintah disposisi yang harus dilakukan oleh pejabat penerima disposisi
 
-![gambar](SuratMasuk/SM_IOS/SM-39.png)
-![gambar](SuratMasuk/SM_IOS/SM-40.png)
+![gambar](SuratMasuk/SM_IOS/SM-39.png) ![gambar](SuratMasuk/SM_IOS/SM-40.png)
 
 **Detail Disposisi Surat Masuk**
 
 Pada tab **Detail**, terdapat informasi asal surat, perihal, file lampiran, kategori surat, resume, rekomendasi serta informasi disposisi yang mencakup lampiran disposisi, tujuan, tindak lanjut dan disposisi permasing-masing pejabat penerima disposisi
 
-![gambar](SuratMasuk/SM_IOS/SM-41.png)
-![gambar](SuratMasuk/SM_IOS/SM-42.png)
+![gambar](SuratMasuk/SM_IOS/SM-41.png) ![gambar](SuratMasuk/SM_IOS/SM-42.png)
 
 **History Disposisi Surat Masuk**
 
 Pada tab **_History_**, ditampilkan riwayat surat masuk yang terdapat informasi jabatan, tanggal, tindakan dan komentar.
 
-![gambar](SuratMasuk/SM_IOS/SM-43.png)
-![gambar](SuratMasuk/SM_IOS/SM-45.png)
+![gambar](SuratMasuk/SM_IOS/SM-43.png) ![gambar](SuratMasuk/SM_IOS/SM-45.png)

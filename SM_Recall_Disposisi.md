@@ -36,13 +36,13 @@ Langkah - langkah untuk recall disposisi via Teams yaitu :
 
 ## **P-Office Versi Android**
 
-Langkah - langkah untuk recall surat masuk via Android yaitu:
+Langkah - langkah untuk recall disposisi via Android yaitu:
 
 1. Klik menu **Outbox** dan pilih tab **Disposisi**
    
 ![gambar](SuratMasuk/SM_Android/Recalldisposisi/A01.jpg) ![gambar](SuratMasuk/SM_Android/Recalldisposisi/A02.jpg)
 
-1. Pilih surat masuk yang akan di-_recall_ kemudian klik **button** kemudian klik **Recall**
+2. Pilih surat masuk yang akan di-_recall_ kemudian klik **button** kemudian klik **Recall**
 
 ![gambar](SuratMasuk/SM_Android/Recalldisposisi/A03.jpg) ![gambar](SuratMasuk/SM_Android/Recalldisposisi/A04.jpg) ![gambar](SuratMasuk/SM_Android/Recalldisposisi/A05.jpg)
 
@@ -51,16 +51,13 @@ Langkah - langkah untuk recall surat masuk via Android yaitu:
 
 ## **P-Office Versi IOS**
 
-**Melakukan Recall Disposisi Surat Masuk**
+Langkah-langkah untuk melakukan recall disposisi via IOS yaitu :
 
-Langkah-langkah untuk melakukan _recall_ disposisi surat masuk adalah sebagai berikut:
+1.	Klik menu **Outbox** dan pilih tab **Disposisi**
 
-1.	Klik menu **Outbox **dan pilih tab **Disposisi**
+![gambar](SuratMasuk/SM_IOS/SM-61.png) ![gambar](SuratMasuk/SM_IOS/SM-62.png)
 
-![gambar](SuratMasuk/SM_IOS/SM-61.png)
-![gambar](SuratMasuk/SM_IOS/SM-62.png)
-
-2.	Pilih surat masuk yang akan di-_recall_ kemudian klik tab **Option **kemudian klik **Recall**
+2.	Pilih surat masuk yang akan di-_recall_ kemudian klik tab **Option** kemudian klik **Recall**
 
 ![gambar](SuratMasuk/SM_IOS/SM-46.png)
 

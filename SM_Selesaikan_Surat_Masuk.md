@@ -74,20 +74,15 @@ Langkah - langkah untuk menyelesaikan surat masuk menu via Android yaitu:
 
 4. Sistem menyimpan perubahan dan informasi selesai akan tersimpan di **Outbox-Surat Masuk**.
 
-
-
 ## **P-Office Versi IOS**
 
-**Menyelesaikan Surat Masuk**
+Langkah-langkah untuk menyelesaikan surat masuk via IOS adalah sebagai berikut:
 
-Langkah-langkah untuk menyelesaikan surat masuk adalah sebagai berikut:
+1.	Klik menu **Inbox** dan pilih tab **Surat masuk**
 
-1.	Klik menu **Inbox **dan pilih tab **Surat masuk**
+![gambar](SuratMasuk/SM_IOS/SM-66.png) ![gambar](SuratMasuk/SM_IOS/SM-67.png)
 
-![gambar](SuratMasuk/SM_IOS/SM-66.png)
-![gambar](SuratMasuk/SM_IOS/SM-67.png)
-
-2.	Pilih surat masuk yang akan diselesaikan kemudian pilih tab **Option **dan pilih **Finish**
+2.	Pilih surat masuk yang akan diselesaikan kemudian pilih tab **Option** dan pilih **Finish**
 
 ![gambar](SuratMasuk/SM_IOS/SM-68.png)
 
@@ -95,4 +90,4 @@ Langkah-langkah untuk menyelesaikan surat masuk adalah sebagai berikut:
 
 ![gambar](SuratMasuk/SM_IOS/SM-69.png)
 
-Sistem menyimpan perubahan dan informasi selesai disposisi akan tersimpan di detail disposisi.
+4. Sistem menyimpan perubahan dan informasi selesai disposisi akan tersimpan di detail disposisi.

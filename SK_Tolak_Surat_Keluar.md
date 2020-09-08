@@ -41,7 +41,6 @@ Langkah - langkah untuk tolak surat keluar via Teams yaitu :
 
 Langkah-langkah untuk menolak surat keluar adalah sebagai berikut :
 
-
 1. Klik menu **Inbox** dan pilih tab **Surat Keluar**
 
 ![gambar](SuratKeluar/SK_Android/TolakSK/A01.jpg) ![gambar](SuratKeluar/SK_Android/TolakSK/A02.jpg)
@@ -55,7 +54,6 @@ Langkah-langkah untuk menolak surat keluar adalah sebagai berikut :
 ![gambar](SuratKeluar/SK_Android/TolakSK/A05.jpg) ![gambar](SuratKeluar/SK_Android/TolakSK/A06.jpg)
 
 4. Sistem berhasil menyimpan perubahan surat keluar yang sudah di tolak akan tersimpan dimenu “**Rejected- Surat keluar”** user penolak pada label “**Rejected**”
-
 
 
 ## **P-Office Versi IOS**

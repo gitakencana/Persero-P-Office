@@ -57,33 +57,27 @@ Langkah-langkah untuk menolak surat masuk adalah sebagai berikut.
 
 1. Klik menu **Inbox** dan pilih tab **Surat Masuk**
    
-
 ![gambar](SuratMasuk/SM_Android/TolakSM/A01.jpg)
 
- 2. Pilih surat masuk yang akan ditolak kemudian pilih tombol **button** klik **Reject**
+2. Pilih surat masuk yang akan ditolak kemudian pilih tombol **button** klik **Reject**
    
 ![gambar](SuratMasuk/SM_Android/TolakSM/A02.jpg) ![gambar](SuratMasuk/SM_Android/TolakSM/A03.jpg)
 
- 3. Klik tombol **Reject** maka Sistem menampilkan _pop up_ konfirmasi dan _user_ harus mengisi keterangan reject surat masuk kemudian klik **Send**
+3. Klik tombol **Reject** maka Sistem menampilkan _pop up_ konfirmasi dan _user_ harus mengisi keterangan reject surat masuk kemudian klik **Send**
    
 ![gambar](SuratMasuk/SM_Android/TolakSM/A04.jpg) ![gambar](SuratMasuk/SM_Android/TolakSM/A05.jpg)
 
- 4. Sistem menyimpan perubahan dan informasi tolak surat masuk. Surat masuk yang sudah ditolak akan tersimpan dimenu **_Rejected._**
-
-
+4. Sistem menyimpan perubahan dan informasi tolak surat masuk. Surat masuk yang sudah ditolak akan tersimpan dimenu **_Rejected._**
 
 ## **P-Office Versi IOS**
 
-**Menolak Surat Masuk Versi IOS**
+Langkah-langkah untuk menolak surat masuk via IOS adalah sebagai berikut
 
-Langkah-langkah untuk menolak surat masuk adalah sebagai berikut
+1.	Klik menu **Inbox** dan pilih tab **Surat Masuk**
 
-1.	Klik menu **Inbox **dan pilih tab **Surat Masuk**
+![gambar](SuratMasuk/SM_IOS/SM-70.png) ![gambar](SuratMasuk/SM_IOS/SM-71.png)
 
-![gambar](SuratMasuk/SM_IOS/SM-70.png)
-![gambar](SuratMasuk/SM_IOS/SM-71.png)
-
-2.	Pilih surat masuk yang akan ditolak kemudian pilih tab **Option **dan pilih** Reject**
+2.	Pilih surat masuk yang akan ditolak kemudian pilih tab **Option** dan pilih **Reject**
 
 ![gambar](SuratMasuk/SM_IOS/SM-72.png)
 

@@ -34,15 +34,10 @@ Langkah - langkah untuk melihat daftar disposisi via Android yaitu:
 ![gambar](SuratMasuk/SM_Android/Daftardisposisi/A02.jpg)
 
 
-
-
 ## **P-Office Versi IOS**
 
-**Melihat Daftar Disposisi Surat Masuk**
-
-Langkah - langkah untuk melihat daftar disposisi via Android yaitu:
+Langkah - langkah untuk melihat daftar disposisi via IOS yaitu:
 
 1. Klik menu **Disposition** dan pilih tab **Surat Masuk**
    
-![gambar](SuratMasuk/SM_IOS/SM-25.png)
-![gambar](SuratMasuk/SM_IOS/SM-26.png)
+![gambar](SuratMasuk/SM_IOS/SM-25.png) ![gambar](SuratMasuk/SM_IOS/SM-26.png)
