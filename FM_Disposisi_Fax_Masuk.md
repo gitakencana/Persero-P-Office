@@ -94,6 +94,7 @@ Langkah - langkah untuk disposisi fax masuk via Teams adalah sebagai berikut:
 
 5. Klik **Save** untuk menyimpan draft disposisi fax masuk dan fax masuk akan tersimpan di menu **"Draft - Surat masuk"**. Klik **Send** untuk mengirim disposisi ketujuan dan disposisi surat masuk akan tersimpan di menu **"Outbox - Disposisi"**.
 
+
 ## **P-Office Versi Android**
 
 Langkah-langkah untuk mendisposisikan fax masuk adalah sebagai berikut :
