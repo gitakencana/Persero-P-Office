@@ -20,7 +20,7 @@
 
 ![gambar](SuratKeluar/SK_Web/SK46.png)
 
-4. Sistem berhasil menyimpan perubahan. Surat keluar yang sudah ditolak akan tersimpan di menu “Rejected – Surat Keluar”
+4. Sistem berhasil menyimpan perubahan. Surat keluar yang sudah ditolak akan otomatis terhapus akan tersimpan di menu **“Rejected – Memorandum”** user penolak dengan label **Rejected**
 
 ## **P-Office Versi Teams**
 
@@ -48,7 +48,7 @@ Langkah-langkah untuk menolak surat keluar via Android adalah sebagai berikut :
 
 ![gambar](SuratKeluar/SK_Android/TolakSK/A01.jpg) ![gambar](SuratKeluar/SK_Android/TolakSK/A02.jpg)
 
-2. Pilih surat keluar yang akan ditindaklanjuti kemudian pilih ikon **tombol button**
+2. Pilih surat keluar yang akan ditindaklanjuti kemudian pilih icon **Option**
    
 ![gambar](SuratKeluar/SK_Android/TolakSK/A03.jpg) ![gambar](SuratKeluar/SK_Android/TolakSK/A04.jpg)
 
@@ -70,7 +70,7 @@ Langkah-langkah untuk menolak surat keluar via IOS adalah sebagai berikut
 
 ![gambar](SuratKeluar/SK_IOS/SK-55.png) ![gambar](SuratKeluar/SK_IOS/SK-56.png)
 
-3.	Isikan komentar jika diperlukan kemudian klik **Send** untuk menyimpan perubahan. Surat keluar yang sudah di kirim akan tersimpan di menu **Rejected - Surat Keluar**
+3.	Isikan komentar jika diperlukan kemudian klik **Send** untuk menyimpan perubahan. Surat keluar yang sudah ditolak akan otomatis terhapus akan tersimpan di menu **“Rejected – Memorandum”** user penolak dengan label **Rejected**
 
 ![gambar](SuratKeluar/SK_IOS/SK-43.png)
 

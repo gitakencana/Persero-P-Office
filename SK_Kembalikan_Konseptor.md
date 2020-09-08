@@ -49,11 +49,11 @@ Langkah-langkah untuk melihat informasi surat keluar via Android adalah sebagai 
 
 ![gambar](SuratKeluar/SK_Android/KonsepSK/A01.jpg) ![gambar](SuratKeluar/SK_Android/KonsepSK/A02.jpg)
 
-2. Pilih surat keluar yang akan ditindak lanjuti kemudian pilih ikon **tombol button**
+2. Pilih surat keluar yang akan ditindak lanjuti kemudian pilih icon **Option**
 
 ![gambar](SuratKeluar/SK_Android/KonsepSK/A03.jpg) ![gambar](SuratKeluar/SK_Android/KonsepSK/A04.jpg)
 
-3. Klik tombol **Revise to Conseptor** dan pilih **Send** Isikan komentar jika diperlukan
+3. Klik tombol **Revise to Conceptor** dan pilih **Send** Isikan komentar jika diperlukan
 
 ![gambar](SuratKeluar/SK_Android/KonsepSK/A05.jpg)
 

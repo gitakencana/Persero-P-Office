@@ -17,11 +17,11 @@ Langkah - langkah untuk mengembalikan surat keluar ke sebelumnya via Web adalah 
 
 ![gambar](SuratKeluar/SK_Web/SK39.png)
 
-3. Klik tombol **Revise Previous** dan pilih **Send**. Isikan komentar jika diperlukan
+3. Klik tombol **Revise to Previous** dan pilih **Send**. Isikan komentar jika diperlukan
 
 ![gambar](SuratKeluar/SK_Web/SK40.png)
 
-4. Sistem berhasil menyimpan perubahan. Surat keluar yang sudah di kirim akan tersimpan di menu **Outbox- Surat keluar** dan penerima pengembalian surat keluar akan menerima surat keluar di menu **Draft - Surat keluar**
+4. Sistem berhasil menyimpan perubahan. Surat keluar yang sudah di kirim akan tersimpan di menu **Outbox - Surat keluar** dan penerima pengembalian surat keluar akan menerima surat keluar di menu **Draft - Surat keluar**
 
 ## **P-Office Versi Teams**
 
@@ -35,7 +35,7 @@ Langkah - langkah untuk Kembalikan kesebelumnya via Teams adalah sebagai berikut
 
 ![gambar](SuratKeluar/SK_Teams/SK41.png)
 
-3. Klik tombol **Return Previus** dan pilih **Send**. Isikan komentar jika diperlukan
+3. Klik tombol **Return to Previous** dan pilih **Send**. Isikan komentar jika diperlukan
  
 ![gambar](SuratKeluar/SK_Teams/SK42.png)
 
@@ -57,7 +57,7 @@ Langkah-langkah untuk mengembalikan surat keluar ke sebelumnya via Android adala
 
 ![gambar](SuratKeluar/SK_Android/KembaliSK/A04.jpg) ![gambar](SuratKeluar/SK_Android/KembaliSK/A05.jpg)
 
-4. Sistem berhasil menyimpan perubahan. Surat keluar yang sudah di kirim akan tersimpan di menu **Outbox- Surat keluar** dan penerima pengembalian surat keluar akan menerima surat keluar di menu **Draft - Surat keluar**
+4. Sistem berhasil menyimpan perubahan. Surat keluar yang sudah di kirim akan tersimpan di menu **Outbox - Surat keluar** dan penerima pengembalian surat keluar akan menerima surat keluar di menu **Draft - Surat keluar**
 
 ## **P-Office Versi IOS**
 

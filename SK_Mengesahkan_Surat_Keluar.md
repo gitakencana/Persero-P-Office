@@ -1,7 +1,6 @@
 **Role yang sesuai**
 
 - *Approver User*
-- *Reviewer User*
 
 *User* dapat mengesahkan surat keluar yang sudah dikirim dan direview oleh reviewer. Keluaran untuk tindak lanjut ini adalah untuk men-*generate* nomor surat keluar kemudian surat keluar dapat dikirimkan ke pejabat tujuan. 
 
@@ -68,6 +67,6 @@ Langkah-langkah untuk mengesahkan surat keluar via IOS adalah sebagai berikut :
 
 ![gambar](SuratKeluar/SK_IOS/SK-47.png) ![gambar](SuratKeluar/SK_IOS/SK-48.png)
 
-3.	Isikan komentar jika diperlukan kemudian klik **Send** untuk menyimpan perubahan. Nomor surat keluar akan ter-_generate _sesuai dengan nomor sementara pada detail. Surat keluar yang sudah disetujui akan tersimpan di menu “**Outbox - Surat Keluar**” pengirim sedangkan surat keluar akan tersimpan di menu “**Inbox - Surat Keluar**” penerima.
+3.	Isikan komentar jika diperlukan kemudian klik **Send** untuk menyimpan perubahan. Nomor surat keluar akan ter-_generate_ sesuai dengan nomor sementara pada detail. Surat keluar yang sudah disetujui akan tersimpan di menu “**Outbox - Surat Keluar**” pengirim sedangkan surat keluar akan tersimpan di menu “**Inbox - Surat Keluar**” penerima.
 
 ![gambar](SuratKeluar/SK_IOS/SK-49.png)

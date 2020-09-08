@@ -60,7 +60,7 @@ Langkah-langkah untuk menambahkan Reviewer baru surat keluar via Android adalah 
 
 ![gambar](SuratKeluar/SK_Android/ReviewerSK/A01.jpg) ![gambar](SuratKeluar/SK_Android/ReviewerSK/A02.jpg)
 
-2. Pilih surat keluar yang akan ditindak lanjuti kemudian pilih **tombol button**
+2. Pilih surat keluar yang akan ditindak lanjuti kemudian icon **Option**
    
 ![gambar](SuratKeluar/SK_Android/ReviewerSK/A03.jpg) ![gambar](SuratKeluar/SK_Android/ReviewerSK/A04.jpg)
 

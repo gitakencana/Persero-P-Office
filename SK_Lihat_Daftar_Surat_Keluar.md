@@ -3,6 +3,7 @@
 - *Approver User*
 - *Reviewer User*
 - *Member User* (Pekerja)
+- Sekretaris
 
 *User* dapat melihat daftar surat keluar pada pada menu **Inbox, Draft atau Outbox** pada masing - masing akun. 
 

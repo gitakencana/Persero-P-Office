@@ -1,8 +1,3 @@
-**Ditujukan kepada**
-
-- *Approver User*
-- *Reviewer User*
-
 **Role yang sesuai**
 
 - *Member User* (Pekerja)
@@ -21,7 +16,7 @@ Langkah - langkah untuk Save as template via Web adalah sebagai berikut :
 
 ![gambar](SuratKeluar/SK_Web/SK15.png)
 
-3. Pilih tombol **User* Template** untuk melanjutkan edit surat
+3. Pilih tombol **Use Template** untuk melanjutkan edit surat
 
 ![gambar](SuratKeluar/SK_Web/SK16.png)
 
@@ -65,7 +60,7 @@ Langkah – langkah untuk save as template via Android adalah sebagai berikut :
    
 ![gambar](SuratKeluar/SK_Android/TempSK/A06.jpg) 
 
-3. Pilih tombol **_User_ Template** untuk melanjutkan edit surat
+3. Pilih tombol **Use Template** untuk melanjutkan edit surat
    
 ![gambar](SuratKeluar/SK_Android/TempSK/A07.jpg) ![gambar](SuratKeluar/SK_Android/TempSK/A08.jpg) 
 
@@ -87,7 +82,7 @@ Langkah – langkah untuk Save as Template via IOS adalah sebagai berikut :
 
 ![gambar](SuratKeluar/SK_IOS/SK-16.png) ![gambar](SuratKeluar/SK_IOS/SK-17.png)
 
-3.	Pilih icon **Option** kemudian pilih **_Use_ Template** untuk melanjutkan edit surat
+3.	Pilih icon **Option** kemudian pilih **Use Template** untuk melanjutkan edit surat
 
 ![gambar](SuratKeluar/SK_IOS/SK-18.png) ![gambar](SuratKeluar/SK_IOS/SK-19.png)
 
