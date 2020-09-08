@@ -16,7 +16,7 @@
 
 ## **P-Office Versi Teams**
 
-Langkah - langkah untuk melihat daftar dokumem memorandum via Teams yaitu :
+Langkah - langkah untuk melihat daftar dokumem memorandum via Teams adalah sebagai berikut :
 
 1. _Klik menu **Archive** dan pilih submenu Memorandum
 
@@ -28,7 +28,7 @@ Langkah - langkah untuk melihat daftar dokumem memorandum via Teams yaitu :
 
 ## **P-Office Versi Android**
 
-Langkah - langkah untuk melihat daftar dokumem Memorandum via Android yaitu :
+Langkah - langkah untuk melihat daftar dokumem Memorandum via Android adalah sebagai berikut :
 
 
 1. Klik menu **Archive** pilih submenu **Memorandum**

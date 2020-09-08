@@ -23,7 +23,7 @@
 
 5. Sistem menampilkan daftar pejabat yang dapat dipilih untuk didisposikan
 
-![gambar](FaxMasuk/FM_WEB/CustomDisposisi05.png) 
+![gambar](FaxMasuk/FM_WEB/CustomDisposisi05.png)
 
 6. Isikan perintah dan keterangan pada masing - masing penerima disposisi. Tambahkan lampiran disposisi jika diperlukan. Fitur **Komentar Sama Untuk Semua** dapat digunakan *user* untuk memberikan komentar yang sama untuk masing - masing pejabat penerima disposisi. Klik **Save** untuk menyimpan perubahan dan klik **Send** untuk mengirim disposisi.
 
@@ -64,24 +64,24 @@ Langkah-langkah untuk Custom Disposisi fax masuk adalah sebagai berikut :
 
 1. Klik menu **Inbox** dan pilih tab **Fax Masuk**
 
-![gambar](Faxmasuk/FM_Android/Customdisposisi/A01.jpg) ![gambar](Faxmasuk/FM_Android/Customdisposisi/A02.jpg)
+![gambar](FaxMasuk/FM_Android/Customdisposisi/A01.jpg) ![gambar](FaxMasuk/FM_Android/Customdisposisi/A02.jpg)
 
 2. Pilih fax masuk yang akan didisposisikan kemudian pilih ikon **tombol button**
 
-![gambar](Faxmasuk/FM_Android/Customdisposisi/A03.jpg) ![gambar](Faxmasuk/FM_Android/Customdisposisi/A04.jpg)
+![gambar](FaxMasuk/FM_Android/Customdisposisi/A03.jpg) ![gambar](FaxMasuk/FM_Android/Customdisposisi/A04.jpg)
 
 3. Klik tombol **Disposisi** pada ikon button
 
-![gambar](Faxmasuk/FM_Android/Customdisposisi/A06.jpg)
+![gambar](FaxMasuk/FM_Android/Customdisposisi/A06.jpg)
 
 4. Sistem menampilkan form disposisi. Klik icon “+” pada field **Diteruskan Kepada**. Isikan informasi disposisi dan perintah untuk masing-masing penerima disposisi.
 
-![gambar](Faxmasuk/FM_Android/Customdisposisi/A07.jpg)
+![gambar](FaxMasuk/FM_Android/Customdisposisi/A07.jpg)
 
 5. Sistem menampilkan daftar pejabat yang dapat dipilih untuk didisposikan
 
-![gambar](Faxmasuk/FM_Android/Customdisposisi/A08.jpg)
+![gambar](FaxMasuk/FM_Android/Customdisposisi/A08.jpg)
 
 6. Isikan perintah dan keterangan pada masing-masing penerima disposisi. Tambahkan lampiran disposisi jika diperlukan. Fitur **Komentar Sama Untuk Semua** dapat digunakan _user_ untuk memberikan komentar yang sama untuk masing-masing pejabat penerima disposisi. Klik **Save**  menyimpan perubahan dan klik **Send** untuk mengirim disposisi.
 
-![gambar](Faxmasuk/FM_Android/Customdisposisi/A09.jpg)
+![gambar](FaxMasuk/FM_Android/Customdisposisi/A09.jpg)

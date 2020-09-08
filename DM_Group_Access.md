@@ -9,7 +9,7 @@ Admin P-Office dapat mengelola grup akses untuk pemberian kewenangan pada setiap
 
 ## **P-Office Versi Web**
 
-Langkah - langkah untuk melakukan pengelolaan grup akses via Web yaitu:
+Langkah - langkah untuk melakukan pengelolaan grup akses via Web adalah sebagai berikut :
 
 #### **Mencari Menu Akses**
 

@@ -31,7 +31,7 @@ Pada tab *History* SP3S, ditampilkan riwayat SP3S yang terdapat informasi jabata
 ## **P-Office Versi Teams**
 
 
-Langkah - langkah untuk informasi lengkap SP3S via Teams yaitu :
+Langkah - langkah untuk informasi lengkap SP3S via Teams adalah sebagai berikut :
 
 1. Klik menu **Inbox/Draft/Outbox** dan pilih tab **SP3S**. Pilih salah satu SP3S yang akan dilihat informasinya
 ![gambar](SP3S/SP3S_Teams/SP3S26.png)
@@ -59,7 +59,7 @@ Pada tab History SP3S, ditampilkan riwayat SP3S yang terdapat informasi jabatan,
 
 ## **P-Office Versi Teams**
 
-Langkah - langkah untuk informasi lengkap SP3S via Teams yaitu :
+Langkah - langkah untuk informasi lengkap SP3S via Teams adalah sebagai berikut :
 
 1. Klik menu **Inbox/Draft/Outbox** dan pilih tab **SP3S.** Pilih salah satu SP3S yang akan dilihat informasinya
 

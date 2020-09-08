@@ -115,3 +115,9 @@ Pada tab _Tracking_ memorandum, ditampilkan informasi _tracking_ memorandum dala
 Pada tab _History_ memorandum, ditampilkan riwayat memorandum yang terdapat informasi jabatan, tanggal, tindakan dan komentar
 
 ![gambar](Memorandum/MM_Android/Infodisposisi/H01.jpg) ![gambar](Memorandum/MM_Android/Infodisposisi/H02.jpg)
+
+
+
+## **P-Office Versi IOS**
+
+**Melihat Informasi Lengkap Disposisi**

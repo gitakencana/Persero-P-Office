@@ -16,7 +16,7 @@
 
 ## **P-Office Versi Teams**
 
-Langkah - langkah untuk melihat daftar dokumem Surat Masuk via Teams yaitu :
+Langkah - langkah untuk melihat daftar dokumem Surat Masuk via Teams adalah sebagai berikut :
 
 
 1. Klik menu **Archive** dan pilih submenu Surat Masuk
@@ -30,7 +30,7 @@ Langkah - langkah untuk melihat daftar dokumem Surat Masuk via Teams yaitu :
 
 ## **P-Office Versi Android**
 
-Langkah - langkah untuk melihat daftar dokumem Surat Masuk via Android yaitu :
+Langkah - langkah untuk melihat daftar dokumem Surat Masuk via Android adalah sebagai berikut :
 
 
 1. Klik menu **Archive** pilih submenu **Surat Masuk**

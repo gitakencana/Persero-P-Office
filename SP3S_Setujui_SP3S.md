@@ -22,7 +22,7 @@
 ## **P-Office Versi Teams**
 
 
-Langkah - langkah untuk setujui SP3S via Teams yaitu :
+Langkah - langkah untuk setujui SP3S via Teams adalah sebagai berikut :
 
 1. Klik menu **Inbox** dan pilih tab **SP3S**
 
@@ -41,7 +41,7 @@ Langkah - langkah untuk setujui SP3S via Teams yaitu :
 
 ## **P-Office Versi Android**
 
-Langkah - langkah untuk Setujui SP3S via Android yaitu : 
+Langkah - langkah untuk Setujui SP3S via Android adalah sebagai berikut : 
 
 1. Klik menu **Inbox** dan pilih tab **SP3S**
    

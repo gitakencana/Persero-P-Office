@@ -14,7 +14,7 @@
    
 ![gambar](FaxMasuk/FM_WEB/TanggapanFM02.png) 
 
-1. Pilih tombol **Send Response** kemudian klik **Send**
+3. Pilih tombol **Send Response** kemudian klik **Send**
 
 ![gambar](FaxMasuk/FM_WEB/TanggapanFM03.png) 
 
@@ -55,14 +55,14 @@ Langkah-langkah untuk tanggapan fax masuk adalah sebagai berikut :
 
 1. Klik menu **Disposisi** dan pilih tab **Fax Masuk**
 
-![gambar](Faxmasuk/FM_Android/tanggapdisposisi/A01.jpg) ![gambar](Faxmasuk/FM_Android/tanggapdisposisi/A02.jpg)
+![gambar](FaxMasuk/FM_Android/tanggapdisposisi/A01.jpg) ![gambar](FaxMasuk/FM_Android/tanggapdisposisi/A02.jpg)
 
 2. Pilih disposisi yang akan dikirim tanggapan kemudian pilih ikon **tombol button**
 
-![gambar](Faxmasuk/FM_Android/tanggapdisposisi/A03.jpg) ![gambar](Faxmasuk/FM_Android/tanggapdisposisi/A04.jpg)
+![gambar](FaxMasuk/FM_Android/tanggapdisposisi/A03.jpg) ![gambar](FaxMasuk/FM_Android/tanggapdisposisi/A04.jpg)
 
 3. Pilih tombol **Send Response** kemudian Sistem menampilkan pop up konfirmasi dan _user_ harus mengisi keterangan kirim tanggapan disposisi kemudian klik **Send**
 
-![gambar](Faxmasuk/FM_Android/tanggapdisposisi/A05.jpg) ![gambar](Faxmasuk/FM_Android/tanggapdisposisi/A06.jpg)
+![gambar](FaxMasuk/FM_Android/tanggapdisposisi/A05.jpg) ![gambar](FaxMasuk/FM_Android/tanggapdisposisi/A06.jpg)
 
 4. Sistem menyimpan perubahan dan informasi tanggapan disposisi akan tersimpan di detail disposisi.

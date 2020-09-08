@@ -1,5 +1,5 @@
 Pada bagian ini akan dijelaskan mengenai role sebagai *member* dalam aplikasi P-Office yang mengelola menu surat masuk, surat keluar, memorandum, fax masuk, fax keluar, SP3S dan SPPTH. Sekretaris adalah pekerja yang diberikan wewenang untuk melakukan pekerjaan misalnya pencatatan surat masuk, mengelola agenda kendali, mengelola dokumen yang masuk pada atasan pejabatnya dan lain-lain. 
-Berikut adalah role approver dalam aplikasi P-Office antara lain yaitu:
+Berikut adalah role approver dalam aplikasi P-Office antara lain adalah sebagai berikut :
 
 ### **Surat Masuk**
 
@@ -44,12 +44,12 @@ Hal-hal yang dapat dilakukan oleh *member* dalam mengelola memorandum antara lai
 Pada modul ini mendukung proses penambahan fax masuk oleh sekretaris atau pekerja yang ditunjuk dari pejabat yang bersangkutan. Fax masuk yang sudah diinputkan akan dikirimkan kepada pejabat pemilik KBO dan dapat dilakukan disposisi kepada pejabat yang ada di bawahnya. 
 Hal-hal yang dapat dilakukan oleh *member* dalam mengelola fax masuk antara lain:
 
-- [Melihat Daftar Fax Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/member#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/member-faxmasuk/f1c7f68a0cc44f9087947e42426edff1)
-- [Melihat Informasi lengkap Fax Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/member#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/member-faxmasuk/ca29cb08efa74d55b5979f8848d986c6)
-- [Menyelesaikan Fax Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/member#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/member-faxmasuk/3ab30534b1954a69a95378f54d95b0ff)
-- [Melihat Informasi Lengkap Disposisi Fax Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/member#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/member-faxmasuk/b94057c51dbe43dc812ec7ee095f8f6a)
-- [Menyelesaikan Disposisi Fax Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/member#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/member-faxmasuk/58f816ad44ec493aaadc7dd7f72fc6be)
-- [Mengirim Tanggapan Disposisi Fax Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/member#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/member-faxmasuk/e4a5b32e72fc4637a92431f1876298c9)
+- [Melihat Daftar Fax Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/member#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/member-FaxMasuk/f1c7f68a0cc44f9087947e42426edff1)
+- [Melihat Informasi lengkap Fax Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/member#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/member-FaxMasuk/ca29cb08efa74d55b5979f8848d986c6)
+- [Menyelesaikan Fax Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/member#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/member-FaxMasuk/3ab30534b1954a69a95378f54d95b0ff)
+- [Melihat Informasi Lengkap Disposisi Fax Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/member#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/member-FaxMasuk/b94057c51dbe43dc812ec7ee095f8f6a)
+- [Menyelesaikan Disposisi Fax Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/member#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/member-FaxMasuk/58f816ad44ec493aaadc7dd7f72fc6be)
+- [Mengirim Tanggapan Disposisi Fax Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/member#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/member-FaxMasuk/e4a5b32e72fc4637a92431f1876298c9)
 
 
 ### **Fax Keluar**

@@ -58,3 +58,26 @@ Langkah-langkah untuk mengembalikan memorandum ke sebelumnya adalah sebagai beri
 
 4. Sistem berhasil menyimpan perubahan. Memorandum yang sudah di kirim akan tersimpan di menu **Outbox- Memorandum** dan penerima pengembalian memorandum akan menerima memorandum di menu **Rejected - Memorandum**
 
+
+
+## **P-Office Versi IOS**
+
+**Mengembalikan Memorandum Ke Sebelumnya**
+
+Langkah-langkah untuk mengembalikan memorandum ke sebelumnya adalah sebagai berikut
+
+1.	Klik menu **Inbox **dan pilih tab **Memorandum**
+
+![gambar](Memorandum/MM_IOS/MM.77.png)
+![gambar](Memorandum/MM_IOS/MM-78.png)
+
+2.	Pilih memorandum yang akan ditindak lanjuti kemudian pilih icon **Option **dan pilih **Revise to Previous**
+
+![gambar](Memorandum/MM_IOS/MM-40.png)
+![gambar](Memorandum/MM_IOS/MM-41.png)
+
+3.	Isikan komentar jika diperlukan kemudian klik **Send **untuk menyimpan perubahan. Memorandum yang sudah di kirim akan tersimpan di menu **Outbox – Memorandum**
+
+![gambar](Memorandum/MM_IOS/MM-42.png)
+
+4.	Sistem berhasil menyimpan perubahan. Memorandum yang sudah di kirim akan tersimpan di menu **Outbox - Memorandum **dan penerima pengembalian memorandum akan menerima memorandum di menu **Rejected - Memorandum**

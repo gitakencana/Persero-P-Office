@@ -16,7 +16,7 @@
 
 ## **P-Office Versi Teams**
 
-Langkah - langkah untuk melihat daftar dokumem surat keluar via Teams yaitu :
+Langkah - langkah untuk melihat daftar dokumem surat keluar via Teams adalah sebagai berikut :
 
 
 _User_ dapat melihat dokumen surat keluar pada menu _Archive_. Langkah – langkah untuk melihat dokumen memorandum adalah sebagai berikut :
@@ -30,7 +30,7 @@ _User_ dapat melihat dokumen surat keluar pada menu _Archive_. Langkah – langk
 
 ## **P-Office Versi Android**
 
-Langkah - langkah untuk melihat daftar dokumem Memorandum via Android yaitu :
+Langkah - langkah untuk melihat daftar dokumem Memorandum via Android adalah sebagai berikut :
 
 
 1. Klik menu **Archive** pilih submenu **Surat Keluar**

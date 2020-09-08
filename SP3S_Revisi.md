@@ -66,7 +66,7 @@ Langkah - langkah untuk mengubah isi SP3S secara *online* adalah sebagai berikut
 ## **P-Office Versi Teams**
 
 
-Langkah - langkah untuk Revisi SP3S via Teams yaitu :
+Langkah - langkah untuk Revisi SP3S via Teams adalah sebagai berikut :
 
 1. Klik menu **Inbox** dan pilih tab **SP3S**
 
@@ -133,7 +133,7 @@ Langkah – langkah untuk mengubah isi surat keluar secara online adalah sebagai
 
 ## **P-Office Versi Android**
 
-Langkah - langkah untuk Revisi SP3S via Android yaitu :
+Langkah - langkah untuk Revisi SP3S via Android adalah sebagai berikut :
 
 1. Klik menu **Inbox** dan pilih tab **SP3S**
 

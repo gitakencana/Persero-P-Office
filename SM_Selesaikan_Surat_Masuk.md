@@ -34,7 +34,7 @@ Langkah-langkah untuk menyelesaikan surat masuk via Web adalah sebagai berikut:
 
 ## **P-Office Versi Teams**
 
-Langkah - langkah untuk selesaikan surat masuk via Teams yaitu :
+Langkah - langkah untuk selesaikan surat masuk via Teams adalah sebagai berikut :
 
 1. Klik menu **Inbox** dan pilih tab **Surat masuk**
 
@@ -58,7 +58,7 @@ Langkah - langkah untuk selesaikan surat masuk via Teams yaitu :
 
 ## **P-Office Versi Android**
 
-Langkah - langkah untuk menyelesaikan surat masuk menu via Android yaitu:
+Langkah - langkah untuk menyelesaikan surat masuk menu via Android adalah sebagai berikut :
 
 1. 	Klik menu **Inbox** dan pilih tab **Surat masuk**
 
@@ -73,4 +73,21 @@ Langkah - langkah untuk menyelesaikan surat masuk menu via Android yaitu:
 ![gambar](SuratMasuk/SM_Android/SelesaiSM/A03.jpg) ![gambar](SuratMasuk/SM_Android/SelesaiSM/A04.jpg)
 
 4. Sistem menyimpan perubahan dan informasi selesai akan tersimpan di **Outbox-Surat Masuk**.
-   
+
+## **P-Office Versi IOS**
+
+Langkah-langkah untuk menyelesaikan surat masuk via IOS adalah sebagai berikut:
+
+1.	Klik menu **Inbox** dan pilih tab **Surat masuk**
+
+![gambar](SuratMasuk/SM_IOS/SM-66.png) ![gambar](SuratMasuk/SM_IOS/SM-67.png)
+
+2.	Pilih surat masuk yang akan diselesaikan kemudian pilih tab **Option** dan pilih **Finish**
+
+![gambar](SuratMasuk/SM_IOS/SM-68.png)
+
+3.	Sistem menampilkan _pop up_ konfirmasi dan _user_ harus mengisi keterangan selesaikan disposisi kemudian klik **Simpan**.
+
+![gambar](SuratMasuk/SM_IOS/SM-69.png)
+
+4. Sistem menyimpan perubahan dan informasi selesai disposisi akan tersimpan di detail disposisi.

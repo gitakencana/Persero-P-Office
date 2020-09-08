@@ -18,7 +18,7 @@
 ## **P-Office Versi Teams**
 
 
-Langkah - langkah untuk Riwayat SP3S via Teams yaitu :
+Langkah - langkah untuk Riwayat SP3S via Teams adalah sebagai berikut :
 
 1.	Klik menu **History** dan pilih tab **SP3S**
 

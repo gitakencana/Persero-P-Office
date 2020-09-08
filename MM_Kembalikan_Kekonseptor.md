@@ -57,3 +57,27 @@ Langkah-langkah untuk mengembalikan Memorandum ke konseptor adalah sebagai berik
 ![gambar](Memorandum/MM_Android/Konseptormemo/A05.jpg) ![gambar](Memorandum/MM_Android/Konseptormemo/A06.jpg)
 
 4. Sistem berhasil menyimpan perubahan. Memorandum yang sudah di kirim akan tersimpan di menu **Outbox- Memorandum** dan konseptor akan menerima memorandum di menu **Rejected – Memorandum**
+
+
+
+## **P-Office Versi IOS**
+
+**Mengembalikan Memorandum Ke Konseptor**
+
+Langkah-langkah untuk mengembalikan memorandum ke konseptor adalah sebagai berikut
+
+1.	Klik menu **Inbox **dan pilih tab **Memorandum**
+
+![gambar](Memorandum/MM_IOS/MM-79.png)
+![gambar](Memorandum/MM_IOS/MM-80.png)
+
+2.	Pilih memorandum yang akan ditindak lanjuti kemudian pilih icon **Option **dan pilih **Revise to Previous**
+
+![gambar](Memorandum/MM_IOS/MM-81.png)
+![gambar](Memorandum/MM_IOS/MM-43.png)
+
+3.	Isikan komentar jika diperlukan kemudian klik **Send **untuk menyimpan perubahan. Memorandum yang sudah di kirim akan tersimpan di menu **Outbox – Memorandum**
+
+![gambar](Memorandum/MM_IOS/MM-44.png)
+
+4.	Sistem berhasil menyimpan perubahan. Memorandum yang sudah di kirim akan tersimpan di menu **Outbox - Memorandum **dan penerima pengembalian memorandum akan menerima memorandum di menu **Rejected - Memorandum**

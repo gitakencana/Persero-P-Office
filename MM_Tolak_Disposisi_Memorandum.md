@@ -65,3 +65,18 @@ Langkah-langkah untuk menolak disposisi Memorandum adalah sebagai berikut :
 
 4. Sistem menampilkan pop up konfirmasi dan _user_ harus mengisi keterangan tolak disposisi memorandum kemudian klik send.
 Sistem Memorandum yang sudah di tolak akan tersimpan dimenu “**Rejected- Memorandum**” user penolak pada label “**Rejected**
+
+
+
+## **P-Office Versi IOS**
+
+**Menolak Memorandum**
+
+Langkah-langkah untuk menolak memorandum adalah sebagai berikut
+1.	Klik menu **Inbox **dan pilih tab **Memorandum**
+
+2.	Pilih memorandum yang akan ditindak lanjuti kemudian pilih icon **Option **dan pilih **Reject**
+
+3.	Isikan komentar jika diperlukan kemudian klik **Send **untuk menyimpan perubahan
+
+4.	Memorandum yang sudah di tolak akan tersimpan di menu “**Rejected - Memorandum**” user penolak dengan label **Rejected**

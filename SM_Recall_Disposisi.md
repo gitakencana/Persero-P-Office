@@ -7,7 +7,7 @@ _User_ dapat melakukan _recall_ / tarik disposisi surat masuk yang sudah dikirim
 
 ## **P-Office Versi Web**
 
-Langkah - langkah untuk merecall disposisi via Web yaitu :
+Langkah - langkah untuk merecall disposisi via Web adalah sebagai berikut :
 
 1.    Klik menu **Outbox** dan pilih tab **Disposisi**
 
@@ -22,7 +22,7 @@ Langkah - langkah untuk merecall disposisi via Web yaitu :
 
 ## **P-Office Versi Teams**
 
-Langkah - langkah untuk recall disposisi via Teams yaitu :
+Langkah - langkah untuk recall disposisi via Teams adalah sebagai berikut :
 
 1. Klik menu **Outbox** dan pilih tab **Disposisi**
 
@@ -36,15 +36,29 @@ Langkah - langkah untuk recall disposisi via Teams yaitu :
 
 ## **P-Office Versi Android**
 
-Langkah - langkah untuk recall surat masuk via Android yaitu:
+Langkah - langkah untuk recall disposisi via Android adalah sebagai berikut :
 
 1. Klik menu **Outbox** dan pilih tab **Disposisi**
    
 ![gambar](SuratMasuk/SM_Android/Recalldisposisi/A01.jpg) ![gambar](SuratMasuk/SM_Android/Recalldisposisi/A02.jpg)
 
-2. Pilih surat masuk yang akan di-_recall_ kemudian klik ikon **tombol button** kemudian klik **Recall**
+2. Pilih surat masuk yang akan di-_recall_ kemudian klik **button** kemudian klik **Recall**
 
 ![gambar](SuratMasuk/SM_Android/Recalldisposisi/A03.jpg) ![gambar](SuratMasuk/SM_Android/Recalldisposisi/A04.jpg) ![gambar](SuratMasuk/SM_Android/Recalldisposisi/A05.jpg)
 
 3. Surat masuk yang sudah di-_recall_ akan tersimpan di menu “**Draft - Disposisi**” penerima surat masuk/ pendisposisi.
    
+
+## **P-Office Versi IOS**
+
+Langkah-langkah untuk melakukan recall disposisi via IOS adalah sebagai berikut :
+
+1.	Klik menu **Outbox** dan pilih tab **Disposisi**
+
+![gambar](SuratMasuk/SM_IOS/SM-61.png) ![gambar](SuratMasuk/SM_IOS/SM-62.png)
+
+2.	Pilih surat masuk yang akan di-_recall_ kemudian klik tab **Option** kemudian klik **Recall**
+
+![gambar](SuratMasuk/SM_IOS/SM-46.png)
+
+3.	Surat masuk yang sudah di-_recall_ akan tersimpan di menu “**Draft - Disposisi**” penerima fax masuk / pendisposisi.

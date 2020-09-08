@@ -14,7 +14,7 @@
 ## **P-Office Versi Teams**
 
 
-Langkah - langkah untuk lihat daftar SP3S via Teams yaitu :
+Langkah - langkah untuk lihat daftar SP3S via Teams adalah sebagai berikut :
 
 1.	Klik menu **Inbox / Draft / Outbox** dan pilih tab **SP3S**
 

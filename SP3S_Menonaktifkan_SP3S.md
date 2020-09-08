@@ -20,7 +20,7 @@ SP3S yang masih berlaku akan non-aktif secara otomatis apabila sudah habis masa 
 ## **P-Office Versi Teams**
 
 
-Langkah - langkah untuk menonaktifkan SP3S via Teams yaitu :
+Langkah - langkah untuk menonaktifkan SP3S via Teams adalah sebagai berikut :
 
  1. Klik menu **Inbox** dan pilih tab **SP3S**
 
@@ -36,7 +36,7 @@ Langkah - langkah untuk menonaktifkan SP3S via Teams yaitu :
 
 ## **P-Office Versi Android**
 
-Langkah - langkah untuk menonaktifkan SP3S via Android yaitu : 
+Langkah - langkah untuk menonaktifkan SP3S via Android adalah sebagai berikut : 
 
 1. Klik menu **Inbox** dan pilih tab **SP3S**
 

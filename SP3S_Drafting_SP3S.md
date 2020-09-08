@@ -76,7 +76,7 @@ Langkah - langkah untuk mengirim SP3S adalah sebagai berikut.
 ## **P-Office Versi Teams**
 
 
-Langkah - langkah untuk Drafting SP3S via Teams yaitu :
+Langkah - langkah untuk Drafting SP3S via Teams adalah sebagai berikut :
 
  
 1. Klik menu **Draft** dan pilih tab **SP3S**
@@ -153,7 +153,7 @@ Langkah - langkah untuk Drafting SP3S via Teams yaitu :
 
 ## **P-Office Versi Android**
 
-Langkah - langkah untuk Drafting SP3S via Android yaitu : 
+Langkah - langkah untuk Drafting SP3S via Android adalah sebagai berikut : 
 
 1. Klik menu **Draft** dan pilih tab **SP3S**
 
@@ -173,7 +173,7 @@ Langkah - langkah untuk Drafting SP3S via Android yaitu :
 
 5. Klik **Edit Content** untuk mengubah isi SP3S
 
-![gambar](SP3S/SP3S_Android/DraftSP3S/A08.jpg) ![gambar](SP3S/SP3S_Android/DraftSP3S/A09.jpg)
+![gambar](SP3S/SP3S_Android/DraftSP3S/A08.jpg)![gambar](SP3S/SP3S_Android/DraftSP3S/A09.jpg)
 
 6. Sistem menampilkan tampilan _preview_ SP3S dalam bentuk Word yang dapat di edit. Untuk melakukan _editing_ terhadap isi surat klik **Edit Konten** kemudian sistem akan menampilkan _pop up_ konfirmasi 
 

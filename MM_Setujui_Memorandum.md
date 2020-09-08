@@ -55,3 +55,23 @@ Langkah-langkah untuk menyetujui Memorandum adalah sebagai berikut :
 ![gambar](Memorandum/MM_Android/Setujumemo/A05.jpg) ![gambar](Memorandum/MM_Android/Setujumemo/A06.jpg)
 
 4. Sistem berhasil menyimpan perubahan. Memorandum yang sudah di kirim akan tersimpan di menu **Outbox- Memorandum**
+
+
+
+## **P-Office Versi IOS**
+
+**Menyetujui Memorandum**
+
+1.	Klik menu **Inbox **dan pilih tab **Memorandum**
+
+![gambar](Memorandum/MM_IOS/MM-35.png)
+![gambar](Memorandum/MM_IOS/MM-36.png)
+
+2.	Pilih memorandum yang akan ditindak lanjuti kemudian pilih icon **Option **dan pilih **Approve**
+
+![gambar](Memorandum/MM_IOS/MM-37.png)
+![gambar](Memorandum/MM_IOS/MM-38.png)
+
+3.	Isikan komentar jika diperlukan kemudian klik **Send **untuk menyimpan perubahan. Surat keluar yang sudah di kirim akan tersimpan di menu **Outbox - Surat Keluar**
+
+![gambar](Memorandum/MM_IOS/MM-39.png)

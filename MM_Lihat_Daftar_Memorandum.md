@@ -25,4 +25,19 @@ Langkah-langkah untuk melihat informasi Memorandum adalah sebagai berikut :
 
 1. Klik menu **Inbox/Draft/Outbox** dan pilih tab **Memorandum**
 
-![gambar](Memorandum/MM_Android/Daftarmemo/A01.jpg)
+![gambar](Memorandum/MM_Android/Daftarmemo/A01.jpg) ![gambar](Memorandum/MM_Android/Daftarmemo/A02.jpg) 
+
+
+
+## **P-Office Versi IOS**
+
+**Melihat Daftar Memorandum**
+
+Langkah – langkah untuk melihat daftar memorandum adalah sebagai berikut
+
+1.	Klik menu **Inbox / Draft / Outbox **dan pilih tab **Memorandum**
+
+![gambar](Memorandum/MM_IOS/MM-1.png)
+![gambar](Memorandum/MM_IOS/MM-2.png)
+
+

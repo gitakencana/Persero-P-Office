@@ -52,14 +52,14 @@ Langkah-langkah untuk menolak fax masuk adalah sebagai berikut :
 
 1. Klik menu **Inbox** dan pilih tab **Fax Masuk**
 
-![gambar](Faxmasuk/FM_Android/TolakFM/A01.jpg) ![gambar](Faxmasuk/FM_Android/TolakFM/A02.jpg)
+![gambar](FaxMasuk/FM_Android/TolakFM/A01.jpg) ![gambar](FaxMasuk/FM_Android/TolakFM/A02.jpg)
 
 2. ilih fax masuk yang akan ditolak kemudian pilih ikon **tombol button**
 
-![gambar](Faxmasuk/FM_Android/TolakFM/A03.jpg) ![gambar](Faxmasuk/FM_Android/TolakFM/A04.jpg)
+![gambar](FaxMasuk/FM_Android/TolakFM/A03.jpg) ![gambar](FaxMasuk/FM_Android/TolakFM/A04.jpg)
 
 3. Klik tombol **Reject** kemudian sistem menampilkan _pop up_ konfirmasi dan _user_ harus mengisi keterangan tolak fax masuk kemudian klik **Send**
 
-![gambar](Faxmasuk/FM_Android/TolakFM/A05.jpg)
+![gambar](FaxMasuk/FM_Android/TolakFM/A05.jpg)
 
 4. Sistem menyimpan perubahan dan informasi tolak fax masuk. Fax masuk yang sudah ditolak akan akan tersimpan di menu **Rejected-Fax Masuk**

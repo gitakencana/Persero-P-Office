@@ -43,7 +43,7 @@ Pada tab **History Surat Masuk**, ditampilkan riwayat surat masuk yang terdapat 
 
 ## **P-Office Versi Teams**
 
-Langkah - langkah untuk Informasi surat masuk via Teams yaitu :
+Langkah - langkah untuk Informasi surat masuk via Teams adalah sebagai berikut:
 
 1. Klik menu **Inbox/Draft/Outbox** dan pilih tab **Surat Masuk**. Pilih salah satu surat masuk yang akan dilihat informasinya
 
@@ -78,15 +78,13 @@ Pada tab **History Surat Masuk**, ditampilkan riwayat surat masuk yang terdapat 
 
 ## **P-Office Versi Android**
 
-Langkah - langkah untuk melihat informasi surat masuk via Android yaitu:
+Langkah - langkah untuk melihat informasi surat masuk via Android adalah sebagai berikut:
 
 1. Klik menu **Inbox/Draft/Outbox** dan pilih tab **Surat Masuk** pilih salah satu surat masuk yang akan dilihat informasinya
 
-![gambar](SuratMasuk/SM_Android/InfoSM/A01.jpg)
+![gambar](SuratMasuk/SM_Android/InfoSM/A01.jpg) ![gambar](SuratMasuk/SM_Android/InfoSM/A02.jpg)
 
-![gambar](SuratMasuk/SM_Android/InfoSM/A02.jpg)
-
- **Detail Surat Masuk**
+**Detail Surat Masuk**
 
 Pada tab **Detail Surat Masuk**, terdapat informasi asal surat, perihal, file lampiran, kategori surat, resume, rekomendasi, nomor surat, klasifikasi surat, tanggal surat dan tujuan
 
@@ -94,7 +92,7 @@ Pada tab **Detail Surat Masuk**, terdapat informasi asal surat, perihal, file la
 
 **Preview Surat Masuk**
 
- Pada tab **Preview Surat Masuk**, ditampilkan _preview_ surat masuk yang merupakan hasil unggahan yang diinputkan oleh sekretaris/konseptor.
+Pada tab **Preview Surat Masuk**, ditampilkan _preview_ surat masuk yang merupakan hasil unggahan yang diinputkan oleh sekretaris/konseptor.
 
 ![gambar](SuratMasuk/SM_Android/InfoSM/P01.jpg) ![gambar](SuratMasuk/SM_Android/InfoSM/P02.jpg)
 
@@ -102,14 +100,36 @@ Pada tab **Detail Surat Masuk**, terdapat informasi asal surat, perihal, file la
 
 Pada tab **Tracking Surat Masuk**, ditampilkan informasi _tracking_ surat masuk dalam bentuk _chart_
 
- **History Surat Masuk**
+**History Surat Masuk**
 
 Pada tab **History Surat Masuk**, ditampilkan riwayat surat masuk yang terdapat informasi jabatan, tanggal, tindakan dan komentar
 
 ![gambar](SuratMasuk/SM_Android/InfoSM/H01.jpg) ![gambar](SuratMasuk/SM_Android/InfoSM/H01.jpg)
 
- **Recall Surat Masuk**
 
- Pada tab **Recall Surat Masuk**, ditampilkan tindakan menarik surat masuk yaitu klik menu **recall** kemudian klik recall
+## **P-Office Versi IOS**
 
-![gambar](SuratMasuk/SM_Android/InfoSM/R01.jpg) ![gambar](SuratMasuk/SM_Android/InfoSM/R02.jpg)
+Langkah-langkah untuk melihat informasi lengkap surat masuk via IOS adalah sebagai berikut :
+
+1.	Klik menu **Inbox/Draft/Outbox** dan pilih tab **Surat Masuk** Pilih salah satu surat masuk yang akan dilihat informasinya
+
+![gambar](SuratMasuk/SM_IOS/SM-13.png) ![gambar](SuratMasuk/SM_IOS/SM-14.png)
+
+
+**Preview Surat Masuk**
+
+Pada tab **Preview Surat Masuk**, ditampilkan _preview_ surat masuk yang merupakan hasil unggahan yang diinputkan oleh sekretaris/konseptor.
+
+![gambar](SuratMasuk/SM_IOS/SM-15.png) ![gambar](SuratMasuk/SM_IOS/SM-16.png)
+
+**Detail Surat Masuk**
+
+Pada tab **Detail Surat Masuk**, terdapat informasi asal surat, perihal, file lampiran, kategori surat, resume, rekomendasi, nomor surat, klasifikasi surat, tanggal surat dan tujuan.
+
+![gambar](SuratMasuk/SM_IOS/SM-17.png)
+
+**History Surat Masuk**
+
+Pada tab **History Surat Masuk**, ditampilkan riwayat surat masuk yang terdapat informasi jabatan, tanggal, tindakan dan komentar
+
+![gambar](SuratMasuk/SM_IOS/SM-19.png) ![gambar](SuratMasuk/SM_IOS/SM-20.png)

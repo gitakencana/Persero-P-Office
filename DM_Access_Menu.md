@@ -11,7 +11,7 @@ Admin P-Office dapat mengelola akses menu yang digunakan dalam dalam pemberian h
 
 ## **P-Office Versi Web**
 
-Langkah - langkah untuk melakukan pengelolaan akses menu via Web yaitu:
+Langkah - langkah untuk melakukan pengelolaan akses menu via Web adalah sebagai berikut :
 
 #### **Mencari Menu Akses**
 

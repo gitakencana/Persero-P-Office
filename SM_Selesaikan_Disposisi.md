@@ -10,7 +10,7 @@ _User_ dapat menyelesaikan disposisi surat masuk jika _user_ tidak akan melanjut
 
 ## **P-Office Versi Web**
 
-Langkah - langkah untuk menyelesaikan disposisi via Web yaitu :
+Langkah - langkah untuk menyelesaikan disposisi via Web adalah sebagai berikut :
 
 1.    Klik menu **Disposition** dan pilih tab **Surat Masuk**
 
@@ -34,7 +34,7 @@ Langkah - langkah untuk menyelesaikan disposisi via Web yaitu :
 
 ## **P-Office Versi Teams**
 
-Langkah - langkah untuk selesaikan disposisi via Teams yaitu :
+Langkah - langkah untuk selesaikan disposisi via Teams adalah sebagai berikut :
 
 1. Klik menu **Disposition** dan pilih tab **Surat Masuk**
 
@@ -57,13 +57,13 @@ Langkah - langkah untuk selesaikan disposisi via Teams yaitu :
 
 ## **P-Office Versi Android**
 
-Langkah - langkah untuk menyelesaikan disposisi surat masuk via Android yaitu:
+Langkah - langkah untuk menyelesaikan disposisi surat masuk via Android adalah sebagai berikut :
 
-1. Klik menu **Disposisi** dan pilih tab **Surat Masuk **Pilih salah satu disposisi surat masuk yang akan dilihat informasinya
+1. Klik menu **Disposisi** dan pilih tab **Surat Masuk** Pilih salah satu disposisi surat masuk yang akan dilihat informasinya
 
 ![gambar](SuratMasuk/SM_Android/Selesaidisposisi/A01.jpg) ![gambar](SuratMasuk/SM_Android/Selesaidisposisi/A001.jpg) 
 
-2. Pilih disposisi yang akan diselesaikan kemudian pilih ikon **tombol button**
+1. Pilih disposisi yang akan diselesaikan kemudian pilih tombol **button**
 
 ![gambar](SuratMasuk/SM_Android/Selesaidisposisi/A02.jpg) ![gambar](SuratMasuk/SM_Android/Selesaidisposisi/A03.jpg) 
 
@@ -72,3 +72,22 @@ Langkah - langkah untuk menyelesaikan disposisi surat masuk via Android yaitu:
 ![gambar](SuratMasuk/SM_Android/Selesaidisposisi/A04.jpg) ![gambar](SuratMasuk/SM_Android/Selesaidisposisi/A05.jpg)  
 
 4. Sistem menyimpan perubahan dan informasi selesai disposisi akan tersimpan di Outbox-disposisi.
+
+
+## **P-Office Versi IOS**
+
+Langkah-langkah untuk menyelesaikan surat masuk via IOS adalah sebagai berikut
+
+1.	Klik menu **Disposisi** dan pilih tab **Surat Masuk**
+
+![gambar](SuratMasuk/SM_IOS/SM-63.png) ![gambar](SuratMasuk/SM_IOS/SM-64.png)
+
+2.	Pilih disposisi yang akan diselesaikan kemudian pilih tab **Option** dan pilih **Finish**
+
+![gambar](SuratMasuk/SM_IOS/SM-47.png)
+
+3.	Sistem menampilkan pop up konfirmasi dan _user_ harus mengisi keterangan selesaikan disposisi kemudian klik **Send**
+
+![gambar](SuratMasuk/SM_IOS/SM-48.png)
+
+4.	Sistem menyimpan perubahan dan informasi selesai disposisi akan tersimpan di detail disposisi.
