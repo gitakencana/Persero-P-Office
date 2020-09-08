@@ -101,7 +101,7 @@ Pada tab **Preview**, ditampilkan _preview_ surat masuk yang merupakan hasil ung
 
 Pada tab **History**, ditampilkan riwayat surat masuk yang terdapat informasi jabatan, tanggal, tindakan dan komentar
 
-![gambar](SuratMasuk/SM_Android/InfoSM/H01.jpg) ![gambar](SuratMasuk/SM_Android/InfoSM/H01.jpg)
+![gambar](SuratMasuk/SM_Android/InfoSM/H01.jpg) ![gambar](SuratMasuk/SM_Android/InfoSM/H02.jpg)
 
 
 ## **P-Office Versi IOS**
