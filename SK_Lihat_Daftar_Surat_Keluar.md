@@ -26,7 +26,7 @@ Langkah - langkah untuk daftar surat keluar via Teams adalah sebagai berikut :
 
 Langkah - langkah untuk melihat daftar surat keluar via Android adalah sebagai berikut :
 
-1. Klik menu **Inbox/ Draft/ Outbox** dan pilih tab Surat Keluar
+1. Klik menu **Inbox/ Draft/ Outbox** dan pilih tab **Surat Keluar**
 
 ![gambar](SuratKeluar/SK_Android/DaftarSK/A01.jpg) ![gambar](SuratKeluar/SK_Android/DaftarSK/A02.jpg)
 

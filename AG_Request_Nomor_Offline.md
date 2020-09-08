@@ -2,7 +2,11 @@
 
 - Sekretaris
 
-Pengajuan nomor offline digunakan untuk *request* pemrosesan nomor dokumen secara offline. Sekretaris yang mengajukan nomor offline akan disetujui oleh admin approval nomor offline. Langkah - langkah untuk melakukan *request* nomor offline adalah sebagai berikut
+Pengajuan nomor offline digunakan untuk *request* pemrosesan nomor dokumen secara offline. Sekretaris yang mengajukan nomor offline akan disetujui oleh admin approval nomor offline. 
+
+## **P-Office Versi Web**
+
+Langkah - langkah untuk melakukan *request* nomor offline via Web adalah sebagai berikut
 
 1. Klik menu **Document Control** dan pilih tab **Request Offline Number**
 

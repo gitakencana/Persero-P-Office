@@ -153,11 +153,11 @@ Langkah - langkah untuk **Drafting** surat keluar via Android adalah sebagai ber
    
 ![gambar](SuratKeluar/SK_Android/DraftSK/A06.jpg)
 
-1. Klik **Edit Content** untuk mengubah isi surat keluar
+5. Klik **Edit Content** untuk mengubah isi surat keluar
 
 ![gambar](SuratKeluar/SK_Android/DraftSK/A07.jpg)
 
-2. Sistem menampilkan tampilan _preview_ surat keluar dalam bentuk Word yang dapat di edit. Untuk melakukan _editing_ terhadap isi surat klik **Edit /Send** kemudian sistem akan menampilkan _pop up_ konfirmasi **Ubah Online**
+6. Sistem menampilkan tampilan _preview_ surat keluar dalam bentuk Word yang dapat di edit. Untuk melakukan _editing_ terhadap isi surat klik **Edit /Send** kemudian sistem akan menampilkan _pop up_ konfirmasi **Ubah Online**
 
 ![gambar](SuratKeluar/SK_Android/DraftSK/A08.jpg)
 
