@@ -191,3 +191,23 @@ Langkah - langkah untuk menambah surat keluar via Android yaitu:
 
 
 
+## **P-Office Versi IOS**
+
+**Menambah Surat Keluar**
+
+Langkah-langkah untuk menambah surat keluar adalah sebagai berikut.
+
+1.	Klik menu **New Correspondence**
+
+![gambar](SuratKeluar/SK_IOS/SK-3.png)
+
+2.	Pilih jenis surat “**Surat Keluar**” kemudian pilih **Next**
+
+![gambar](SuratKeluar/SK_IOS/SK-4.png)
+
+3.	Isi _form_ tambah surat keluar. Terdapat bebarapa aksi untuk menindaklanjuti surat keluar yang sudah diisi _form_nya yaitu **Simpan Surat Keluar**, **Kirim Surat Keluar **dan **Save as Template Surat Keluar.**
+
+![gambar](SuratKeluar/SK_IOS/SK-5.png)
+![gambar](SuratKeluar/SK_IOS/SK-6.png)
+![gambar](SuratKeluar/SK_IOS/SK-7.png)
+![gambar](SuratKeluar/SK_IOS/SK-8.png)

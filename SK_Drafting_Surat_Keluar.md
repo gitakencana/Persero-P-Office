@@ -194,3 +194,38 @@ Langkah – langkah untuk mengubah isi surat keluar secara _online_ adalah sebag
 2. Sistem menyimpan perubahan dan surat keluar akan tersimpan di menu “**Outbox - Surat Keluar**”
 
 
+
+## **P-Office Versi IOS**
+
+**Melakukan Drafting Surat Keluar**
+
+Langkah-langkah untuk melakukan _drafting_ surat keluar adalah sebagai berikut.
+
+1.	Klik menu **Draft **dan pilih tab **Surat Keluar**
+
+![gambar](SuratKeluar/SK_IOS/SK-50.png)
+![gambar](SuratKeluar/SK_IOS/SK-21.png)
+
+2.	Pilih surat keluar yang akan diubah. Pilih icon **Option** kemudian pilih **Edit**
+
+![gambar](SuratKeluar/SK_IOS/SK-22.png)
+![gambar](SuratKeluar/SK_IOS/SK-23.png)
+
+3.	Sistem akan menampilkan _form_ **Edit Surat Keluar. **Lakukan perubahan pada _form_ kemudian klik **Save **untuk menyimpan perubahan pada _form_ surat keluar
+
+![gambar](SuratKeluar/SK_IOS/SK-24.png)
+![gambar](SuratKeluar/SK_IOS/SK-25.png)
+
+4.	Setelah selesai, klik **Edit Content **untuk melakukan perubahan pada isi konten surat keluar.
+
+![gambar](SuratKeluar/SK_IOS/SK-26.png)
+
+5.	Sistem akan menampilkan tampilan _preview_ surat keluar dalam bentuk Word yang dapat di edit. Untuk melakukan _editing_ terhadap isi surat klik **Edit/Send**
+
+![gambar](SuratKeluar/SK_IOS/SK-51.png)
+
+6.	Sistem akan menampilkan _pop up _notifikasi editing dokumen, klik **Yes **untuk menutup _pop up_ notifikasi
+
+![gambar](SuratKeluar/SK_IOS/SK-52.png)
+
+7.	Surat keluar yang sudah di ubah akan tersimpan dimenu “**Draft – Surat Keluar**”

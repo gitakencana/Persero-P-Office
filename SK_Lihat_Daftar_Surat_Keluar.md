@@ -31,3 +31,18 @@ Langkah - langkah untuk melihat daftar surat keluar via Android yaitu:
 
 
 
+## **P-Office Versi IOS**
+
+**Melihat Daftar Surat Keluar**
+
+Langkah – langkah untuk melihat daftar surat keluar adalah sebagai berikut
+
+1.	Klik menu **Inbox / Draft / Outbox** dan pilih tab **Surat Keluar**
+
+![gambar](SuratKeluar/SK_IOS/SK-1.png)
+![gambar](SuratKeluar/SK_IOS/SK-2.png)
+
+
+
+
+

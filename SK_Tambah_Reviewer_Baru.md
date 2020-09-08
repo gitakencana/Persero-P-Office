@@ -74,4 +74,26 @@ Langkah-langkah untuk menambahkan Reviewer baru surat keluar adalah sebagai beri
 
 
 
+## **P-Office Versi IOS**
 
+**Menambah Reviewer Baru Surat Keluar**
+
+Langkah-langkah untuk menambah reviewer surat keluar adalah sebagai berikut
+
+1.	Klik menu **Inbox **dan pilih tab **Surat Keluar**
+
+![gambar](SuratKeluar/SK_IOS/SK-57.png)
+![gambar](SuratKeluar/SK_IOS/SK-58.png)
+
+2.	Pilih surat keluar yang akan ditindak lanjuti kemudian pilih icon **Option **dan pilih **Add Reviewer**
+
+![gambar](SuratKeluar/SK_IOS/SK-59.png)
+![gambar](SuratKeluar/SK_IOS/SK-60.png)
+
+3.	Klik **Add Reviewer** untuk menampilkan daftar pejabat yang akan dipilih sebagai reviewer baru
+
+![gambar](SuratKeluar/SK_IOS/SK-45.png)
+
+4.	Klik Submit untuk mengirimkan kepada pejabat/reviewer yang dituju dan surat keluar akan tersimpan di menu “**Outbox - Surat Keluar**”. Untuk pejabat/reviewer baru akan menerima surat keluar di menu “**Inbox – Surat Keluar**”
+
+![gambar](SuratKeluar/SK_IOS/SK-46.png)

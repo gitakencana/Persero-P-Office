@@ -56,3 +56,25 @@ Langkah-langkah untuk menolak surat keluar adalah sebagai berikut :
 
 4. Sistem berhasil menyimpan perubahan Memorandum yang sudah di tolak akan tersimpan dimenu “**Rejected- Memorandum”** user penolak pada label “**Rejected**”
 
+
+
+## **P-Office Versi IOS**
+
+**Menolak Surat Keluar**
+
+Langkah-langkah untuk menolak surat keluar adalah sebagai berikut
+
+1.	Klik menu **Inbox **dan pilih tab **Surat Keluar**
+
+![gambar](SuratKeluar/SK_IOS/SK-53.png)
+![gambar](SuratKeluar/SK_IOS/SK-54.png)
+
+2.	Pilih surat keluar yang akan ditindak lanjuti kemudian pilih icon **Option **dan pilih** Reject**
+
+![gambar](SuratKeluar/SK_IOS/SK-55.png)
+![gambar](SuratKeluar/SK_IOS/SK-56.png)
+
+3.	Isikan komentar jika diperlukan kemudian klik **Send **untuk menyimpan perubahan. Surat keluar yang sudah di kirim akan tersimpan di menu **Rejected - Surat Keluar**
+
+![gambar](SuratKeluar/SK_IOS/SK-43.png)
+

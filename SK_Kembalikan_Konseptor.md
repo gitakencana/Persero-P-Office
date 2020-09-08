@@ -57,3 +57,24 @@ Langkah-langkah untuk melihat informasi surat keluar adalah sebagai berikut :
 
 4. Sistem berhasil menyimpan perubahan. Surat keluar yang sudah di kirim akan tersimpan di menu **Outbox- Surat Keluar**dan konseptor akan menerima surat keluar di menu **Draft – Surat Keluar**
 
+
+
+## **P-Office Versi IOS**
+
+**Kembalikan Surat keluar ke Konseptor**
+
+Langkah-langkah untuk mengembalikan surat keluar ke konseptor adalah sebagai berikut
+
+1.	Klik menu **Inbox **dan pilih tab **Surat keluar**
+
+![gambar](SuratKeluar/SK_IOS/SK-66.png)
+![gambar](SuratKeluar/SK_IOS/SK-67.png)
+
+2.	Pilih surat keluar yang akan ditindak lanjuti kemudian pilih icon **Option** dan pilih **Revise to Conceptor**
+
+![gambar](SuratKeluar/SK_IOS/SK-68.png)
+![gambar](SuratKeluar/SK_IOS/SK-40.png)
+
+3.	Isikan komentar jika diperlukan kemudian klik **Send **untuk menyimpan perubahan. Surat keluar yang sudah di kirim akan tersimpan di menu **Rejected - Surat Keluar**
+
+![gambar](SuratKeluar/SK_IOS/SK-41.png)

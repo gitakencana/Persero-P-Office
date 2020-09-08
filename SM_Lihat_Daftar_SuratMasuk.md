@@ -36,3 +36,10 @@ Langkah - langkah untuk melihat daftar surat masuk via Android yaitu:
 
 ![gambar](SuratMasuk/SM_Android/DraftSM/A02.jpg)
     
+## **P-Office Versi IOS**
+
+Langkah-langkah untuk melihat daftar surat masuk adalah sebagai berikut:
+
+1.	Klik menu **Inbox** dan pilih tab **Surat Masuk**. Sistem akan menampilkan daftar surat masuk yang ditujukan pada suatu _user_
+
+![gambar](SuratMasuk/SM_IOS/SM-1.png)

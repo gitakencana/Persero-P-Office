@@ -56,3 +56,22 @@ Langkah-langkah untuk melihat informasi surat keluar adalah sebagai berikut :
 
 5. Surat keluar yang sudah disetujui akan tersimpan di menu “**Outbox - Surat Keluar**” pengirim sedangkan surat keluar akan tersimpan di menu “**Inbox - Surat Keluar**” penerima.
 
+
+
+## **P-Office Versi IOS**
+
+**Mengesahkan Nomor Surat Keluar**
+
+1.	Klik menu **Inbox **dan pilih tab **Surat Keluar**
+
+![gambar](SuratKeluar/SK_IOS/SK-61.png)
+![gambar](SuratKeluar/SK_IOS/SK-62.png)
+
+2.	Pilih surat keluar yang akan ditindak lanjuti, pada detail surat keluar** **terdapat informasi nomor surat yang masih bersifat sementara. Nomor inilah yang akan ter-_generate _jika _user_ menyetujui surat keluar.
+
+![gambar](SuratKeluar/SK_IOS/SK-47.png)
+![gambar](SuratKeluar/SK_IOS/SK-48.png)
+
+3.	Isikan komentar jika diperlukan kemudian klik **Send **untuk menyimpan perubahan. Nomor surat keluar akan ter-_generate _sesuai dengan nomor sementara pada detail. Surat keluar yang sudah disetujui akan tersimpan di menu “**Outbox - Surat Keluar**” pengirim sedangkan surat keluar akan tersimpan di menu “**Inbox - Surat Keluar**” penerima.
+
+![gambar](SuratKeluar/SK_IOS/SK-49.png)

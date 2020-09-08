@@ -72,3 +72,26 @@ Langkah - langkah untuk menyelesaikan disposisi surat masuk via Android yaitu:
 ![gambar](SuratMasuk/SM_Android/Selesaidisposisi/A04.jpg) ![gambar](SuratMasuk/SM_Android/Selesaidisposisi/A05.jpg)  
 
 4. Sistem menyimpan perubahan dan informasi selesai disposisi akan tersimpan di Outbox-disposisi.
+
+
+
+## **P-Office Versi IOS**
+
+**Menyelesaikan Disposisi Surat Masuk**
+
+Langkah-langkah untuk menyelesaikan surat masuk adalah sebagai berikut
+
+1.	Klik menu **Disposisi **dan pilih tab **Surat Masuk**
+
+![gambar](SuratMasuk/SM_IOS/SM-63.png)
+![gambar](SuratMasuk/SM_IOS/SM-64.png)
+
+2.	Pilih disposisi yang akan diselesaikan kemudian pilih tab **Option **dan pilih** Finish**
+
+![gambar](SuratMasuk/SM_IOS/SM-47.png)
+
+3.	Sistem menampilkan pop up konfirmasi dan _user_ harus mengisi keterangan selesaikan disposisi kemudian klik **Send**
+
+![gambar](SuratMasuk/SM_IOS/SM-48.png)
+
+4.	Sistem menyimpan perubahan dan informasi selesai disposisi akan tersimpan di detail disposisi.

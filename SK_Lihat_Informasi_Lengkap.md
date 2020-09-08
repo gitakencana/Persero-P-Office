@@ -103,3 +103,32 @@ Pada tab _History_ surat keluar, ditampilkan riwayat surat keluar yang terdapat 
 
 
 
+## **P-Office Versi IOS**
+
+**Melihat Informasi Lengkap Surat Keluar**
+
+Langkah-langkah untuk melihat informasi surat keluar adalah sebagai berikut.
+
+1.	Klik menu **Inbox/Draft/Outbox **dan pilih tab **Surat Keluar. **Pilih salah satu surat keluar yang akan dilihat informasinya
+
+![gambar](SuratKeluar/SK_IOS/SK-27.png)
+![gambar](SuratKeluar/SK_IOS/SK-28.png)
+
+**Preview Surat Keluar**
+
+Pada tab informasi _Preview_ surat keluar, ditampilkan _preview_ surat keluar yang sudah dibuat. _Preview_ surat keluar disesuaikan dengan template berdasarkan jenis surat.
+
+![gambar](SuratKeluar/SK_IOS/SK-29.png)
+
+**Detail Surat Keluar**
+
+Pada tab Detail surat keluar, terdapat informasi asal surat, perihal, file lampiran, nomor surat, klasifikasi surat, tanggal surat, tujuan surat dan _reviewer_
+
+![gambar](SuratKeluar/SK_IOS/SK-30.png)
+
+**History Surat Keluar**
+
+Pada tab _History_ surat keluar, ditampilkan riwayat surat keluar yang terdapat informasi jabatan, tanggal, tindakan dan komentar
+
+![gambar](SuratKeluar/SK_IOS/SK-32.png)
+![gambar](SuratKeluar/SK_IOS/SK-33.png)

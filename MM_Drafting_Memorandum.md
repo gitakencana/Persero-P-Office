@@ -187,3 +187,48 @@ Langkah – langkah untuk mengirim memorandum adalah sebagai berikut.
 ![gambar](Memorandum/MM_Android/Draftmemo/K01.jpg)
 
 2. Sistem menyimpan perubahan dan memorandum akan tersimpan di menu “**Outbox - Memorandum**”
+
+
+
+## **P-Office Versi IOS**
+
+**Melakukan Drafting Memorandum**
+
+Langkah-langkah untuk melakukan _drafting_ memorandum adalah sebagai berikut:
+
+1.	Klik menu **Draft **dan pilih tab **Memorandum**
+
+![gambar](Memorandum/MM_IOS/MM-75.png)
+![gambar](Memorandum/MM_IOS/MM-18.png)
+
+2.	Pilih memorandum yang akan diubah kemudian pilih icon **Option** dan pilih **Edit**
+
+![gambar](Memorandum/MM_IOS/MM-19.png)
+![gambar](Memorandum/MM_IOS/MM-20.png)
+
+3.	Sistem akan menampilkan _form_ **Edit Memorandum. **Lakukan perubahan pada _form_ kemudian klik **Save **untuk menyimpan perubahan pada _form_ memorandum
+
+![gambar](Memorandum/MM_IOS/MM-21.png)
+![gambar](Memorandum/MM_IOS/MM-22.png)
+
+4.	Setelah selesai, klik **Edit Content **untuk melakukan perubahan pada isi konten memorandum
+
+![gambar](Memorandum/MM_IOS/MM-24.png)
+
+5.	Sistem akan menampilkan tampilan _preview_ memorandum dalam bentuk Word yang dapat di edit. Untuk melakukan _editing_ terhadap isi surat klik **Edit/Send**
+
+![gambar](Memorandum/MM_IOS/MM-25.png)
+
+6.	Sistem akan menampilkan _pop up _notifikasi editing dokumen, klik **Yes **untuk menutup _pop up_ notifikasi
+
+![gambar](Memorandum/MM_IOS/MM-26.png)
+
+7.	Surat keluar yang sudah di ubah akan tersimpan dimenu “**Draft – Surat Keluar**”
+
+**Kirim Memorandum**
+
+Langkah – langkah untuk mengirim memorandum adalah sebagai berikut.
+
+1.	Pada tampilan _preview_ memorandum, klik **Kirim **untuk mengirim surat ke pejabat tujuan
+
+2.	Sistem menyimpan perubahan dan memorandum akan tersimpan di menu “**Outbox - Memorandum**”

@@ -48,3 +48,20 @@ Langkah - langkah untuk recall surat masuk via Android yaitu:
 
 3. Surat masuk yang sudah di-_recall_ akan tersimpan di menu “**Draft - Disposisi**” penerima surat masuk/ pendisposisi.
    
+
+## **P-Office Versi IOS**
+
+**Melakukan Recall Disposisi Surat Masuk**
+
+Langkah-langkah untuk melakukan _recall_ disposisi surat masuk adalah sebagai berikut:
+
+1.	Klik menu **Outbox **dan pilih tab **Disposisi**
+
+![gambar](SuratMasuk/SM_IOS/SM-61.png)
+![gambar](SuratMasuk/SM_IOS/SM-62.png)
+
+2.	Pilih surat masuk yang akan di-_recall_ kemudian klik tab **Option **kemudian klik **Recall**
+
+![gambar](SuratMasuk/SM_IOS/SM-46.png)
+
+3.	Surat masuk yang sudah di-_recall_ akan tersimpan di menu “**Draft - Disposisi**” penerima fax masuk / pendisposisi.

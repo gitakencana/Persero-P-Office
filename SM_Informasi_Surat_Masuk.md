@@ -113,3 +113,70 @@ Pada tab **History Surat Masuk**, ditampilkan riwayat surat masuk yang terdapat 
  Pada tab **Recall Surat Masuk**, ditampilkan tindakan menarik surat masuk yaitu klik menu **recall** kemudian klik recall
 
 ![gambar](SuratMasuk/SM_Android/InfoSM/R01.jpg) ![gambar](SuratMasuk/SM_Android/InfoSM/R02.jpg)
+
+
+## **P-Office Versi IOS**
+
+Langkah-langkah untuk melihat informasi lengkap surat masuk adalah sebagai berikut.
+
+1.	Klik menu **Inbox/Draft/Outbox** dan pilih tab **Surat Masuk** Pilih salah satu surat masuk yang akan dilihat informasinya
+
+![gambar](SuratMasuk/SM_IOS/SM-13.png)
+![gambar](SuratMasuk/SM_IOS/SM-14.png)
+
+**Preview Surat Masuk**
+
+Pada tab **Preview Surat Masuk**, ditampilkan _preview_ surat masuk yang merupakan hasil unggahan yang diinputkan oleh sekretaris/konseptor.
+
+![gambar](SuratMasuk/SM_IOS/SM-15.png)
+![gambar](SuratMasuk/SM_IOS/SM-16.png)
+
+**Detail Surat Masuk**
+
+Pada tab **Detail Surat Masuk**, terdapat informasi asal surat, perihal, file lampiran, kategori surat, resume, rekomendasi, nomor surat, klasifikasi surat, tanggal surat dan tujuan.
+
+![gambar](SuratMasuk/SM_IOS/SM-17.png)
+
+**History Surat Masuk**
+
+Pada tab **History Surat Masuk**, ditampilkan riwayat surat masuk yang terdapat informasi jabatan, tanggal, tindakan dan komentar
+
+![gambar](SuratMasuk/SM_IOS/SM-19.png)
+![gambar](SuratMasuk/SM_IOS/SM-20.png)
+
+**Menolak Surat masuk**
+
+Langkah-langkah untuk menolak surat masuk adalah sebagai berikut.
+
+1. Klik menu **Inbox** dan pilih tab **Surat Masuk**
+
+![gambar](SuratMasuk/SM_IOS/SM-51tolakSM.png)
+![gambar](SuratMasuk/SM_IOS/SM-52tolakSM2.png)
+
+2. Pilih surat masuk yang akan ditolak kemudian pilih tab **Option **dan pilih** Reject**
+   
+![gambar](SuratMasuk/SM_IOS/SM-21.png)
+
+3. Sistem menampilkan _pop up_ konfirmasi dan _user_ harus mengisi keterangan tolak surat masuk kemudian klik **Send**
+   
+![gambar](SuratMasuk/SM_IOS/SM-22.png)
+
+4. Sistem menyimpan perubahan dan informasi tolak surat masuk. Surat masuk yang tersimpan di menu “**Rejected – Surat Masuk**” user penolak dengan label **Rejected**
+
+**Menyelesaikan Surat Masuk**
+
+ Langkah-langkah untuk menyelesaikan surat masuk adalah sebagai berikut.
+
+ 1. Klik menu **Inbox **dan pilih tab **Surat masuk**
+  
+![gambar](SuratMasuk/SM_IOS/SM-53.png) ![gambar](SuratMasuk/SM_IOS/SM-54.png)
+
+2. Pilih surat masuk yang akan diselesaikan kemudian pilih
+    tab **Option **dan pilih **Finish**
+
+![gambar](SuratMasuk/SM_IOS/SM-23.png)
+
+3. Sistem menampilkan _pop up_ konfirmasi dan _user_ harus mengisi keterangan selesaikan disposisi kemudian klik **Simpan**.
+
+![gambar](SuratMasuk/SM_IOS/SM-24.png)
+   
