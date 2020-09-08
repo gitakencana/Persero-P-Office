@@ -65,9 +65,9 @@ Langkah-langkah untuk mengembalikan memorandum ke sebelumnya via Android adalah 
 
 Langkah-langkah untuk mengembalikan memorandum ke sebelumnya via IOS adalah sebagai berikut :
 
-1.	Klik menu **Inbox **dan pilih tab **Memorandum**
+1.	Klik menu **Inbox** dan pilih tab **Memorandum**
 
-![gambar](Memorandum/MM_IOS/MM.77.png) ![gambar](Memorandum/MM_IOS/MM-78.png)
+![gambar](Memorandum/MM_IOS/MM-77.png) ![gambar](Memorandum/MM_IOS/MM-78.png)
 
 2.	Pilih memorandum yang akan ditindak lanjuti kemudian pilih icon **Option** dan pilih **Revise to Previous**
 
