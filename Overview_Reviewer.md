@@ -1,5 +1,5 @@
 Pada bagian ini akan dijelaskan mengenai role sebagai *reviewer* dalam aplikasi P-Office yang mengelola menu surat masuk, surat keluar, memorandum, fax masuk, fax keluar, SP3S dan SPPTH. Sekretaris adalah pekerja yang diberikan wewenang untuk melakukan pekerjaan misalnya pencatatan surat masuk, mengelola agenda kendali, mengelola dokumen yang masuk pada atasan pejabatnya dan lain-lain. 
-Berikut adalah role approver dalam aplikasi P-Office antara lain yaitu:
+Berikut adalah role approver dalam aplikasi P-Office antara lain adalah sebagai berikut :
 
 ### **Surat Masuk**
 

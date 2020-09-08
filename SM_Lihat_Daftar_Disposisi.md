@@ -17,7 +17,7 @@ Langkah - langkah untuk melihat daftar disposisi surat masuk via Web adalah seba
 
 ## **P-Office Versi Teams**
 
-Langkah - langkah untuk melihat daftar disposisi via Teams yaitu :
+Langkah - langkah untuk melihat daftar disposisi via Teams adalah sebagai berikut :
 
 1.	Klik menu **Disposition** dan pilih tab **Surat Masuk**
 
@@ -26,7 +26,7 @@ Langkah - langkah untuk melihat daftar disposisi via Teams yaitu :
 
 ## **P-Office Versi Android**
 
-Langkah - langkah untuk melihat daftar disposisi via Android yaitu:
+Langkah - langkah untuk melihat daftar disposisi via Android adalah sebagai berikut :
  
 2. Klik menu **Disposition** dan pilih tab **Surat Masuk**
 
@@ -36,7 +36,7 @@ Langkah - langkah untuk melihat daftar disposisi via Android yaitu:
 
 ## **P-Office Versi IOS**
 
-Langkah - langkah untuk melihat daftar disposisi via IOS yaitu:
+Langkah - langkah untuk melihat daftar disposisi via IOS adalah sebagai berikut :
 
 1. Klik menu **Disposition** dan pilih tab **Surat Masuk**
    

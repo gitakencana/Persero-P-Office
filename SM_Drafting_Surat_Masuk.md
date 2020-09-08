@@ -7,7 +7,7 @@ Sekretaris dapat melakukan _drafting_ surat masuk pada aplikasi P-Office. _Draft
 
 ## **P-Office Versi Web**
 
-Langkah - langkah untuk drafting surat masuk via Web yaitu:
+Langkah - langkah untuk drafting surat masuk via Web adalah sebagai berikut :
 
 1.    Klik menu **Draft** dan pilih tab **Surat Masuk**
 
@@ -26,7 +26,7 @@ Langkah - langkah untuk drafting surat masuk via Web yaitu:
 
 ## **P-Office Versi Teams**
 
-Langkah - langkah untuk drafting surat masuk via Teams yaitu:
+Langkah - langkah untuk drafting surat masuk via Teams adalah sebagai berikut :
 
 
 1. Klik menu _**Draft**_ dan pilih tab **Surat Masuk**

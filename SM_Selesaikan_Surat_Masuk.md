@@ -34,7 +34,7 @@ Langkah-langkah untuk menyelesaikan surat masuk via Web adalah sebagai berikut:
 
 ## **P-Office Versi Teams**
 
-Langkah - langkah untuk selesaikan surat masuk via Teams yaitu :
+Langkah - langkah untuk selesaikan surat masuk via Teams adalah sebagai berikut :
 
 1. Klik menu **Inbox** dan pilih tab **Surat masuk**
 
@@ -58,7 +58,7 @@ Langkah - langkah untuk selesaikan surat masuk via Teams yaitu :
 
 ## **P-Office Versi Android**
 
-Langkah - langkah untuk menyelesaikan surat masuk menu via Android yaitu:
+Langkah - langkah untuk menyelesaikan surat masuk menu via Android adalah sebagai berikut :
 
 1. 	Klik menu **Inbox** dan pilih tab **Surat masuk**
 

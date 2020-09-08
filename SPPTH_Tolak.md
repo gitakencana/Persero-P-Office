@@ -23,7 +23,7 @@
 ## **P-Office Versi Teams**
 
 
-Langkah - langkah untuk tolak SPPTH via Teams yaitu :
+Langkah - langkah untuk tolak SPPTH via Teams adalah sebagai berikut :
 
 1.	Klik menu **Inbox** dan pilih tab **SPPTH**
 
@@ -41,7 +41,7 @@ Langkah - langkah untuk tolak SPPTH via Teams yaitu :
 
 ## **P-Office Versi Android**
 
-Langkah - langkah untuk menolak SPPTH via Android yaitu :
+Langkah - langkah untuk menolak SPPTH via Android adalah sebagai berikut :
 
 1. Klik menu **Inbox** dan pilih tab **SPPTH**
    

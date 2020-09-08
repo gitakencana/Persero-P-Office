@@ -32,7 +32,7 @@ Pada tab *History* SPPTH, ditampilkan riwayat SPPTH yang terdapat informasi jaba
 ## **P-Office Versi Teams**
 
 
-Langkah - langkah untuk lihat informasi SPPTH via Teams yaitu :
+Langkah - langkah untuk lihat informasi SPPTH via Teams adalah sebagai berikut :
 
 1.    Klik menu **Inbox/Draft/Outbox** dan pilih tab **SPPTH**. Pilih salah satu SPPTH yang akan dilihat informasinya
 
@@ -64,7 +64,7 @@ Pada tab **History** SPPTH, ditampilkan riwayat SPPTH yang terdapat informasi ja
 
 ## **P-Office Versi Android**
 
-Langkah - langkah untuk melihat informasi SPPTH via Android yaitu :
+Langkah - langkah untuk melihat informasi SPPTH via Android adalah sebagai berikut :
 
 1. Klik menu **Inbox/Draft/Outbox** dan pilih tab **SPPTH.** Pilih salah satu SPPTH yang akan dilihat informasinya
 

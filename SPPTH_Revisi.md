@@ -67,7 +67,7 @@ Langkah - langkah untuk mengubah isi SPPTH secara *online* adalah sebagai beriku
 ## **P-Office Versi Teams**
 
 
-Langkah - langkah untuk revisi SPPTH via Teams yaitu :
+Langkah - langkah untuk revisi SPPTH via Teams adalah sebagai berikut :
 
 
 1.	Klik menu **Inbox** dan pilih tab **SPPTH**
@@ -135,7 +135,7 @@ Langkah – langkah untuk mengubah isi SPPTH secara online adalah sebagai beriku
 
 ## **P-Office Versi Android**
 
-Langkah - langkah untuk tambah SPPTH via Android yaitu :
+Langkah - langkah untuk tambah SPPTH via Android adalah sebagai berikut :
 
 
 1. Klik menu **Inbox** dan pilih tab **SPPTH**

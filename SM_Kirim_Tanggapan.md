@@ -7,7 +7,7 @@
 
 ## **P-Office Versi Web**
 
-Langkah - langkah untuk mengirim tanggapan via Web yaitu :
+Langkah - langkah untuk mengirim tanggapan via Web adalah sebagai berikut :
 
 1.    Klik menu **Disposition** dan pilih tab **Surat Masuk**
 
@@ -30,7 +30,7 @@ Langkah - langkah untuk mengirim tanggapan via Web yaitu :
 
 ## **P-Office Versi Teams**
 
-Langkah - langkah untuk kirim tanggapan via Teams yaitu :
+Langkah - langkah untuk kirim tanggapan via Teams adalah sebagai berikut :
 
 1. Klik menu **Disposition** dan pilih tab **Surat Masuk**
 
@@ -53,7 +53,7 @@ Langkah - langkah untuk kirim tanggapan via Teams yaitu :
 
 ## **P-Office Versi Android**
 
-Langkah - langkah untuk mengirim tanggapan via Android yaitu:
+Langkah - langkah untuk mengirim tanggapan via Android adalah sebagai berikut :
 
 1. Klik menu **Disposisi** dan pilih tab **Surat Masuk**
    

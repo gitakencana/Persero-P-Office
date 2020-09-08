@@ -15,7 +15,7 @@
 
 ## **P-Office Versi Teams**
 
-Langkah - langkah untuk melihat daftar dokumem fax keluar via Teams yaitu :
+Langkah - langkah untuk melihat daftar dokumem fax keluar via Teams adalah sebagai berikut :
 
 
 1. _Klik menu **Archive** dan pilih submenu **Fax Masuk**
@@ -27,7 +27,7 @@ Langkah - langkah untuk melihat daftar dokumem fax keluar via Teams yaitu :
 
 ## **P-Office Versi Android**
 
-Langkah - langkah untuk melihat daftar dokumem Fax Masuk via Android yaitu :
+Langkah - langkah untuk melihat daftar dokumem Fax Masuk via Android adalah sebagai berikut :
 
 
 1. Klik menu **Archive** pilih submenu **Fax Masuk**

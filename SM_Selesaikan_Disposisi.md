@@ -10,7 +10,7 @@ _User_ dapat menyelesaikan disposisi surat masuk jika _user_ tidak akan melanjut
 
 ## **P-Office Versi Web**
 
-Langkah - langkah untuk menyelesaikan disposisi via Web yaitu :
+Langkah - langkah untuk menyelesaikan disposisi via Web adalah sebagai berikut :
 
 1.    Klik menu **Disposition** dan pilih tab **Surat Masuk**
 
@@ -34,7 +34,7 @@ Langkah - langkah untuk menyelesaikan disposisi via Web yaitu :
 
 ## **P-Office Versi Teams**
 
-Langkah - langkah untuk selesaikan disposisi via Teams yaitu :
+Langkah - langkah untuk selesaikan disposisi via Teams adalah sebagai berikut :
 
 1. Klik menu **Disposition** dan pilih tab **Surat Masuk**
 
@@ -57,7 +57,7 @@ Langkah - langkah untuk selesaikan disposisi via Teams yaitu :
 
 ## **P-Office Versi Android**
 
-Langkah - langkah untuk menyelesaikan disposisi surat masuk via Android yaitu:
+Langkah - langkah untuk menyelesaikan disposisi surat masuk via Android adalah sebagai berikut :
 
 1. Klik menu **Disposisi** dan pilih tab **Surat Masuk** Pilih salah satu disposisi surat masuk yang akan dilihat informasinya
 

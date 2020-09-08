@@ -23,7 +23,7 @@
 ## **P-Office Versi Teams**
 
 
-Langkah - langkah untuk setujui SPPTH via Teams yaitu :
+Langkah - langkah untuk setujui SPPTH via Teams adalah sebagai berikut :
 
 1.	Klik menu **Inbox** dan pilih tab **SPPTH**
 
@@ -43,7 +43,7 @@ Langkah - langkah untuk setujui SPPTH via Teams yaitu :
 
 ## **P-Office Versi Android**
 
-Langkah - langkah untuk setujui SPPTH via Android yaitu :
+Langkah - langkah untuk setujui SPPTH via Android adalah sebagai berikut :
 
 1. Klik menu **Inbox** dan pilih tab **SPPTH**
    
@@ -63,4 +63,4 @@ Langkah - langkah untuk setujui SPPTH via Android yaitu :
 
 ## **P-Office Versi IOS**
 
-Langkah - langkah untuk setujui SPPTH via IOS yaitu :
+Langkah - langkah untuk setujui SPPTH via IOS adalah sebagai berikut :

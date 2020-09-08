@@ -29,7 +29,7 @@ Langkah-langkah untuk menolak surat masuk via Web adalah sebagai berikut:
 
 ## **P-Office Versi Teams**
 
-Langkah - langkah untuk tolak surat masuk via Teams yaitu :
+Langkah - langkah untuk tolak surat masuk via Teams adalah sebagai berikut :
 
 1. Klik menu **Inbox** dan pilih tab **Surat Masuk**
 

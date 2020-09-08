@@ -7,7 +7,7 @@ _User_ dapat melakukan _recall_ / tarik disposisi surat masuk yang sudah dikirim
 
 ## **P-Office Versi Web**
 
-Langkah - langkah untuk merecall disposisi via Web yaitu :
+Langkah - langkah untuk merecall disposisi via Web adalah sebagai berikut :
 
 1.    Klik menu **Outbox** dan pilih tab **Disposisi**
 
@@ -22,7 +22,7 @@ Langkah - langkah untuk merecall disposisi via Web yaitu :
 
 ## **P-Office Versi Teams**
 
-Langkah - langkah untuk recall disposisi via Teams yaitu :
+Langkah - langkah untuk recall disposisi via Teams adalah sebagai berikut :
 
 1. Klik menu **Outbox** dan pilih tab **Disposisi**
 
@@ -36,7 +36,7 @@ Langkah - langkah untuk recall disposisi via Teams yaitu :
 
 ## **P-Office Versi Android**
 
-Langkah - langkah untuk recall disposisi via Android yaitu:
+Langkah - langkah untuk recall disposisi via Android adalah sebagai berikut :
 
 1. Klik menu **Outbox** dan pilih tab **Disposisi**
    
@@ -51,7 +51,7 @@ Langkah - langkah untuk recall disposisi via Android yaitu:
 
 ## **P-Office Versi IOS**
 
-Langkah-langkah untuk melakukan recall disposisi via IOS yaitu :
+Langkah-langkah untuk melakukan recall disposisi via IOS adalah sebagai berikut :
 
 1.	Klik menu **Outbox** dan pilih tab **Disposisi**
 

@@ -74,7 +74,7 @@ Langkah - langkah untuk mengirim SPPTH adalah sebagai berikut.
 ## **P-Office Versi Teams**
 
 
-Langkah - langkah untuk drafting SPPTH via Teams yaitu :
+Langkah - langkah untuk drafting SPPTH via Teams adalah sebagai berikut :
 
 1.  Klik menu **Draft** dan pilih tab **SPPTH**
 
@@ -152,7 +152,7 @@ Langkah – langkah untuk mengirim SPPTH adalah sebagai berikut.
 
 ## **P-Office Versi Android**
 
-Langkah - langkah untuk Draftting SPPTH via Android yaitu :
+Langkah - langkah untuk Draftting SPPTH via Android adalah sebagai berikut :
 
 1. Klik menu **Draft** dan pilih tab **SPPTH**
 

@@ -8,7 +8,7 @@ _User_ dapat melihat informasi lengkap disposisi surat masuk pada detail disposi
 
 ## **P-Office Versi Web**
 
-Langkah - langkah untuk melihat informasi lengkap disposisi surat masuk via Web yaitu :
+Langkah - langkah untuk melihat informasi lengkap disposisi surat masuk via Web adalah sebagai berikut :
 
 1. Klik menu **Disposisi** dan pilih tab **Surat Masuk.** Pilih salah satu disposisi surat masuk yang akan dilihat informasinya
 
@@ -52,7 +52,7 @@ Pada tab **History** ditampilkan riwayat surat masuk yang terdapat informasi jab
 
 ## **P-Office Versi Teams**
 
-Langkah - langkah untuk melihat informasi disposisi surat masuk via Teams yaitu :
+Langkah - langkah untuk melihat informasi disposisi surat masuk via Teams adalah sebagai berikut :
 1. Klik menu **Disposition**, dan pilih tab **Surat Masuk**. Pilih salah satu disposisi surat masuk yang akan dilihat informasinya
 
 ![gambar](SuratMasuk/SM_Teams/SM39.png)
@@ -94,7 +94,7 @@ Pada tab **History**, ditampilkan riwayat surat masuk yang terdapat informasi ja
 
 ## **P-Office Versi Android**
 
-Langkah - langkah untuk melihat informasi disposisi surat masuk via Android yaitu:
+Langkah - langkah untuk melihat informasi disposisi surat masuk via Android adalah sebagai berikut :
 
 1. Klik menu **Disposisi** dan pilih tab **Surat Masuk** pilih salah satu disposisi surat masuk yang akan dilihat informasinya
 
@@ -146,7 +146,7 @@ Pada tab **Surat,** ditampilkan surat masuk fisik yang sudah diunggah oleh sekre
 
 **Preview Lembar Penerus**
 
-Pada tab **Preview, **ditampilkan informasi lembar penerus disposisi yang berisi informasi daftar nama pejabat dan perintah disposisi yang harus dilakukan oleh pejabat penerima disposisi
+Pada tab **Preview,** ditampilkan informasi lembar penerus disposisi yang berisi informasi daftar nama pejabat dan perintah disposisi yang harus dilakukan oleh pejabat penerima disposisi
 
 ![gambar](SuratMasuk/SM_IOS/SM-39.png) ![gambar](SuratMasuk/SM_IOS/SM-40.png)
 

@@ -15,7 +15,7 @@
 ## **P-Office Versi Teams**
 
 
-Langkah - langkah untuk lihat daftar SPPTH via Teams yaitu :
+Langkah - langkah untuk lihat daftar SPPTH via Teams adalah sebagai berikut :
 
 1. Klik menu **Inbox / Draft / Outbox** dan pilih tab **SPPTH**
 
@@ -24,7 +24,7 @@ Langkah - langkah untuk lihat daftar SPPTH via Teams yaitu :
 
 ## **P-Office Versi Android**
 
-Langkah - langkah untuk lihat daftar SPPTH via Android yaitu :
+Langkah - langkah untuk lihat daftar SPPTH via Android adalah sebagai berikut :
 
 1. Klik menu **Inbox / Draft / Outbox** dan pilih tab **SPPTH**
    

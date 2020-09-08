@@ -7,7 +7,7 @@
 
 ## **P-Office Versi Web**
 
-Langkah - langkah untuk melihat daftar dokumem fax masuk via Web yaitu :
+Langkah - langkah untuk melihat daftar dokumem fax masuk via Web adalah sebagai berikut :
 
 *User* dapat melihat dokumen fax masuk pada menu Archive. Langkah - langkah untuk melihat dokumen fax masuk adalah sebagai berikut:
 
@@ -20,7 +20,7 @@ Langkah - langkah untuk melihat daftar dokumem fax masuk via Web yaitu :
 
 ## **P-Office Versi Teams**
 
-Langkah - langkah untuk melihat daftar dokumem fax masuk via Teams yaitu:
+Langkah - langkah untuk melihat daftar dokumem fax masuk via Teams adalah sebagai berikut :
 
 1.  Klik menu **Archive** dan pilih submenu **Fax Keluar**
 
@@ -32,7 +32,7 @@ Langkah - langkah untuk melihat daftar dokumem fax masuk via Teams yaitu:
 
 ## **P-Office Versi Android**
 
-Langkah - langkah untuk melihat daftar dokumem Fax Keluar via Android yaitu :
+Langkah - langkah untuk melihat daftar dokumem Fax Keluar via Android adalah sebagai berikut :
 
 
 1. Klik menu **Archive** pilih submenu **Surat Masuk**

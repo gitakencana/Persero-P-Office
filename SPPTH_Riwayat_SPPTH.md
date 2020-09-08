@@ -19,7 +19,7 @@
 ## **P-Office Versi Teams**
 
 
-Langkah - langkah untuk riwayat SPPTH via Teams yaitu :
+Langkah - langkah untuk riwayat SPPTH via Teams adalah sebagai berikut :
 
 1.	Klik menu **History** dan pilih tab **SPPTH**
 

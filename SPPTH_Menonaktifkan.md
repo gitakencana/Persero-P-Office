@@ -19,7 +19,7 @@ SPPTH yang masih berlaku akan non-aktif secara otomatis apabila sudah habis masa
 ## **P-Office Versi Teams**
 
 
-Langkah - langkah untuk menonaktifkan SPPTH via Teams yaitu :
+Langkah - langkah untuk menonaktifkan SPPTH via Teams adalah sebagai berikut :
 
 1.	Klik menu **Inbox** dan pilih tab **SPPTH**
 
@@ -33,7 +33,7 @@ Langkah - langkah untuk menonaktifkan SPPTH via Teams yaitu :
 
 ## **P-Office Versi Android**
 
-Langkah - langkah untuk menonaktifkan SPPTH via Android yaitu :
+Langkah - langkah untuk menonaktifkan SPPTH via Android adalah sebagai berikut :
 
 1. Klik menu **Inbox** dan pilih tab **SPPTH**
 
