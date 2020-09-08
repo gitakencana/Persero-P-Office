@@ -61,6 +61,6 @@ Langkah-langkah untuk Drafting fax masuk adalah sebagai berikut :
 
 ![gambar](Faxmasuk/FM_Android/DraftFM/A05.jpg)
 
-1. Lakukan perubahan pada _form_. Klik **Send **untuk mengirim fax masuk ke pejabat tujuan. Surat yang terkirim akan tersimpan di menu “**Outbox – Fax masuk”**
+4. Lakukan perubahan pada _form_. Klik **Send **untuk mengirim fax masuk ke pejabat tujuan. Surat yang terkirim akan tersimpan di menu “**Outbox – Fax masuk”**
 
 

@@ -16,7 +16,7 @@
 ![gambar](FaxMasuk/FM_WEB/Disposisi02.png) 
 
 3. Klik tombol **Disposisi** dan pilih **Send**
-4. 
+    
 ![gambar](FaxMasuk/FM_WEB/Disposisi03.png)
 
 4. Sistem menampilkan form disposisi. Isikan informasi disposisi dan perintah untuk masing - masing penerima disposisi.

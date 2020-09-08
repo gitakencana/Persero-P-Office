@@ -14,7 +14,7 @@
    
 ![gambar](FaxMasuk/FM_WEB/TanggapanFM02.png) 
 
-1. Pilih tombol **Send Response** kemudian klik **Send**
+3. Pilih tombol **Send Response** kemudian klik **Send**
 
 ![gambar](FaxMasuk/FM_WEB/TanggapanFM03.png) 
 
