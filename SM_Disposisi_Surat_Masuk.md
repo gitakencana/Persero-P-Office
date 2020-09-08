@@ -112,7 +112,7 @@ Langkah - langkah untuk mendisposisikan surat masuk via Android yaitu:
 
 ![gambar](SuratMasuk/SM_Android/DispoSM/D01.jpg) ![gambar](SuratMasuk/SM_Android/DispoSM/D02.jpg)
 
-2. Pilih surat masuk yang akan didisposisikan kemudian pilih ikon **tombol button**
+1. Pilih surat masuk yang akan didisposisikan kemudian pilih tombol **button**
 
 
 ![gambar](SuratMasuk/SM_Android/DispoSM/D03.jpg)

@@ -82,11 +82,9 @@ Langkah - langkah untuk melihat informasi surat masuk via Android yaitu:
 
 1. Klik menu **Inbox/Draft/Outbox** dan pilih tab **Surat Masuk** pilih salah satu surat masuk yang akan dilihat informasinya
 
-![gambar](SuratMasuk/SM_Android/InfoSM/A01.jpg)
+![gambar](SuratMasuk/SM_Android/InfoSM/A01.jpg) ![gambar](SuratMasuk/SM_Android/InfoSM/A02.jpg)
 
-![gambar](SuratMasuk/SM_Android/InfoSM/A02.jpg)
-
- **Detail Surat Masuk**
+**Detail Surat Masuk**
 
 Pada tab **Detail Surat Masuk**, terdapat informasi asal surat, perihal, file lampiran, kategori surat, resume, rekomendasi, nomor surat, klasifikasi surat, tanggal surat dan tujuan
 

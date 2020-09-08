@@ -68,7 +68,7 @@ Langkah – langkah untuk mengirim surat keluar adalah sebagai berikut:
    
 ![gambar](SuratKeluar/SK_Android/TempSK/A07.jpg) ![gambar](SuratKeluar/SK_Android/TempSK/A08.jpg) 
 
-4. Sistem akan menampilkan form **use template, **klik **Save Mail** untuk menyimpan perubahan
+4. Sistem akan menampilkan form **use template,** klik **Save Mail** untuk menyimpan perubahan
 
 ![gambar](SuratKeluar/SK_Android/TempSK/A09.jpg) ![gambar](SuratKeluar/SK_Android/TempSK/A10.jpg)
 

@@ -167,6 +167,6 @@ Langkah – langkah untuk menyimpan memorandum adalah sebagai berikut.
 
 1. Isi _form_ memorandum kemudian klik **Save Mail**
 
-![gambar](Memorandum/MM_Android/Tambahmemo/S01.jpg) ![gambar](Memorandum/MM_Android/Tambahmemo/S01.jpg)
+![gambar](Memorandum/MM_Android/Tambahmemo/S01.jpg) ![gambar](Memorandum/MM_Android/Tambahmemo/S02.jpg)
 
 2. Sistem akan menyimoan perubahaan dan memorandum akan tersimpan di menu **Draft-Memorandum**

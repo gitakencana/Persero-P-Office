@@ -109,3 +109,4 @@ Pada tab **Tracking Fax Masuk**, ditampilkan informasi _tracking_ fax masuk dala
 Pada tab **History Fax Masuk**, ditampilkan riwayat fax masuk yang terdapat informasi jabatan, tanggal, tindakan dan komentar
 
 
+![gambar](Faxmasuk/FM_Android/InfoFM/H01.jpg) ![gambar](Faxmasuk/FM_Android/InfoFM/H02.jpg)

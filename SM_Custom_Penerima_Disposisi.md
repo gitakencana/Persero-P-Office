@@ -67,7 +67,7 @@ Langkah - langkah untuk Custom penerima disposisi via Teams yaitu :
 
 Langkah - langkah untuk melakukan custom disposisi surat masuk via Android yaitu:
 
-1. Klik menu **Inbox **dan pilih tab **Surat masuk**
+1. Klik menu **Inbox** dan pilih tab **Surat masuk**
 
 ![gambar](SuratMasuk/SM_Android/Customdisposisi/A01.jpg) ![gambar](SuratMasuk/SM_Android/Customdisposisi/A02.jpg) 
 
