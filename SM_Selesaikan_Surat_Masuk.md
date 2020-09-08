@@ -3,8 +3,6 @@
 **Role yang sesuai**
 
 - *Approver User*
-- *Reviewer User*
-- *Member User* (Pekerja) 
 
 _User_ dapat menyelesaikan surat masuk jika _user_ tidak akan melanjutkan untuk mendisposisikan surat masuk ke pejabat lain atau surat masuk selesai pada _user_ tersebut. 
 
@@ -86,7 +84,7 @@ Langkah-langkah untuk menyelesaikan surat masuk via IOS adalah sebagai berikut:
 
 ![gambar](SuratMasuk/SM_IOS/SM-68.png)
 
-3.	Sistem menampilkan _pop up_ konfirmasi dan _user_ harus mengisi keterangan selesaikan disposisi kemudian klik **Simpan**.
+3.	Sistem menampilkan _pop up_ konfirmasi dan _user_ harus mengisi keterangan selesaikan disposisi kemudian klik **Send**.
 
 ![gambar](SuratMasuk/SM_IOS/SM-69.png)
 

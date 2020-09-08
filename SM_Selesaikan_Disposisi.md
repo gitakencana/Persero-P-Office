@@ -4,7 +4,8 @@
 
 - *Approver User*
 - *Reviewer User*
-- *Member User* (Pekerja) 
+- *Member User* (Pekerja)
+- Sekretaris 
 
 _User_ dapat menyelesaikan disposisi surat masuk jika _user_ tidak akan melanjutkan untuk mendisposisikan surat masuk ke pejabat lain
 
@@ -52,26 +53,26 @@ Langkah - langkah untuk selesaikan disposisi via Teams adalah sebagai berikut :
 
 ![gambar](SuratMasuk/SM_Teams/SM52.png)
 
- 5.    Sistem menyimpan perubahan dan informasi selesai disposisi akan tersimpan di detail disposisi.
+ 5.    Sistem menyimpan perubahan dan informasi selesai disposisi akan tersimpan di detail disposisi
 
 
 ## **P-Office Versi Android**
 
-Langkah - langkah untuk menyelesaikan disposisi surat masuk via Android adalah sebagai berikut :
+Langkah - langkah untuk menyelesaikan disposisi surat masuk via Android adalah sebagai berikut:
 
 1. Klik menu **Disposisi** dan pilih tab **Surat Masuk** Pilih salah satu disposisi surat masuk yang akan dilihat informasinya
 
 ![gambar](SuratMasuk/SM_Android/Selesaidisposisi/A01.jpg) ![gambar](SuratMasuk/SM_Android/Selesaidisposisi/A001.jpg) 
 
-1. Pilih disposisi yang akan diselesaikan kemudian pilih tombol **button**
+2. Pilih disposisi yang akan diselesaikan kemudian pilih icon **Option**
 
 ![gambar](SuratMasuk/SM_Android/Selesaidisposisi/A02.jpg) ![gambar](SuratMasuk/SM_Android/Selesaidisposisi/A03.jpg) 
 
-3. Pilih tombol **Finish** kemudian sistem akan menampilkan pop up konfirmasi dan _user_ harus mengisi komentar disposisi kemudian klik **send**.
+3. Pilih tombol **Finish** kemudian sistem akan menampilkan pop up konfirmasi dan _user_ harus mengisi komentar disposisi kemudian klik **Send**
 
 ![gambar](SuratMasuk/SM_Android/Selesaidisposisi/A04.jpg) ![gambar](SuratMasuk/SM_Android/Selesaidisposisi/A05.jpg)  
 
-4. Sistem menyimpan perubahan dan informasi selesai disposisi akan tersimpan di Outbox-disposisi.
+4. Sistem menyimpan perubahan dan informasi selesai disposisi akan tersimpan di Outbox-disposisi
 
 
 ## **P-Office Versi IOS**

@@ -25,7 +25,7 @@ Pada tab **Mail,** ditampilkan surat masuk fisik yang sudah diunggah oleh sekret
 #### **Preview Lembar Penerus**
 
 
-Pada tab **Preview** ditampilkan informasi lembar penerus disposisi yang berisi informasi daftar nama pejabat dan perintah disposisi yang harus dilakukan oleh pejabat penerima disposisi
+Pada tab **Preview**, ditampilkan informasi lembar penerus disposisi yang berisi informasi daftar nama pejabat dan perintah disposisi yang harus dilakukan oleh pejabat penerima disposisi
 
 ![gambar](SuratMasuk/SM_Web/CR_SM02.png)
 
@@ -45,7 +45,7 @@ Pada tab **Tracking**, ditampilkan informasi _tracking_ surat masuk dalam bentuk
 
 #### **History Surat Masuk**
 
-Pada tab **History** ditampilkan riwayat surat masuk yang terdapat informasi jabatan, tanggal, tindakan dan komentar.
+Pada tab **History**, ditampilkan riwayat surat masuk yang terdapat informasi jabatan, tanggal, tindakan dan komentar.
 
 ![gambar](SuratMasuk/SM_Web/SM41.png)
 
@@ -53,13 +53,14 @@ Pada tab **History** ditampilkan riwayat surat masuk yang terdapat informasi jab
 ## **P-Office Versi Teams**
 
 Langkah - langkah untuk melihat informasi disposisi surat masuk via Teams adalah sebagai berikut :
+
 1. Klik menu **Disposition**, dan pilih tab **Surat Masuk**. Pilih salah satu disposisi surat masuk yang akan dilihat informasinya
 
 ![gambar](SuratMasuk/SM_Teams/SM39.png)
 
 #### **Preview Disposisi Surat Masuk**
 
-Pada button **Mail** ditampilkan surat masuk fisik yang sudah diunggah oleh sekretaris/konseptor.
+Pada button **Mail**, ditampilkan surat masuk fisik yang sudah diunggah oleh sekretaris/konseptor.
 
 ![gambar](SuratMasuk/SM_Teams/SM40.png)
 
@@ -75,6 +76,7 @@ Pada button **Preview**, ditampilkan informasi lembar penerus disposisi yang ber
 ![gambar](SuratMasuk/SM_Teams/SM43.png)
 
 #### **Detail Disposisi Surat Masuk**
+
 Pada tab **Detail**, terdapat informasi asal surat, perihal, file lampiran, kategori surat, resume, rekomendasi serta informasi disposisi yang mencakup lampiran disposisi, tujuan, tindak lanjut dan disposisi permasing-masing pejabat penerima disposisi
 
 ![gambar](SuratMasuk/SM_Teams/SM44.png)
@@ -88,7 +90,6 @@ Pada tab **Tracking**, ditampilkan informasi tracking disposisi surat masuk dala
 #### **History Disposisi Surat Masuk**
 
 Pada tab **History**, ditampilkan riwayat surat masuk yang terdapat informasi jabatan, tanggal, tindakan dan komentar.
-
 
 ![gambar](SuratMasuk/SM_Teams/SM46.png)
 
@@ -119,13 +120,9 @@ pejabat penerima disposisi
 
 ![gambar](SuratMasuk/SM_Android/Informasidisposisi/PL01.jpg) ![gambar](SuratMasuk/SM_Android/Informasidisposisi/PL02.jpg)
 
-#### **Tracking Disposisi Surat Masuk**
-
-Pada tab **Tracking**, ditampilkan informasi _tracking_ disposisi surat masuk dalam bentuk _chart_
-
 #### **Informasi Disposisi Surat Masuk**
 
-Pada tab **Informasi disposisi**, ditampilkan  surat masuk yang terdapat lampiran, tujuan, tindakan dan disposisi.
+Pada tab **Informasi Disposisi**, ditampilkan  surat masuk yang terdapat lampiran, tujuan, tindakan dan disposisi.
 
 ![gambar](SuratMasuk/SM_Android/Informasidisposisi/ID01.jpg) ![gambar](SuratMasuk/SM_Android/Informasidisposisi/A02.jpg)
 
@@ -158,6 +155,6 @@ Pada tab **Detail**, terdapat informasi asal surat, perihal, file lampiran, kate
 
 **History Disposisi Surat Masuk**
 
-Pada tab **_History_**, ditampilkan riwayat surat masuk yang terdapat informasi jabatan, tanggal, tindakan dan komentar.
+Pada tab **History**, ditampilkan riwayat surat masuk yang terdapat informasi jabatan, tanggal, tindakan dan komentar.
 
 ![gambar](SuratMasuk/SM_IOS/SM-43.png) ![gambar](SuratMasuk/SM_IOS/SM-45.png)

@@ -2,9 +2,10 @@
 
 - *Approver User* (Pemilik KBO)
 - *Reviewer User*
-- *Member User* (Pekerja) 
+- *Member User* (Pekerja)
+- Sekretaris 
 
-User dapat melihat daftar disposisi surat masuk pada pada menu **Disposisi**. 
+User dapat melihat daftar disposisi surat masuk pada pada menu **Disposisi**
 
 ## **P-Office Versi Web**
 
