@@ -6,7 +6,11 @@
 
 - Sekretaris
 
-Admin Approver Offline Number dapat menyetujui pengembalian nomor offline yang dikembalikan oleh sekretaris. Langkah - langkah untuk menyetujui pengembalian nomor offline adalah sebagai berikut
+Admin Approver Offline Number dapat menyetujui pengembalian nomor offline yang dikembalikan oleh sekretaris. 
+
+## **P-Office Versi Web**
+
+Langkah - langkah untuk menyetujui pengembalian nomor offline via Web adalah sebagai berikut
 
 1. Klik menu **Document Control** dan pilih tab **List Returned Request**
 

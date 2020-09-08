@@ -2,7 +2,11 @@
 
 - Admin Approver Offline Number
 
-Admin Approver Offline Number dapat melakukan tindak lanjut terhadap pengajuan nomor offline dengan menyetujui pengajuan yang diajukan oleh sekretaris. Langkah - langkah untuk menyetujui pengajuan nomor adalah sebagai berikut
+Admin Approver Offline Number dapat melakukan tindak lanjut terhadap pengajuan nomor offline dengan menyetujui pengajuan yang diajukan oleh sekretaris. 
+
+## **P-Office Versi Web**
+
+Langkah - langkah untuk menyetujui pengajuan nomor via Web adalah sebagai berikut
 
 1. Klik menu **Document Control** dan pilih tab **Approval List**
 

@@ -2,11 +2,11 @@
 
 - Sekretaris
 
-Sekretaris dapat melihat daftar dokumen yang diarsipkan milik atasan pejabat sekretaris. Langkah � langkah untuk melihat daftar dokumen yang sudah melebihi masa retensi adalah sebagai berikut
+Sekretaris dapat melihat daftar dokumen yang diarsipkan milik atasan pejabat sekretaris. 
 
 ## **P-Office Versi Web**
 
-Langkah � langkah untuk melihat daftar dokumen dokumen yang diarsipkan via Web adalah sebagai berikut
+Langkah - langkah untuk melihat daftar dokumen dokumen yang diarsipkan via Web adalah sebagai berikut
 
 1. Klik menu **Document Control** dan pilih submenu **Document View - Archive**
 

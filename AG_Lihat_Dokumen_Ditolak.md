@@ -6,7 +6,7 @@ Sekretaris dapat melihat daftar dokumen yang ditolak oleh atasan pejabat sekreta
 
 ## **P-Office Versi Web**
 
-Langkah � langkah untuk melihat daftar dokumen dokumen yang ditolak via Web adalah sebagai berikut
+Langkah - untuk melihat daftar dokumen dokumen yang ditolak via Web adalah sebagai berikut
 
 1. Klik menu **Document Control** dan pilih submenu **Document View - Disposisi**
 

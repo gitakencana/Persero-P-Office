@@ -6,7 +6,7 @@ Sekretaris dapat melihat daftar dokumen keluar (Outbox) yang mencatatkan seluruh
 
 ## **P-Office Versi Web**
 
-Langkah � langkah untuk melihat daftar dokumen (Outbox) via Web adalah sebagai berikut
+Langkah - langkah untuk melihat daftar dokumen (Outbox) via Web adalah sebagai berikut
 
 1. Klik menu **Document Control** dan pilih submenu **Document View - Outbox**
 

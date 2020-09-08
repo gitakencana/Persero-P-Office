@@ -2,7 +2,11 @@
 
 - Sekretaris
 
-Sekretaris dapat menambahkan *notes*/catatan terkait dokumen yang di-*review*. Langkah - langkah untuk menambah catatan dokumen adalah sebagai berikut
+Sekretaris dapat menambahkan *notes*/catatan terkait dokumen yang di-*review*. 
+
+## **P-Office Versi Web**
+
+Langkah - langkah untuk menambah catatan dokumen via Web adalah sebagai berikut
 
 1. Klik menu **Document Control** dan pilih tab **Dokumen Masuk / Dokumen Keluar / Dokumen Disposisi**
 

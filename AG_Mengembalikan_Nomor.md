@@ -6,7 +6,11 @@
 
 - Admin Approver Offline Number
 
-Sekretaris dapat mengembalikan nomor offline yang sudah di-*request*. Langkah - langkah untuk mengembalikan nomor offline adalah sebagai berikut
+Sekretaris dapat mengembalikan nomor offline yang sudah di-*request*.
+
+## **P-Office Versi Web**
+
+Langkah - langkah untuk mengembalikan nomor offline via Web adalah sebagai berikut
 
 1. Klik menu **Document Control** dan pilih tab **Request Nomor Offline**
 
