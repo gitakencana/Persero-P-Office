@@ -3,6 +3,7 @@
 - *Approver User*
 - *Reviewer User*
 - *Member User* (Pekerja)
+- Sekretaris
 
 _User_ dapat melihat informasi lengkap surat masuk termasuk _preview_ surat masuk, detail surat masuk, _tracking_ surat masuk dan _history_ surat masuk. 
 

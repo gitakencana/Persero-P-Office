@@ -5,6 +5,7 @@
 - *Approver User*
 - *Reviewer User*
 - *Member User* (Pekerja) 
+- Sekretaris
 
  _User_ dapat melihat daftar surat masuk yang ditujukan pada sekretaris tersebut. 
 

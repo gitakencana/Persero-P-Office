@@ -3,6 +3,7 @@
 - *Approver User*
 - *Reviewer User*
 - *Member User* (Pekerja) 
+- Sekretaris
 
 _User_ dapat melihat informasi lengkap disposisi surat masuk pada detail disposisi
 
