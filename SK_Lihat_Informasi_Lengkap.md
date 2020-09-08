@@ -3,6 +3,7 @@
 - *Approver User*
 - *Reviewer User*
 - *Member User* (Pekerja)
+- Sekretaris
 
 *User* dapat melihat informasi lengkap surat keluar termasuk *preview* surat keluar, detail surat keluar, *tracking* surat keluar dan *history* surat keluar.
 
@@ -16,25 +17,25 @@ Langkah - langkah untuk melihat informasi surat keluar via Web adalah sebagai be
 
 #### Preview Surat Keluar
 
-Pada tab informasi *Preview* surat keluar, ditampilkan *preview* surat keluar yang sudah dibuat. *Preview* surat keluar disesuaikan dengan template berdasarkan jenis surat
+Pada tab informasi **Preview**, ditampilkan *preview* surat keluar yang sudah dibuat. *Preview* surat keluar disesuaikan dengan template berdasarkan jenis surat
 
 ![gambar](SuratKeluar/SK_Web/SK31.png)
 
 #### Detail Surat Keluar
 
-Pada tab Detail surat keluar, terdapat informasi asal surat, perihal, file lampiran, nomor surat, klasifikasi surat, tanggal surat, tujuan surat dan *reviewer*
+Pada tab Detail, terdapat informasi asal surat, perihal, file lampiran, nomor surat, klasifikasi surat, tanggal surat, tujuan surat dan *reviewer*
 
 ![gambar](SuratKeluar/SK_Web/SK32.png)
 
 #### Tracking Surat Keluar
 
-Pada tab *Tracking* surat keluar, ditampilkan informasi *tracking* surat keluar dalam bentuk *chart*
+Pada tab **Tracking**, ditampilkan informasi *tracking* surat keluar dalam bentuk *chart*
 
 ![gambar](SuratKeluar/SK_Web/SK33.png)
 
 #### History Surat Keluar
 
-Pada tab *History* surat keluar, ditampilkan riwayat surat keluar yang terdapat informasi jabatan, tanggal, tindakan dan komentar
+Pada tab **History**, ditampilkan riwayat surat keluar yang terdapat informasi jabatan, tanggal, tindakan dan komentar
 
 ![gambar](SuratKeluar/SK_Web/SK34.png)
 
@@ -48,7 +49,7 @@ Langkah - langkah untuk melihat informasi surat keluar via Teams adalah sebagai 
 
 #### **Preview Surat Keluar**
 
-Pada button **Preview** surat keluar, ditampilkan preview surat keluar yang sudah dibuat. Preview surat keluar disesuaikan dengan template berdasarkan jenis surat.
+Pada button **Preview**, ditampilkan preview surat keluar yang sudah dibuat. Preview surat keluar disesuaikan dengan template berdasarkan jenis surat.
   
 ![gambar](SuratKeluar/SK_Teams/SK32.png)
   
@@ -62,13 +63,13 @@ Pada tab Detail surat keluar, terdapat informasi asal surat, perihal, file lampi
   
 #### **Tracking Surat Keluar**
 
-Pada tab tracking surat keluar, ditampilkan informasi tracking surat keluar dalam bentuk chart
+Pada tab **Tracking**, ditampilkan informasi tracking surat keluar dalam bentuk chart
   
 ![gambar](SuratKeluar/SK_Teams/SK35.png)
 
 #### **History Surat Keluar**
 
-Pada tab History surat keluar, ditampilkan riwayat surat keluar yang terdapat informasi jabatan, tanggal, tindakan dan komentar
+Pada tab **History**, ditampilkan riwayat surat keluar yang terdapat informasi jabatan, tanggal, tindakan dan komentar
   
 ![gambar](SuratKeluar/SK_Teams/SK36.png)
 
@@ -88,17 +89,13 @@ Klik pada salah satu surat untuk melihat Detail surat keluar, terdapat informasi
 
 **Preview Surat Keluar**
 
-Pada tab informasi _Preview_ surat keluar, ditampilkan _preview_ surat keluar yang sudah dibuat. _Preview_ surat keluar disesuaikan dengan template berdasarkan jenis surat.
+Pada tombol **Preview**, ditampilkan _preview_ surat keluar yang sudah dibuat. _Preview_ surat keluar disesuaikan dengan template berdasarkan jenis surat.
 
 ![gambar](SuratKeluar/SK_Android/InfoSK/P01.jpg) ![gambar](SuratKeluar/SK_Android/InfoSK/P02.jpg)
 
-**Tracking Surat Keluar**
-
-Pada tab _tracking_ surat keluar, ditampilkan informasi _tracking_ surat keluar dalam bentuk _chart_
-
 **History Surat Keluar**
 
-Pada tab _History_ surat keluar, ditampilkan riwayat surat keluar yang terdapat informasi jabatan, tanggal, tindakan dan komentar
+Pada pilihan **History**, ditampilkan riwayat surat keluar yang terdapat informasi jabatan, tanggal, tindakan dan komentar
 
 ![gambar](SuratKeluar/SK_Android/InfoSK/H01.jpg) ![gambar](SuratKeluar/SK_Android/InfoSK/H02.jpg)
 
@@ -112,18 +109,18 @@ Langkah-langkah untuk melihat informasi surat keluar via IOS adalah sebagai beri
 
 **Preview Surat Keluar**
 
-Pada tab informasi _Preview_ surat keluar, ditampilkan _preview_ surat keluar yang sudah dibuat. _Preview_ surat keluar disesuaikan dengan template berdasarkan jenis surat.
+Pada tombol **Preview**, ditampilkan _preview_ surat keluar yang sudah dibuat. _Preview_ surat keluar disesuaikan dengan template berdasarkan jenis surat.
 
 ![gambar](SuratKeluar/SK_IOS/SK-29.png)
 
 **Detail Surat Keluar**
 
-Pada tab Detail surat keluar, terdapat informasi asal surat, perihal, file lampiran, nomor surat, klasifikasi surat, tanggal surat, tujuan surat dan _reviewer_
+Pada **Detail**, terdapat informasi asal surat, perihal, file lampiran, nomor surat, klasifikasi surat, tanggal surat, tujuan surat dan _reviewer_
 
 ![gambar](SuratKeluar/SK_IOS/SK-30.png)
 
 **History Surat Keluar**
 
-Pada tab _History_ surat keluar, ditampilkan riwayat surat keluar yang terdapat informasi jabatan, tanggal, tindakan dan komentar
+Pada pilihan **History**, ditampilkan riwayat surat keluar yang terdapat informasi jabatan, tanggal, tindakan dan komentar
 
 ![gambar](SuratKeluar/SK_IOS/SK-32.png) ![gambar](SuratKeluar/SK_IOS/SK-33.png)

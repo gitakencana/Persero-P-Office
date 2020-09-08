@@ -1,7 +1,5 @@
 **Role yang sesuai**
 
-- *Approver User*
-- *Reviewer User*
 - *Member User* (Pekerja)
 
 *User* dapat melakukan *drafting* surat keluar pada aplikasi P-Office. *Drafting* surat keluar dilakukan jika *user* akan meneruskan dan melakukan perubahan pada surat keluar yang sudah disimpan pada menu **Draft**.
@@ -55,7 +53,7 @@ Langkah - langkah untuk mengubah isi surat keluar secara *online* adalah sebagai
 
 ![gambar](SuratKeluar/SK_Web/SK26.png)
 
-2. Lakukan perubahan pada isi surat. Klik Close pada aplikasi
+2. Lakukan perubahan pada isi surat. Klik **Close** pada aplikasi
 
 ![gambar](SuratKeluar/SK_Web/SK27.png)
 
@@ -141,7 +139,7 @@ Langkah - langkah untuk **Drafting** surat keluar via Android adalah sebagai ber
 
 ![gambar](SuratKeluar/SK_Android/DraftSK/A01.jpg) ![gambar](SuratKeluar/SK_Android/DraftSK/A02.jpg) 
 
-2. Pilih surat keluar yang akan diubah.pada tab **Detail** kemudian klik **tombol button** lalu **Edit**
+2. Pilih surat keluar yang akan diubah.pada tab **Detail** kemudian pilih icon **Option** lalu **Edit**
 
 ![gambar](SuratKeluar/SK_Android/DraftSK/A03.jpg) ![gambar](SuratKeluar/SK_Android/DraftSK/A04.jpg)
 
@@ -181,7 +179,7 @@ Langkah – langkah untuk mengubah isi surat keluar secara _online_ adalah sebag
 
 **Kirim Surat Keluar**
 
-1. Pada tampilan _preview_ surat keluar, klik **Kirim** untuk mengirim surat ke pejabat tujuan
+1. Pada tampilan _preview_ surat keluar, klik **Send** untuk mengirim surat ke pejabat tujuan
 
 ![gambar](SuratKeluar/SK_Android/DraftSK/K01.jpg)
 
@@ -216,3 +214,11 @@ Langkah-langkah untuk melakukan **Drafting** surat keluar via IOS adalah sebagai
 ![gambar](SuratKeluar/SK_IOS/SK-52.png)
 
 7.	Surat keluar yang sudah di ubah akan tersimpan dimenu “**Draft – Surat Keluar**”
+
+**Kirim Surat Keluar**
+
+1. Pada tampilan _preview_ surat keluar, klik **Send** untuk mengirim surat ke pejabat tujuan
+
+![gambar](SuratKeluar/SK_IOS/SK-CR05.png)
+
+2. Sistem menyimpan perubahan dan surat keluar akan tersimpan di menu “**Outbox - Surat Keluar**”

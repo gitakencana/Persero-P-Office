@@ -1,10 +1,5 @@
 ### Menambah Surat Keluar
 
-**Ditujukan kepada**
-
-- *Approver User*
-- *Reviewer User*
-
 **Role yang sesuai**
 
 - *Member User* (Pekerja)
@@ -165,7 +160,7 @@ Langkah – langkah untuk mengirim surat keluar adalah sebagai berikut :
 
 Langkah - langkah untuk menambah surat keluar via Android adalah sebagai berikut :
 
-1. Klik **ikon (+)** pada surat keluar
+1. Klik tanda **(+)** pada surat keluar
    
 ![gambar](SuratKeluar/SK_Android/TambahSK/A01.jpg)
 
@@ -181,7 +176,7 @@ Langkah - langkah untuk menambah surat keluar via Android adalah sebagai berikut
 
 Langkah – langkah untuk menyimpan surat keluar adalah sebagai berikut.
 
-1. Isi _form_ surat keluar kemudian klik **Simpan**
+1. Isi _form_ surat keluar kemudian klik **Save Mail**
 
 ![gambar](SuratKeluar/SK_Android/TambahSK/S01.jpg) ![gambar](SuratKeluar/SK_Android/TambahSK/S02.jpg)
 
@@ -193,7 +188,7 @@ Langkah – langkah untuk menyimpan surat keluar adalah sebagai berikut.
 
 Langkah-langkah untuk menambah surat keluar via IOS adalah sebagai berikut : 
 
-1.	Klik menu **New Correspondence**
+1.	Klik tanda **(+)** pada surat keluar
 
 ![gambar](SuratKeluar/SK_IOS/SK-3.png)
 
@@ -204,3 +199,25 @@ Langkah-langkah untuk menambah surat keluar via IOS adalah sebagai berikut :
 3.	Isi _form_ tambah surat keluar. Terdapat bebarapa aksi untuk menindaklanjuti surat keluar yang sudah diisi _form_nya yaitu **Simpan Surat Keluar**, **Kirim Surat Keluar** dan **Save as Template Surat Keluar.**
 
 ![gambar](SuratKeluar/SK_IOS/SK-5.png) ![gambar](SuratKeluar/SK_IOS/SK-6.png) ![gambar](SuratKeluar/SK_IOS/SK-7.png) ![gambar](SuratKeluar/SK_IOS/SK-8.png)
+
+**Simpan Surat Keluar**
+
+Langkah – langkah untuk menyimpan surat keluar adalah sebagai berikut.
+
+1.  Isi _form_ surat keluar kemudian klik **Save Mail**
+
+![gambar](SuratKeluar/SK_IOS/SK-5.png) ![gambar](SuratKeluar/SK_IOS/SK-8.png)
+
+2.  Pilih **Save Email** untuk menyimpan form surat keluar sebagai draft
+
+![gambar](SuratKeluar/SK_IOS/CR-SK01.png)
+
+3.  Sistem akan menampilkan tampilan preview surat keluar dalam bentuk Word yang dapat di edit. Untuk melakukan editing terhadap isi surat klik **Edit/Send**
+
+![gambar](SuratKeluar/SK_IOS/CR-SK02.png)
+
+4.	Pilih **Edit Content**, kemudian aplikasi akan menampilkan editor Word Online. Lakukan perubahan pada isi konten, kemudian close editor Word Online. Sistem akan menampilkan pop up notifikasi editing dokumen, klik **Yes** untuk menutup pop up notifikasi
+
+![gambar](SuratKeluar/SK_IOS/CR-SK03.png) ![gambar](SuratKeluar/SK_IOS/CR-SK04.png)
+
+5.	Surat keluar yang sudah di ubah akan tersimpan dimenu **“Draft – Surat Keluar”**
