@@ -173,7 +173,7 @@ Langkah - langkah untuk Drafting SP3S via Android yaitu :
 
 5. Klik **Edit Content** untuk mengubah isi SP3S
 
-![gambar](SP3S/SP3S_Android/DraftSP3S/A08.jpg) ![gambar](SP3S/SP3S_Android/DraftSP3S/A09.jpg)
+![gambar](SP3S/SP3S_Android/DraftSP3S/A08.jpg)![gambar](SP3S/SP3S_Android/DraftSP3S/A09.jpg)
 
 6. Sistem menampilkan tampilan _preview_ SP3S dalam bentuk Word yang dapat di edit. Untuk melakukan _editing_ terhadap isi surat klik **Edit Konten** kemudian sistem akan menampilkan _pop up_ konfirmasi 
 
