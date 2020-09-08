@@ -8,7 +8,7 @@
 
 1. Klik menu **Inbox / Draft / Outbox** dan pilih tab **Fax Keluar**
 
-![gambar](SC_FaxKeluar/FK01.png)
+![gambar](FaxKeluar/FK_Web/FK1.jpg)
 
 
 ## **P-Office Versi Teams**

@@ -7,13 +7,13 @@
 
 1. Klik menu **Outbox** dan pilih tab **Disposisi**
 
-![gambar](SC_FaxMasuk/FM44.png)
+![gambar](FaxMasuk/FM_WEB/Recall01.png) 
 
 2. Pilih fax masuk yang akan di-*recall* kemudian klik tab **Detail** kemudian klik **Recall**.
+   
+![gambar](FaxMasuk/FM_WEB/Recall02.png) 
 
-![gambar](SC_FaxMasuk/FM45.png)
-
-Fax masuk yang sudah di-*recall* akan tersimpan di menu "**Draft - Disposisi**" penerima fax masuk / pendisposisi
+3. Fax masuk yang sudah di-*recall* akan tersimpan di menu "**Draft - Disposisi**" penerima fax masuk / pendisposisi
 
 ## **P-Office Versi Teams**
 

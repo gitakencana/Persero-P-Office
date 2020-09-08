@@ -8,8 +8,7 @@
 
 1. Klik menu **Inbox / Draft / Outbox** dan pilih tab **Memorandum**
 
-![gambar](SC_Memorandum/MM01.png)
-
+![gambar](Memorandum/MM_Web/MM-1.png)
 
 
 ## **P-Office Versi Teams**
@@ -26,7 +25,7 @@ Langkah-langkah untuk melihat informasi Memorandum adalah sebagai berikut :
 
 1. Klik menu **Inbox/Draft/Outbox** dan pilih tab **Memorandum**
 
-![gambar](Memorandum/MM_Android/Daftarmemo/A01.jpg)
+![gambar](Memorandum/MM_Android/Daftarmemo/A01.jpg) ![gambar](Memorandum/MM_Android/Daftarmemo/A02.jpg) 
 
 
 
@@ -40,3 +39,5 @@ Langkah – langkah untuk melihat daftar memorandum adalah sebagai berikut
 
 ![gambar](Memorandum/MM_IOS/MM-1.png)
 ![gambar](Memorandum/MM_IOS/MM-2.png)
+
+

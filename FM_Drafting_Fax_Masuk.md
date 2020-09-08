@@ -6,19 +6,19 @@ Sekretaris dapat melakukan _drafting_ fax masuk pada aplikasi P-Office. _Draftin
 
 1.    Klik menu **Draft** dan pilih tab **Fax Masuk**
 
-![gambar](FaxMasuk/FM_Web/FM06.png)
+![gambar](FaxMasuk/FM_WEB/DraftFM01.png) 
 
 2.    Pilih fax masuk yang akan diubah. Pilih tab **Detail** kemudian klik **Edit**
 
-![gambar](FaxMasuk/FM_Web/FM06.png)
+![gambar](FaxMasuk/FM_WEB/DraftFM02.png) 
 
 3.    Sistem akan menampilkan _form_ **Edit Correspondence**
 
-![gambar](FaxMasuk/FM_Web/FM06.png)
+![gambar](FaxMasuk/FM_WEB/DraftFM03.png) 
 
 4.	  Lakukan perubahan pada _form_. Klik **Send** untuk mengirim fax masuk ke pejabat tujuan. Surat yang terkirim akan tersimpan di menu "**Outbox - Fax Masuk"**
 
-![gambar](FaxMasuk/FM_Web/FM06.png)
+![gambar](FaxMasuk/FM_WEB/DraftFM03.png) 
 
 ## **P-Office Versi Teams**
 
@@ -61,6 +61,6 @@ Langkah-langkah untuk Drafting fax masuk adalah sebagai berikut :
 
 ![gambar](Faxmasuk/FM_Android/DraftFM/A05.jpg)
 
-1. Lakukan perubahan pada _form_. Klik **Send **untuk mengirim fax masuk ke pejabat tujuan. Surat yang terkirim akan tersimpan di menu “**Outbox – Fax masuk”**
+4. Lakukan perubahan pada _form_. Klik **Send **untuk mengirim fax masuk ke pejabat tujuan. Surat yang terkirim akan tersimpan di menu “**Outbox – Fax masuk”**
 
 

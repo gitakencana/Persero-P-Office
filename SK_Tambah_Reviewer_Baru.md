@@ -62,11 +62,11 @@ Langkah-langkah untuk menambahkan Reviewer baru surat keluar adalah sebagai beri
    
 ![gambar](SuratKeluar/SK_Android/ReviewerSK/A03.jpg) ![gambar](SuratKeluar/SK_Android/ReviewerSK/A04.jpg)
 
-3. Klik tombol **Add Reviewer **dan pilih pejabat yang akan melakukan review dengan meng-klik tombol **Add Reviewer**
+3. Klik tombol **Add Reviewer** dan pilih pejabat yang akan melakukan review dengan meng-klik tombol **Add Reviewer**
    
 ![gambar](SuratKeluar/SK_Android/ReviewerSK/A05.jpg) ![gambar](SuratKeluar/SK_Android/ReviewerSK/A06.jpg)
 
-4. Sistem akan menampilkan pejabat untuk dijadikn reviewer baru
+4. Sistem akan menampilkan pejabat untuk dijadikan reviewer baru
 
 ![gambar](SuratKeluar/SK_Android/ReviewerSK/A07.jpg) ![gambar](SuratKeluar/SK_Android/ReviewerSK/A08.jpg)
 

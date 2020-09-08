@@ -9,15 +9,15 @@ Role yang sesuai
 
 1. Klik menu **Inbox** dan pilih tab **Memorandum**
 
-![gambar](SC_Memorandum/MM38.png)
+![gambar](Memorandum/MM_Web/MM-39.png)
 
 2. Pilih memorandum yang akan ditindak lanjuti kemudian pilih tab **Detail**
 
-![gambar](SC_Memorandum/MM39.png)
+![gambar](Memorandum/MM_Web/MM-40.png)
 
-3. Klik tombol **Kembalikan ke Sebelumnya** dan pilih **Send**. Isikan komentar jika diperlukan
+3. Klik tombol **Return Previus** dan pilih **Send**. Isikan komentar jika diperlukan
 
-![gambar](SC_Memorandum/MM40.png)
+![gambar](Memorandum/MM_Web/MM-41.png)
 
 4. Sistem berhasil menyimpan perubahan. Memorandum yang sudah di kirim akan tersimpan di menu **Outbox - Memorandum** dan penerima pengembalian memorandum akan menerima memorandum di menu **Rejected - Memorandum**
 

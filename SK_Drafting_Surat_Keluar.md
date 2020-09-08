@@ -176,11 +176,11 @@ Langkah – langkah untuk mengubah isi surat keluar secara _online_ adalah sebag
 
 2. Lakukan perubahan pada isi surat lalu sistem akan menampilkan pop up  P-Office Editing Document pilih **Yes**
 
-![gambar](SuratKeluar/SK_Android/DraftSK/U01.jpg)
+![gambar](SuratKeluar/SK_Android/DraftSK/U03.jpg)
 
-1. Isi surat akan otomatis tersimpan. Jika surat akan disimpan sebagai draft, maka klik **Close**
-
-![gambar](SuratKeluar/SK_Android/DraftSK/U02.jpg) ![gambar](SuratKeluar/SK_Android/DraftSK/U03.jpg)
+3. Isi surat akan otomatis tersimpan. Jika surat akan disimpan sebagai draft, maka klik **Close**
+   
+![gambar](SuratKeluar/SK_Android/DraftSK/U04.jpg)
 
 4. Surat yang sudah selesai diubah maka akan tersimpan di menu “**Draft – Surat Keluar”**
 

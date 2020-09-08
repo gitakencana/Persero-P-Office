@@ -8,19 +8,19 @@
 
 1. Klik menu **Disposisi** dan pilih tab **Fax masuk**
 
-![gambar](SC_FaxMasuk/FM46.png)
+![gambar](FaxMasuk/FM_WEB/SelesaiDisposisi01.png) 
 
 2. Pilih disposisi yang akan diselesaikan kemudian pilih tab **Detail**
 
-![gambar](SC_FaxMasuk/FM47.png)
+![gambar](FaxMasuk/FM_WEB/SelesaiDisposisi02.png) 
 
 3. Pilih tombol **Selesaikan** kemudian klik **Send**
 
-![gambar](SC_FaxMasuk/FM48.png)
+![gambar](FaxMasuk/FM_WEB/SelesaiDisposisi03.png) 
 
-4. Sistem menampilkan pop up konfirmasi dan *user* harus mengisi keterangan selesaikan disposisi kemudian klik **Simpan**.
+4. Sistem menampilkan pop up konfirmasi dan *user* harus mengisi keterangan selesaikan disposisi kemudian klik **Save**.
 
-![gambar](SC_FaxMasuk/FM49.png)
+![gambar](FaxMasuk/FM_WEB/SelesaiDisposisi04.png) 
 
 5. Sistem menyimpan perubahan dan informasi selesai disposisi akan tersimpan di detail disposisi.
 

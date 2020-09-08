@@ -11,21 +11,21 @@ User dapat menyimpan memorandum sebagai *template*. *Template* ini digunakan jik
 
 1. Isi *form* memorandum dan Klik **Save as Template**
 
-![gambar](SC_Memorandum/MM14.png)
+![gambar](Memorandum/MM_Web/MM-14.png)
 
 2. Memorandum yang disimpan menjadi *template* akan tersimpan di menu **"Draft - Memorandum"**. Untuk melanjutkan *template* yang sudah dibuat *user* dapat memilih menu **"Draft - Memorandum"** kemudian pilih *template* yang akan digunakan
 
-![gambar](SC_Memorandum/MM15.png)
+![gambar](Memorandum/MM_Web/MM-15.png)
 
 3. Pilih tombol ***User* Template** untuk melanjutkan edit memorandum
 
-![gambar](SC_Memorandum/MM16.png)
+![gambar](Memorandum/MM_Web/MM-16.png)
 
 4. Sistem akan menampilkan form **Edit Correspondence**, klik Simpan untuk menyimpan perubahan
 
-![gambar](SC_Memorandum/MM17.png)
+![gambar](Memorandum/MM_Web/MM-17.png)
 
-5. Lakukan perubahan pada surat, klik **Simpan** untuk menyimpan perubahan dan memorandum akan tersimpan di menu **"Draft - Memorandum"** sebagai draft atau klik **Send** untuk mengirimkan ke pejabat tujuan dan tersimpan di menu **"Outbox - Memorandum"**.
+5. Lakukan perubahan pada surat, klik **Save** untuk menyimpan perubahan dan memorandum akan tersimpan di menu **"Draft - Memorandum"** sebagai draft atau klik **Send** untuk mengirimkan ke pejabat tujuan dan tersimpan di menu **"Outbox - Memorandum"**.
 
 ## **P-Office Versi Teams**
 

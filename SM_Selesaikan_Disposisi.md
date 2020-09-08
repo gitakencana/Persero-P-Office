@@ -59,11 +59,11 @@ Langkah - langkah untuk selesaikan disposisi via Teams yaitu :
 
 Langkah - langkah untuk menyelesaikan disposisi surat masuk via Android yaitu:
 
-1. Klik menu **Disposisi** dan pilih tab **Surat Masuk **Pilih salah satu disposisi surat masuk yang akan dilihat informasinya
+1. Klik menu **Disposisi** dan pilih tab **Surat Masuk** Pilih salah satu disposisi surat masuk yang akan dilihat informasinya
 
 ![gambar](SuratMasuk/SM_Android/Selesaidisposisi/A01.jpg) ![gambar](SuratMasuk/SM_Android/Selesaidisposisi/A001.jpg) 
 
-2. Pilih disposisi yang akan diselesaikan kemudian pilih ikon **tombol button**
+1. Pilih disposisi yang akan diselesaikan kemudian pilih tombol **button**
 
 ![gambar](SuratMasuk/SM_Android/Selesaidisposisi/A02.jpg) ![gambar](SuratMasuk/SM_Android/Selesaidisposisi/A03.jpg) 
 

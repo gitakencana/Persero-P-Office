@@ -8,31 +8,31 @@
 
 1. Klik menu **Inbox/Draft/Outbox** dan pilih tab **Fax Masuk.** Pilih salah satu fax masuk yang akan dilihat informasinya
 
-![gambar](SC_FaxMasuk/FM10.png)
+![gambar](FaxMasuk/FM_WEB/InfoFM01.png) 
 
 #### **Preview Fax Masuk**
 
 Pada tab **Preview Fax Masuk**, ditampilkan *preview* fax masuk yang merupakan hasil unggahan yang diinputkan oleh sekretaris/konseptor
 
-![gambar](SC_FaxMasuk/FM11.png)
+![gambar](FaxMasuk/FM_WEB/PreviewFM01.png) 
 
 #### **Detail Fax Masuk**
 
 Pada tab **Detail Fax Masuk**, terdapat informasi asal surat, perihal, file lampiran, kategori surat, resume, rekomendasi, nomor surat, klasifikasi surat, tanggal surat dan tujuan.
 
-![gambar](SC_FaxMasuk/FM12.png)
+![gambar](FaxMasuk/FM_WEB/DetailFM01.png) 
 
 #### **Tracking Fax Masuk**
 
 Pada tab **Tracking Fax Masuk**, ditampilkan informasi *tracking* fax masuk dalam bentuk *chart*
 
-![gambar](SC_FaxMasuk/FM13.png)
+![gambar](FaxMasuk/FM_WEB/TrackingFM01.png) 
 
 #### **History Fax Masuk**
 
 Pada tab **History Fax Masuk**, ditampilkan riwayat fax masuk yang terdapat informasi jabatan, tanggal, tindakan dan komentar
 
-![gambar](SC_FaxMasuk/FM14.png)
+![gambar](FaxMasuk/FM_WEB/HistoryFM01.png) 
 
 ## **P-Office Versi Teams**
 
@@ -109,3 +109,4 @@ Pada tab **Tracking Fax Masuk**, ditampilkan informasi _tracking_ fax masuk dala
 Pada tab **History Fax Masuk**, ditampilkan riwayat fax masuk yang terdapat informasi jabatan, tanggal, tindakan dan komentar
 
 
+![gambar](Faxmasuk/FM_Android/InfoFM/H01.jpg) ![gambar](Faxmasuk/FM_Android/InfoFM/H02.jpg)

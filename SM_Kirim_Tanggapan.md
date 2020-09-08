@@ -59,7 +59,7 @@ Langkah - langkah untuk mengirim tanggapan via Android yaitu:
    
 ![gambar](SuratMasuk/SM_Android/Tanggapdisposisi/A01.jpg) ![gambar](SuratMasuk/SM_Android/Tanggapdisposisi/A02.jpg) 
 
-2. Pilih disposisi yang akan dikirim tanggapan kemudian pilih ikon tombol button
+2. Pilih disposisi yang akan dikirim tanggapan kemudian pilih ikon tombol **button**
 
 ![gambar](SuratMasuk/SM_Android/Tanggapdisposisi/A03.jpg) ![gambar](SuratMasuk/SM_Android/Tanggapdisposisi/A04.jpg) 
 
@@ -92,3 +92,4 @@ Langkah-langkah untuk mengirim tanggapan disposisi surat masuk adalah sebagai be
 ![gambar](SuratMasuk/SM_IOS/SM-50.png)
 
 4.	Sistem menyimpan perubahan dan informasi tanggapan disposisi akan tersimpan di detail disposisi.
+

@@ -50,11 +50,11 @@ Langkah-langkah untuk menolak surat keluar adalah sebagai berikut :
    
 ![gambar](SuratKeluar/SK_Android/TolakSK/A03.jpg) ![gambar](SuratKeluar/SK_Android/TolakSK/A04.jpg)
 
-3. Klik tombol **Reject **dan pilih **Send** Isikan komentar jika diperlukan
+3. Klik tombol **Reject** dan pilih **Send** Isikan komentar jika diperlukan
 
 ![gambar](SuratKeluar/SK_Android/TolakSK/A05.jpg) ![gambar](SuratKeluar/SK_Android/TolakSK/A06.jpg)
 
-4. Sistem berhasil menyimpan perubahan Memorandum yang sudah di tolak akan tersimpan dimenu “**Rejected- Memorandum”** user penolak pada label “**Rejected**”
+4. Sistem berhasil menyimpan perubahan surat keluar yang sudah di tolak akan tersimpan dimenu “**Rejected- Surat keluar”** user penolak pada label “**Rejected**”
 
 
 

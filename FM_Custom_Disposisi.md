@@ -7,27 +7,28 @@
 
 1. Klik menu **Inbox** dan pilih tab **Fax Masuk**
 
-![gambar](SC_FaxMasuk/FM32.png)
+![gambar](FaxMasuk/FM_WEB/CustomDisposisi01.png) 
 
 2. Pilih fax masuk yang akan didisposisikan kemudian pilih tab **Detail**
 
-![gambar](SC_FaxMasuk/FM33.png)
+![gambar](FaxMasuk/FM_WEB/CustomDisposisi02.png)
 
 3. Klik tombol **Disposisi** dan pilih **Send**
 
-![gambar](SC_FaxMasuk/FM34.png)
+![gambar](FaxMasuk/FM_WEB/CustomDisposisi03.png) 
 
 4. Sistem menampilkan form disposisi. Klik icon "+" pada field **Diteruskan Kepada.** Isikan informasi disposisi dan perintah untuk masing - masing penerima disposisi.
 
-![gambar](SC_FaxMasuk/FM35.png)
+![gambar](FaxMasuk/FM_WEB/CustomDisposisi04.png) 
 
 5. Sistem menampilkan daftar pejabat yang dapat dipilih untuk didisposikan
 
-![gambar](SC_FaxMasuk/FM36.png)
+![gambar](FaxMasuk/FM_WEB/CustomaDisposisi05.png)
 
-6. Isikan perintah dan keterangan pada masing - masing penerima disposisi. Tambahkan lampiran disposisi jika diperlukan. Fitur **Komentar Sama Untuk Semua** dapat digunakan *user* untuk memberikan komentar yang sama untuk masing - masing pejabat penerima disposisi. Klik **Simpan** untuk menyimpan perubahan dan klik **Send** untuk mengirim disposisi.
+6. Isikan perintah dan keterangan pada masing - masing penerima disposisi. Tambahkan lampiran disposisi jika diperlukan. Fitur **Komentar Sama Untuk Semua** dapat digunakan *user* untuk memberikan komentar yang sama untuk masing - masing pejabat penerima disposisi. Klik **Save** untuk menyimpan perubahan dan klik **Send** untuk mengirim disposisi.
 
-![gambar](SC_FaxMasuk/FM37.png)
+![gambar](FaxMasuk/FM_WEB/CustomDisposisi06.png) 
+
 
 ## **P-Office Versi Teams**
 
