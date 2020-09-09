@@ -4,7 +4,6 @@
 
 *User* dapat menolak SP3S yang sudah dikirimkan oleh konseptor. 
 
-
 ## **P-Office Versi Web**
 
 Langkah - langkah untuk menolak SP3S via Web adalah sebagai berikut :
@@ -39,7 +38,7 @@ Langkah - langkah untuk Tolak SP3S via Teams adalah sebagai berikut :
 
 ![gambar](SP3S/SP3S_Teams/SP3S36.png)
 
-4. Sistem berhasil menyimpan perubahan. SP3S yang sudah di kirim akan akan akan terhapus dari aplikasi akan tersimpan di menu **“Rejected – Memorandum”** user penolak dengan label **Rejected**
+4. Sistem berhasil menyimpan perubahan. SP3S yang sudah di kirim akan akan akan terhapus dari aplikasi akan tersimpan di menu **“Rejected – SP3S”** user penolak dengan label **Rejected**
 
 ## **P-Office Versi Android**
 
@@ -49,7 +48,7 @@ Langkah - langkah untuk Tolak SP3S via Android adalah sebagai berikut :
 
 ![gambar](SP3S/SP3S_Android/TolakSP3S/A01.jpg) ![gambar](SP3S/SP3S_Android/TolakSP3S/A02.jpg)
 
-2. Pilih SP3S yang akan disetujui kemudian pilih ikon **tombol button**
+2. Pilih SP3S yang akan disetujui kemudian pilih icon **Option**
 
 ![gambar](SP3S/SP3S_Android/TolakSP3S/A03.jpg) ![gambar](SP3S/SP3S_Android/TolakSP3S/A04.jpg)
 
@@ -75,4 +74,4 @@ Langkah - langkah untuk Tolak SP3S via IOS adalah sebagai berikut :
 
 ![gambar](SP3S/SP3S_IOS/SP3S-24.3.png)
 
-4.	Sistem berhasil menyimpan perubahan. SP3S yang sudah ditolak akan tersimpan di menu **“Rejected – SP3S”**
+4.	Sistem berhasil menyimpan perubahan. SP3S yang sudah ditolak akan tersimpan di menu **“Rejected – SP3S”** user penolak dengan label **Rejected**

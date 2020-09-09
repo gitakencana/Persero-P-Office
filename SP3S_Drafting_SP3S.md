@@ -153,7 +153,7 @@ Langkah - langkah untuk Drafting SP3S via Android adalah sebagai berikut :
 
 ![gambar](SP3S/SP3S_Android/DraftSP3S/A03.jpg) ![gambar](SP3S/SP3S_Android/DraftSP3S/A04.jpg)
 
-3. Pada menu button pilih **Edit** lalu tampil form SP3S
+3. Pada icon **Option** pilih **Edit** lalu tampil form SP3S
 
 ![gambar](SP3S/SP3S_Android/DraftSP3S/A05.jpg) ![gambar](SP3S/SP3S_Android/DraftSP3S/A06.jpg)
 

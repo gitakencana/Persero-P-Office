@@ -78,7 +78,6 @@ Langkah - langkah untuk Revisi SP3S via Teams adalah sebagai berikut :
 
 ![gambar](SP3S/SP3S_Teams/SP3S38.png)
 
-
 3. Klik tombol **Revise** dan pilih **Send**. Isikan komentar jika diperlukan
 
 ![gambar](SP3S/SP3S_Teams/SP3S39.png)

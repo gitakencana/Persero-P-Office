@@ -1,7 +1,3 @@
-**Ditujukan kepada**
-
-- *Approver User*
-
 **Role yang sesuai**
 
 - Sekretaris
@@ -205,7 +201,7 @@ Langkah – langkah untuk mengirim SP3S adalah sebagai berikut :
 
 Langkah-langkah untuk menambah SP3S via IOS adalah sebagai berikut :
 
-1.	Klik menu **New Correspondence**
+1. Klik ikon **(+)** pada SP3S
 
 ![gambar](SP3S/SP3S_IOS/SP3S-2.png)
 
@@ -235,7 +231,7 @@ Langkah – langkah untuk menyimpan SP3S adalah sebagai beriku :
 
 ![gambar](SP3S/SP3S_IOS/SP3S-7.1.png) ![gambar](SP3S/SP3S_IOS/SP3S-7.2.png)
 
-4.	Klik Close untuk menutup editing SP3S, SP3S yang disimpan akan tersimpan di menu “Draft – SP3S”
+4.	Klik Close untuk menutup editing SP3S, SP3S yang disimpan akan tersimpan di menu **“Draft – SP3S”**
 
 #### **Kirim SP3S**
 

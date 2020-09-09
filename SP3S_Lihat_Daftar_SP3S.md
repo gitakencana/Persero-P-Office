@@ -8,7 +8,7 @@
 
 ## **P-Office Versi Web**
 
-Langkah - langkah untuk melihat daftar SP3S adalah sebagai berikut
+Langkah - langkah untuk melihat daftar SP3S via Web adalah sebagai berikut
 
 1. Klik menu **Inbox / Draft / Outbox** dan pilih tab **SP3S**
 
@@ -25,6 +25,7 @@ Langkah - langkah untuk lihat daftar SP3S via Teams adalah sebagai berikut :
 ## **P-Office Versi Android**
 
 Langkah - langkah untuk melihat daftar SP3S via Android yaitu :
+
 1. Klik menu **Inbox / Draft / Outbox** dan pilih tab **SP3S**
 
 ![gambar](SP3S/SP3S_Android/DaftarSP3S/A01.jpg) ![gambar](SP3S/SP3S_Android/DaftarSP3S/A02.jpg) 

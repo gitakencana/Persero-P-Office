@@ -48,7 +48,7 @@ Langkah - langkah untuk Setujui SP3S via Android adalah sebagai berikut :
    
 ![gambar](SP3S/SP3S_Android/SetujuSP3S/A01.jpg) ![gambar](SP3S/SP3S_Android/SetujuSP3S/A02.jpg)
    
-2. Pilih SP3S yang akan disetujui kemudian pilih ikon **tombol button**
+2. Pilih SP3S yang akan disetujui kemudian pilih icon **Option**
 
 ![gambar](SP3S/SP3S_Android/SetujuSP3S/A03.jpg) ![gambar](SP3S/SP3S_Android/SetujuSP3S/A04.jpg)
 
