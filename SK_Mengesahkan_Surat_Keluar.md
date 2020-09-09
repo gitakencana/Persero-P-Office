@@ -47,7 +47,16 @@ Langkah - langkah untuk mengesahkan surat keluar via Teams adalah sebagai beriku
  
 ![gambar](SuratKeluar/SK_Teams/SK56.png)
 
-4. Sistem menyimpan perubahan dan nomor surat keluar akan tergenerate sesuai dengan nomor sementara pada detail. Surat keluar yang sudah diseyujui akan tersimpan di menu **“Outbox - Surat Keluar”** pengirim sedangkan surat keluar akan tersimpan di menu **“Inbox - Surat Keluar”** penerima
+4.	Sistem akan menampilkan form Validation of Digital Signature
+
+![gambar](SuratKeluar/SK_Teams/SKN1.png)
+ 
+5.	Kemudian isikan NIK dan PassPhrase pada form P-Office kemudian klik **Sign**
+ 
+![gambar](SuratKeluar/SK_Teams/SKN2.png)
+
+6.	Surat keluar yang sudah disetujui akan tersimpan di menu **“Outbox – Surat keluar”** pengiriman sedangkan surat keluar akan tersimpan di menu **“Inbox – Surat keluar”** penerima
+
 
 ## **P-Office Versi Android**
 
