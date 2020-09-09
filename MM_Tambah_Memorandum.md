@@ -78,7 +78,7 @@ Langkah - langkah untuk mengirim memorandum adalah sebagai berikut
 
 Langkah-langkah untuk menambahkan Memorandum via Teams adalah sebagai berikut :
 
-1. Klik menu New **Correspondence**
+1. Klik menu **New Correspondence**
 
 ![gambar](Memorandum/MM_Teams/MM02.png)
 
@@ -174,7 +174,7 @@ Langkah – langkah untuk menyimpan memorandum adalah sebagai berikut.
 
 Langkah-langkah untuk menambah memorandum adalah sebagai berikut.
 
-1.	Klik icon **"+"**
+1.	Klik icon **"+"** untuk membuat memorandum
 
 ![gambar](Memorandum/MM_IOS/MM-3.png)
 
@@ -203,7 +203,7 @@ Langkah – langkah untuk menyimpan memorandum adalah sebagai berikut.
 
 ![gambar](Memorandum/MM_IOS/MM-9.png)
 
-4.	Pilih **Edit Content,** kemudian aplikasi akan menampilkan editor Word Online. Lakukan perubahan pada isi konten, kemudian close editor Word Online. Sistem akan menampilkan _pop up _notifikasi editing dokumen, klik **Yes **untuk menutup _pop up_ notifikasi
+4.	Pilih **Edit Content,** kemudian aplikasi akan menampilkan editor Word Online. Lakukan perubahan pada isi konten, kemudian close editor Word Online. Sistem akan menampilkan _pop up _notifikasi editing dokumen, klik **Yes** untuk menutup _pop up_ notifikasi
 
 ![gambar](Memorandum/MM_IOS/MM-10.png) ![gambar](Memorandum/MM_IOS/MM-71.png)
 
@@ -215,7 +215,7 @@ Langkah – langkah untuk mengirim memorandum adalah sebagai berikut.
 
 1.	Pada tampilan _preview_ memorandum, klik **Send** untuk mengirim surat ke pejabat tujuan
 
-![gambar](Memorandum/MM_IOS/MM-12.png) ![gambar](Memorandum/MM_IOS/MM-11.png) ![gambar](Memorandum/MM_IOS/MM-72.png)
+![gambar](Memorandum/MM_IOS/MM-11.png)
 
 2.	Sistem menyimpan perubahan dan memorandum akan tersimpan di menu “**Outbox - Memorandum**”
 

@@ -6,7 +6,7 @@
 
 _User_ dapat melihat informasi lengkap memorandum termasuk *preview* memorandum, detail memorandum, *tracking* memorandum dan *history* memorandum. 
 
-## **P-Office Versi Teams**
+## **P-Office Versi Web**
 
 Langkah - langkah untuk melihat informasi memorandum via Web adalah sebagai berikut
 
@@ -16,31 +16,31 @@ Langkah - langkah untuk melihat informasi memorandum via Web adalah sebagai beri
 
 #### Preview Memorandum
 
-Pada tab Informasi *Preview* memorandum, ditampilkan *preview* memorandum yang sudah dibuat. *Preview* memorandum disesuaikan dengan template berdasarkan jenis surat
+Pada tab **Preview**, ditampilkan *preview* memorandum yang sudah dibuat. *Preview* memorandum disesuaikan dengan template berdasarkan jenis surat
 
 ![gambar](Memorandum/MM_Web/MM-31.png)
 
 #### Detail Memorandum
 
-Pada tab Detail memorandum, terdapat informasi asal surat, perihal, file lampiran, nomor surat, klasifikasi surat, tanggal surat, tujuan surat dan *reviewer*
+Pada tab **Detail**, terdapat informasi asal surat, perihal, file lampiran, nomor surat, klasifikasi surat, tanggal surat, tujuan surat dan *reviewer*
 
 ![gambar](Memorandum/MM_Web/MM-33.png)
 
 #### Tracking Memorandum
 
-Pada tab *tracking* memorandum, ditampilkan informasi *tracking* memorandum dalam bentuk *chart*
+Pada tab Tracking, ditampilkan informasi *tracking* memorandum dalam bentuk *chart*
 
 ![gambar](Memorandum/MM_Web/MM-34.png)
 
 #### History Memorandum
 
-Pada tab *History* memorandum, ditampilkan riwayat memorandum yang terdapat informasi jabatan, tanggal, tindakan dan komentar
+Pada tab **History**, ditampilkan riwayat memorandum yang terdapat informasi jabatan, tanggal, tindakan dan komentar
 
 ![gambar](Memorandum/MM_Web/MM-35.png)
 
 ## **P-Office Versi Teams**
 
-Langkah-langkah untuk melihat informasi Memorandum via Teams adalah sebagai berikut :
+Langkah-langkah untuk melihat informasi memorandum via Teams adalah sebagai berikut :
 
 1. Klik menu **Inbox/Draft/Outbox** dan pilih tab **Memorandum**. Pilih salah satu memorandum yang akan dilihat informasinya
 
@@ -48,7 +48,7 @@ Langkah-langkah untuk melihat informasi Memorandum via Teams adalah sebagai beri
 
 #### Preview Memorandum
 
-Pada tab Informasi *Preview* memorandum, ditampilkan *preview* memorandum yang sudah dibuat. *Preview* memorandum disesuaikan dengan template berdasarkan jenis surat
+Pada tab **Preview**, ditampilkan *preview* memorandum yang sudah dibuat. *Preview* memorandum disesuaikan dengan template berdasarkan jenis surat
 
 ![gambar](Memorandum/MM_Teams/MM31.png)
 
@@ -56,27 +56,27 @@ Pada tab Informasi *Preview* memorandum, ditampilkan *preview* memorandum yang s
 
 #### Detail Memorandum
 
-Pada tab Detail memorandum, terdapat informasi asal surat, perihal, file lampiran, nomor surat, klasifikasi surat, tanggal surat, tujuan surat dan *reviewer*
+Pada tab **Detail** terdapat informasi asal surat, perihal, file lampiran, nomor surat, klasifikasi surat, tanggal surat, tujuan surat dan *reviewer*
 
 ![gambar](Memorandum/MM_Teams/MM33.png)
 
 #### Tracking Memorandum
 
-Pada tab *tracking* memorandum, ditampilkan informasi *tracking* memorandum dalam bentuk *chart*
+Pada tab **Tracking**, ditampilkan informasi *tracking* memorandum dalam bentuk *chart*
 
 ![gambar](Memorandum/MM_Teams/MM34.png)
 
 #### History Memorandum
 
-Pada tab *History* memorandum, ditampilkan riwayat memorandum yang terdapat informasi jabatan, tanggal, tindakan dan komentar
+Pada tab **History**, ditampilkan riwayat memorandum yang terdapat informasi jabatan, tanggal, tindakan dan komentar
 
 ![gambar](Memorandum/MM_Teams/MM35.png)
 
 ## **P-Office Versi Android**
 
-Langkah-langkah untuk melihat informasi Memorandum via Androiod adalah sebagai berikut :
+Langkah-langkah untuk melihat informasi memorandum via Android adalah sebagai berikut :
 
-1. Klik menu **Inbox/Draft/Outbox** dan pilih tab **Memorandum**.
+1. Klik menu **Inbox/Draft/Outbox** dan pilih tab **Memorandum**
 
 ![gambar](Memorandum/MM_Android/Infomemo/A01.jpg)![gambar](Memorandum/MM_Android/Infomemo/A02.jpg) 
 
@@ -88,17 +88,14 @@ Pilih salah satu memorandum yang akan dilihat informasinya kemudian  Detail memo
 
 ### Preview Memorandum
 
-Pada tab Informasi _Preview_ memorandum, ditampilkan _preview_ memorandum yang sudah dibuat. _Preview_ memorandum disesuaikan dengan template berdasarkan jenis surat
+Pada tombol **Preview** ditampilkan _preview_ memorandum yang sudah dibuat. _Preview_ memorandum disesuaikan dengan template berdasarkan jenis surat
 
 ![gambar](Memorandum/MM_Android/Infomemo/P01.jpg) 
 
-### Tracking Memorandum
-
-Pada tab _tracking_ memorandum, ditampilkan informasi _tracking_ memorandum dalam bentuk _chart_
 
 ### History Memorandum
 
-Pada tab _History_ memorandum, ditampilkan riwayat memorandum yang terdapat informasi jabatan, tanggal, tindakan dan komentar
+Pada tab **History**, ditampilkan riwayat memorandum yang terdapat informasi jabatan, tanggal, tindakan dan komentar
 
 ![gambar](Memorandum/MM_Android/Infomemo/H01.jpg) ![gambar](Memorandum/MM_Android/Infomemo/H02.jpg) 
 
@@ -112,22 +109,18 @@ Langkah-langkah untuk melihat informasi memorandum via IOS adalah sebagai beriku
 
 ### Preview Memorandum
 
-Pada tab Informasi _Preview_ memorandum, ditampilkan _preview_ memorandum yang sudah dibuat. _Preview_ memorandum disesuaikan dengan template berdasarkan jenis surat
+Pada tab **Preview**, ditampilkan _preview_ memorandum yang sudah dibuat. _Preview_ memorandum disesuaikan dengan template berdasarkan jenis surat
 
 ![gambar](Memorandum/MM_IOS/MM-29.png) ![gambar](Memorandum/MM_IOS/MM-30.png)
 
 ### Detail Memorandum
 
-Pada tab Detail memorandum, terdapat informasi asal surat, perihal, file lampiran, nomor surat, klasifikasi surat, tanggal surat, tujuan surat dan _reviewer_
+Pada Detail, terdapat informasi asal surat, perihal, file lampiran, nomor surat, klasifikasi surat, tanggal surat, tujuan surat dan _reviewer_
 
 ![gambar](Memorandum/MM_IOS/MM-31.png)
 
-### Tracking Memorandum
-
-Pada tab _tracking_ memorandum, ditampilkan informasi _tracking_ memorandum dalam bentuk _chart_
-
 ### History Memorandum
 
-Pada tab _History_ memorandum, ditampilkan riwayat memorandum yang terdapat informasi jabatan, tanggal, tindakan dan komentar
+Pada pilihan **History**, ditampilkan riwayat memorandum yang terdapat informasi jabatan, tanggal, tindakan dan komentar
 
-![gambar](Memorandum/MM_IOS/MM-33.png) ![gambar](Memorandum/MM_IOS/MM-34.png)
+![gambar](Memorandum/MM_IOS/MM-33.png) ![gambar](Memorandum/MM_IOS/MM-34.8.png)

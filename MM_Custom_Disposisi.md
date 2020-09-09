@@ -70,7 +70,7 @@ Langkah-langkah untuk Custom disposisi Memorandum via Android adalah sebagai ber
 
 ![gambar](Memorandum/MM_Android/Customdisposisi/A01.jpg) ![gambar](Memorandum/MM_Android/Customdisposisi/A02.jpg)
 
-2. Pilih memorandum yang akan didisposisikan kemudian pilih ikon **tombol button**
+2. Pilih memorandum yang akan didisposisikan kemudian pilih icon **Option**
 
 ![gambar](Memorandum/MM_Android/Customdisposisi/A03.jpg) ![gambar](Memorandum/MM_Android/Customdisposisi/A04.jpg)
 
@@ -78,7 +78,7 @@ Langkah-langkah untuk Custom disposisi Memorandum via Android adalah sebagai ber
 
 ![gambar](Memorandum/MM_Android/Customdisposisi/A05.jpg) ![gambar](Memorandum/MM_Android/Customdisposisi/A06.jpg)
 
-4. Sistem menampilkan form disposisi. Klik icon “+” pada field **Diteruskan Kepada**. Isikan informasi disposisi dan perintah untuk masing-masing penerima disposisi.
+4. Sistem menampilkan form disposisi. Klik icon “+” pada field **Forward To**. Isikan informasi disposisi dan perintah untuk masing-masing penerima disposisi.
 
 ![gambar](Memorandum/MM_Android/Customdisposisi/A07.jpg)
 
@@ -86,7 +86,7 @@ Langkah-langkah untuk Custom disposisi Memorandum via Android adalah sebagai ber
 
 ![gambar](Memorandum/MM_Android/Customdisposisi/A08.jpg)
 
-6. Isikan perintah dan keterangan pada masing-masing penerima disposisi. Tambahkan lampiran disposisi jika diperlukan. Fitur **Komentar Sama Untuk Semua** dapat digunakan _user_ untuk memberikan komentar yang sama untuk masing-masing pejabat penerima disposisi. Klik **Simpan** untuk menyimpan perubahan dan klik **Send** untuk mengirim disposisi.
+6. Isikan perintah dan keterangan pada masing-masing penerima disposisi. Tambahkan lampiran disposisi jika diperlukan. Fitur **Save Comment For All Untuk Semua** dapat digunakan _user_ untuk memberikan komentar yang sama untuk masing-masing pejabat penerima disposisi. Klik **Simpan** untuk menyimpan perubahan dan klik **Send** untuk mengirim disposisi.
 
 ![gambar](Memorandum/MM_Android/Customdisposisi/A09.jpg)
 
@@ -94,17 +94,15 @@ Langkah-langkah untuk Custom disposisi Memorandum via Android adalah sebagai ber
 
 Langkah-langkah untuk melakukan Custom disposisi memorandum via IOS adalah sebagai berikut :
 
-1. Klik menu **Inbox **dan pilih tab **Memorandum**
+1. Klik menu **Inbox** dan pilih tab **Memorandum**
 
-![gambar](Memorandum/MM_IOS/MM-85.png)
-![gambar](Memorandum/MM_IOS/MM-86.png)
+![gambar](Memorandum/MM_IOS/MM-85.png) ![gambar](Memorandum/MM_IOS/MM-86.png)
 
-2. Pilih memorandum yang akan didisposisikan kemudian pilih tab **Option **dan pilih **Disposition**
+2. Pilih memorandum yang akan didisposisikan kemudian pilih tab **Option** dan pilih **Disposition**
 
-![gambar](Memorandum/MM_IOS/MM-59.png)
-![gambar](Memorandum/MM_IOS/MM-60.png)
+![gambar](Memorandum/MM_IOS/MM-59.png) ![gambar](Memorandum/MM_IOS/MM-60.png)
 
-3. Sistem menampilkan form disposisi. Klik icon “**+ Add Disposition**” pada field **Forward To. **Isikan informasi disposisi dan perintah untuk masing-masing penerima disposisi
+3. Sistem menampilkan form disposisi. Klik icon “**+ Add Disposition**” pada field **Forward To.** Isikan informasi disposisi dan perintah untuk masing-masing penerima disposisi
 
 ![gambar](Memorandum/MM_IOS/MM-87.png)
 

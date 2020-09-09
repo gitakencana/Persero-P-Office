@@ -8,7 +8,7 @@
 
 ## **P-Office Versi Web**
 
-Langkah - langkah untuk menambah reviewer memorandum via Web adalah sebagai berikut
+Langkah - langkah untuk mengesahkan nomor memorandum via Web adalah sebagai berikut
 
 1. Klik menu **Inbox** dan pilih tab **Memorandum**
 
@@ -50,7 +50,7 @@ Langkah-langkah untuk Mengesahkan nomor Memorandum via Android adalah sebagai be
 
 ![gambar](Memorandum/MM_Android/Nomormemo/A01.jpg)![gambar](Memorandum/MM_Android/Nomormemo/A02.jpg)
 
-2. Pilih memorandum yang akan ditindak lanjuti kemudian **Detail** Pada tab **Detail** terdapat informasi nomor surat akan ter-_generate_ jika _user_ menyetujui memorandum.
+2. Pilih memorandum yang akan ditindak lanjuti kemudian Pada detail terdapat informasi nomor surat akan ter-_generate_ jika _user_ menyetujui memorandum.
 
 ![gambar](Memorandum/MM_Android/Nomormemo/A03.jpg) ![gambar](Memorandum/MM_Android/Nomormemo/A04.jpg)
 

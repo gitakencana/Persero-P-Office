@@ -1,5 +1,3 @@
-### Menambah Reviewer Baru Memorandum
-
 **Role yang sesuai**
 
 - *Approver User*
@@ -95,3 +93,4 @@ Langkah-langkah untuk menambah reviewer memorandum via IOS adalah sebagai beriku
 
 4. Klik Submit untuk mengirimkan kepada pejabat/reviewer yang dituju dan surat keluar akan tersimpan di menu “**Outbox - Memorandum**”. Untuk pejabat/reviewer baru akan menerima surat keluar di menu “**Inbox – Memorandum**”
 
+![gambar](SuratKeluar/SK_IOS/SK-46.png)

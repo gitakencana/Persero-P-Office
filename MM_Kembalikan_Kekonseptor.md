@@ -21,7 +21,7 @@ Langkah - langkah untuk mengembalikan memorandum ke konseptor via Web adalah seb
 
 ![gambar](Memorandum/MM_Web/MM-45.png)
 
-4. Sistem berhasil menyimpan perubahan. Memorandum yang sudah di kirim akan tersimpan di menu **Outbox- Memorandum** dan konseptor akan menerima memorandum di menu **Rejected - Memorandum**
+4. Sistem berhasil menyimpan perubahan. Memorandum yang sudah di kirim akan tersimpan di menu **Outbox - Memorandum** dan konseptor akan menerima memorandum di menu **Rejected - Memorandum**
 
 ## **P-Office Versi Teams**
 
@@ -49,7 +49,7 @@ Langkah-langkah untuk mengembalikan Memorandum ke konseptor via Android adalah s
 
 ![gambar](Memorandum/MM_Android/Konseptormemo/A01.jpg) ![gambar](Memorandum/MM_Android/Konseptormemo/A02.jpg)
 
-2. Pilih memorandum yang akan ditindak lanjuti kemudian pilih **tombol button**
+2. Pilih memorandum yang akan ditindak lanjuti kemudian pilih icon **Option**
 
 ![gambar](Memorandum/MM_Android/Konseptormemo/A03.jpg) ![gambar](Memorandum/MM_Android/Konseptormemo/A04.jpg)
 
@@ -57,7 +57,7 @@ Langkah-langkah untuk mengembalikan Memorandum ke konseptor via Android adalah s
 
 ![gambar](Memorandum/MM_Android/Konseptormemo/A05.jpg) ![gambar](Memorandum/MM_Android/Konseptormemo/A06.jpg)
 
-4. Sistem berhasil menyimpan perubahan. Memorandum yang sudah di kirim akan tersimpan di menu **Outbox- Memorandum** dan konseptor akan menerima memorandum di menu **Rejected – Memorandum**
+4. Sistem berhasil menyimpan perubahan. Memorandum yang sudah di kirim akan tersimpan di menu **Outbox - Memorandum** dan konseptor akan menerima memorandum di menu **Rejected – Memorandum**
 
 ## **P-Office Versi IOS**
 

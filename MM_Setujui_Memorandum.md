@@ -2,7 +2,6 @@ Role yang sesuai
 
 - *Approver User*
 - *Reviewer User*
-- *Member User* (Pekerja)
 
 *User* dapat menyetujui memorandum yang sudah dilakukan review dan memorandum akan dikirimkan ke *reviewer* selanjutnya atau *approver*. 
 

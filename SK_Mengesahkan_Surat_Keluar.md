@@ -16,14 +16,22 @@ Langkah - langkah untuk menambah reviewer surat keluar via Web adalah sebagai be
 
 ![gambar](SuratKeluar/SK_Web/SK53.png)
 
-3. Klik **Reject** kemudian pilih **Send**
+3. Klik **Approve** kemudian pilih **Send**
 
 ![gambar](SuratKeluar/SK_Web/SK54.png)
 
-4. Sistem menyimpan perubahan dan nomor surat keluar akan ter-*generate* sesuai dengan nomor sementara pada detail. Surat keluar yang sudah diseyujui akan tersimpan di menu **"Outbox - Surat Keluar"** pengirim sedangkan surat keluar akan tersimpan di menu **"Inbox - Surat Keluar"** penerima
+4. Sistem menampilkan *form* Validation of Digital Signature kemudian isikan alamat email untuk mengirim kode OTP validasi digital signature
+
+![gambar](SuratKeluar/SK_Web/SK55.png)
+
+5. Buka email dan salin kode OTP pada form P-Office kemudian klik **Sign**
+ 
+![gambar](SuratKeluar/SK_Web/SK56.png)
+
+6. Surat keluar yang sudah disetujui akan tersimpan di menu **"Outbox - Surat Keluar"** pengirim sedangkan surat keluar akan tersimpan di menu **"Inbox - Surat Keluar"** penerima
+
 
 ## **P-Office Versi Teams**
-
 
 Langkah - langkah untuk mengesahkan surat keluar via Teams adalah sebagai berikut :
 

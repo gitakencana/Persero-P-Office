@@ -2,7 +2,11 @@
 
 - *Member User* (Pekerja)
 
-*Member User* dapat melakukan *drafting* memorandum pada aplikasi P-Office. *Drafting* memorandum dilakukan jika *user* akan meneruskan dan melakukan perubahan pada memorandum yang sudah disimpan pada menu **Draft**. Langkah - langkah untuk melakukan *drafting* memorandum adalah sebagai berikut
+*Member User* dapat melakukan *drafting* memorandum pada aplikasi P-Office. *Drafting* memorandum dilakukan jika *user* akan meneruskan dan melakukan perubahan pada memorandum yang sudah disimpan pada menu **Draft**
+
+## **P-Office Versi Web**
+
+Langkah-langkah untuk drafting memorandum via Web adalah sebagai berikut :
 
 1. Klik menu **Draft** dan pilih tab **Memorandum**
 
@@ -29,7 +33,7 @@
 ![gambar](Memorandum/MM_Web/MM-23.png)
 
 
-#### [Edit] Word Desktop
+**[Edit] Word Desktop**
 
 Langkah - langkah untuk mengubah isi memorandum melalui Word Desktop adalah sebagai berikut
 
@@ -41,7 +45,7 @@ Langkah - langkah untuk mengubah isi memorandum melalui Word Desktop adalah seba
 
 ![gambar](Memorandum/MM_Web/MM-25.png)
 
-#### [Edit] Ubah Online
+**[Edit] Ubah Online**
 
 Langkah - langkah untuk mengubah isi memorandum secara online adalah sebagai berikut
 
@@ -59,7 +63,7 @@ Langkah - langkah untuk mengubah isi memorandum secara online adalah sebagai ber
 
 4. Surat yang sudah selesai diubah maka akan tersimpan di menu **"Draft - Memorandum"**
 
-#### Kirim Memorandum
+**Kirim Memorandum**
 
 Langkah - langkah untuk mengirim memorandum adalah sebagai berikut
 
@@ -98,7 +102,7 @@ Langkah-langkah untuk Drafting Memorandum via Teams adalah sebagai berikut :
 ![gambar](Memorandum/MM_Teams/MM26.png)
 
 
-#### [Edit] Word Desktop
+**[Edit] Word Desktop**
 
 Langkah - langkah untuk mengubah isi memorandum melalui Word Desktop adalah sebagai berikut
 
@@ -110,7 +114,7 @@ Langkah - langkah untuk mengubah isi memorandum melalui Word Desktop adalah seba
 
 ![gambar](Memorandum/MM_Teams/MM25.png)
 
-#### [Edit] Ubah Online
+**[Edit] Ubah Online**
 
 Langkah - langkah untuk mengubah isi memorandum secara online adalah sebagai berikut
 
@@ -128,7 +132,7 @@ Langkah - langkah untuk mengubah isi memorandum secara online adalah sebagai ber
 
 4. Surat yang sudah selesai diubah maka akan tersimpan di menu **"Draft - Memorandum"**
 
-#### Kirim Memorandum
+**Kirim Memorandum**
 
 Langkah - langkah untuk mengirim memorandum adalah sebagai berikut
 
@@ -140,17 +144,17 @@ Langkah - langkah untuk mengirim memorandum adalah sebagai berikut
 
 ## **P-Office Versi Android**
 
-Langkah-langkah untuk Drafting Memorandum adalah sebagai berikut :
+Langkah-langkah untuk drafting memorandum via Android adalah sebagai berikut :
 
 1. Klik menu **Draft** dan pilih tab **Memorandum**
 
 ![gambar](Memorandum/MM_Android/Draftmemo/A01.jpg) ![gambar](Memorandum/MM_Android/Draftmemo/A02.jpg)
 
-2. Pilih memorandum yang akan diubah. Pilih ikon **tombol button** kemudian klik **Edit**
+2. Pilih memorandum yang akan diubah. Pilih icon **Option** kemudian klik **Edit**
 
 ![gambar](Memorandum/MM_Android/Draftmemo/A03.jpg) 
 
-3. Lakukan perubahan pada _form _lalu klik **Next** sampai **Save** kemudian pilih **Save Mail** untuk menyimpan perubahan pada _form_ memorandum. Surat yang disimpan akan tersimpan di menu “**Draft – Memorandum”**
+3. Lakukan perubahan pada _form_ lalu klik **Next** sampai **Save** kemudian pilih **Save Mail** untuk menyimpan perubahan pada _form_ memorandum. Surat yang disimpan akan tersimpan di menu “**Draft – Memorandum”**
 
 ![gambar](Memorandum/MM_Android/Draftmemo/A04.jpg) ![gambar](Memorandum/MM_Android/Draftmemo/A05.jpg)
 
@@ -172,13 +176,13 @@ Langkah – langkah untuk mengubah isi memorandum secara _online_ adalah sebagai
 
 ![gambar](Memorandum/MM_Android/Draftmemo/U02.jpg) ![gambar](Memorandum/MM_Android/Draftmemo/U3.jpg)
 
-1. Isi surat akan otomatis tersimpan. Jika surat akan disimpan sebagai draft, maka klik **Close**.
+3. Isi surat akan otomatis tersimpan. Jika surat akan disimpan sebagai draft, maka klik **Close**.
 
 ![gambar](Memorandum/MM_Android/Draftmemo/U4.jpg)
 
 4. Surat yang sudah selesai diubah maka akan tersimpan di menu “**Draft – Memorandum”**
 
-### Kirim Memorandum
+**Kirim Memorandum**
 
 Langkah – langkah untuk mengirim memorandum adalah sebagai berikut.
 
@@ -189,29 +193,23 @@ Langkah – langkah untuk mengirim memorandum adalah sebagai berikut.
 2. Sistem menyimpan perubahan dan memorandum akan tersimpan di menu “**Outbox - Memorandum**”
 
 
-
 ## **P-Office Versi IOS**
 
-**Melakukan Drafting Memorandum**
-
-Langkah-langkah untuk melakukan _drafting_ memorandum adalah sebagai berikut:
+Langkah-langkah untuk melakukan _drafting_ memorandum via IOS adalah sebagai berikut:
 
 1.	Klik menu **Draft **dan pilih tab **Memorandum**
 
-![gambar](Memorandum/MM_IOS/MM-75.png)
-![gambar](Memorandum/MM_IOS/MM-18.png)
+![gambar](Memorandum/MM_IOS/MM-75.png) ![gambar](Memorandum/MM_IOS/MM-18.png)
 
 2.	Pilih memorandum yang akan diubah kemudian pilih icon **Option** dan pilih **Edit**
 
-![gambar](Memorandum/MM_IOS/MM-19.png)
-![gambar](Memorandum/MM_IOS/MM-20.png)
+![gambar](Memorandum/MM_IOS/MM-19.png) ![gambar](Memorandum/MM_IOS/MM-20.png)
 
-3.	Sistem akan menampilkan _form_ **Edit Memorandum. **Lakukan perubahan pada _form_ kemudian klik **Save **untuk menyimpan perubahan pada _form_ memorandum
+3.	Sistem akan menampilkan _form_ **Edit Memorandum.** Lakukan perubahan pada _form_ kemudian klik **Save** untuk menyimpan perubahan pada _form_ memorandum
 
-![gambar](Memorandum/MM_IOS/MM-21.png)
-![gambar](Memorandum/MM_IOS/MM-22.png)
+![gambar](Memorandum/MM_IOS/MM-21.png) ![gambar](Memorandum/MM_IOS/MM-22.png)
 
-4.	Setelah selesai, klik **Edit Content **untuk melakukan perubahan pada isi konten memorandum
+4.	Setelah selesai, klik **Edit Content** untuk melakukan perubahan pada isi konten memorandum
 
 ![gambar](Memorandum/MM_IOS/MM-24.png)
 
@@ -219,16 +217,18 @@ Langkah-langkah untuk melakukan _drafting_ memorandum adalah sebagai berikut:
 
 ![gambar](Memorandum/MM_IOS/MM-25.png)
 
-6.	Sistem akan menampilkan _pop up _notifikasi editing dokumen, klik **Yes **untuk menutup _pop up_ notifikasi
+6.	Sistem akan menampilkan _pop up _notifikasi editing dokumen, klik **Yes** untuk menutup _pop up_ notifikasi
 
 ![gambar](Memorandum/MM_IOS/MM-26.png)
 
 7.	Surat keluar yang sudah di ubah akan tersimpan dimenu “**Draft – Surat Keluar**”
 
-### Kirim Memorandum
+**Kirim Memorandum**
 
-Langkah – langkah untuk mengirim memorandum adalah sebagai berikut.
+Langkah – langkah untuk mengirim memorandum via IOS adalah sebagai berikut.
 
-1.	Pada tampilan _preview_ memorandum, klik **Kirim **untuk mengirim surat ke pejabat tujuan
+1.	Pada tampilan _preview_ memorandum, klik **Send** untuk mengirim surat ke pejabat tujuan
+
+![gambar](Memorandum/MM_IOS/MM-11.png)
 
 2.	Sistem menyimpan perubahan dan memorandum akan tersimpan di menu “**Outbox - Memorandum**”
