@@ -35,9 +35,18 @@ Langkah - langkah untuk mengesahkan fax keluar via Teams adalah sebagai berikut:
 
 ![gambar](FaxKeluar/FK_Teams/FK56.png)
 
-4. Sistem menyimpan perubahan dan nomor fax keluar akan ter-*generate* sesuai dengan nomor sementara pada detail. Fax keluar yang sudah diseyujui akan tersimpan di menu **"Outbox - Fax Keluar"** pengirim sedangkan fax keluar akan tersimpan di menu **"Inbox - Fax Keluar"** penerima.
+4.	Sistem akan menampilkan form Validation of Digital Signature
 
-## **P-Office Versi Teams**
+![gambar](FaxKeluar/FK_Teams/FKN1.png)
+ 
+5.	Kemudian isikan NIK dan PassPhrase pada form P-Office kemudian klik **Sign**
+
+![gambar](FaxKeluar/FK_Teams/FKN2.png)
+
+6.	Surat keluar yang sudah disetujui akan tersimpan di menu **“Outbox – Fax keluar”** pengiriman sedangkan surat keluar akan tersimpan di menu **“Inbox – Fax keluar”** penerima
+
+
+## **P-Office Versi Android**
 
 Langkah - langkah untuk mengesahkan fax keluar via Android adalah sebagai berikut:
 
