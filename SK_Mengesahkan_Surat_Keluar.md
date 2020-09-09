@@ -17,7 +17,7 @@ Langkah - langkah untuk menambah reviewer surat keluar via Web adalah sebagai be
 
 ![gambar](SuratKeluar/SK_Web/SK53.png)
 
-3. Klik **Reject** kemudian pilih **Send**
+3. Klik **Approve** kemudian pilih **Send**
 
 ![gambar](SuratKeluar/SK_Web/SK54.png)
 
