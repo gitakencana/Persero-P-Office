@@ -1,7 +1,5 @@
 **Role yang sesuai**
 
-- *Approver User*
-- *Reviewer User*
 - *Member User* (Pekerja)
 
 *User* dapat melakukan *drafting* fax keluar pada aplikasi P-Office. *Drafting* fax keluar dilakukan jika *user* akan meneruskan dan melakukan perubahan pada fax keluar yang sudah disimpan pada menu **Draft**. Langkah - langkah untuk melakukan *drafting* fax keluar adalah sebagai berikut
@@ -9,7 +7,6 @@
 1. Klik menu **Draft** dan pilih tab **Fax Keluar**
 
 ![gambar](FaxKeluar/FK_Web/FK16.jpg)
-
 
 2. Pilih fax keluar yang akan diubah. Pilih tab **Detail** kemudian klik **Edit**
 
@@ -142,15 +139,15 @@ Langkah - langkah untuk mengirim fax keluar adalah sebagai berikut
 2. Sistem menyimpan perubahan dan fax keluar akan tersimpan di menu **"Outbox - Fax keluar"**
 
 
-## **P-Office Versi Teams**
+## **P-Office Versi Android**
 
-Langkah - langkah untuk Draftinng fax keluar adalah sebagai berikut
+Langkah - langkah untuk drafting fax keluar via Android adalah sebagai berikut:
 
 1. Klik menu **Draft** dan pilih tab **Fax Keluar**
 
 ![gambar](FaxKeluar/FK_Android/DraftFK/A01.jpg) ![gambar](FaxKeluar/FK_Android/DraftFK/A02.jpg)
 
-2. Pilih fax keluar yang akan diubah. Pilih tab **Detail** kemudian klik **tombol button**
+2. Pilih fax keluar yang akan diubah. Kemudian pilih icon **Option**
    
 ![gambar](FaxKeluar/FK_Android/DraftFK/A03.jpg) ![gambar](FaxKeluar/FK_Android/DraftFK/A04.jpg)
 
@@ -166,7 +163,6 @@ Langkah - langkah untuk Draftinng fax keluar adalah sebagai berikut
 
 ![gambar](FaxKeluar/FK_Android/DraftFK/A09.jpg)
 
-
 6. Sistem menampilkan tampilan _preview_ fax keluar dalam bentuk Word yang dapat di edit. Untuk melakukan _editing_ terhadap isi surat klik **Ubah Isi** kemudian sistem akan menampilkan _pop up_ konfirmasi **Ubah Word Online**
    
 **[Edit] Ubah Online**
@@ -177,16 +173,13 @@ Langkah – langkah untuk mengubah isi fax keluar secara _online_ adalah sebagai
 
 ![gambar](FaxKeluar/FK_Android/DraftFK/U01.jpg)
 
-
 2. Lakukan perubahan pada isi surat lalu sistem akan menampilkan pop up P-Office Editing Document pilih **Yes**
 
 ![gambar](FaxKeluar/FK_Android/DraftFK/U02.jpg) ![gambar](FaxKeluar/FK_Android/DraftFK/U4.jpg) 
 
-
 3. Isi surat akan otomatis tersimpan. Jika surat akan disimpan sebagai draft, maka klik **Close.**
 
 ![gambar](FaxKeluar/FK_Android/DraftFK/U5.jpg) 
-
 
 4. Surat yang sudah selesai diubah maka akan tersimpan di menu “**Draft – Fax keluar”**
    
@@ -194,8 +187,48 @@ Langkah – langkah untuk mengubah isi fax keluar secara _online_ adalah sebagai
 
 Langkah – langkah untuk mengirim fax keluar adalah sebagai berikut.
 
-1. Pada tampilan _preview_ fax keluar, klik **Kirim** untuk mengirim surat ke pejabat tujuan
+1. Pada tampilan _preview_ fax keluar, klik **Send** untuk mengirim surat ke pejabat tujuan
 
 ![gambar](FaxKeluar/FK_Android/DraftFK/K01.jpg)
+
+2. Sistem menyimpan perubahan dan fax keluar akan tersimpan di menu “**Outbox - Fax keluar**”
+
+## **P-Office Versi IOS**
+
+Langkah - langkah untuk drafting fax keluar via IOS adalah sebagai berikut:
+
+1. Klik menu **Draft** dan pilih tab **Fax Keluar**
+
+![gambar](FaxKeluar/FK_IOS/FK-14.1.png) ![gambar](FaxKeluar/FK_IOS/FK-14.2.png) 
+
+2. Pilih fax keluar yang akan diubah. Kemudian pilih icon **Option** dan pilih **Edit**
+
+![gambar](FaxKeluar/FK_IOS/FK-15.1.png) ![gambar](FaxKeluar/FK_IOS/FK-15.2.png)
+
+3. Sistem akan menampilkan _form_ **Edit Fax Keluar**. Lakukan perubahan pada form kemudian klik **Save** untuk menyimpan perubahan pada form fax keluar
+
+![gambar](FaxKeluar/FK_IOS/FK-16.1.png) ![gambar](FaxKeluar/FK_IOS/FK-16.2.png)
+
+4.  Setelah selesai, klik **Edit Content** untuk melakukan perubahan pada isi konten fax keluar
+
+![gambar](FaxKeluar/FK_IOS/FK-17.png)
+
+5.	Sistem akan menampilkan tampilan preview fax keluar dalam bentuk Word yang dapat di edit. Untuk melakukan editing terhadap isi surat klik **Edit/Send**
+
+![gambar](FaxKeluar/FK_IOS/FK-18.png)
+
+6.  Sistem akan menampilkan *pop up* notifikasi editing dokumen, klik **Yes** untuk menutup *pop up* notifikasi
+
+![gambar](FaxKeluar/FK_IOS/FK-19.png)
+
+7.	Fax keluar yang sudah di ubah akan tersimpan dimenu **“Draft – Fax Keluar”**
+
+**Kirim Fax Keluar**
+
+Langkah – langkah untuk mengirim fax keluar adalah sebagai berikut.
+
+1. Pada tampilan _preview_ fax keluar, klik **Send** untuk mengirim surat ke pejabat tujuan
+
+![gambar](FaxKeluar/FK_IOS/FK-20.png)
 
 2. Sistem menyimpan perubahan dan fax keluar akan tersimpan di menu “**Outbox - Fax keluar**”

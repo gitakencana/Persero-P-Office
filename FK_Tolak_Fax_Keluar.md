@@ -46,7 +46,7 @@ Langkah - langkah untuk tolak fax keluar via Android adalah sebagai berikut:
 
 ![gambar](FaxKeluar/FK_Android/TolakFK/A1.jpg) ![gambar](FaxKeluar/FK_Android/TolakFK/AA1.jpg)
 
-2. Pilih fax keluar yang akan ditindak lanjuti kemudian pilih ikon **tombol button**
+2. Pilih fax keluar yang akan ditindak lanjuti kemudian pilih icon **Option**
 
  ![gambar](FaxKeluar/FK_Android/TolakFK/A01.jpg) ![gambar](FaxKeluar/FK_Android/TolakFK/A02.jpg)
 
@@ -55,3 +55,23 @@ Langkah - langkah untuk tolak fax keluar via Android adalah sebagai berikut:
 ![gambar](FaxKeluar/FK_Android/TolakFK/A03.jpg) ![gambar](FaxKeluar/FK_Android/TolakFK/A04.jpg)
 
 5. Sistem berhasil menyimpan perubahan fax keluar yang sudah di tolak akan tersimpan dimenu “**Rejected- Fax Keluar”** user penolak pada label “**Rejected”**
+
+
+## **P-Office Versi Android**
+
+Langkah - langkah untuk tolak fax keluar via Android adalah sebagai berikut:
+
+1. Klik menu **Inbox** dan pilih tab **Fax Keluar**
+
+![gambar](FaxKeluar/FK_IOS/FK-34.1.png) ![gambar](FaxKeluar/FK_IOS/FK-34.2.png)
+
+2. Pilih fax keluar yang akan ditindak lanjuti kemudian pilih icon **Option** dan pilih **Reject**
+
+![gambar](FaxKeluar/FK_IOS/FK-35.1.png) ![gambar](FaxKeluar/FK_IOS/FK-35.2.png)
+
+3.	Isikan komentar jika diperlukan kemudian klik **Send** untuk menyimpan perubahan
+
+![gambar](FaxKeluar/FK_IOS/FK-36.png)
+
+4. Sistem berhasil menyimpan perubahan fax keluar yang sudah di tolak akan tersimpan dimenu “**Rejected- Fax Keluar”** user penolak pada label “**Rejected”**
+

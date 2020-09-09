@@ -1,8 +1,3 @@
-**Ditujukan kepada**
-
-- *Approver User*
-- *Reviewer User*
-
 **Role yang sesuai**
 
 - *Member User* (Pekerja)
@@ -154,7 +149,7 @@ Langkah - langkah untuk mengirim fax keluar adalah sebagai berikut
 
 Langkah - langkah untuk tambah fax keluar via Android adalah sebagai berikut:
 
-1. Klik ikon **(+)** pada fax keluar
+1. Klik icon **(+)** pada fax keluar
 
 ![gambar](FaxKeluar/FK_Android/TambahFK/A01.jpg)
 
@@ -174,7 +169,7 @@ Langkah – langkah untuk menyimpan fax keluar adalah sebagai berikut.
 
 ![gambar](FaxKeluar/FK_Android/TambahFK/S01.jpg) ![gambar](FaxKeluar/FK_Android/TambahFK/S02.jpg) ![gambar](FaxKeluar/FK_Android/TambahFK/S03.jpg)
 
-###### **Kirim Fax Keluar**
+##### **Kirim Fax Keluar**
 
 Langkah – langkah untuk mengirim fax keluar adalah sebagai berikut.
 
@@ -190,38 +185,45 @@ Langkah – langkah untuk menambah fax keluar via IOS adalah sebagai berikut :
 
 Langkah-langkah untuk menambah fax keluar adalah sebagai berikut.
 
-1. Klik menu **New Correspondence**
+1. Klik icon **"+"** pada fax keluar
 
+![gambar](FaxKeluar/FK_IOS/FK-2.png)
 
-2. Pilih jenis surat “**Fax Keluar**” klik **Next **untuk melanjutkan pengisian form
+2. Pilih jenis surat “**Fax Keluar**” kemudian klik **Next** untuk pengisian form
 
+![gambar](FaxKeluar/FK_IOS/FK-3.png)
 
 3. Isi _form_ tambah fax keluar. Terdapat bebarapa aksi untuk menindaklanjuti fax keluar yang sudah diisi _form_nya yaitu **Simpan Fax keluar**, **Kirim Fax keluar** dan **Save as Template Fax keluar.**
 
-###### **Simpan Fax Keluar**
+![gambar](FaxKeluar/FK_IOS/FK-4.1.png) ![gambar](FaxKeluar/FK_IOS/FK-4.2.png)
+
+![gambar](FaxKeluar/FK_IOS/FK-4.3.png) ![gambar](FaxKeluar/FK_IOS/FK-4.4.png)
+
+
+#### **Simpan Fax Keluar**
 
 Langkah – langkah untuk menyimpan fax keluar adalah sebagai berikut :
 
 1. Isi _form_ fax keluar kemudian klik **Save**
 
-![gambar](FaxKeluar/FK_IOS/FK-2.png)
+![gambar](FaxKeluar/FK_IOS/FK-4.1.png) ![gambar](FaxKeluar/FK_IOS/FK-4.4.png)
 
-2. Pilih **Save Email** untuk menyimpan form fax keluar sebagai draft
+2. Pilih **Save Mail** untuk menyimpan form fax keluar sebagai draft
 
-![gambar](FaxKeluar/FK_IOS/FK-3.png)
+![gambar](FaxKeluar/FK_IOS/FK-6.png)
 
 3. Sistem akan menampilkan tampilan _preview_ fax keluar dalam bentuk Word yang dapat di edit. Untuk melakukan _editing_ terhadap isi surat klik **Edit/Send**
 
-![gambar](FaxKeluar/FK_IOS/FK-4.1.png) ![gambar](FaxKeluar/FK_IOS/FK-4.2.png)
+![gambar](FaxKeluar/FK_IOS/FK-7.png)
 
 4. Pilih **Edit Content,** kemudian aplikasi akan menampilkan editor Word Online. Lakukan perubahan pada isi konten, kemudian close editor Word Online. Sistem akan menampilkan _pop up _notifikasi editing dokumen, klik **Yes** untuk menutup _pop up_ notifikasi
 
-![gambar](FaxKeluar/FK_IOS/FK-4.3.png) ![gambar](FaxKeluar/FK_IOS/FK-4.4.png)
+![gambar](FaxKeluar/FK_IOS/FK-8.png)
 
 6. Fax keluar yang sudah di ubah akan tersimpan dimenu “**Draft – Surat Keluar**”
 
 
-###### **Kirim Fax Keluar**
+#### **Kirim Fax Keluar**
 
 Langkah – langkah untuk mengirim fax keluar adalah sebagai berikut :
 

@@ -46,12 +46,28 @@ Langkah - langkah untuk menyetujui fax keluar via Android adalah sebagai berikut
 
 ![gambar](FaxKeluar/FK_Android/SetujuFK/A01.jpg) ![gambar](FaxKeluar/FK_Android/SetujuFK/A02.jpg)
 
-2. Pilih fax keluar yang akan ditindak lanjuti kemudian pilih ikon **tombol button**
+2. Pilih fax keluar yang akan ditindak lanjuti kemudian pilih icon **Option**
    
 ![gambar](FaxKeluar/FK_Android/SetujuFK/A3.jpg) ![gambar](FaxKeluar/FK_Android/SetujuFK/A03.jpg)
 
-3. Klik tombol **Approve** kemudian Sistem akan menampilkan pop up konfirmasi dan _user_ harus mengisi komentar lalu pilih **Send.**
+3. Klik tombol **Approve** kemudian Sistem akan menampilkan pop up konfirmasi dan _user_ harus mengisi komentar lalu pilih **Send**
    
 ![gambar](FaxKeluar/FK_Android/SetujuFK/A04.jpg) ![gambar](FaxKeluar/FK_Android/SetujuFK/A05.jpg)
 
 4. Sistem berhasil menyimpan perubahan. Fax keluar yang sudah di kirim akan tersimpan di menu **Outbox- Fax Keluar**
+
+## **P-Office Versi IOS**
+
+Langkah - langkah untuk menyetujui fax keluar via IOS adalah sebagai berikut:
+
+1. Klik menu **Inbox** dan pilih tab **Fax Keluar**
+
+![gambar](FaxKeluar/FK_IOS/FK-25.1.png) ![gambar](FaxKeluar/FK_IOS/FK-25.2.png)
+
+2. Pilih fax keluar yang akan ditindak lanjuti kemudian pilih icon **Option** dan pilih **Approve**
+
+![gambar](FaxKeluar/FK_IOS/FK-26.1.png) ![gambar](FaxKeluar/FK_IOS/FK-26.2.png)
+
+3.	Isikan komentar jika diperlukan kemudian klik **Send** untuk menyimpan perubahan. Fax keluar yang sudah di kirim akan tersimpan di menu **"Outbox – Fax Keluar"** 
+
+![gambar](FaxKeluar/FK_IOS/FK-27.png)
