@@ -3,6 +3,7 @@
 - *Approver User*
 - *Reviewer User*
 - *Member User*
+- Sekretaris
 
 *User* dapat melihat dokumen memorandum pada menu Archive. 
 
@@ -20,7 +21,7 @@ Langkah - langkah untuk melihat dokumen memorandum via Web adalah sebagai beriku
 
 Langkah - langkah untuk melihat daftar dokumem memorandum via Teams adalah sebagai berikut :
 
-1. _Klik menu **Archive** dan pilih submenu Memorandum
+1. Klik menu **Archive** dan pilih submenu Memorandum
 
 ![gambar](Archive/AR_Teams/AR02.png)
 

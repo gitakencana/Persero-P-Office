@@ -84,6 +84,8 @@ Langkah-langkah untuk mengesahkan surat keluar via IOS adalah sebagai berikut :
 
 ![gambar](SuratKeluar/SK_IOS/SK-47.png) ![gambar](SuratKeluar/SK_IOS/SK-48.png)
 
-3.	Isikan komentar jika diperlukan kemudian klik **Send** untuk menyimpan perubahan. Nomor surat keluar akan ter-_generate_ sesuai dengan nomor sementara pada detail. Surat keluar yang sudah disetujui akan tersimpan di menu “**Outbox - Surat Keluar**” pengirim sedangkan surat keluar akan tersimpan di menu “**Inbox - Surat Keluar**” penerima.
+3. Sistem menampilkan *form* Approve Mail & Signing Documents. Isikan komentar, NIK dan Pass Phrase kemudian klik **Send**
 
-![gambar](SuratKeluar/SK_IOS/SK-49.png)
+![gambar](SuratKeluar/SK_IOS/SK-CR01.png)
+
+4. Nomor surat keluar akan ter-_generate_ sesuai dengan nomor sementara pada detail. Surat keluar yang sudah disetujui akan tersimpan di menu “**Outbox - Surat Keluar**” pengirim sedangkan surat keluar akan tersimpan di menu “**Inbox - Surat Keluar**” penerima.

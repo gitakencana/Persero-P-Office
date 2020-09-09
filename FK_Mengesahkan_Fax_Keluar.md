@@ -16,8 +16,15 @@
 
 ![gambar](FaxKeluar/FK_Web/FK52.jpg)
 
-4. Sistem menyimpan perubahan dan nomor fax keluar akan ter-*generate* sesuai dengan nomor sementara pada detail. Fax keluar yang sudah diseyujui akan tersimpan di menu **"Outbox - Fax Keluar"** pengirim sedangkan fax keluar akan tersimpan di menu **"Inbox - Fax Keluar"** penerima.
+4. Sistem menampilkan *form* Validation of Digital Signature kemudian isikan alamat email untuk mengirim kode OTP validasi digital signature kemudian klik **Send OTP**
 
+![gambar](FaxKeluar/FK_Web/FK-CR02.png)
+
+5. Buka email dan salin kode OTP pada form P-Office kemudian klik **Sign**
+
+![gambar](FaxKeluar/FK_Web/FK-CR03.png)
+
+6. Surat keluar yang sudah disetujui akan tersimpan di menu **"Outbox - Surat Keluar"** pengirim sedangkan surat keluar akan tersimpan di menu **"Inbox - Surat Keluar"** penerima
 
 ## **P-Office Versi Teams**
 
@@ -35,7 +42,7 @@ Langkah - langkah untuk mengesahkan fax keluar via Teams adalah sebagai berikut:
 
 ![gambar](FaxKeluar/FK_Teams/FK56.png)
 
-4.	Sistem akan menampilkan form Validation of Digital Signature
+4.	Sistem menampilkan form Validation of Digital Signature
 
 ![gambar](FaxKeluar/FK_Teams/FKN1.png)
  
@@ -72,8 +79,10 @@ Langkah - langkah untuk mengesahkan fax keluar via IOS adalah sebagai berikut:
 
 ![gambar](FaxKeluar/FK_IOS/FK-41.1.png) ![gambar](FaxKeluar/FK_IOS/FK-41.2.png)
 
-3.	Isikan komentar jika diperlukan kemudian klik **Send** untuk menyimpan perubahan. Nomor fax keluar akan ter-generate sesuai dengan nomor sementara pada detail. Fax keluar yang sudah disetujui akan tersimpan di menu **“Outbox - Fax Keluar”** pengirim sedangkan surat keluar akan tersimpan di menu **“Inbox - Fax Keluar”** penerima.
+3. Sistem menampilkan *form* Approve Mail & Signing Documents. Isikan komentar, NIK dan Pass Phrase kemudian klik **Send**
 
 ![gambar](FaxKeluar/FK_IOS/FK-42.png)
+
+4. Nomor surat keluar akan ter-_generate_ sesuai dengan nomor sementara pada detail. Surat keluar yang sudah disetujui akan tersimpan di menu “**Outbox - Surat Keluar**” pengirim sedangkan surat keluar akan tersimpan di menu “**Inbox - Surat Keluar**” penerima.
 
 ![](https://github.com/gitakencana/Persero-P-Office/blob/master/Video/Samsung%20vs%20Iphone.mp4)

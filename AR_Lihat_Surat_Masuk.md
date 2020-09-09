@@ -3,6 +3,7 @@
 - *Approver User*
 - *Reviewer User*
 - *Member User*
+- Sekretaris
 
 *User* dapat melihat dokumen surat masuk pada menu Archive. 
 
