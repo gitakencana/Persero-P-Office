@@ -67,4 +67,4 @@ Langkah - langkah untuk mengesahkan fax keluar via IOS adalah sebagai berikut:
 
 ![gambar](FaxKeluar/FK_IOS/FK-42.png)
 
-[![VIDEO](http://i3.ytimg.com/vi/BFnzaqnvquo/hqdefault.jpg)](https://www.youtube.com/watch?v=BFnzaqnvquo&ab_channel=iTechLife "Iphone vs Samsung")
+![](https://github.com/gitakencana/Persero-P-Office/blob/master/Video/Samsung%20vs%20Iphone.mp4)
