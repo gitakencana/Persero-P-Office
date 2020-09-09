@@ -66,11 +66,23 @@ Langkah-langkah untuk mengesahkan surat keluar via Android adalah sebagai beriku
 
 ![gambar](SuratKeluar/SK_Android/NomorSK/A01.jpg) ![gambar](SuratKeluar/SK_Android/NomorSK/A02.jpg)
 
-2. Pilih surat keluar yang akan ditindak lanjuti kemudian di bagian **Detail** terdapat informasi nomor surat yang akan ter-_generate_ jika _user_ menyetujui surat keluar.
+2. Pilih surat keluar yang akan ditindak lanjuti kemudian pilih tab **Detail**. Pada tab **Detail** terdapat informasi nomor surat yang masih bersifat sementara. Nomor inilah yang akan tergenerate jika user menyetujui surat keluar
 
-![gambar](SuratKeluar/SK_Android/NomorSK/A03.jpg) ![gambar](SuratKeluar/SK_Android/NomorSK/A04.jpg)
+![gambar](SuratKeluar/SK_Android/NomorSK/A03.jpg) !
 
-3. Surat keluar yang sudah disetujui akan tersimpan di menu “**Outbox - Surat Keluar**” pengirim sedangkan surat keluar akan tersimpan di menu “**Inbox - Surat Keluar**” penerima.
+3.pilih tombol **button** kemudian **Approve** 
+
+![gambar](SuratKeluar/SK_Android/NomorSK/A06.jpg) ![gambar](SuratKeluar/SK_Android/NomorSK/A07.jpg)
+
+4. Sistem akan menampilkan form Approve Mail & Signing Documents
+   
+![gambar](SuratKeluar/SK_Android/NomorSK/A08.jpg)
+
+5. Kemudian isikan **NIK** dan **PassPhrase** pada form P-Office kemudian klik **Send**
+   
+![gambar](SuratKeluar/SK_Android/NomorSK/A09.jpg)
+
+. Surat keluar yang sudah disetujui akan tersimpan di menu “**Outbox - Surat Keluar**” pengirim sedangkan surat keluar akan tersimpan di menu “**Inbox - Surat Keluar**” penerima.
 
 ## **P-Office Versi IOS**
 
