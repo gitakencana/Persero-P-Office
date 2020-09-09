@@ -3,6 +3,7 @@
 - *Approver User*
 - *Reviewer User*
 - *Member User* (Pekerja)
+- Sekretaris
 
 *User* dapat mengirim tanggapan disposisi fax masuk yang ditujukan untuk pejabat pengirim disposisi.
 
@@ -76,7 +77,7 @@ Langkah-langkah untuk kirim tanggapan disposisi fax masuk via IOS adalah sebagai
 
 1. Klik menu **Disposisi** dan pilih tab **Fax Masuk**
 
-![gambar](FaxMasuk/FM_IOS/FM-41.1.png) ![gambar](FaxMasuk/FM_IOS/FM-42.2.png)
+![gambar](FaxMasuk/FM_IOS/FM-42.1.png) ![gambar](FaxMasuk/FM_IOS/FM-42.2.png)
 
 2. Pilih disposisi yang akan dikirim tanggapan kemudian pilih icon **Option** dan pilih **Send Response**
 

@@ -19,7 +19,7 @@ Langkah - langkah untuk mendisposisikan fax masuk via Web adalah sebagai berikut
 
 ![gambar](FaxMasuk/FM_WEB/Disposisi02.png) 
 
-3. Klik tombol **Disposisi** dan pilih **Send**
+3. Klik tombol **Disposition** dan pilih **Send**
     
 ![gambar](FaxMasuk/FM_WEB/Disposisi03.png)
 
@@ -47,7 +47,7 @@ Langkah - langkah untuk mendisposisikan fax masuk via Web adalah sebagai berikut
 
 ![gambar](FaxMasuk/FM_WEB/Disposisi08.png) 
 
-5. Klik Simpan untuk menyimpan draft disposisi fax masuk dan fax masuk akan tersimpan di menu "Draft - Surat masuk". Klik Send untuk mengirim disposisi ketujuan dan disposisi surat masuk akan tersimpan di menu "Outbox - Disposisi".
+5. Klik Simpan untuk menyimpan draft disposisi fax masuk dan fax masuk akan tersimpan di menu **"Draft - Surat masuk"**. Klik Send untuk mengirim disposisi ketujuan dan disposisi surat masuk akan tersimpan di menu **"Outbox - Disposisi"**.
 
 ## **P-Office Versi Teams**
 
@@ -105,11 +105,11 @@ Langkah-langkah untuk mendisposisikan fax masuk adalah sebagai berikut :
 
 ![gambar](FaxMasuk/FM_Android/DisposisiFM/A01.jpg) ![gambar](FaxMasuk/FM_Android/DisposisiFM/A02.jpg)
 
-2. Pilih fax masuk yang akan didisposisikan kemudian pilih ikon **tombol button**
+2. Pilih fax masuk yang akan didisposisikan kemudian pilih icon **Option**
 
 ![gambar](FaxMasuk/FM_Android/DisposisiFM/A05.jpg) ![gambar](FaxMasuk/FM_Android/DisposisiFM/A06.jpg)
 
-3. Klik tombol **Disposisi** pada ikon button
+3. Klik tombol **Disposition**
 
 ![gambar](FaxMasuk/FM_Android/DisposisiFM/A07.jpg)
 
@@ -117,7 +117,7 @@ Langkah-langkah untuk mendisposisikan fax masuk adalah sebagai berikut :
 
 ![gambar](FaxMasuk/FM_Android/DisposisiFM/A08.jpg)
 
-5. Klik **Simpan** untuk menyimpan draft disposisi surat masuk dan surat masuk akan tersimpan di menu “**Draft – Surat masuk**”. Klik **Send** untuk mengirim disposisi ketujuan dan disposisi surat masuk akan tersimpan di menu “**Outbox – Disposisi**”.
+5. Klik **Save** untuk menyimpan draft disposisi surat masuk dan surat masuk akan tersimpan di menu “**Draft – Surat masuk**”. Klik **Send** untuk mengirim disposisi ketujuan dan disposisi surat masuk akan tersimpan di menu “**Outbox – Disposisi**”.
 
 ##### **Disposisi melalui Menu Disposisi**
 
@@ -125,7 +125,7 @@ Langkah-langkah untuk mendisposisikan fax masuk adalah sebagai berikut :
 
 ![gambar](FaxMasuk/FM_Android/DisposisiFM/A09.jpg) ![gambar](FaxMasuk/FM_Android/DisposisiFM/A10.jpg)
 
-2. Pilih fax masuk yang akan didisposisikan kemudian pilih ikon **tombol button**
+2. Pilih fax masuk yang akan didisposisikan kemudian pilih icon **Option**
 
 ![gambar](FaxMasuk/FM_Android/DisposisiFM/A11.jpg) ![gambar](FaxMasuk/FM_Android/DisposisiFM/A012.jpg)
 

@@ -3,6 +3,7 @@
 - *Approver User*
 - *Reviewer User*
 - *Member User* (Pekerja)
+- Sekretaris
 
 *User* dapat menyelesaikan disposisi fax masuk jika *user* tidak akan melanjutkan untuk mendisposisikan fax masuk ke pejabat lain. 
 
@@ -18,7 +19,7 @@ Langkah-langkah untuk menyelesaikan fax masuk Via Web adalah sebagai berikut :
 
 ![gambar](FaxMasuk/FM_WEB/SelesaiDisposisi02.png) 
 
-3. Pilih tombol **Selesaikan** kemudian klik **Send**
+3. Pilih tombol **Finish** kemudian klik **Send**
 
 ![gambar](FaxMasuk/FM_WEB/SelesaiDisposisi03.png) 
 
@@ -40,7 +41,7 @@ Langkah - langkah untuk menyelesaikan disposisi fax masuk via Teams adalah sebag
 
 ![gambar](FaxMasuk/FM_Teams/FM51.png)
 
-3. Pilih tombol **Finished** kemudian klik **Send**
+3. Pilih tombol **Finish** kemudian klik **Send**
 
 ![gambar](FaxMasuk/FM_Teams/FM52.png)
 
@@ -60,14 +61,13 @@ Langkah-langkah untuk menyelesaikan disposisi fax masuk via Android adalah sebag
 
 ![gambar](FaxMasuk/FM_Android/Selesaidisposisi/A01.jpg) ![gambar](FaxMasuk/FM_Android/Selesaidisposisi/A02.jpg) 
 
-2. Pilih disposisi yang akan diselesaikan kemudian pilih ikon **tombol button**
+2. Pilih disposisi yang akan diselesaikan kemudian pilih icon **Option**
 
 ![gambar](FaxMasuk/FM_Android/Selesaidisposisi/A03.jpg) ![gambar](FaxMasuk/FM_Android/Selesaidisposisi/A04.jpg) 
 
-3. Pilih tombol **Selesaikan** kemudian Sistem menampilkan pop up konfirmasi dan _user_ harus mengisi keterangan selesaikan disposisi kemudian klik **Send**.
+3. Pilih tombol **Finish** kemudian Sistem menampilkan pop up konfirmasi dan _user_ harus mengisi keterangan selesaikan disposisi kemudian klik **Send**.
 
 ![gambar](FaxMasuk/FM_Android/Selesaidisposisi/A05.jpg) ![gambar](FaxMasuk/FM_Android/Selesaidisposisi/A06.jpg) 
-
 
 4. Sistem menyimpan perubahan dan informasi selesai disposisi akan tersimpan di detail disposisi.
 
@@ -79,7 +79,7 @@ Langkah-langkah untuk menyelesaikan disposisi fax masuk via IOS adalah sebagai b
 
 ![gambar](FaxMasuk/FM_IOS/FM-39.1.png) ![gambar](FaxMasuk/FM_IOS/FM-39.2.png)
 
-2. Pilih disposisi yang akan diselesaikan kemudian pilih icon **Option** dan pilih **Selesaikan**
+2. Pilih disposisi yang akan diselesaikan kemudian pilih icon **Option** dan pilih **Finish**
 
 ![gambar](FaxMasuk/FM_IOS/FM-40.1.png) ![gambar](FaxMasuk/FM_IOS/FM-40.2.png) 
 

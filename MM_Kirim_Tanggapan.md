@@ -2,6 +2,7 @@
 
 - *Reviewer User*
 - *Member User* (Pekerja)
+- Sekretaris
 
 *User* dapat mengirim tanggapan disposisi memorandum yang ditujukan untuk pejabat pengirim disposisi. Langkah-langkah untuk mengirim tanggapan disposisi memorandum adalah sebagai berikut
 

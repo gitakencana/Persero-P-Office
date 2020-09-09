@@ -16,7 +16,7 @@ Langkah - langkah untuk menambah fax masuk via Web adalah sebagai berikut :
 
 ![gambar](FaxMasuk/FM_WEB/TambahFM02.png) 
 
-3. Isi form tambah fax masuk. Klik **Simpan** untuk menyimpan form surat dan surat akan tersimpan di menu **"Draft - Fax Masuk"**. Klik **Simpan** untuk mengirim fax masuk dan fax masuk akan tersimpan di menu **"Outbox - Fax Masuk"**
+3. Isi form tambah fax masuk. Klik **Save** untuk menyimpan form surat dan surat akan tersimpan di menu **"Draft - Fax Masuk"**. Klik **Send** untuk mengirim fax masuk dan fax masuk akan tersimpan di menu **"Outbox - Fax Masuk"**
 
 ![gambar](FaxMasuk/FM_WEB/TambahFM03.png)  ![gambar](FaxMasuk/FM_WEB/TambahFM04.png) 
 
@@ -46,7 +46,7 @@ Langkah - langkah untuk tambah fax masuk via Teams adalah sebagai berikut:
 
 Langkah-langkah untuk menambah fax masuk via Android adalah sebagai berikut :
 
-1. Klik menu ikon **(+)** pada fax masuk
+1. Klik icon **(+)** pada fax masuk
 
 ![gambar](FaxMasuk/FM_Android/TambahFM/A01.jpg)
 
@@ -66,7 +66,7 @@ Langkah-langkah untuk menambah fax masuk via Android adalah sebagai berikut :
 
 Langkah-langkah untuk menambah fax masuk via IOS adalah sebagai berikut :
 
-1. Klik menu **New Correspondence**
+1. Klik icon **(+)** pada fax masuk
 
 ![gambar](FaxMasuk/FM_IOS/FM-2.png)
 

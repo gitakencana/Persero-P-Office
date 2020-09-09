@@ -3,6 +3,7 @@
 - *Approver User*
 - *Reviewer User*
 - *Member User* (Pekerja)
+- Sekretaris
 
 *User* dapat melihat informasi lengkap fax masuk termasuk *preview* fax masuk, detail fax masuk, *tracking* fax masuk dan *history* fax masuk. 
 
@@ -16,25 +17,25 @@ Langkah - langkah untuk melihat informasi fax masuk via Web adalah sebagai berik
 
 #### **Preview Fax Masuk**
 
-Pada tab **Preview Fax Masuk**, ditampilkan *preview* fax masuk yang merupakan hasil unggahan yang diinputkan oleh sekretaris/konseptor
+Pada tab **Preview**, ditampilkan *preview* fax masuk yang merupakan hasil unggahan yang diinputkan oleh sekretaris/konseptor
 
 ![gambar](FaxMasuk/FM_WEB/PreviewFM01.png) 
 
 #### **Detail Fax Masuk**
 
-Pada tab **Detail Fax Masuk**, terdapat informasi asal surat, perihal, file lampiran, kategori surat, resume, rekomendasi, nomor surat, klasifikasi surat, tanggal surat dan tujuan.
+Pada tab **Detail**, terdapat informasi asal surat, perihal, file lampiran, kategori surat, resume, rekomendasi, nomor surat, klasifikasi surat, tanggal surat dan tujuan.
 
 ![gambar](FaxMasuk/FM_WEB/DetailFM01.png) 
 
 #### **Tracking Fax Masuk**
 
-Pada tab **Tracking Fax Masuk**, ditampilkan informasi *tracking* fax masuk dalam bentuk *chart*
+Pada tab **Tracking**, ditampilkan informasi *tracking* fax masuk dalam bentuk *chart*
 
 ![gambar](FaxMasuk/FM_WEB/TrackingFM01.png) 
 
 #### **History Fax Masuk**
 
-Pada tab **History Fax Masuk**, ditampilkan riwayat fax masuk yang terdapat informasi jabatan, tanggal, tindakan dan komentar
+Pada tab **History**, ditampilkan riwayat fax masuk yang terdapat informasi jabatan, tanggal, tindakan dan komentar
 
 ![gambar](FaxMasuk/FM_WEB/HistoryFM01.png) 
 
@@ -48,34 +49,27 @@ Langkah - langkah untuk melihat informasi fax masuk via Teams adalah sebagai ber
 
 #### **Preview Fax Masuk**
 
-Pada tab **Preview Fax Masuk**, ditampilkan *preview* fax masuk yang merupakan hasil unggahan yang diinputkan oleh sekretaris/konseptor
+Pada tab **Preview**, ditampilkan *preview* fax masuk yang merupakan hasil unggahan yang diinputkan oleh sekretaris/konseptor
 
 ![gambar](FaxMasuk/FM_Teams/FM40.png)
 
 ![gambar](FaxMasuk/FM_Teams/FM41.png)
 
-#### **Preview Lembar Penerus**
-Pada button Preview Lembar Penerus, ditampilkan informasi lembar penerus disposisi yang berisi informasi daftar nama pejabat dan perintah disposisi yang harus dilakukan oleh pejabat penerima disposisi
-
-![gambar](FaxMasuk/FM_Teams/FM42.png)
-
-![gambar](FaxMasuk/FM_Teams/FM43.png)
-
 #### **Detail Fax Masuk**
 
-Pada tab **Detail Fax Masuk**, terdapat informasi asal surat, perihal, file lampiran, kategori surat, resume, rekomendasi, nomor surat, klasifikasi surat, tanggal surat dan tujuan.
+Pada tab **Detail**, terdapat informasi asal surat, perihal, file lampiran, kategori surat, resume, rekomendasi, nomor surat, klasifikasi surat, tanggal surat dan tujuan.
 
 ![gambar](FaxMasuk/FM_Teams/FM44.png)
 
 #### **Tracking Fax Masuk**
 
-Pada tab **Tracking Fax Masuk**, ditampilkan informasi *tracking* fax masuk dalam bentuk *chart*
+Pada tab **Tracking**, ditampilkan informasi *tracking* fax masuk dalam bentuk *chart*
 
 ![gambar](FaxMasuk/FM_Teams/FM45.png)
 
 #### **History Fax Masuk**
 
-Pada tab **History Fax Masuk**, ditampilkan riwayat fax masuk yang terdapat informasi jabatan, tanggal, tindakan dan komentar
+Pada tab **History**, ditampilkan riwayat fax masuk yang terdapat informasi jabatan, tanggal, tindakan dan komentar
 
 ![gambar](FaxMasuk/FM_Teams/FM46.png)
 
@@ -93,24 +87,19 @@ Langkah-langkah untuk melihat informasi fax masuk adalah sebagai berikut :
 
 #### **Detail Fax Masuk**
 
-Pada tab **Detail Fax Masuk**, terdapat informasi asal surat, perihal, file lampiran, kategori surat, resume, rekomendasi, nomor surat, klasifikasi surat, tanggal surat dan tujuan.
+Pada tab **Detail**, terdapat informasi asal surat, perihal, file lampiran, kategori surat, resume, rekomendasi, nomor surat, klasifikasi surat, tanggal surat dan tujuan.
 
 ![gambar](FaxMasuk/FM_Android/InfoFM/D01.jpg)
 
-##### **Preview Fax Masuk**
+#### **Preview Fax Masuk**
 
-Pada tab **Preview Fax Masuk**, ditampilkan _preview_ fax masuk yang merupakan hasil unggahan yang diinputkan oleh sekretaris/konseptor.
+Pada tab **Preview**, ditampilkan _preview_ fax masuk yang merupakan hasil unggahan yang diinputkan oleh sekretaris/konseptor.
 
 ![gambar](FaxMasuk/FM_Android/InfoFM/P01.jpg) ![gambar](FaxMasuk/FM_Android/InfoFM/P02.jpg)
 
-##### **Tracking Fax Masuk**
+#### **History Fax Masuk**
 
-Pada tab **Tracking Fax Masuk**, ditampilkan informasi _tracking_ fax masuk dalam bentuk _chart_
-
-##### **History Fax Masuk**
-
-Pada tab **History Fax Masuk**, ditampilkan riwayat fax masuk yang terdapat informasi jabatan, tanggal, tindakan dan komentar
-
+Pada tab **History**, ditampilkan riwayat fax masuk yang terdapat informasi jabatan, tanggal, tindakan dan komentar
 
 ![gambar](FaxMasuk/FM_Android/InfoFM/H01.jpg) ![gambar](FaxMasuk/FM_Android/InfoFM/H02.jpg)
 
@@ -120,23 +109,22 @@ Langkah-langkah untuk melihat informasi fax masuk via IOS adalah sebagai berikut
 
 1. Klik menu **Inbox/Draft/Outbox** dan pilih tab **Fax masuk.** Pilih salah satu fax masuk yang akan dilihat informasinya
 
-
 ![gambar](FaxMasuk/FM_IOS/FM-10.1.png) ![gambar](FaxMasuk/FM_IOS/FM-10.2.png)
 
-###### **Preview Fax Masuk**
+##### **Preview Fax Masuk**
 
-Pada tab **Preview Fax Masuk**, ditampilkan _preview_ fax masuk yang merupakan hasil unggahan yang diinputkan oleh sekretaris/konseptor.
+Pada tab **Preview**, ditampilkan _preview_ fax masuk yang merupakan hasil unggahan yang diinputkan oleh sekretaris/konseptor.
 
 ![gambar](FaxMasuk/FM_IOS/FM-11.png)
 
-###### **Detail Fax Masuk**
+##### **Detail Fax Masuk**
 
-Pada tab **Detail Fax Masuk**, terdapat informasi asal surat, perihal, file lampiran, kategori surat, resume, rekomendasi, nomor surat, klasifikasi surat, tanggal surat dan tujuan.
+Pada tab **Detail**, terdapat informasi asal surat, perihal, file lampiran, kategori surat, resume, rekomendasi, nomor surat, klasifikasi surat, tanggal surat dan tujuan.
 
 ![gambar](FaxMasuk/FM_IOS/FM-12.png)
 
-###### **History Fax Masuk**
+##### **History Fax Masuk**
 
-Pada **History Fax Masuk**, ditampilkan riwayat fax masuk yang terdapat informasi jabatan, tanggal, tindakan dan komentar
+Pada **History**, ditampilkan riwayat fax masuk yang terdapat informasi jabatan, tanggal, tindakan dan komentar
 
 ![gambar](FaxMasuk/FM_IOS/FM-13.1.png) ![gambar](FaxMasuk/FM_IOS/FM-13.2.png)

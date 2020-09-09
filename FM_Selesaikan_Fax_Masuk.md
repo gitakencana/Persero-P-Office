@@ -2,7 +2,6 @@
 
 - *Approver User*
 - *Reviewer User*
-- *Member User* (Pekerja)
 
 *User* dapat menyelesaikan fax masuk jika *user* tidak akan melanjutkan untuk mendisposisikan fax masuk ke pejabat lain atau fax masuk selesai pada *user* tersebut. 
 
@@ -18,7 +17,7 @@ Langkah-langkah untuk menyelesaikan fax masuk via Web adalah sebagai berikut :
 
 ![gambar](FaxMasuk/FM_WEB/SelesaiFM02.png) 
 
-3. Pilih tombol **Selesai** kemudian klik **Send**
+3. Pilih tombol **Finish** kemudian klik **Send**
 
 ![gambar](FaxMasuk/FM_WEB/SelesaiFM03.png) 
 
@@ -42,7 +41,7 @@ Langkah - langkah untuk selesaikan fax masuk via Teams adalah sebagai berikut:
 
 3. Pilih tombol **Finish** kemudian klik **Send**
 
-![gambar](FaxMasuk/FM_Teams/21.png)
+![gambar](FaxMasuk/FM_Teams/FM21.png)
 
 4. Sistem menampilkan *pop up* konfirmasi dan *user* harus mengisi keterangan selesaikan disposisi kemudian klik **Save**.
 
@@ -58,7 +57,7 @@ Langkah-langkah untuk menyelesaikan fax masuk via Android adalah sebagai berikut
 
 ![gambar](FaxMasuk/FM_Android/SelesaiFM/A01.jpg) ![gambar](FaxMasuk/FM_Android/SelesaiFM/A02.jpg)
 
-2. Pilih fax masuk yang akan diselesaikan kemudian pilih ikon **tombol button**
+2. Pilih fax masuk yang akan diselesaikan kemudian pilih icon **Option**
 
 ![gambar](FaxMasuk/FM_Android/SelesaiFM/A03.jpg) ![gambar](FaxMasuk/FM_Android/SelesaiFM/A04.jpg)
 

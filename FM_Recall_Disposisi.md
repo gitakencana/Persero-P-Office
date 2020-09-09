@@ -42,7 +42,7 @@ Langkah-langkah untuk Recaall Fax masuk via Android adalah sebagai berikut :
 
 ![gambar](FaxMasuk/FM_Android/Recalldisposisi/A01.jpg) ![gambar](FaxMasuk/FM_Android/Recalldisposisi/A02.jpg)
 
-2. Pilih fax masuk yang akan di-_recall_ ,pada tab **Detail** pilih ikon **tombol button** kemudian **_Recall_.**
+2. Pilih fax masuk yang akan di-_recall_ ,pada **Detail** pilih icon **Option** kemudian **_Recall_.**
 
 ![gambar](FaxMasuk/FM_Android/Recalldisposisi/A03.jpg) ![gambar](FaxMasuk/FM_Android/Recalldisposisi/A04.jpg)
 
@@ -52,6 +52,7 @@ Langkah-langkah untuk Recaall Fax masuk via Android adalah sebagai berikut :
 
 
 # **P-Office Versi Android**
+
 Langkah-langkah untuk melakukan recall disposisi fax masuk IOS adalah sebagai berikut :
 
 1. Klik menu **Outbox** dan pilih tab **Disposisi**
