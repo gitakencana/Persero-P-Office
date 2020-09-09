@@ -55,7 +55,7 @@ Langkah - langkah untuk kembalikan kesebelumnya via Android adalah sebagai berik
 
 ![gambar](FaxKeluar/FK_Android/KembaliFK/A05.jpg) ![gambar](FaxKeluar/FK_Android/KembaliFK/A06.jpg)
 
-4. Sistem berhasil menyimpan perubahan. Fax keluar yang sudah di kirim akan tersimpan di menu **Outbox- Fax Keluar** dan penerima pengembalian fax keluar akan menerima fax keluar di menu **Draft - Fax Keluar**
+4. Sistem berhasil menyimpan perubahan. Fax keluar yang sudah di kirim akan tersimpan di menu **Outbox - Fax Keluar** dan penerima pengembalian fax keluar akan menerima fax keluar di menu **Draft - Fax Keluar**
 
 ## **P-Office Versi IOS**
 
@@ -69,6 +69,6 @@ Langkah - langkah untuk kembalikan kesebelumnya via IOS adalah sebagai berikut:
 
 ![gambar](FaxKeluar/FK_IOS/FK-29.1.png) ![gambar](FaxKeluar/FK_IOS/FK-29.2.png)
 
-3.  Isikan komentar jika diperlukan kemudian klik **Send** untuk menyimpan perubahan. Fax keluar yang sudah di kirim akan tersimpan di menu **Outbox – Fax Keluar**
+3.  Isikan komentar jika diperlukan kemudian klik **Send** untuk menyimpan perubahan. Fax keluar yang sudah di kirim akan tersimpan di menu **Outbox - Fax Keluar**
 
 ![gambar](FaxKeluar/FK_IOS/FK-30.png)
