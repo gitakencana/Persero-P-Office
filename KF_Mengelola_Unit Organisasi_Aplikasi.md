@@ -2,7 +2,7 @@
 
 - IT Admin
 
-IT Admin dapat mengelola unit organisasi pada aplikasi P-Office yang sudah didaftarkan di idProo. Informasi yang ditampilkan yaitu nama unit organisasi. Pengelolaan unit organisasi yang dilakukan oleh admin P-Office antara lain yaitu:
+IT Admin dapat mengelola unit organisasi pada aplikasi P-Office yang sudah didaftarkan di idProo. Informasi yang ditampilkan yaitu nama unit organisasi. Pengelolaan unit organisasi yang dilakukan oleh admin P-Office antara lain adalah sebagai berikut :
 
 - Melihat daftar unit organisasi pada aplikasi
 - Mencari daftar unit organisasi pada aplikasi

@@ -1,6 +1,6 @@
 - Admin P-Office
 
-Admin P-Office dapat mengelola tempat/lokasi yang digunakan dalam penginputan form surat. Pengelolaan data master lokasi yang dilakukan admin P-Office antara lain yaitu:
+Admin P-Office dapat mengelola tempat/lokasi yang digunakan dalam penginputan form surat. Pengelolaan data master lokasi yang dilakukan admin P-Office antara lain adalah sebagai berikut :
 
 - Mencari data master tempat
 - Menambah data master tempat

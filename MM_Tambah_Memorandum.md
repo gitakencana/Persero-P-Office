@@ -1,15 +1,14 @@
-**Ditujukan kepada**
-
-- *Approver User*
-- *Reviewer User*
-
 **Role yang sesuai**
 
 - *Member User* (Pekerja)
 
-Konseptor dapat menambah memorandum pada aplikasi P-Office. Langkah - langkah untuk menambah memorandum adalah sebagai berikut
+Konseptor dapat menambah memorandum pada aplikasi P-Office. 
 
-1. Klik menu New **Correspondence**
+## **P-Office Versi Web**
+
+langkah untuk menambah memorandum via Web adalah sebagai berikut
+
+1. Klik menu **New Correspondence**
 
 ![gambar](Memorandum/MM_Web/MM-2.png)
 
@@ -79,7 +78,7 @@ Langkah - langkah untuk mengirim memorandum adalah sebagai berikut
 
 Langkah-langkah untuk menambahkan Memorandum via Teams adalah sebagai berikut :
 
-1. Klik menu New **Correspondence**
+1. Klik menu **New Correspondence**
 
 ![gambar](Memorandum/MM_Teams/MM02.png)
 
@@ -87,7 +86,7 @@ Langkah-langkah untuk menambahkan Memorandum via Teams adalah sebagai berikut :
 
 ![gambar](Memorandum/MM_Teams/MM03.png)
 
-3. Isi *form* tambah memorandum. Terdapat bebarapa aksi untuk menindaklanjuti memorandum yang sudah diisi *form*nya yaitu **Save Memorandum**, **Cancel Memorandum** dan **Save as Template Memorandum**.
+3. Isi *form* tambah memorandum. Terdapat bebarapa aksi untuk menindaklanjuti memorandum yang sudah diisi *form*nya yaitu **Save Memorandum**, **Send Memorandum** dan **Save as Template Memorandum**.
 
 ![gambar](Memorandum/MM_Teams/MM04.png)
 
@@ -149,7 +148,7 @@ Langkah - langkah untuk mengirim memorandum adalah sebagai berikut
 
 Langkah-langkah untuk menambah Memorandum adalah sebagai berikut :
 
-1. 	Klik ikon **(+)** untuk membuat memorandum
+1. 	Klik icon **(+)** untuk membuat memorandum
 
 ![gambar](Memorandum/MM_Android/Tambahmemo/A01.jpg)
 
@@ -161,7 +160,7 @@ Langkah-langkah untuk menambah Memorandum adalah sebagai berikut :
 
 ![gambar](Memorandum/MM_Android/Tambahmemo/A03.jpg) ![gambar](Memorandum/MM_Android/Tambahmemo/A04.jpg) ![gambar](Memorandum/MM_Android/Tambahmemo/A05.jpg)
 
-**Simpan Memorandum**
+### Simpan Memorandum
 
 Langkah – langkah untuk menyimpan memorandum adalah sebagai berikut.
 
@@ -169,4 +168,54 @@ Langkah – langkah untuk menyimpan memorandum adalah sebagai berikut.
 
 ![gambar](Memorandum/MM_Android/Tambahmemo/S01.jpg) ![gambar](Memorandum/MM_Android/Tambahmemo/S02.jpg)
 
-2. Sistem akan menyimoan perubahaan dan memorandum akan tersimpan di menu **Draft-Memorandum**
+2. Sistem akan menyimpan perubahaan dan memorandum akan tersimpan di menu **Draft-Memorandum**
+
+## **P-Office Versi IOS**
+
+Langkah-langkah untuk menambah memorandum adalah sebagai berikut.
+
+1.	Klik icon **"+"** untuk membuat memorandum
+
+![gambar](Memorandum/MM_IOS/MM-3.png)
+
+2.	Pilih jenis surat “**Memorandum**” kemudian klik **Next**
+
+![gambar](Memorandum/MM_IOS/MM-4.png)
+
+3.	Isi _form_ tambah memorandum. Terdapat bebarapa aksi untuk menindaklanjuti memorandum yang sudah diisi _form_nya yaitu **Simpan Memorandum**, **Kirim Memorandum** dan **Save as Template Memorandum.**
+
+![gambar](Memorandum/MM_IOS/MM-5.png) ![gambar](Memorandum/MM_IOS/MM-6.png)
+![gambar](Memorandum/MM_IOS/MM-7.png)
+
+### Simpan Memorandum
+
+Langkah – langkah untuk menyimpan memorandum adalah sebagai berikut.
+
+1.	Isi _form_ memorandum kemudian klik **Save**
+
+![gambar](Memorandum/MM_IOS/MM-68.png) ![gambar](Memorandum/MM_IOS/MM-69.png)
+
+2.	Setelah selesai, klik **Save Mail** untuk menyimpan surat keluar sebagai draft
+
+![gambar](Memorandum/MM_IOS/MM-8.png)
+
+3.	Sistem akan menampilkan tampilan _preview_ surat keluar dalam bentuk Word yang dapat di edit. Untuk melakukan _editing_ terhadap isi surat klik **Edit/Send**
+
+![gambar](Memorandum/MM_IOS/MM-9.png)
+
+4.	Pilih **Edit Content,** kemudian aplikasi akan menampilkan editor Word Online. Lakukan perubahan pada isi konten, kemudian close editor Word Online. Sistem akan menampilkan _pop up _notifikasi editing dokumen, klik **Yes** untuk menutup _pop up_ notifikasi
+
+![gambar](Memorandum/MM_IOS/MM-10.png) ![gambar](Memorandum/MM_IOS/MM-71.png)
+
+5.	Memorandum yang sudah di ubah akan tersimpan dimenu “**Draft – Memorandum**”
+
+### Kirim Memorandum
+
+Langkah – langkah untuk mengirim memorandum adalah sebagai berikut.
+
+1.	Pada tampilan _preview_ memorandum, klik **Send** untuk mengirim surat ke pejabat tujuan
+
+![gambar](Memorandum/MM_IOS/MM-11.png)
+
+2.	Sistem menyimpan perubahan dan memorandum akan tersimpan di menu “**Outbox - Memorandum**”
+

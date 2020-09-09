@@ -45,8 +45,26 @@ Langkah - langkah untuk mengesahkan fax keluar via Android adalah sebagai beriku
 
 ![gambar](FaxKeluar/FK_Android/NomorFK/A01.jpg) ![gambar](FaxKeluar/FK_Android/NomorFK/A02.jpg) 
 
-2. Pilih fax keluar yang akan ditindak lanjuti kemudian Pada tab **Detail** terdapat informasi nomor surat yang masih bersifat sementara. Nomor inilah yang akan ter-_generate_ jika _user_ menyetujui fax keluar.
+2. Pilih fax keluar yang akan ditindak lanjuti kemudian pada **Detail** terdapat informasi nomor surat yang masih bersifat sementara. Nomor inilah yang akan ter-_generate_ jika _user_ menyetujui fax keluar. Pilih icon **Option** dan pilih **Approve**
 
 ![gambar](FaxKeluar/FK_Android/NomorFK/A04.jpg) ![gambar](FaxKeluar/FK_Android/NomorFK/A05.jpg)  
 
 3. Sistem menyimpan perubahan dan nomor fax keluar akan ter-_generate_ sesuai dengan nomor sementara pada detail. Fax keluar yang sudah disetujui akan tersimpan di menu “**Outbox - Fax Keluar**” pengirim sedangkan fax keluar akan tersimpan di menu “**Inbox - Fax Keluar**” penerima.
+
+## **P-Office Versi IOS**
+
+Langkah - langkah untuk mengesahkan fax keluar via IOS adalah sebagai berikut:
+
+1. Klik menu **Inbox** dan pilih tab **Fax Keluar**
+
+![gambar](FaxKeluar/FK_IOS/FK-34.1.png) ![gambar](FaxKeluar/FK_IOS/FK-34.2.png)
+
+2. Pilih fax keluar yang akan ditindak lanjuti kemudian pada **Detail** terdapat informasi nomor surat yang masih bersifat sementara. Nomor inilah yang akan ter-_generate_ jika _user_ menyetujui fax keluar. Pilih icon **Option** dan pilih **Approve**
+
+![gambar](FaxKeluar/FK_IOS/FK-41.1.png) ![gambar](FaxKeluar/FK_IOS/FK-41.2.png)
+
+3.	Isikan komentar jika diperlukan kemudian klik **Send** untuk menyimpan perubahan. Nomor fax keluar akan ter-generate sesuai dengan nomor sementara pada detail. Fax keluar yang sudah disetujui akan tersimpan di menu **“Outbox - Fax Keluar”** pengirim sedangkan surat keluar akan tersimpan di menu **“Inbox - Fax Keluar”** penerima.
+
+![gambar](FaxKeluar/FK_IOS/FK-42.png)
+
+![](https://github.com/gitakencana/Persero-P-Office/blob/master/Video/Samsung%20vs%20Iphone.mp4)

@@ -2,7 +2,7 @@
 
 - Sekretaris
 
-Sekretaris dapat melihat daftar dokumen masuk (Inbox) yang mencatatkan seluruh dokumen yang masuk kepada jabatan atasan sekretaris. Langkah � langkah untuk melihat daftar dokumen masuk (Inbox) adalah sebagai berikut.
+Sekretaris dapat melihat daftar dokumen masuk (Inbox) yang mencatatkan seluruh dokumen yang masuk kepada jabatan atasan sekretaris. 
 
 ## **P-Office Versi Web**
 

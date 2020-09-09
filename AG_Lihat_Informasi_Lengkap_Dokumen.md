@@ -4,7 +4,9 @@
 
 Sekretaris dapat melihat detail surat baik surat yang berklasifikasi "Biasa", "Terbatas", "Rahasia" dan "Sangat Rahasia". Sedangkan sebagai *role* sekretaris hanya dapat melihat detail surat yang berklasifikasi "Biasa" dan "Terbatas". Informasi yang ditampikan detail surat antara lain yaitu
 
-Langkah - langkah untuk melakukan melihat detail dokumen masuk, dokumen keluar dan dokumen disposisi adalah sebagai berikut.
+## **P-Office Versi Web**
+
+Langkah - langkah untuk melakukan melihat detail dokumen masuk, dokumen keluar dan dokumen disposisi via Web adalah sebagai berikut.
 
 1. Klik menu **Document Control** dan pilih tab **Dokumen Masuk / Dokumen Keluar / Dokumen Disposisi**
 

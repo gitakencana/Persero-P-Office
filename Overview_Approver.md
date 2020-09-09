@@ -1,25 +1,21 @@
 Pada bagian ini akan dijelaskan mengenai role sebagai *approver* dalam aplikasi P-Office yang mengelola menu surat masuk, surat keluar, memorandum, fax masuk, fax keluar, SP3S dan SPPTH. Sekretaris adalah pekerja yang diberikan wewenang untuk melakukan pekerjaan misalnya pencatatan surat masuk, mengelola agenda kendali, mengelola dokumen yang masuk pada atasan pejabatnya dan lain-lain. 
-Berikut adalah role approver dalam aplikasi P-Office antara lain yaitu:
+Berikut adalah role approver dalam aplikasi P-Office antara lain adalah sebagai berikut :
 
 ### **Surat Masuk**
 
 Pada modul ini mendukung proses input surat masuk oleh sekretaris berdasarkan berkas fisik yang diterima dan kemudian dikirimkan ke pejabat penerima surat. Pejabat tersebut dapat meneruskan surat dengan mendisposisikan surat kepada pejabat tujuan lainnya ataupun pejabat yang ada di bawahnya.
 Hal-hal yang dapat dilakukan oleh *approver* dalam mengelola surat masuk antara lain:
 
-
-- [Melihat Informasi Lengkap Disposisi Surat Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver-suratmasuk/bbe52f3a684b47fabcf15e4266689600)
 - [Melihat Daftar Surat Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver-suratmasuk/135d71654b6d43d5b4217cbb69ae74a7)
-- [Menambah Surat Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver-suratmasuk/f79d1215019140e995e3976590d3aa40)
-- [Melakukan Drafting Surat Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver-suratmasuk/dff5fd9dd63248c18f8e18b7c9fbc59e)
 - [Melihat Informasi lengkap Surat Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver-suratmasuk/59c8f5d18c214cb49ddf54071ce12cbe)
 - [Menyelesaikan Surat Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver-suratmasuk/e60da80b510e4038b124ac8954498bae)
 - [Menolak Surat Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver-suratmasuk/08e806ac612f48e58529b3c5f09fdeaf)
 - [Melihat Daftar Disposisi Surat Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver-suratmasuk/a3f402d9357841618fcbc2668a78aed1)
 - [Mendisposisikan Surat Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver-suratmasuk/f97440e003bd4f5fa3f626475a6dfa03)
 - [Melakukan Custom Disposisi](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver-suratmasuk/d3634dd1f3de40d3b652c45410fccf08)
+- [Melihat Informasi Lengkap Disposisi Surat Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver-suratmasuk/bbe52f3a684b47fabcf15e4266689600)
 - [Melakukan Recall Disposisi Surat Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver-suratmasuk/c0df8ac81af54ceb96b96c359b9fd954)
 - [Menyelesaikan Disposisi Surat Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver-suratmasuk/1d3f1c9a3ba9406da3302e7133efc3b2)
-- [Mengirim Tanggapan Disposisi Surat Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver-suratmasuk/1d3f1c9a3ba9406da3302e7133efc3b2)
 
 
 
@@ -66,15 +62,15 @@ Hal-hal yang dapat dilakukan oleh *approver* dalam mengelola memorandum antara l
 Pada modul ini mendukung proses penambahan fax masuk oleh sekretaris atau pekerja yang ditunjuk dari pejabat yang bersangkutan. Fax masuk yang sudah diinputkan akan dikirimkan kepada pejabat pemilik KBO dan dapat dilakukan disposisi kepada pejabat yang ada di bawahnya. 
 Hal-hal yang dapat dilakukan oleh *approver* dalam mengelola fax masuk antara lain:
 
-- [Melihat Daftar Fax Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver-faxmasuk/f1c7f68a0cc44f9087947e42426edff1)
-- [Melihat Informasi Lengkap Disposisi Fax Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver-faxmasuk/f1c7f68a0cc44f9087947e42426edff1)
-- [Menolak Fax Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver-faxmasuk/11e137a406444b299e93ebdb6a2447d9)
-- [Menyelesaikan Fax Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver-faxmasuk/3ab30534b1954a69a95378f54d95b0ff)
-- [Mendisposisikan Fax Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver-faxmasuk/58c86a5d6650409d8a68388f97fd5318)
-- [Melakukan Custom Disposisi Fax Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver-faxmasuk/890f05431b90405fbde1ca2a0089d6f9)
-- [Melihat Informasi Lengkap Disposisi Fax Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver-faxmasuk/b94057c51dbe43dc812ec7ee095f8f6a)
-- [Melakukan Recall Disposisi Fax Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver-faxmasuk/d269d2cdd2ca4d5e8e7e57017479af48)
-- [Menyelesaikan Disposisi Fax Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver-faxmasuk/58f816ad44ec493aaadc7dd7f72fc6be)
+- [Melihat Daftar Fax Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver-FaxMasuk/f1c7f68a0cc44f9087947e42426edff1)
+- [Melihat Informasi Lengkap Disposisi Fax Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver-FaxMasuk/f1c7f68a0cc44f9087947e42426edff1)
+- [Menolak Fax Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver-FaxMasuk/11e137a406444b299e93ebdb6a2447d9)
+- [Menyelesaikan Fax Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver-FaxMasuk/3ab30534b1954a69a95378f54d95b0ff)
+- [Mendisposisikan Fax Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver-FaxMasuk/58c86a5d6650409d8a68388f97fd5318)
+- [Melakukan Custom Disposisi Fax Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver-FaxMasuk/890f05431b90405fbde1ca2a0089d6f9)
+- [Melihat Informasi Lengkap Disposisi Fax Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver-FaxMasuk/b94057c51dbe43dc812ec7ee095f8f6a)
+- [Melakukan Recall Disposisi Fax Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver-FaxMasuk/d269d2cdd2ca4d5e8e7e57017479af48)
+- [Menyelesaikan Disposisi Fax Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver-FaxMasuk/58f816ad44ec493aaadc7dd7f72fc6be)
 
 
 ### **Fax Keluar**

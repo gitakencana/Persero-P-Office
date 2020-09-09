@@ -2,7 +2,7 @@
 
 - IT Admin
 
-IT Admin dapat mengelola pemindahan / move dokumen pada unit kerja satu ke unit kerja yang lain. Hal ini bertujuan jika unit kerja yang mengalami perubahan dan dokumen di unit kerja lama akan dipindahkan ke unit kerja yang baru. Pengelolaan pemindahan  dokumen yang dilakukan oleh admin P-Office antara lain yaitu:
+IT Admin dapat mengelola pemindahan / move dokumen pada unit kerja satu ke unit kerja yang lain. Hal ini bertujuan jika unit kerja yang mengalami perubahan dan dokumen di unit kerja lama akan dipindahkan ke unit kerja yang baru. Pengelolaan pemindahan  dokumen yang dilakukan oleh admin P-Office antara lain adalah sebagai berikut :
 
 - Melihat daftar dokumen
 - Mencari dokumen

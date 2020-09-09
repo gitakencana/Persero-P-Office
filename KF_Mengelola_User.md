@@ -2,7 +2,7 @@
 
 - IT Admin
 
-IT Admin dapat mengelola user pada aplikasi P-Office yang sudah didaftarkan pada sistem manajemen user. Informasi yang ditampilkan yaitu nama, alamat email dan no telepon. Pengelolaan user yang dilakukan oleh admin P-Office antara lain yaitu:
+IT Admin dapat mengelola user pada aplikasi P-Office yang sudah didaftarkan pada sistem manajemen user. Informasi yang ditampilkan yaitu nama, alamat email dan no telepon. Pengelolaan user yang dilakukan oleh admin P-Office antara lain adalah sebagai berikut :
 
 - Melihat daftar user pada aplikasi
 - Mencari daftar user pada aplikasi

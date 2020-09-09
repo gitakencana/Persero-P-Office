@@ -2,12 +2,13 @@
 
 - *Reviewer User*
 - *Member User* (Pekerja)
+- Sekretaris
 
  _User_ dapat mengirim tanggapan disposisi surat masuk yang ditujukan untuk pejabat pengirim disposisi. Langkah-langkah untuk mengirim tanggapan disposisi surat masuk adalah sebagai berikut
 
 ## **P-Office Versi Web**
 
-Langkah - langkah untuk mengirim tanggapan via Web yaitu :
+Langkah - langkah untuk mengirim tanggapan via Web adalah sebagai berikut :
 
 1.    Klik menu **Disposition** dan pilih tab **Surat Masuk**
 
@@ -21,16 +22,16 @@ Langkah - langkah untuk mengirim tanggapan via Web yaitu :
 
 ![gambar](SuratMasuk/SM_Web/SM50.png)
 
-4.    Sistem menampilkan _pop up_ konfirmasi dan _user_ harus mengisi keterangan kirim tanggapan disposisi kemudian klik **Save**.
+4.    Sistem menampilkan _pop up_ konfirmasi dan _user_ harus mengisi keterangan kirim tanggapan disposisi kemudian klik **Save**
 
 ![gambar](SuratMasuk/SM_Web/SM51.png)
 
-5.    Sistem menyimpan perubahan dan informasi tanggapan disposisi akan tersimpan di detail disposisi.
+5.    Sistem menyimpan perubahan dan informasi tanggapan disposisi akan tersimpan di detail disposisi
 
 
 ## **P-Office Versi Teams**
 
-Langkah - langkah untuk kirim tanggapan via Teams yaitu :
+Langkah - langkah untuk kirim tanggapan via Teams adalah sebagai berikut :
 
 1. Klik menu **Disposition** dan pilih tab **Surat Masuk**
 
@@ -48,24 +49,43 @@ Langkah - langkah untuk kirim tanggapan via Teams yaitu :
 
 ![gambar](SuratMasuk/SM_Teams/SM56.png)
 
-5.    Sistem menyimpan perubahan dan informasi tanggapan disposisi akan tersimpan di detail disposisi.
+5.    Sistem menyimpan perubahan dan informasi tanggapan disposisi akan tersimpan di detail disposisi
 
 
 ## **P-Office Versi Android**
 
-Langkah - langkah untuk mengirim tanggapan via Android yaitu:
+Langkah - langkah untuk mengirim tanggapan via Android adalah sebagai berikut :
 
 1. Klik menu **Disposisi** dan pilih tab **Surat Masuk**
    
 ![gambar](SuratMasuk/SM_Android/Tanggapdisposisi/A01.jpg) ![gambar](SuratMasuk/SM_Android/Tanggapdisposisi/A02.jpg) 
 
-2. Pilih disposisi yang akan dikirim tanggapan kemudian pilih ikon tombol **button**
+2. Pilih disposisi yang akan dikirim tanggapan kemudian pilih icon **Option**
 
 ![gambar](SuratMasuk/SM_Android/Tanggapdisposisi/A03.jpg) ![gambar](SuratMasuk/SM_Android/Tanggapdisposisi/A04.jpg) 
 
-3. Pilih tombol Send Response kemudian Sistem akan menampilkan pop up konfirmasi dan user harus mengisi komentar send response disposisi kemudian klik Send.
+3. Pilih tombol **Send Response** kemudian sistem akan menampilkan pop up konfirmasi dan user harus mengisi komentar send response disposisi kemudian klik **Send**
 
 ![gambar](SuratMasuk/SM_Android/Tanggapdisposisi/A05.jpg) ![gambar](SuratMasuk/SM_Android/Tanggapdisposisi/A06.jpg) 
 
-4. Sistem menyimpan perubahan dan informasi tanggapan disposisi akan tersimpan di detail disposisi.
+4. Sistem menyimpan perubahan dan informasi tanggapan disposisi akan tersimpan di detail disposisi
+
+
+## **P-Office Versi IOS**
+
+Langkah-langkah untuk mengirim tanggapan disposisi surat via IOS yaitu:
+
+1.	Klik menu **Disposisi** dan pilih tab **Surat Masuk**
+
+![gambar](SuratMasuk/SM_IOS/SM-65.png) ![gambar](SuratMasuk/SM_IOS/SM-66.png)
+
+2.	Pilih disposisi yang akan dikirim tanggapan kemudian pilih icon **Option** dan pilih **Send Response**
+
+![gambar](SuratMasuk/SM_IOS/SM-49.png)
+
+3.	Sistem menampilkan pop up konfirmasi dan _user_ harus mengisi keterangan kirim tanggapan disposisi kemudian klik **Send**
+
+![gambar](SuratMasuk/SM_IOS/SM-50.png)
+
+4.	Sistem menyimpan perubahan dan informasi tanggapan disposisi akan tersimpan di detail disposisi
 

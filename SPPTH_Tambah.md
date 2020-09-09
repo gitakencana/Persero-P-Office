@@ -6,7 +6,11 @@
 
 - Sekretaris
 
-SPPTH dibuat oleh konseptor/sekretaris Direksi yang akan meninggalkan tempat, sedangkan *approver* adalah Direktur Utama atau Pjs. Direktur Utama. Langkah - langkah untuk menambah SPPTH adalah sebagai berikut
+SPPTH dibuat oleh konseptor/sekretaris Direksi yang akan meninggalkan tempat, sedangkan *approver* adalah Direktur Utama atau Pjs. Direktur Utama.
+
+## **P-Office Versi Web**
+
+Langkah - langkah untuk menambah SPPTH via Web adalah sebagai berikut
 
 1. Klik menu **New Correspondence**
 
@@ -16,7 +20,7 @@ SPPTH dibuat oleh konseptor/sekretaris Direksi yang akan meninggalkan tempat, se
 
 ![gambar](SPPTH/SPPTH_Web/TH03.png)
 
-3. Isi *form* tambah SPPTH. Terdapat beberapa aksi untuk menindaklanjuti SPPTH yang sudah diisi *form*nya yaitu **Save SPPTH** dan **Cancel SPPTH.**
+3. Isi *form* tambah SPPTH. Terdapat beberapa aksi untuk menindaklanjuti SPPTH yang sudah diisi *form* nya yaitu **Save SPPTH** dan **Cancel SPPTH.**
 
 ![gambar](SPPTH/SPPTH_Web/TH04.png)
 
@@ -72,11 +76,9 @@ Langkah - langkah untuk mengirim SPPTH adalah sebagai berikut.
 
 2. Sistem menyimpan perubahan dan SPPTH akan tersimpan di menu "**Outbox - SPPTH**"
 
-
 ## **P-Office Versi Teams**
 
-
-Langkah - langkah untuk tambah SPPTH via Teams yaitu :
+Langkah - langkah untuk menambah SPPTH via Teams adalah sebagai berikut :
 
 1.  Klik menu **New Correspondence**
 
@@ -95,7 +97,6 @@ Langkah - langkah untuk tambah SPPTH via Teams yaitu :
 
 Langkah – langkah untuk menyimpan SPPTH adalah sebagai berikut.
 
-
 1.	Isi form SPPTH kemudian klik **Save**
 
 ![gambar](SPPTH/SPPTH_Teams/SPPTH05.png)
@@ -104,12 +105,9 @@ Langkah – langkah untuk menyimpan SPPTH adalah sebagai berikut.
 
 ![gambar](SPPTH/SPPTH_Teams/SPPTH06.png)
 
-
 #### **[Edit] Word Desktop**
 
-
 Langkah – langkah untuk mengubah isi SPPTH melalui Word Desktop adalah sebagai berikut.
-
 
 1.    Klik **Open In Desktop App** untuk mengubah melalui aplikasi Microsoft Word
 
@@ -121,9 +119,7 @@ Langkah – langkah untuk mengubah isi SPPTH melalui Word Desktop adalah sebagai
 
 #### **[Edit] Ubah Online**
 
-
 Langkah – langkah untuk mengubah isi SPPTH secara online adalah sebagai berikut.
-
 
 1.    Ketika Klik button **Edit Content** maka secara otomatis akan membuka dokumen dan bisa mengubah isi surat secara online
 
@@ -139,12 +135,9 @@ Langkah – langkah untuk mengubah isi SPPTH secara online adalah sebagai beriku
 
 4.    Surat yang sudah selesai diubah maka akan tersimpan di menu **“Draft – SPPTH”**
 
-
 #### **Kirim SPPTH**
 
-
 Langkah – langkah untuk mengirim SPPTH adalah sebagai berikut.
-
 
 1.	Pada tampilan preview SPPTH, klik **Send** untuk mengirim SPPTH ke approver
 
@@ -152,11 +145,9 @@ Langkah – langkah untuk mengirim SPPTH adalah sebagai berikut.
 
 2. Sistem menyimpan perubahan dan SPPTH akan tersimpan di menu **“Outbox - SPPTH”**
 
-
-
 ## **P-Office Versi Android**
 
-Langkah - langkah untuk tambah SPPTH via Android yaitu :
+Langkah - langkah untuk tambah SPPTH via Android adalah sebagai berikut :
 
 1. Klik ikon **(+)** pada SPPTH
 
@@ -170,7 +161,7 @@ Langkah - langkah untuk tambah SPPTH via Android yaitu :
 
 ![gambar](SPPTH/SPPTH_Android/TambahSPPTH/A03.jpg) ![gambar](SPPTH/SPPTH_Android/TambahSPPTH/A04.jpg)
 
-**Simpan SPPTH**
+#### **Simpan SPPTH**
 
 Langkah – langkah untuk menyimpan SPPTH adalah sebagai berikut.
 
@@ -181,7 +172,7 @@ Langkah – langkah untuk menyimpan SPPTH adalah sebagai berikut.
 2. Sistem akan menampilkan tampilan _preview_ SPPTH dalam bentuk Word yang dapat di edit. Untuk melakukan _editing_ terhadap isi surat klik **Edit Content** kemudian sistem akan menampilkan **Word Online**
 
 
-**[Edit] Ubah Online**
+#### **[Edit] Ubah Online**
 
 Langkah – langkah untuk mengubah isi SPPTH secara online adalah sebagai berikut.
 
@@ -199,7 +190,7 @@ Langkah – langkah untuk mengubah isi SPPTH secara online adalah sebagai beriku
 
 4. Surat yang sudah selesai diubah maka akan tersimpan di menu “**Draft – SPPTH”**
 
-**Kirim SPPTH**
+#### **Kirim SPPTH**
 
 Langkah – langkah untuk mengirim SPPTH adalah sebagai berikut.
 
@@ -209,4 +200,48 @@ Langkah – langkah untuk mengirim SPPTH adalah sebagai berikut.
 
 2. Sistem menyimpan perubahan dan SPPTH akan tersimpan di menu “**Outbox - SPPTH**”
 
+## **P-Office Versi IOS**
 
+Langkah - langkah untuk menambah SPPTH via IOS adalah sebagai berikut
+
+1.	Klik menu **New Correspondence**
+ 
+![gambar](SPPTH/SPPTH_IOS/SPPTH-2.png)
+
+2.	Pilih jenis surat **“SPPTH”**
+ 
+![gambar](SPPTH/SPPTH_IOS/SPPTH-3.png)
+
+3.	Isi form tambah SPPTH. Klik **Save** untuk menyimpan SPPTH
+
+![gambar](SPPTH/SPPTH_IOS/SPPTH-4.png)
+ 
+4.	Terdapat beberapa aksi untuk menindaklanjuti SPPTH yang sudah diisi formnya yaitu **Save, Edit dan Send SPPTH**
+
+#### **Simpan SPPTH**
+
+Langkah – langkah untuk menyimpan SPPTH adalah sebagai berikut :
+
+1.	Isi form SPPTH kemudian klik **Simpan**
+ 
+![gambar](SPPTH/SPPTH_IOS/SPPTH-5.png)
+
+2.	Sistem akan menampilkan tampilan preview SPPTH dalam bentuk Word yang dapat di edit. Untuk melakukan editing terhadap isi surat klik **Edit/Send** 
+
+![gambar](SPPTH/SPPTH_IOS/SPPTH-6.png) 
+ 
+3.	Pilih Edit Content untuk melakukan perubahan isi konten, kemudian pada pop up notifikasi Editing Document pilih **Yes** untuk menyelesaikan perubahan
+
+![gambar](SPPTH/SPPTH_IOS/SPPTH-7.1.png) ![gambar](SPPTH/SPPTH_IOS/SPPTH-7.2.png)
+
+4.	Klik Close untuk menutup editing SPPTH, SPPTH yang disimpan akan tersimpan di menu “Draft – SPPTH”
+
+#### **Kirim SPPTH**
+
+Langkah – langkah untuk mengirim SPPTH adalah sebagai berikut :
+
+1.	Pada tampilan preview SPPTH, klik Kirim untuk mengirim SPPTH ke approver
+ 
+![gambar](SPPTH/SPPTH_IOS/SPPTH-8.png)
+
+2.	Sistem menyimpan perubahan dan SPPTH akan tersimpan di menu **“Outbox - SPPTH”**

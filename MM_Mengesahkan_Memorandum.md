@@ -4,7 +4,11 @@
 
 - *Approver User*
 
-*Approver User* dapat mengesahkan memorandum yang sudah dikirim dan direview oleh reviewer. Keluaran untuk tindak lanjut ini adalah untuk men-*generate* nomor memorandum kemudian memorandum dapat dikirimkan ke pejabat tujuan. Langkah - langkah untuk menambah reviewer memorandum adalah sebagai berikut
+*Approver User* dapat mengesahkan memorandum yang sudah dikirim dan direview oleh reviewer. Keluaran untuk tindak lanjut ini adalah untuk men-*generate* nomor memorandum kemudian memorandum dapat dikirimkan ke pejabat tujuan. 
+
+## **P-Office Versi Web**
+
+Langkah - langkah untuk mengesahkan nomor memorandum via Web adalah sebagai berikut
 
 1. Klik menu **Inbox** dan pilih tab **Memorandum**
 
@@ -40,15 +44,30 @@ Langkah-langkah untuk mengesahkan nomor Memorandum via Teams adalah sebagai beri
 
 ## **P-Office Versi Android**
 
-Langkah-langkah untuk Mengesahkan nomor Memorandum adalah sebagai berikut :
-
+Langkah-langkah untuk Mengesahkan nomor Memorandum via Android adalah sebagai berikut :
 
 1. Klik menu **Inbox**dan pilih tab **Memorandum**
 
 ![gambar](Memorandum/MM_Android/Nomormemo/A01.jpg)![gambar](Memorandum/MM_Android/Nomormemo/A02.jpg)
 
-2. Pilih memorandum yang akan ditindak lanjuti kemudian **Detail** Pada tab **Detail** terdapat informasi nomor surat akan ter-_generate_ jika _user_ menyetujui memorandum.
+2. Pilih memorandum yang akan ditindak lanjuti kemudian Pada detail terdapat informasi nomor surat akan ter-_generate_ jika _user_ menyetujui memorandum.
 
 ![gambar](Memorandum/MM_Android/Nomormemo/A03.jpg) ![gambar](Memorandum/MM_Android/Nomormemo/A04.jpg)
 
-3. Memorandum yang sudah diseyujui akan tersimpan di menu “**Outbox - Memorandum**” pengirim sedangkan memorandum akan tersimpan di menu “**Inbox - Memorandum**” penerima
+3. Memorandum yang sudah disetujui akan tersimpan di menu “**Outbox - Memorandum**” pengirim sedangkan memorandum akan tersimpan di menu “**Inbox - Memorandum**” penerima
+
+## **P-Office Versi IOS**
+
+Langkah-langkah untuk Mengesahkan nomor Memorandum via IOS adalah sebagai berikut :
+
+1. Klik menu **Inbox** dan pilih tab **Memorandum**
+
+![gambar](Memorandum/MM_IOS/Memo/N01.png) ![gambar](Memorandum/MM_IOS/Memo/N02.png) 
+
+2. Pilih memorandum yang akan ditindak lanjuti, pada detail memorandum terdapat informasi nomor surat yang masih bersifat sementara. Nomor inilah yang akan ter-_generate_ jika _user_ menyetujui surat keluar.
+
+![gambar](Memorandum/MM_IOS/Memo/N03.png) ![gambar](Memorandum/MM_IOS/Memo/N04.png) 
+
+3. Isikan komentar jika diperlukan kemudian klik **Send** untuk menyimpan perubahan. Nomor memorandum akan ter-_generate_ sesuai dengan nomor sementara pada detail. Memorandum yang sudah disetujui akan tersimpan di menu “**Outbox - Memorandum**” pengirim sedangkan surat keluar akan tersimpan di menu “**Inbox - Memorandum**” penerima.
+
+![gambar](Memorandum/MM_IOS/Memo/N05.png) 

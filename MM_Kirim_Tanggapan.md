@@ -1,10 +1,13 @@
 **Role yang sesuai**
 
-- *Approver User*
 - *Reviewer User*
 - *Member User* (Pekerja)
 
 *User* dapat mengirim tanggapan disposisi memorandum yang ditujukan untuk pejabat pengirim disposisi. Langkah-langkah untuk mengirim tanggapan disposisi memorandum adalah sebagai berikut
+
+## **P-Office Versi Web**
+
+Langkah-langkah untuk mengirim tangnggapan disposisi memorandum via Web adalah sebagai berikut :
 
 1. Klik menu **Disposition** dan pilih tab **Memorandum**
 
@@ -28,7 +31,7 @@
 
 ## **P-Office Versi Teams**
 
-Langkah-langkah untuk mengirim tangnggapan Memorandum via Teams adalah sebagai berikut :
+Langkah-langkah untuk mengirim tangnggapan disposisi memorandum via Teams adalah sebagai berikut :
 
 1. Klik menu **Disposition** dan pilih tab **Memorandum**
 
@@ -53,13 +56,13 @@ Langkah-langkah untuk mengirim tangnggapan Memorandum via Teams adalah sebagai b
 
 ## **P-Office Versi Android**
 
-Langkah-langkah untuk Mengirim tanggapan Memorandum adalah sebagai berikut :
+Langkah-langkah untuk Mengirim tanggapan disposisi memorandum via Teams adalah sebagai berikut :
 
 1. Klik menu **Disposisi** dan pilih tab **Memorandum**
 
 ![gambar](Memorandum/MM_Android/Tanggapdisposisi/A01.jpg) ![gambar](Memorandum/MM_Android/Tanggapdisposisi/A02.jpg)
 
-2. Pilih memorandum yang akan diselesaikan kemudian pilih ikon **tombol button**
+2. Pilih memorandum yang akan diselesaikan kemudian pilih icon **Option**
 
 ![gambar](Memorandum/MM_Android/Tanggapdisposisi/A03.jpg) ![gambar](Memorandum/MM_Android/Tanggapdisposisi/A04.jpg)
 
@@ -69,3 +72,20 @@ Langkah-langkah untuk Mengirim tanggapan Memorandum adalah sebagai berikut :
 
 4. Sistem menyimpan perubahan dan informasi tanggapan disposisi akan tersimpan di detail disposisi.
 
+## **P-Office Versi IOS**
+
+Langkah-langkah untuk Mengirim tanggapan disposisi memorandum via IOS adalah sebagai berikut :
+
+1. Klik menu **Disposisi** dan pilih tab **Memorandum**
+
+![gambar](Memorandum/MM_IOS/MM-35.png) ![gambar](Memorandum/MM_IOS/MM-36.png)
+
+2. Pilih memorandum yang akan diselesaikan kemudian pilih icon **Option** dan pilih **Send Response**
+
+![gambar](Memorandum/MM_IOS/MM-CR08.png) ![gambar](Memorandum/MM_IOS/MM-CR09.png)
+
+3.	Sistem menampilkan pop up konfirmasi dan user mengisi tanggapan disposisi kemudian klik **Send**
+
+![gambar](Memorandum/MM_IOS/MM-CR10.png)
+
+4.	Sistem menyimpan perubahan dan informasi kirim tanggapan akan tersimpan di detail disposisi

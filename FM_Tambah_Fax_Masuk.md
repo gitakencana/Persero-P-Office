@@ -2,7 +2,11 @@
 
 - Sekretaris
 
-Sekretaris dapat menambah fax masuk pada aplikasi P-Office. Langkah - langkah untuk menambah fax masuk adalah sebagai berikut
+Sekretaris dapat menambah fax masuk pada aplikasi P-Office. 
+
+## **P-Office Versi Web**
+
+Langkah - langkah untuk menambah fax masuk via Web adalah sebagai berikut :
 
 1. Klik menu **New Correspondence**
 
@@ -38,23 +42,45 @@ Langkah - langkah untuk tambah fax masuk via Teams adalah sebagai berikut:
 
 4. Sistem berhasil menyimpan perubahan
 
-
 ## **P-Office Versi Android**
 
-Langkah-langkah untuk menambah fax masuk adalah sebagai berikut :
+Langkah-langkah untuk menambah fax masuk via Android adalah sebagai berikut :
 
 1. Klik menu ikon **(+)** pada fax masuk
 
-![gambar](Faxmasuk/FM_Android/TambahFM/A01.jpg)
+![gambar](FaxMasuk/FM_Android/TambahFM/A01.jpg)
 
 2. Pilih jenis surat “**Fax Masuk**” lalu **Next**
 
-![gambar](Faxmasuk/FM_Android/TambahFM/A02.jpg)
+![gambar](FaxMasuk/FM_Android/TambahFM/A02.jpg)
 
 3. Isi form tambah fax masuk. Klik **Save Mail** untuk menyimpan form surat dan surat akan tersimpan di menu “**Draft – Fax Masuk**”. Klik **Send Mail** untuk mengirim fax masuk dan fax masuk akan tersimpan di menu “**Outbox – Fax Masuk**”
 
-![gambar](Faxmasuk/FM_Android/TambahFM/A03.jpg) ![gambar](Faxmasuk/FM_Android/TambahFM/A04.jpg)
+![gambar](FaxMasuk/FM_Android/TambahFM/A03.jpg) ![gambar](FaxMasuk/FM_Android/TambahFM/A04.jpg)
 
 4. Sistem berhasil menyimpan perubahan pada fax masuk
 
-![gambar](Faxmasuk/FM_Android/TambahFM/A05.jpg)
+![gambar](FaxMasuk/FM_Android/TambahFM/A05.jpg)
+
+## **P-Office Versi IOS**
+
+Langkah-langkah untuk menambah fax masuk via IOS adalah sebagai berikut :
+
+1. Klik menu **New Correspondence**
+
+![gambar](FaxMasuk/FM_IOS/FM-2.png)
+
+2. Pilih jenis surat “**Fax Masuk**”
+
+![gambar](FaxMasuk/FM_IOS/FM-3.png)
+
+3. Isi form tambah fax masuk kemudian Klik **Next** untuk melanjutkan pengisian fax masuk
+
+![gambar](FaxMasuk/FM_IOS/FM-4.1.png) ![gambar](FaxMasuk/FM_IOS/FM-4.2.png)
+
+4. Klik **Save Mail** untuk menyimpan form surat dan surat akan tersimpan di menu “**Draft – Fax Masuk**”. Klik **Send Mail** untuk mengirim fax masuk dan fax masuk akan tersimpan di menu “**Outbox – Fax Masuk**”
+
+![gambar](FaxMasuk/FM_IOS/FM-5.1.png) ![gambar](FaxMasuk/FM_IOS/FM-5.2.png)
+
+5. Sistem berhasil menyimpan perubahan
+

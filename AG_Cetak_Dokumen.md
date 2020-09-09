@@ -2,7 +2,11 @@
 
 - Sekretaris
 
-Sekretaris dapat mencetak dokumen agenda kendali berdasarkan filter yang dipilih dalam format Excel. Langkah-langkah untuk mencetak dokumen agenda kendali adalah sebagai berikut
+Sekretaris dapat mencetak dokumen agenda kendali berdasarkan filter yang dipilih dalam format Excel. 
+
+## **P-Office Versi Web**
+
+Langkah - langkah untuk mencetak dokumen agenda kendali via Web adalah sebagai berikut
 
 1. Klik menu **Document Control** dan pilih tab **Dokumen Masuk / Dokumen Keluar / Dokumen Disposisi**
 

@@ -5,7 +5,11 @@
 - *Member User* (Pekerja)
 - Sekretaris
 
-*User* dapat melihat informasi pejabat yang sedang menjabat sebagai Pth baik dalam status aktif maupun non-aktif. Informasi yang ditampilkan meliputi nomor SPPTH, Nama pejabat, jabatan dan status. Langkah-langkah untuk melihat informasi Riwayat SPPTH adalah sebagai berikut:
+*User* dapat melihat informasi pejabat yang sedang menjabat sebagai Pth baik dalam status aktif maupun non-aktif. Informasi yang ditampilkan meliputi nomor SPPTH, Nama pejabat, jabatan dan status. 
+
+## **P-Office Versi Web**
+
+Langkah - langkah untuk riwayat SPPTH via Web adalah sebagai berikut :
 
 1. Klik menu **History** dan pilih tab **SPPTH**
 
@@ -13,13 +17,9 @@
 
 2. Sistem menampilkan riwayat SPPTH
 
-
-
-
 ## **P-Office Versi Teams**
 
-
-Langkah - langkah untuk riwayat SPPTH via Teams yaitu :
+Langkah - langkah untuk riwayat SPPTH via Teams adalah sebagai berikut :
 
 1.	Klik menu **History** dan pilih tab **SPPTH**
 
