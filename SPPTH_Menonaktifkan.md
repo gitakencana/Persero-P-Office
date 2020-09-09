@@ -5,9 +5,7 @@
 
 SPPTH yang masih berlaku akan non-aktif secara otomatis apabila sudah habis masa jabatan pejabat yang sedang di PTH-kan.  Namun, apabila pejabat definitif kembali bekerja sebelum masa PTH nya habis, maka pejabat tersebut harus menon-aktifkan SPPTH yang berlaku dengan cara sebagai berikut:
 
-
 ## **P-Office Versi Web**
-
 
 Langkah - langkah untuk menonaktifkan SPPTH via Web adalah sebagai berikut :
 
@@ -43,7 +41,7 @@ Langkah - langkah untuk menonaktifkan SPPTH via Android adalah sebagai berikut :
 
 ![gambar](SPPTH/SPPTH_Android/NonaktifSPPTH/A01.jpg) ![gambar](SPPTH/SPPTH_Android/NonaktifSPPTH/A02.jpg)
 
-2. Pilih SPPTH yang akan dinon-aktifkan kemudian pilih icon **Disable** pada tombol **button**
+2. Pilih SPPTH yang akan dinon-aktifkan kemudian pilih icon **Disable** pada icon **Option**
 
 ![gambar](SPPTH/SPPTH_Android/NonaktifSPPTH/A03.jpg) ![gambar](SPPTH/SPPTH_Android/NonaktifSPPTH/A04.jpg)
 
@@ -57,7 +55,7 @@ Langkah - langkah untuk menonaktifkan SPPTH via IOS adalah sebagai berikut :
   
 ![gambar](SPPTH/SPPTH_IOS/SPPTH-34.1.png) ![gambar](SPPTH/SPPTH_IOS/SPPTH-34.2.png)
 
-2.	Pilih SPPTH yang akan dinon-aktifkan kemudian pilih icon **Disable** pada **tombol button.**
+2.	Pilih SPPTH yang akan dinon-aktifkan kemudian pilih icon **Disable** pada icon **Option**
 
 ![gambar](SPPTH/SPPTH_IOS/SPPTH-35.1.png) ![gambar](SPPTH/SPPTH_IOS/SPPTH-35.2.png)
 

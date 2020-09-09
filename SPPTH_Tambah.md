@@ -1,7 +1,3 @@
-**Ditujukan kepada**
-
-- *Approver User*
-
 **Role yang sesuai**
 
 - Sekretaris
@@ -83,7 +79,6 @@ Langkah - langkah untuk menambah SPPTH via Teams adalah sebagai berikut :
 1.  Klik menu **New Correspondence**
 
 ![gambar](SPPTH/SPPTH_Teams/SPPTH02.png)
-
 
 2.	Pilih jenis surat “**SPPTH**”
 
@@ -171,7 +166,6 @@ Langkah – langkah untuk menyimpan SPPTH adalah sebagai berikut.
 
 2. Sistem akan menampilkan tampilan _preview_ SPPTH dalam bentuk Word yang dapat di edit. Untuk melakukan _editing_ terhadap isi surat klik **Edit Content** kemudian sistem akan menampilkan **Word Online**
 
-
 #### **[Edit] Ubah Online**
 
 Langkah – langkah untuk mengubah isi SPPTH secara online adalah sebagai berikut.
@@ -204,7 +198,7 @@ Langkah – langkah untuk mengirim SPPTH adalah sebagai berikut.
 
 Langkah - langkah untuk menambah SPPTH via IOS adalah sebagai berikut
 
-1.	Klik menu **New Correspondence**
+1. Klik ikon **(+)** pada SPPTH
  
 ![gambar](SPPTH/SPPTH_IOS/SPPTH-2.png)
 

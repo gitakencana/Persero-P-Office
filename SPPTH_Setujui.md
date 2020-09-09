@@ -48,7 +48,7 @@ Langkah - langkah untuk setujui SPPTH via Android adalah sebagai berikut :
    
 ![gambar](SPPTH/SPPTH_Android/SetujuiSPPTH/A01.jpg) ![gambar](SPPTH/SPPTH_Android/SetujuiSPPTH/A02.jpg)
 
-1. Pilih SPPTH yang akan disetujui kemudian pada tab **Detail** pilih ** tombol button**
+1. Pilih SPPTH yang akan disetujui kemudian pada tab **Detail** pilih icon **Option**
 
 ![gambar](SPPTH/SPPTH_Android/SetujuiSPPTH/A03.jpg)
 

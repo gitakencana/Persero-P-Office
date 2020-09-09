@@ -80,7 +80,6 @@ Langkah - langkah untuk drafting SPPTH via Teams adalah sebagai berikut :
 
 ![gambar](SPPTH/SPPTH_Teams/SPPTH13.png)
 
-
 2.	Pilih SPPTH yang akan diubah. Pilih tab **Detail** kemudian klik **Edit**
 
 ![gambar](SPPTH/SPPTH_Teams/SPPTH14.png)
@@ -149,7 +148,7 @@ Langkah - langkah untuk Draftting SPPTH via Android adalah sebagai berikut :
 
 ![gambar](SPPTH/SPPTH_Android/DraftSPPTH/A01.jpg) ![gambar](SPPTH/SPPTH_Android/DraftSPPTH/A02.jpg)
 
-2. Pilih SPPTH yang akan diubah. pada **Detail** kemudian klik ikon **tombol button**
+2. Pilih SPPTH yang akan diubah. pada **Detail** kemudian klik icon **Option**
 
 ![gambar](SPPTH/SPPTH_Android/DraftSPPTH/A03.jpg) ![gambar](SPPTH/SPPTH_Android/DraftSPPTH/A04.jpg)
 

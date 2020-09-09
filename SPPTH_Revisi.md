@@ -136,7 +136,7 @@ Langkah - langkah untuk tambah SPPTH via Android adalah sebagai berikut :
 
 ![gambar](SPPTH/SPPTH_Android/RevisiSPPTH/A01.jpg) ![gambar](SPPTH/SPPTH_Android/RevisiSPPTH/A02.jpg)
 
-2. Pilih SPPTH yang akan disetujui kemudian pilih tombol **button**
+2. Pilih SPPTH yang akan disetujui kemudian pilih icon **Option**
 
 ![gambar](SPPTH/SPPTH_Android/RevisiSPPTH/A03.jpg)
 
@@ -204,5 +204,5 @@ Langkah-langkah untuk melakukan revisi SPPTH via IOS adalah sebagai berikut :
    
 ![gambar](SPPTH/SPPTH_IOS/SPPTH-33.1.png) ![gambar](SPPTH/SPPTH_IOS/SPPTH-33.2.png)
 
-8.	Klik **Close** untuk menutup editing SPPTH, SPPTH yang disimpan akan tersimpan di menu ** Inbox – SPPTH**
+8.	Klik **Close** untuk menutup editing SPPTH, SPPTH yang disimpan akan tersimpan di menu **Inbox – SPPTH**
 
