@@ -23,4 +23,4 @@ Hal-hal yang dapat dilakukan oleh Admin P-Office dalam mengelola data master ant
 </figure>
 
 
-[![Fibonacci RMI Java EE](http://img.youtube.com/vi/nX_inqaAzOI/0.jpg)](https://www.youtube.com/watch?v=nX_inqaAzOI&feature=youtu.be&hd=1 "RMI Fibonacci Java")
+[![](http://img.youtube.com/vi/MUQfKFzIOeU/0.jpg)](https://www.youtube.com/watch?v=MUQfKFzIOeU&feature=youtu.be&hd=1)
