@@ -7,12 +7,11 @@ Pada modul ini mendukung proses input surat masuk oleh sekretaris berdasarkan be
 Hal-hal yang dapat dilakukan oleh *reviewer* dalam mengelola surat masuk antara lain:
 
 - [Melihat Daftar Surat Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer-suratmasuk/135d71654b6d43d5b4217cbb69ae74a7)
-- [Menambah Surat Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer-suratmasuk/f79d1215019140e995e3976590d3aa40)
-- [Melakukan Drafting Surat Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer-suratmasuk/dff5fd9dd63248c18f8e18b7c9fbc59e)
 - [Melihat Informasi lengkap Surat Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer-suratmasuk/59c8f5d18c214cb49ddf54071ce12cbe)
 - [Melihat Daftar Disposisi Surat Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer-suratmasuk/a3f402d9357841618fcbc2668a78aed1)
 - [Mendisposisikan Surat Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer-suratmasuk/f97440e003bd4f5fa3f626475a6dfa03)
 - [Melakukan Custom Disposisi](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer-suratmasuk/d3634dd1f3de40d3b652c45410fccf08)
+- [Melihat Informasi Lengkap Disposisi Surat Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer-suratmasuk/bbe52f3a684b47fabcf15e4266689600)
 - [Melakukan Recall Disposisi Surat Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer-suratmasuk/c0df8ac81af54ceb96b96c359b9fd954)
 - [Menyelesaikan Disposisi Surat Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer-suratmasuk/1d3f1c9a3ba9406da3302e7133efc3b2)
 - [Mengirim Tanggapan Disposisi Surat Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer-suratmasuk/dfda3361c3e747fba0ba2631438f5621)
@@ -24,15 +23,11 @@ Pada modul ini mendukung proses pembuatan konsep surat keluar yang ditujukan unt
 Hal-hal yang dapat dilakukan oleh *reviewer* dalam mengelola surat keluar antara lain:
 
 - [Melihat Daftar Surat Keluar](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer-suratkeluar/0801281eaff9454caa1a933040e4dcc6)
-- [Menambah Surat Keluar](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer-suratkeluar/67e6e801787840d5ad7fe473551211d7)
-- [Save as Template Surat Keluar](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer-suratkeluar/e29d9d50136544d7a433361a3f1e3811)
-- [Melakukan Drafting Surat Keluar](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer-suratkeluar/04daded7f22746088e85941b129e5439)
 - [Melihat Informasi lengkap Surat Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer-suratkeluar/2f98ccbea1a94e428cafe492415e2c24)
-- [Menolak Surat Keluar](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer-suratkeluar/d01e3bc3e73c47fdabc8a72f4bf9225b)
 - [Menyetujui Surat Keluar](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer-suratkeluar/6933b23358c64b1b8f988a58ae5711cb)
-- [Kembalikan Surat Keluar Kesebelumnya](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer-suratkeluar/07d79e1b2f014775b3e83107fbf91222)
-- [Kembalikan Surat Keluar Kekonseptor](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer-suratkeluar/b451de1b4de5494db819d3988f8cf266)
-
+- [Menolak Surat Keluar](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer-suratkeluar/d01e3bc3e73c47fdabc8a72f4bf9225b)
+- [Mengembalikan Surat Keluar Kesebelumnya](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer-suratkeluar/07d79e1b2f014775b3e83107fbf91222)
+- [Mengembalikan Surat Keluar Kekonseptor](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer-suratkeluar/b451de1b4de5494db819d3988f8cf266)
 
 
 ### **Memorandum**
@@ -41,18 +36,17 @@ Pada modul ini mendukung proses pembuatan konsep memorandum yang akan disetujui 
 Hal-hal yang dapat dilakukan oleh *reviewer* dalam mengelola memorandum antara lain:
 
 - [Melihat Daftar Memorandum](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer-memorandum/8bd57e3dfab94545a26729db94d1493c)
-- [Menambah Memorandum](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer-memorandum/6d820c874edf43eb8b601b03b81b19d1)
 - [Melihat Informasi lengkap Memorandum](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer-memorandum/4c55c853ff4243d59448f6b69794c745)
 - [Menyetujui Memorandum](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer-memorandum/a60e0b177e1940fcae073994a2cbd07e)
-- [Kembalikan Memorandum Kesebelumnya](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer-memorandum/59efa5f9ea1f4411b3d45ecbe1d88b48)
-- [Kembalikan Memorandum Kekonseptor](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer-memorandum/4c62a72db2144df3820b8eee3cd7ee2c)
+- [Mengembalikan Memorandum Kesebelumnya](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer-memorandum/59efa5f9ea1f4411b3d45ecbe1d88b48)
+- [Mengembalikan Memorandum Kekonseptor](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer-memorandum/4c62a72db2144df3820b8eee3cd7ee2c)
 - [Menolak Memorandum](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer-memorandum/f68684d8317745d78418be90e4199190)
 - [Mendisposisikan Memorandum](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer-memorandum/14790b6fa4d847d5bdb9271edb751921)
 - [Melakukan Custom Disposisi Memorandum](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer-memorandum/e49812956f9d4f09b4047cdcdefed7f8)
 - [Melihat Informasi Lengkap Disposisi Memorandum](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer-memorandum/9dd16cf919224f2c969111378ea4732d)
 - [Melakukan Recall Disposisi Memorandum](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer-memorandum/584a7432fd2a415d9cd18840b0867e54)
 - [Menyelesaikan Disposisi Memorandum](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer-memorandum/e039c4c976724e5ca6c3366f8a6bcb2c)
-
+- [Mengirim Tanggapan Memorandum](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer-memorandum/2c1f8b72441c43d9ad6eb48ffb82ca29)
 
 ### **Fax Masuk**
 
@@ -75,13 +69,10 @@ Pada modul ini mendukung proses input fax keluar dengan tujuan eksternal Pertami
 Hal-hal yang dapat dilakukan oleh *reviewer* dalam mengelola fax keluar antara lain:
 
 - [Melihat Daftar Fax Keluar](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer-faxkeluar/70b769e071174d1581a600f89d814055)
-- [Menambah Fax Keluar](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer-faxkeluar/3d22697a6fc44bcebd8f08d7f0147c20)
-- [Save as Template Fax Keluar](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer-faxkeluar/7fed0d32d47b4d9aadd4388ed98f9df1)
-- [Melakukan Drafting Fax Keluar](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer-faxkeluar/6dd0ec4e4c4d49b08b39bc51788a077c)
 - [Melihat Informasi lengkap Fax Keluar](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer-faxkeluar/1356ea344a2540498905638459a14733)
 - [Menyetujui Fax Keluar](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer-faxkeluar/26bbebf510eb476bbe1a8b025ae99c5d)
-- [Kembalikan Fax Keluar Kekonseptor](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer-faxkeluar/46f770f4a1e04d8191e7ab53803fdd59)
-- [Kembalikan Fax Keluar Kesebelumnya](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer-faxkeluar/0eadcc6763e645fda51c5b04558dca5e)
+- [Mengembalikan Fax Keluar Kekonseptor](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer-faxkeluar/46f770f4a1e04d8191e7ab53803fdd59)
+- [Mengembalikan Fax Keluar Kesebelumnya](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer-faxkeluar/0eadcc6763e645fda51c5b04558dca5e)
 - [Menolak Fax Keluar](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer-faxkeluar/fb25b84291b349e6a2c6a67ca15ad4f9)
 
 
@@ -93,6 +84,7 @@ Hal-hal yang dapat dilakukan oleh *reviewer* dalam mengelola SP3S antara lain:
 - [Melihat Daftar SP3S](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer-SP3S/378099076aec4ce4bf1b5df6afaadfae)
 - [Menambah Pengajuan SP3S](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer-SP3S/a2b370de538d4edeb59f3c4656305b40)
 - [Melakukan Drafting SP3S](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer-SP3S/8b2ec1677d5242e697694f9cb034c7d6)
+- [Melihat Informasi Lengkap SP3S](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer-SP3S/c78952b9bfaa434bac01eae68e76cf76)
 - [Menonaktifkan SP3S](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer-SP3S/ae97fb0e835345d5be5656c949c513b3)
 - [Melihat Riwayat SP3S](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer-SP3S/5eca85b9c1cc469b8448e71ef13a597a)
 

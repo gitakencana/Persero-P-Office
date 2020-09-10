@@ -13,7 +13,9 @@ Hal-hal yang dapat dilakukan oleh Sekretaris dalam mengelola surat masuk antara 
 - [Melakukan Drafting Surat Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris-suratmasuk/dff5fd9dd63248c18f8e18b7c9fbc59e)
 - [Melihat Informasi lengkap Surat Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris-suratmasuk/59c8f5d18c214cb49ddf54071ce12cbe)
 - [Melihat Daftar Disposisi Surat Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris-suratmasuk/a3f402d9357841618fcbc2668a78aed1)
-- [Workflow Surat Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris-suratmasuk/65f68778429a4eaf83764b7e582c799c)
+- [Melihat Informasi Lengkap Disposisi Surat Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris-suratmasuk/bbe52f3a684b47fabcf15e4266689600)
+- [Menyelesaikan Disposisi Surat Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris-suratmasuk/1d3f1c9a3ba9406da3302e7133efc3b2)
+- [Mengirim Tanggapan Disposisi Surat Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris-suratmasuk/dfda3361c3e747fba0ba2631438f5621)
 
 
 ### **Memorandum**
@@ -36,7 +38,6 @@ Hal-hal yang dapat dilakukan oleh Sekretaris dalam mengelola fax masuk antara la
 - [Menambah Fax Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/p-office-FaxMasuk/e7430b9b4ca5484894eb2ff34841dd85)
 - [Melakukan Drafting Fax Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/p-office-FaxMasuk/4458df9b0afd406fa7c741d1c7478097)
 - [Melihat Informasi lengkap Fax Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/p-office-FaxMasuk/ca29cb08efa74d55b5979f8848d986c6)
-- [Menyelesaikan Fax Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/p-office-FaxMasuk/3ab30534b1954a69a95378f54d95b0ff)
 - [Melihat Informasi Lengkap Disposisi Fax Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/p-office-FaxMasuk/b94057c51dbe43dc812ec7ee095f8f6a)
 - [Menyelesaikan Disposisi Fax Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/p-office-FaxMasuk/58f816ad44ec493aaadc7dd7f72fc6be)
 - [Mengirim Tanggapan Disposisi Fax Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/p-office-FaxMasuk/e4a5b32e72fc4637a92431f1876298c9)
@@ -48,7 +49,11 @@ Pada modul ini mendukung proses input Surat Penunjukan Pejabat Pengganti Sementa
 Hal-hal yang dapat dilakukan oleh Sekretaris dalam mengelola SP3S antara lain:
 
 - [Melihat Daftar SP3S](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris-SP3S/378099076aec4ce4bf1b5df6afaadfae)
+- [Menambah Pengajuan SP3S](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris-SP3S/a2b370de538d4edeb59f3c4656305b40)
+- [Melakukan Drafting SP3S](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris-SP3S/8b2ec1677d5242e697694f9cb034c7d6)
+- [Melihat Informasi Lengkap SP3S](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris-SP3S/c78952b9bfaa434bac01eae68e76cf76)
 - [Melihat Riwayat SP3S](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris-SP3S/5eca85b9c1cc469b8448e71ef13a597a)
+
 
 ### **SPPTH**
 
@@ -56,14 +61,20 @@ Pada modul ini mendukung proses input Surat Penunjukan Pelaksana Tugas Harian (S
 
 Hal-hal yang dapat dilakukan oleh Sekretaris dalam mengelola SPPTH antara lain:
 
+- [Melihat Daftar SPPTH](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris-SPPTH/f89948e01151483f9a96224e2239e7a5)
 - [Menambah Pengajuan SPPTH](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris-SPPTH/8189da94186147e2b226ed4b4dda9c86)
 - [Melakukan Drafting SPPTH](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris-SPPTH/07f506cbe34f46a687a475cf72da88c6)
+- [Melihat Informasi Lengkap SPPTH](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris-SPPTH/589196b9b69c4f599ab90c83c54d68d9)
+- [Melihat Riwayat SPPTH](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris-SPPTH/98ca7def83894c998eaaf4d46c876f08)
 
 ### **Archive**
 
 Pada modul ini mendukung tempat penyimpanan dokumen yang melebihi masa retensi. Dokumen yang disimpan pada menu Archive meliputi dokumen surat masuk, memorandum, surat keluar, fax masuk dan fax keluar.
 
 Hal-hal yang dapat dilakukan oleh Sekretaris dalam mengelola Archive antara lain:
+
+- [Melihat Dokumen Surat Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/archive/d1bf8320f9ec490b94369ef6d73277f1)
+- [Melihat Dokumen Memorandum](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/archive/be653add1a5a4909a6ed897e3516222d)
 - [Melihat Dokumen Surat Keluar](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/archive/6e15b8fe567041e98bda7c07a85d5d59)
 - [Melihat Dokumen Fax Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/archive/021e9394a7704906acf5227c0b537d69)
 - [Melihat Dokumen Fax Keluar](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/archive/1ae93b912d764e0c8979efa397f04e82)
@@ -87,6 +98,3 @@ Hal-hal yang dapat dilakukan oleh Sekretaris dalam mengelola document control an
 - [Mengunggah Dokumen Nomor Offline](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris-agendakendali/0d85dd6f2893443987efc26f2227db55)
 - [Mengembalikan Nomor Offline](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris-agendakendali/57df82b77a684f98a73cd44b0d753673)
 - [Menambah Komentar Request Nomor Offline](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris-agendakendali/ed1dd24930574cea80170251d196ce33)
-- [Menolak permintaan Nomor Offline](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris-agendakendali/e6961403d5074987a6ff72ab21fc185b)
-- [Menyetujui Permintaan Nomor Offline](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris-agendakendali/9549d838da8b4baaa896203a1f961ccf)
-- [Melakukan detail surat](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris-agendakendali/335973e88704437bb114c216b92bfd96)

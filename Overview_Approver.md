@@ -30,8 +30,8 @@ Hal-hal yang dapat dilakukan oleh *approver* dalam mengelola surat keluar antara
 - [Melihat Informasi lengkap Surat Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver-suratkeluar/2f98ccbea1a94e428cafe492415e2c24)
 - [Menyetujui Surat Keluar](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver-suratkeluar/6933b23358c64b1b8f988a58ae5711cb)
 - [Menolak Surat Keluar](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver-suratkeluar/d01e3bc3e73c47fdabc8a72f4bf9225b)
-- [Kembalikan Surat Keluar Kesebelumnya](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver-suratkeluar/07d79e1b2f014775b3e83107fbf91222)
-- [Kembalikan Surat Keluar Kekonseptor](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver-suratkeluar/b451de1b4de5494db819d3988f8cf266)
+- [Mengembalikan Surat Keluar Kesebelumnya](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver-suratkeluar/07d79e1b2f014775b3e83107fbf91222)
+- [Mengembalikan Surat Keluar Kekonseptor](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver-suratkeluar/b451de1b4de5494db819d3988f8cf266)
 - [Menambah Reviewer Baru Surat Keluar](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver-suratkeluar/8139cdbc90ce4a24a33916855307d1c6)
 - [Mengesahkan Nomor Surat Keluar](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver-suratkeluar/aba5e874855246669be1ae9ba1744415)
 
@@ -41,11 +41,10 @@ Pada modul ini mendukung proses pembuatan konsep memorandum yang akan disetujui 
 Hal-hal yang dapat dilakukan oleh *approver* dalam mengelola memorandum antara lain:
 
 - [Melihat Daftar Memorandum](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver-memorandum/8bd57e3dfab94545a26729db94d1493c)
-- [Menambah Memorandum](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver-memorandum/6d820c874edf43eb8b601b03b81b19d1)
 - [Melihat Informasi lengkap Memorandum](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver-memorandum/4c55c853ff4243d59448f6b69794c745)
 - [Menyetujui Memorandum](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver-memorandum/a60e0b177e1940fcae073994a2cbd07e)
-- [Kembalikan Memorandum Kesebelumnya](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver-memorandum/59efa5f9ea1f4411b3d45ecbe1d88b48)
-- [Kembalikan Memorandum Kekonseptor](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver-memorandum/4c62a72db2144df3820b8eee3cd7ee2c)
+- [Mengembalikan Memorandum Kesebelumnya](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver-memorandum/59efa5f9ea1f4411b3d45ecbe1d88b48)
+- [Mengembalikan Memorandum Kekonseptor](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver-memorandum/4c62a72db2144df3820b8eee3cd7ee2c)
 - [Menolak Memorandum](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver-memorandum/f68684d8317745d78418be90e4199190)
 - [Menambah Reviewer Baru Memorandum](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver-memorandum/d75067e5acdb4b2bbd139e0389dcc5aa)
 - [Mengesahkan Nomor Surat Memorandum](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver-memorandum/19c9b151a48e474ca44b22f146dce8c1)
@@ -80,8 +79,8 @@ Hal-hal yang dapat dilakukan oleh *approver* dalam mengelola fax keluar antara l
 - [Melihat Daftar Fax Keluar](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver-faxkeluar/70b769e071174d1581a600f89d814055)
 - [Melihat Informasi lengkap Fax Keluar](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver-faxkeluar/1356ea344a2540498905638459a14733)
 - [Menyetujui Fax Keluar](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver-faxkeluar/26bbebf510eb476bbe1a8b025ae99c5d)
-- [Kembalikan Fax Keluar Kekonseptor](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver-faxkeluar/46f770f4a1e04d8191e7ab53803fdd59)
-- [Kembalikan Fax Keluar Kesebelumnya](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver-faxkeluar/0eadcc6763e645fda51c5b04558dca5e)
+- [Mengembalikan Fax Keluar Kekonseptor](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver-faxkeluar/46f770f4a1e04d8191e7ab53803fdd59)
+- [Mengembalikan Fax Keluar Kesebelumnya](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver-faxkeluar/0eadcc6763e645fda51c5b04558dca5e)
 - [Menolak Fax Keluar](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver-faxkeluar/fb25b84291b349e6a2c6a67ca15ad4f9)
 - [Menambah Reviewer Baru Fax Keluar](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver-faxkeluar/5d38486705f940eb937046aa6af9ebbc)
 - [Mengesahkan Nomor Fax Keluar](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver-faxkeluar/436f361fa61a430ab3b11d6fa8cc03d5)
@@ -109,6 +108,7 @@ Hal-hal yang dapat dilakukan oleh *approver* dalam mengelola SPPTH antara lain:
 
 - [Melihat Daftar SPPTH](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver-SPPTH/f89948e01151483f9a96224e2239e7a5)
 - [Menambah Pengajuan SPPTH](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver-SPPTH/8189da94186147e2b226ed4b4dda9c86)
+- [Melakukan Drafting SPPTH](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver-SPPTH/07f506cbe34f46a687a475cf72da88c6)
 - [Melihat Informasi Lengkap SPPTH](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver-SPPTH/589196b9b69c4f599ab90c83c54d68d9)
 - [Menyetujui SPPTH](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver-SPPTH/4fdf71eb9b844f5590e4f6817d8222e3)
 - [Menolak SPPTH](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver-SPPTH/a9a7bb2d45d54a6a9e4dfa4d6c1635c8)

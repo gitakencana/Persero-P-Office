@@ -7,9 +7,8 @@ Pada modul ini mendukung proses input surat masuk oleh sekretaris berdasarkan be
 Hal-hal yang dapat dilakukan oleh *member* dalam mengelola surat masuk antara lain:
 
 - [Melihat Daftar Surat Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/member#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/member-suratmasuk/135d71654b6d43d5b4217cbb69ae74a7)
-- [Menambah Surat Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/member#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/member-suratmasuk/f79d1215019140e995e3976590d3aa40)
-- [Melakukan Drafting Surat Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/member#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/member-suratmasuk/dff5fd9dd63248c18f8e18b7c9fbc59e)
 - [Melihat Daftar Disposisi Surat Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/member#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/member-suratmasuk/a3f402d9357841618fcbc2668a78aed1)
+- [Melihat Informasi Lengkap Disposisi Surat Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/member#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/member-suratmasuk/bbe52f3a684b47fabcf15e4266689600)
 - [Menyelesaikan Disposisi Surat Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/member#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/member-suratmasuk/1d3f1c9a3ba9406da3302e7133efc3b2)
 - [Mengirim Tanggapan Disposisi Surat Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/member#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/member-suratmasuk/dfda3361c3e747fba0ba2631438f5621)
 
@@ -46,7 +45,6 @@ Hal-hal yang dapat dilakukan oleh *member* dalam mengelola fax masuk antara lain
 
 - [Melihat Daftar Fax Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/member#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/member-FaxMasuk/f1c7f68a0cc44f9087947e42426edff1)
 - [Melihat Informasi lengkap Fax Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/member#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/member-FaxMasuk/ca29cb08efa74d55b5979f8848d986c6)
-- [Menyelesaikan Fax Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/member#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/member-FaxMasuk/3ab30534b1954a69a95378f54d95b0ff)
 - [Melihat Informasi Lengkap Disposisi Fax Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/member#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/member-FaxMasuk/b94057c51dbe43dc812ec7ee095f8f6a)
 - [Menyelesaikan Disposisi Fax Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/member#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/member-FaxMasuk/58f816ad44ec493aaadc7dd7f72fc6be)
 - [Mengirim Tanggapan Disposisi Fax Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/member#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/member-FaxMasuk/e4a5b32e72fc4637a92431f1876298c9)
@@ -71,14 +69,8 @@ Hal-hal yang dapat dilakukan oleh *member* dalam mengelola SP3S antara lain:
 
 - [Menambah Pengajuan SP3S](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/member#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/member-SP3S/a2b370de538d4edeb59f3c4656305b40)
 - [Melakukan Drafting SP3S](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/member#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/member-SP3S/8b2ec1677d5242e697694f9cb034c7d6)
+- [Melihat Informasi Lengkap SP3S](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/member#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/member-SP3S/c78952b9bfaa434bac01eae68e76cf76)
 - [Melihat Riwayat SP3S](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/member#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/member-SP3S/5eca85b9c1cc469b8448e71ef13a597a)
-
-### **SPPTH**
-
-Pada modul ini mendukung proses input Surat Penunjukan Pelaksana Tugas Harian (SPPTH) dan akan dikirimkan ke pejabat terkait. Pengguna yang dapat melakukan input SPPTH adalah sekretaris, pekerja yang diperintahkan atau pejabat yang akan meninggalkan tempat (dinas, cuti). Pejabat yang dapat mengajukan SPPTH hanya berlaku untuk direksi. Pengajuan SPPTH akan disetujui oleh direktur utama atau Pejabat Sementara (Pjs) direktur utama.
-Hal-hal yang dapat dilakukan oleh *member* dalam mengelola SPPTH antara lain:
-
-- [Melakukan Drafting SPPTH](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/member#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/member-SPPTH/07f506cbe34f46a687a475cf72da88c6)
 
 
 ### **Archive**
