@@ -18,3 +18,6 @@ Hal-hal yang dapat dilakukan oleh Admin P-Office dalam mengelola data master ant
 - [Mengelola Tempat](https://docs.poffice.pertamina.com/Categories/2d9c11da-9ad0-4b75-8369-74049c55dac7/admin-ecorr#!/Posts/2d9c11da-9ad0-4b75-8369-74049c55dac7/data-master-poffice/8082f53b28d0478ca167268c79a0daf0)
 - [Mengelola Justifikasi](https://docs.poffice.pertamina.com/Categories/2d9c11da-9ad0-4b75-8369-74049c55dac7/admin-ecorr#!/Posts/2d9c11da-9ad0-4b75-8369-74049c55dac7/data-master-poffice/3821d2be7488488c8eacf64a59435594)
 
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/enMumwvLAug" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
