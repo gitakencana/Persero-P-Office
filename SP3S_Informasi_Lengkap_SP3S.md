@@ -7,7 +7,7 @@
 
 *User* dapat melihat informasi lengkap SP3S termasuk *preview* SP3S, detail SP3S dan *history* SP3S
 
-## **P-Office Versi Teams**
+## **P-Office Versi Web**
 
 Langkah - langkah untuk informasi lengkap SP3S via Web adalah sebagai berikut :
 

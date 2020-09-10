@@ -1,5 +1,7 @@
 **Role yang sesuai**
 
+- *Approver User*
+- *Reviewer User*
 - Sekretaris
 
 SPPTH dibuat oleh konseptor/sekretaris Direksi yang akan meninggalkan tempat, sedangkan *approver* adalah Direktur Utama atau Pjs. Direktur Utama.

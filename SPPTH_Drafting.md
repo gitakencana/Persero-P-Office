@@ -1,5 +1,7 @@
 **Role yang sesuai**
 
+- *Approver User*
+- *Reviewer User*
 - Sekretaris
 
 *User* dapat melakukan *drafting* SPPTH pada aplikasi P-Office. *Drafting* SPPTH dilakukan jika *user* akan meneruskan dan melakukan perubahan pada SPPTH yang sudah disimpan pada menu **Draft.**

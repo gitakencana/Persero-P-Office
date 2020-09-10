@@ -18,7 +18,6 @@ Hal-hal yang dapat dilakukan oleh *approver* dalam mengelola surat masuk antara 
 - [Menyelesaikan Disposisi Surat Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver-suratmasuk/1d3f1c9a3ba9406da3302e7133efc3b2)
 
 
-
 ### **Surat Keluar**
 
 Pada modul ini mendukung proses pembuatan konsep surat keluar yang ditujukan untuk eksternal Pertamina. Pembuat konsep surat keluar atau disebut sebagai konseptor surat akan mengirimkan draf surat keluar untuk dicek oleh reviewer dan disetujui oleh approver. Setelah surat sudah disetujui maka akan diberikan nomor surat keluar secara otomatis melalui sistem. 

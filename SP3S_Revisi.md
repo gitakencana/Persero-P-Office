@@ -6,7 +6,7 @@
 
 ## **P-Office Versi Web**
 
-Langkah - langkah untuk Revisi SP3S via Web adalah sebagai berikut :
+Langkah - langkah untuk merevisi SP3S via Web adalah sebagai berikut :
 
 1. Klik menu **Inbox** dan pilih tab **SP3S**
 
@@ -68,7 +68,7 @@ Langkah - langkah untuk mengubah isi SP3S secara *online* adalah sebagai berikut
 
 ## **P-Office Versi Teams**
 
-Langkah - langkah untuk Revisi SP3S via Teams adalah sebagai berikut :
+Langkah - langkah untuk merevisi SP3S via Teams adalah sebagai berikut :
 
 1. Klik menu **Inbox** dan pilih tab **SP3S**
 
@@ -119,11 +119,9 @@ Langkah – langkah untuk mengubah isi surat keluar secara online adalah sebagai
 
 ![gambar](SP3S/SP3S_Teams/SP3S46.png)
 
-
 2. Lakukan perubahan pada isi surat
 
 ![gambar](SP3S/SP3S_Teams/SP3S46.png)
-
 
 3. Isi surat akan otomatis tersimpan. Jika surat akan disimpan sebagai draft, maka klik **Close**
 
@@ -133,7 +131,7 @@ Langkah – langkah untuk mengubah isi surat keluar secara online adalah sebagai
 
 ## **P-Office Versi Android**
 
-Langkah - langkah untuk Revisi SP3S via Android adalah sebagai berikut :
+Langkah - langkah untuk merevisi SP3S via Android adalah sebagai berikut :
 
 1. Klik menu **Inbox** dan pilih tab **SP3S**
 
@@ -177,7 +175,7 @@ Langkah – langkah untuk mengubah isi SP3S secara _online_ adalah sebagai berik
 
 ## **P-Office Versi IOS**
 
-Langkah - langkah untuk Revisi SP3S via IOS adalah sebagai berikut :
+Langkah - langkah untuk merevisi SP3S via IOS adalah sebagai berikut :
 
 1.	Klik menu **Inbox** dan pilih tab **SP3S**
 
@@ -197,12 +195,14 @@ Langkah - langkah untuk Revisi SP3S via IOS adalah sebagai berikut :
 
 5.	Klik **Edit Content** untuk mengubah isi **SP3S**
 
+![gambar](SP3S/SP3S_IOS/SP3S-29.png)
+
 6.	Sistem akan menampilkan tampilan preview SP3S dalam bentuk Word yang dapat di edit. Untuk melakukan editing terhadap isi surat klik **Edit/Send**
 
-![gambar](SP3S/SP3S_IOS/SP3S-29.png)
+![gambar](SP3S/SP3S_IOS/SP3S-30.png)
 
 7.	Pilih **Edit Content** untuk melakukan perubahan isi konten, kemudian pada pop up notifikasi Editing Document pilih **Yes** untuk menyelesaikan perubahan
 
-![gambar](SP3S/SP3S_IOS/SP3S-30.png) ![gambar](SP3S/SP3S_IOS/SP3S-31.1.png) ![gambar](SP3S/SP3S_IOS/SP3S-31.2.png)
+ ![gambar](SP3S/SP3S_IOS/SP3S-31.1.png) ![gambar](SP3S/SP3S_IOS/SP3S-31.2.png)
 
 8.	Klik **Close** untuk menutup editing SP3S, SP3S yang disimpan akan tersimpan di menu **“Inbox – SP3S”**

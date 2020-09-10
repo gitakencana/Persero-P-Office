@@ -3,6 +3,7 @@
 - *Approver User*
 - *Reviewer User*
 - *Member User* (Pekerja)
+- Sekretaris
 
 *User* dapat melihat daftar fax masuk yang ditujukan pada sekretaris tersebut. 
 

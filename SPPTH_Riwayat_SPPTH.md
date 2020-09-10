@@ -2,7 +2,6 @@
 
 - *Approver User*
 - *Reviewer User*
-- *Member User* (Pekerja)
 - Sekretaris
 
 *User* dapat melihat informasi pejabat yang sedang menjabat sebagai Pth baik dalam status aktif maupun non-aktif. Informasi yang ditampilkan meliputi nomor SPPTH, Nama pejabat, jabatan dan status. 

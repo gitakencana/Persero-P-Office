@@ -1,7 +1,9 @@
 **Role yang sesuai**
 
-- Sekretaris
+- *Approver User*
+- *Reviewer User*
 - *Member User* (Pekerja)
+- Sekretaris
 
 *User* dapat melakukan *drafting* SP3S pada aplikasi P-Office. *Drafting* SP3S dilakukan jika *user* akan meneruskan dan melakukan perubahan pada SP3S yang sudah disimpan pada menu **Draft.**
 

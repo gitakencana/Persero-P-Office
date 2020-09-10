@@ -1,7 +1,9 @@
 **Role yang sesuai**
 
-- Sekretaris
+- *Approver User*
+- *Reviewer User*
 - *Member User* (Pekerja)
+- Sekretaris
 
 Konseptor penambahan SP3S adalah sekretaris atau pekerja lain yang diperintahkan untuk membuat SP3S atau pejabat yang akan meninggalkan tempat (melimpahkan wewenang/tugas) tersebut. Konseptor mengirimkan SP3S kepada approver / atasan pejabat yang akan meninggalkan tempat, sehingga draft SP3S akan langsung dikirim kepada atasan pejabat yang akan meninggalkan tempat tanpa melalui *reviewer*. 
 
