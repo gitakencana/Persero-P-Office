@@ -97,4 +97,3 @@ Langkah - langkah untuk mengesahkan fax keluar via IOS adalah sebagai berikut:
 
 4. Nomor surat keluar akan ter-_generate_ sesuai dengan nomor sementara pada detail. Surat keluar yang sudah disetujui akan tersimpan di menu “**Outbox - Surat Keluar**” pengirim sedangkan surat keluar akan tersimpan di menu “**Inbox - Surat Keluar**” penerima.
 
-![](https://github.com/gitakencana/Persero-P-Office/blob/master/Video/Samsung%20vs%20Iphone.mp4)

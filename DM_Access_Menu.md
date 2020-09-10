@@ -77,3 +77,7 @@ Langkah - langkah untuk melakukan pengelolaan akses menu via Web adalah sebagai 
 4.	  Klik tombol **Ya** untuk menghapus menu akses. Sistem menyimpan perubahan dan data akan terhapus
 
 ![gambar](DataMaster/SC_DataMaster/DM13.png)
+
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/enMumwvLAug" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
