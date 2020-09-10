@@ -22,5 +22,3 @@ Hal-hal yang dapat dilakukan oleh Admin P-Office dalam mengelola data master ant
   <iframe src="https://www.youtube.com/embed/enMumwvLAug" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/WHf7YMGtLpQ/0.jpg)](https://www.youtube.com/watch?v=WHf7YMGtLpQ)
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=WHf7YMGtLpQ" target="_blank"><img src="http://img.youtube.com/vi/WHf7YMGtLpQ/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
