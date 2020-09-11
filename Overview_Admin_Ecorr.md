@@ -27,8 +27,6 @@ Hal-hal yang dapat dilakukan oleh Admin P-Office dalam mengelola data master ant
 </div>
 
 
-<figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster="path/to/poster_image.png">
-    <source src="Video/Samsung vs Iphone.mp4" type="video/mp4">
+  <video controls="true" allowfullscreen="true">
+    <source src="Video/SampleVideo_1280x720_2mb.mp4" type="video/mp4">
   </video>
-</figure>
