@@ -25,3 +25,10 @@ Hal-hal yang dapat dilakukan oleh Admin P-Office dalam mengelola data master ant
 <div align="center">
   <a href="https://www.youtube.com/watch?v=KOxbO0EI4MA"><img src="https://img.youtube.com/vi/KOxbO0EI4MA/0.jpg" alt="Lihat Sample"></a>
 </div>
+
+
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true" poster="path/to/poster_image.png">
+    <source src="Video/Samsung vs Iphone.mp4" type="video/mp4">
+  </video>
+</figure>
