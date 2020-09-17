@@ -39,7 +39,7 @@ Hal-hal yang dapat dilakukan oleh *approver* dalam mengelola surat keluar antara
 Berikut ini video yang menjelaskan langkah - langkah approver untuk mengesahkan surat keluar oleh approver. Surat keluar yang disetujui dan disahkan akan diminta untuk mengisi informasi email dan memasukkan kode OTP untuk verifikasi digital signature 
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=1w6RLFS9toI"><img src="https://img.youtube.com/vi/1w6RLFS9toI.jpg" alt="Thumbnail"></a>
+  <a href="https://www.youtube.com/watch?v=1w6RLFS9toI"><img src="https://img.youtube.com/vi/1w6RLFS9toI/0.jpg" alt="Thumbnail"></a>
 </div>
 
 
@@ -77,7 +77,7 @@ Berikut ini video yang menjelaskan langkah - langkah approver untuk mengesahkan 
 Berikut ini video yang menjelaskan langkah - langkah approver untuk menambah reviewer baru via Mobile
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=C6XD3V_e5FY&t=3s"><img src="https://img.youtube.com/vi/C6XD3V_e5FY&t=3s.jpg" alt="Thumbnail"></a>
+  <a href="https://www.youtube.com/watch?v=C6XD3V_e5FY"><img src="https://img.youtube.com/vi/C6XD3V_e5FY/0.jpg" alt="Thumbnail"></a>
 </div>
 
 ### **Fax Masuk**
