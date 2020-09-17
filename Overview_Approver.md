@@ -54,7 +54,7 @@ Hal-hal yang dapat dilakukan oleh *approver* dalam mengelola memorandum antara l
 - [Melakukan Recall Disposisi Memorandum](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver-memorandum/584a7432fd2a415d9cd18840b0867e54)
 - [Menyelesaikan Disposisi Memorandum](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver-memorandum/e039c4c976724e5ca6c3366f8a6bcb2c)
 
-Berikut video yang menjelaskan langkah - langkah approver untuk mengesahkan memorandum. Setelah memorandum disahkan dan disetujui maka nomor memorandum akan tergenerate secara otomatis
+Berikut video yang menjelaskan langkah - langkah approver untuk mengesahkan memorandum via Web. Setelah memorandum disahkan dan disetujui maka nomor memorandum akan tergenerate secara otomatis
 
 <br/>
 <br/>
