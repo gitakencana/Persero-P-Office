@@ -61,7 +61,7 @@ Berikut video yang menjelaskan langkah - langkah approver untuk mengesahkan memo
 <br/>
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=jEV2XwomzDk"><img src="http://i3.ytimg.com/vi/jEV2XwomzDk/maxresdefault.jpg" alt="Thumbnail"></a>
+  <a href="https://www.youtube.com/watch?v=jEV2XwomzDk"><img src="https://img.youtube.com/vi/jEV2XwomzDk/0.jpg" alt="Thumbnail"></a>
 </div>
 
 ### **Fax Masuk**
