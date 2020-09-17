@@ -98,3 +98,17 @@ Hal-hal yang dapat dilakukan oleh Sekretaris dalam mengelola document control an
 - [Mengunggah Dokumen Nomor Offline](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris-agendakendali/0d85dd6f2893443987efc26f2227db55)
 - [Mengembalikan Nomor Offline](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris-agendakendali/57df82b77a684f98a73cd44b0d753673)
 - [Menambah Komentar Request Nomor Offline](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/sekretaris-agendakendali/ed1dd24930574cea80170251d196ce33)
+
+Berikut ini terdapat video yang menjelaskan langkah - langkah sebagai sekretaris untuk melihat dokumen milik atasan pejabatnya pada menu Document Control
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=2opu7TvNYvQ"><img src="https://img.youtube.com/vi/2opu7TvNYvQ.jpg" alt="Thumbnail"></a>
+</div>
+
+Berikut ini terdapat video yang menjelaskan langkah - langkah sebagai sekretaris untuk mengajukan nomor offline yang kemudian akan di approve oleh admin approval offline number 
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=3cotq09apTo"><img src="https://img.youtube.com/vi/3cotq09apTo.jpg" alt="Thumbnail"></a>
+</div>
+
+
