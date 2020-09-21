@@ -4,6 +4,12 @@
 
 *User* dapat mengesahkan surat keluar yang sudah dikirim dan direview oleh reviewer. Keluaran untuk tindak lanjut ini adalah untuk men-*generate* nomor surat keluar kemudian surat keluar dapat dikirimkan ke pejabat tujuan. 
 
+Berikut ini video tutorial yang menjelaskan langkah - langkah untuk mengesahkan surat keluar oleh approver **via Web**. Surat keluar yang disetujui dan disahkan akan diminta untuk mengisi informasi email dan memasukkan kode OTP untuk verifikasi digital signature 
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=1w6RLFS9toI"><img src="https://img.youtube.com/vi/1w6RLFS9toI/0.jpg" alt="Thumbnail"></a>
+</div>
+
 ## **P-Office Versi Web**
 
 Langkah - langkah untuk menambah reviewer surat keluar via Web adalah sebagai berikut:

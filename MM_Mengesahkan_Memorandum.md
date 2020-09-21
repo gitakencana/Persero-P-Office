@@ -8,7 +8,11 @@
 
 ## **P-Office Versi Web**
 
-Langkah - langkah untuk mengesahkan nomor memorandum via Web adalah sebagai berikut
+Berikut ini video tutorial yang menjelaskan langkah - langkah approver untuk mengesahkan memorandum **via Web**. Setelah memorandum disetujui dan disahkan maka nomor memorandum akan tergenerate secara otomatis
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=jEV2XwomzDk"><img src="https://img.youtube.com/vi/jEV2XwomzDk/0.jpg" alt="Thumbnail"></a>
+</div>
 
 1. Klik menu **Inbox** dan pilih tab **Memorandum**
 
@@ -44,7 +48,11 @@ Langkah-langkah untuk mengesahkan nomor Memorandum via Teams adalah sebagai beri
 
 ## **P-Office Versi Android**
 
-Langkah-langkah untuk Mengesahkan nomor Memorandum via Android adalah sebagai berikut :
+Berikut ini video yang menjelaskan langkah - langkah approver untuk mengesahkan memorandum via Mobile. Setelah memorandum disetujui dan disahkan maka nomor memorandum akan tergenerate secara otomatis
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=1gJyAjQQ3m4"><img src="https://img.youtube.com/vi/1gJyAjQQ3m4/0.jpg" alt="Thumbnail"></a>
+</div>
 
 1. Klik menu **Inbox**dan pilih tab **Memorandum**
 

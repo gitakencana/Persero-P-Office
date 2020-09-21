@@ -36,13 +36,6 @@ Hal-hal yang dapat dilakukan oleh *approver* dalam mengelola surat keluar antara
 - [Mengesahkan Nomor Surat Keluar](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver-suratkeluar/aba5e874855246669be1ae9ba1744415)
 
 
-Berikut ini video yang menjelaskan langkah - langkah approver untuk mengesahkan surat keluar oleh approver. Surat keluar yang disetujui dan disahkan akan diminta untuk mengisi informasi email dan memasukkan kode OTP untuk verifikasi digital signature 
-
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=1w6RLFS9toI"><img src="https://img.youtube.com/vi/1w6RLFS9toI/0.jpg" alt="Thumbnail"></a>
-</div>
-
-
 ### **Memorandum**
 
 Pada modul ini mendukung proses pembuatan konsep memorandum yang akan disetujui oleh reviewer/approver. Setelah memorandum disetujui maka akan diberikan nomor memorandum secara otomatis dan dikirimkan ke pejabat pemilik Kode Bagian Organisasi (KBO). Pemilik KBO tersebut akan mendapatkan memorandum masuk pada menu "Inbox" dan dapat mendisposisikan memorandum kepada pejabat yang dipilih atau pejabat yang ada di bawahnya sampai dengan level staf. 
@@ -62,23 +55,6 @@ Hal-hal yang dapat dilakukan oleh *approver* dalam mengelola memorandum antara l
 - [Melakukan Recall Disposisi Memorandum](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver-memorandum/584a7432fd2a415d9cd18840b0867e54)
 - [Menyelesaikan Disposisi Memorandum](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver-memorandum/e039c4c976724e5ca6c3366f8a6bcb2c)
 
-Berikut ini video yang menjelaskan langkah - langkah approver untuk mengesahkan memorandum via Web. Setelah memorandum disetujui dan disahkan maka nomor memorandum akan tergenerate secara otomatis
-
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=jEV2XwomzDk"><img src="https://img.youtube.com/vi/jEV2XwomzDk/0.jpg" alt="Thumbnail"></a>
-</div>
-
-Berikut ini video yang menjelaskan langkah - langkah approver untuk mengesahkan memorandum via Mobile. Setelah memorandum disetujui dan disahkan maka nomor memorandum akan tergenerate secara otomatis
-
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=1gJyAjQQ3m4"><img src="https://img.youtube.com/vi/1gJyAjQQ3m4/0.jpg" alt="Thumbnail"></a>
-</div>
-
-Berikut ini video yang menjelaskan langkah - langkah approver untuk menambah reviewer baru via Mobile
-
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=C6XD3V_e5FY"><img src="https://img.youtube.com/vi/C6XD3V_e5FY/0.jpg" alt="Thumbnail"></a>
-</div>
 
 ### **Fax Masuk**
 

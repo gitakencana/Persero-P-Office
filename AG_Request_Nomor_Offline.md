@@ -6,7 +6,11 @@ Pengajuan nomor offline digunakan untuk *request* pemrosesan nomor dokumen secar
 
 ## **P-Office Versi Web**
 
-Langkah - langkah untuk melakukan *request* nomor offline via Web adalah sebagai berikut
+Berikut ini terdapat video yang menjelaskan langkah - langkah sebagai sekretaris untuk mengajukan nomor offline yang kemudian akan di approve oleh admin approval offline number 
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=3cotq09apTo"><img src="https://img.youtube.com/vi/3cotq09apTo/0.jpg" alt="Thumbnail"></a>
+</div>
 
 1. Klik menu **Document Control** dan pilih tab **Request Offline Number**
 

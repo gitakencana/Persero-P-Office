@@ -6,7 +6,12 @@ Sekretaris dapat melihat daftar dokumen masuk (Inbox) yang mencatatkan seluruh d
 
 ## **P-Office Versi Web**
 
-Langkah - langkah untuk melihat daftar dokumen masuk (Inbox) Web adalah sebagai berikut:
+Berikut ini terdapat video yang menjelaskan langkah - langkah sebagai sekretaris untuk melihat dokumen milik atasan pejabatnya pada menu Document Control
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=2opu7TvNYvQ"><img src="https://img.youtube.com/vi/2opu7TvNYvQ/0.jpg" alt="Thumbnail"></a>
+</div>
+
 
 1. Klik menu **Document Control** dan pilih submenu **Document View - Inbox**
 

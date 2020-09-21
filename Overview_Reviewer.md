@@ -48,17 +48,6 @@ Hal-hal yang dapat dilakukan oleh *reviewer* dalam mengelola memorandum antara l
 - [Menyelesaikan Disposisi Memorandum](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer-memorandum/e039c4c976724e5ca6c3366f8a6bcb2c)
 - [Mengirim Tanggapan Memorandum](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/reviewer-memorandum/2c1f8b72441c43d9ad6eb48ffb82ca29)
 
-Berikut ini terdapat video yang menjelaskan langkah - langkah sebagai reviewer untuk menyetujui memorandum via Web. Memorandum yang sudah di edit dan disetujui oleh reviewer akan terkirim ke approver untuk dilakukan tindak lanjut
-
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=lg242g52Gwg"><img src="https://img.youtube.com/vi/lg242g52Gwg/0.jpg" alt="Thumbnail"></a>
-</div>
-
-Berikut ini terdapat video yang menjelaskan langkah - langkah sebagai reviewer untuk menyetujui memorandum via Android. Memorandum yang sudah di edit dan disetujui oleh reviewer akan terkirim ke approver untuk dilakukan tindak lanjut
-
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=lg242g52Gwg"><img src="https://img.youtube.com/vi/lg242g52Gwg/0.jpg" alt="Thumbnail"></a>
-</div>
 
 ### **Fax Masuk**
 
