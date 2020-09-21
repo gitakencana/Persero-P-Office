@@ -6,15 +6,19 @@
     * Buka **App Store** dan ketikkan Microsoft Office
 
     ![gambar](Spesifikasi/iOS/SP01.png)
+
     * Pilih **Get** untuk menginstal aplikasi
 
     ![gambar](Spesifikasi/iOS/SP02.png)
+
     * Aplikasi yang sudah di install akan tampil pada pada perangkat Anda
 
     ![gambar](Spesifikasi/iOS/SP03.png)
+
     * Buka aplikasi Office 365 masukkan akun anda lalu pilih **Next**
  
     ![gambar](Spesifikasi/iOS/SP04.png)
+
     * Kemudian aplikasi tersebut akan menampilkan halaman beranda sesuai dengan akun P-Office Anda
 
     ![gambar](Spesifikasi/iOS/SP05.png)
