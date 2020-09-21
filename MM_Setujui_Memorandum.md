@@ -47,7 +47,7 @@ Langkah-langkah untuk menyetujui Memorandum via Teams adalah sebagai berikut :
 
 ## **P-Office Versi Android**
 
-Berikut ini terdapat video yang menjelaskan langkah - langkaH untuk menyetujui memorandum **via Mobile**. Memorandum yang sudah di edit dan disetujui oleh reviewer akan terkirim ke approver untuk dilakukan tindak lanjut
+Berikut ini terdapat video yang menjelaskan langkah - langkah untuk menyetujui memorandum **via Mobile**. Memorandum yang sudah di edit dan disetujui oleh reviewer akan terkirim ke approver untuk dilakukan tindak lanjut
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=lg242g52Gwg"><img src="https://img.youtube.com/vi/lg242g52Gwg/0.jpg" alt="Thumbnail"></a>

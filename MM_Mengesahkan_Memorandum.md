@@ -48,7 +48,7 @@ Langkah-langkah untuk mengesahkan nomor Memorandum via Teams adalah sebagai beri
 
 ## **P-Office Versi Android**
 
-Berikut ini video yang menjelaskan langkah - langkah approver untuk mengesahkan memorandum via Mobile. Setelah memorandum disetujui dan disahkan maka nomor memorandum akan tergenerate secara otomatis
+Berikut ini video yang menjelaskan langkah - langkah approver untuk mengesahkan memorandum **via Mobile**. Setelah memorandum disetujui dan disahkan maka nomor memorandum akan tergenerate secara otomatis
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=1gJyAjQQ3m4"><img src="https://img.youtube.com/vi/1gJyAjQQ3m4/0.jpg" alt="Thumbnail"></a>
