@@ -1,5 +1,3 @@
-### Mengesahkan Nomor Memorandum
-
 **Role yang sesuai**
 
 - *Approver User*
