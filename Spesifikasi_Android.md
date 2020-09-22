@@ -1,7 +1,5 @@
 <font size="3">
 
-**Perangkat Lunak**
-
 1.	Gunakan operating system dengan spesifikasi minimum aplikasi P-Office yaitu Android SDK 17 (Android 4.2, Jelly Bean MR1) untuk mengakses aplikasi P-Office dengan hasil yang maksimal
 2.	Gunakan editor pendukung aplikasi P-Office dengan menungunduh Microsoft Office. Berikut langkah-langkah untuk mengunduh Microsoft Office pada android yaitu:
 
