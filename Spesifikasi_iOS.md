@@ -5,11 +5,11 @@
 
     * Buka **App Store** dan ketikkan Microsoft Office
     
-    ![gambar](https://github.com/gitakencana/Persero-P-Office/blob/master/Spesifikasi/iOS/SP01.png?raw=true)
+      ![gambar](https://github.com/gitakencana/Persero-P-Office/blob/master/Spesifikasi/iOS/SP01.png?raw=true)
 
     * Pilih **Get** untuk menginstal aplikasi
 
-    ![gambar](Spesifikasi/iOS/SP02.png)
+      ![gambar](https://github.com/gitakencana/Persero-P-Office/blob/master/Spesifikasi/iOS/SP02.png?raw=true)
 
     * Aplikasi yang sudah di install akan tampil pada pada perangkat Anda
 
