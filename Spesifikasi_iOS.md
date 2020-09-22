@@ -5,7 +5,7 @@
 
     * Buka **App Store** dan ketikkan Microsoft Office
     
-    ![gambar](Spesifikasi/iOS/SP01.png)
+    ![gambar](Spesifikasi/iOS/SP01.png?raw=true)
 
     * Pilih **Get** untuk menginstal aplikasi
 
