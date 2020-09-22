@@ -1,4 +1,4 @@
-Pada bagian ini akan dijelaskan mengenai spesifikasi minimum baik pada perangkat lunak dan perangkat keras yang diperlukan saat Anda mengakses aplikasi P-Office versi Teams
+<font size="3">
 
 **Perangkat Lunak**
 
@@ -27,3 +27,5 @@ Pada bagian ini akan dijelaskan mengenai spesifikasi minimum baik pada perangkat
 1.    Gunakan processor dengan spesifikasi minimal x86-bit atau x64-bit
 2.    Gunakan memori 2 GB RAM atau lebih
 3.    Gunakan tampilan super VGA dengan resolusi 1024 x 768
+
+</font size>

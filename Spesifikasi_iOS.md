@@ -13,14 +13,14 @@
 
     * Aplikasi yang sudah di install akan tampil pada pada perangkat Anda
 
-    ![gambar](Spesifikasi/iOS/SP03.png)
+      ![gambar](https://github.com/gitakencana/Persero-P-Office/blob/master/Spesifikasi/iOS/SP03.png?raw=true)
 
     * Buka aplikasi Office 365 masukkan akun anda lalu pilih **Next**
  
-    ![gambar](Spesifikasi/iOS/SP04.png)
+      ![gambar](https://github.com/gitakencana/Persero-P-Office/raw/master/Spesifikasi/iOS/SP04.png?raw=true)
 
     * Kemudian aplikasi tersebut akan menampilkan halaman beranda sesuai dengan akun P-Office Anda
 
-    ![gambar](Spesifikasi/iOS/SP05.png)
+      ![gambar](https://github.com/gitakencana/Persero-P-Office/raw/master/Spesifikasi/iOS/SP05.png?raw=true)
 
 </font size>
