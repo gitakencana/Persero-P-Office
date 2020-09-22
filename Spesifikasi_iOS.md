@@ -4,6 +4,7 @@
 2. Gunakan editor pendukung aplikasi P-Office dengan menungunduh Microsoft Office. Berikut langkah-langkah untuk mengunduh Microsoft Office pada iOS yaitu:
 
     * Buka **App Store** dan ketikkan Microsoft Office
+    
     ![gambar](Spesifikasi/iOS/SP01.png)
 
     * Pilih **Get** untuk menginstal aplikasi
