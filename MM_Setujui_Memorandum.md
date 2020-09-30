@@ -9,11 +9,8 @@ Role yang sesuai
 
 Berikut ini terdapat video yang menjelaskan langkah - langkah untuk menyetujui memorandum **via Web**. Memorandum yang sudah di edit dan disetujui oleh reviewer akan terkirim ke approver untuk dilakukan tindak lanjut
 
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=lg242g52Gwg"><img src="https://img.youtube.com/vi/lg242g52Gwg/0.jpg" alt="Thumbnail"></a>
-</div>
-
-<a href="https://web.microsoftstream.com/embed/video/134f4161-cd73-416a-817f-8d976526a18c?autoplay=false&amp;showinfo=false" target="_blank"><img src="https://github.com/gitakencana/Persero-P-Office/raw/master/Video/Thumbnail/TM03.png" alt="Watch the video"></a>
+</br>
+<a href="https://web.microsoftstream.com/embed/video/58097017-5016-429b-8335-2ff25866bee5?autoplay=false&amp;showinfo=false" target="_blank"><img src="https://github.com/gitakencana/Persero-P-Office/raw/master/Video/Thumbnail/TM03.png" alt="Watch the video"></a>
 
 1. Klik menu **Inbox** dan pilih tab **Memorandum**
 
