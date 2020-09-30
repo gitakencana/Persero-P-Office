@@ -8,6 +8,7 @@ Pengajuan nomor offline digunakan untuk *request* pemrosesan nomor dokumen secar
 
 Berikut ini terdapat video yang menjelaskan langkah - langkah sebagai sekretaris untuk mengajukan nomor offline yang kemudian akan di approve oleh admin approval offline number 
 
+</br>
 <a href="https://web.microsoftstream.com/embed/video/515edc31-a009-4c9e-91b7-42fb504bc263?autoplay=false&amp;showinfo=false" target="_blank"><img src="https://github.com/gitakencana/Persero-P-Office/raw/master/Video/Thumbnail/TM02.png" alt="Watch the video"></a>
 
 1. Klik menu **Document Control** dan pilih tab **Request Offline Number**

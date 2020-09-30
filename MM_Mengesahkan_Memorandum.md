@@ -8,7 +8,8 @@
 
 Berikut ini video tutorial yang menjelaskan langkah - langkah approver untuk mengesahkan memorandum **via Web**. Setelah memorandum disetujui dan disahkan maka nomor memorandum akan tergenerate secara otomatis
 
-<a href="https://web.microsoftstream.com/embed/video/65ef062a-e6f8-4424-a775-070882725ed6?autoplay=false&amp;showinfo=false" target="_blank"><img src="https://github.com/gitakencana/Persero-P-Office/raw/master/Video/Thumbnail/TM01.png" alt="Watch the video"></a>
+</br>
+<a href="https://web.microsoftstream.com/embed/video/58097017-5016-429b-8335-2ff25866bee5?autoplay=false&amp;showinfo=false" target="_blank"><img src="https://github.com/gitakencana/Persero-P-Office/raw/master/Video/Thumbnail/TM01.png" alt="Watch the video"></a>
 
 1. Klik menu **Inbox** dan pilih tab **Memorandum**
 
@@ -46,7 +47,8 @@ Langkah-langkah untuk mengesahkan nomor Memorandum via Teams adalah sebagai beri
 
 Berikut ini video yang menjelaskan langkah - langkah approver untuk mengesahkan memorandum **via Mobile**. Setelah memorandum disetujui dan disahkan maka nomor memorandum akan tergenerate secara otomatis
 
-<a href="https://web.microsoftstream.com/embed/video/6966e975-78b1-43e3-9a50-1b762784919a?autoplay=false&amp;showinfo=false" target="_blank"><img src="https://github.com/gitakencana/Persero-P-Office/raw/master/Video/Thumbnail/TM07.png" alt="Watch the video"></a>
+</br>
+<a href="https://web.microsoftstream.com/embed/video/fd636ae5-306a-44bf-9f10-dcc23646fa07?autoplay=false&amp;showinfo=false" target="_blank"><img src="https://github.com/gitakencana/Persero-P-Office/raw/master/Video/Thumbnail/TM07.png" alt="Watch the video"></a>
 
 1. Klik menu **Inbox**dan pilih tab **Memorandum**
 
