@@ -24,3 +24,5 @@
       ![gambar](https://github.com/gitakencana/Persero-P-Office/raw/master/Spesifikasi/iOS/SP05.png?raw=true)
 
 </font size>
+
+<div style='max-width: 640px'><div style='position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;'><iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/49e23452-81fe-40c8-97d2-9778ff089299?autoplay=false&amp;showinfo=false" allowfullscreen style="border:none; position: absolute; top: 0; left: 0; right: 0; bottom: 0; height: 100%; max-width: 100%;"></iframe></div></div>
