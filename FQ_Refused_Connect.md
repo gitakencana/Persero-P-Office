@@ -4,7 +4,7 @@
 
 ![gambar](FAQ/FQ06.png)
 
--	Jika Anda diharuskan untuk login dua akun disaat bersamaan, Anda bisa menggunakan browser lain atau Anda bisa menggunakan “Incognito Windows”
+-	Jika Anda diharuskan untuk login dua akun disaat bersamaan, Anda bisa menggunakan browser lain atau Anda bisa menggunakan **“Incognito Windows”**
 
 ![gambar](FAQ/FQ07.png)
 
