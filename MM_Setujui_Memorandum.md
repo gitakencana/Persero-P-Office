@@ -49,7 +49,7 @@ Langkah-langkah untuk menyetujui Memorandum via Teams adalah sebagai berikut :
 Berikut ini terdapat video yang menjelaskan langkah - langkah untuk menyetujui memorandum **via Mobile**. Memorandum yang sudah di edit dan disetujui oleh reviewer akan terkirim ke approver untuk dilakukan tindak lanjut
 
 </br>
-<a href="https://web.microsoftstream.com/embed/video/d1d826ed-339a-440e-85dd-fb98da610815?autoplay=false&amp;showinfo=false" target="_blank"><img src="https://github.com/gitakencana/Persero-P-Office/raw/master/Video/Thumbnail/TM06.png" alt="Watch the video"></a>
+<a href="https://web.microsoftstream.com/embed/video/d1d826ed-339a-440e-85dd-fb98da610815?autoplay=false&amp;showinfo=false" target="_blank"><img src="https://github.com/gitakencana/Persero-P-Office/raw/master/Video/Thumbnail/TM06.jpg" alt="Watch the video"></a>
 
 1. Klik menu **Inbox** dan pilih tab **Memorandum**
 

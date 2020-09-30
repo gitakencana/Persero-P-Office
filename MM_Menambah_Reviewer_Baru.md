@@ -57,7 +57,7 @@ Langkah-langkah untuk menambah reviewer Memorandum via Teams adalah sebagai beri
 Berikut ini video yang menjelaskan langkah - langkah approver untuk menambah reviewer baru **via Mobile**
 
 </br>
-<a href="https://web.microsoftstream.com/embed/video/6966e975-78b1-43e3-9a50-1b762784919a?autoplay=false&amp;showinfo=false" target="_blank"><img src="https://github.com/gitakencana/Persero-P-Office/raw/master/Video/Thumbnail/TM08.png" alt="Watch the video"></a>
+<a href="https://web.microsoftstream.com/embed/video/6966e975-78b1-43e3-9a50-1b762784919a?autoplay=false&amp;showinfo=false" target="_blank"><img src="https://github.com/gitakencana/Persero-P-Office/raw/master/Video/Thumbnail/TM08.jpg" alt="Watch the video"></a>
 
 1. Klik menu **Inbox** dan pilih tab **Memorandum**
 
