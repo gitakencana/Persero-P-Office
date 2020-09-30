@@ -25,6 +25,4 @@
 
 </font size>
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://web.microsoftstream.com/embed/video/49e23452-81fe-40c8-97d2-9778ff089299?autoplay=false&amp;showinfo=false)
-
 <a href="https://web.microsoftstream.com/embed/video/49e23452-81fe-40c8-97d2-9778ff089299?autoplay=false&amp;showinfo=false" target="_blank"><img src="https://i.imgur.com/vKb2F1B.png" alt="Watch the video"></a>
