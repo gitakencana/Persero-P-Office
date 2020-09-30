@@ -60,6 +60,9 @@ Berikut ini video yang menjelaskan langkah - langkah approver untuk menambah rev
   <a href="https://www.youtube.com/watch?v=C6XD3V_e5FY"><img src="https://img.youtube.com/vi/C6XD3V_e5FY/0.jpg" alt="Thumbnail"></a>
 </div>
 
+<a href="" target="_blank">https://web.microsoftstream.com/embed/video/6966e975-78b1-43e3-9a50-1b762784919a?autoplay=false&amp;showinfo=false<img src="https://github.com/gitakencana/Persero-P-Office/raw/master/Video/Thumbnail/TM08.png" alt="Watch the video"></a>
+
+
 1. Klik menu **Inbox** dan pilih tab **Memorandum**
 
 ![gambar](Memorandum/MM_Android/Reviewermemo/A01.jpg) ![gambar](Memorandum/MM_Android/Reviewermemo/A02.jpg)
