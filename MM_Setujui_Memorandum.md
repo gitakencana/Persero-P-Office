@@ -51,7 +51,6 @@ Berikut ini terdapat video yang menjelaskan langkah - langkah untuk menyetujui m
 </br>
 <a href="https://web.microsoftstream.com/embed/video/d1d826ed-339a-440e-85dd-fb98da610815?autoplay=false&amp;showinfo=false" target="_blank"><img src="https://github.com/gitakencana/Persero-P-Office/raw/master/Video/Thumbnail/TM06.png" alt="Watch the video"></a>
 
-
 1. Klik menu **Inbox** dan pilih tab **Memorandum**
 
 ![gambar](Memorandum/MM_Android/Setujumemo/A01.jpg) ![gambar](Memorandum/MM_Android/Setujumemo/A02.jpg)
