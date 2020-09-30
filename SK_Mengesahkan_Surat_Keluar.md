@@ -8,11 +8,8 @@
 
 Berikut ini video tutorial yang menjelaskan langkah - langkah untuk mengesahkan surat keluar oleh approver **via Web**. Surat keluar yang disetujui dan disahkan akan diminta untuk mengisi informasi email dan memasukkan kode OTP untuk verifikasi digital signature 
 
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=1w6RLFS9toI"><img src="https://img.youtube.com/vi/1w6RLFS9toI/0.jpg" alt="Thumbnail"></a>
-</div>
-
-<a href="" target="_blank">https://web.microsoftstream.com/embed/video/65ef062a-e6f8-4424-a775-070882725ed6?autoplay=false&amp;showinfo=false<img src="https://github.com/gitakencana/Persero-P-Office/raw/master/Video/Thumbnail/TM04.png" alt="Watch the video"></a>
+</br>
+<a href="https://web.microsoftstream.com/embed/video/65ef062a-e6f8-4424-a775-070882725ed6?autoplay=false&amp;showinfo=false" target="_blank"><img src="https://github.com/gitakencana/Persero-P-Office/raw/master/Video/Thumbnail/TM04.png" alt="Watch the video"></a>
 
 
 1. Klik menu **Inbox** dan pilih tab **Surat Keluar**
