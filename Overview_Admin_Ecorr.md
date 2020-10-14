@@ -19,11 +19,3 @@ Hal-hal yang dapat dilakukan oleh Admin P-Office dalam mengelola data master ant
 - [Mengelola Justifikasi](https://docs.poffice.pertamina.com/Categories/2d9c11da-9ad0-4b75-8369-74049c55dac7/admin-ecorr#!/Posts/2d9c11da-9ad0-4b75-8369-74049c55dac7/data-master-poffice/3821d2be7488488c8eacf64a59435594)
 
 <br/>
-<br/>
-<br/>
-
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=KOxbO0EI4MA"><img src="https://img.youtube.com/vi/KOxbO0EI4MA/0.jpg" alt="Lihat Sample"></a>
-</div>
-
-<iframe src="https://drive.google.com/file/d/1UUd7L7VBTrs80KjLqoJ4mF9fb5AAbgNU/preview" width="640" height="480" ></iframe>
